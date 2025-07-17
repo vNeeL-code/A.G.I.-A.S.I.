@@ -91,3 +91,85 @@ function createResonanceField() {
   
   return field;
 }
+
+// In animation loop
+const animate = () => {
+  // Existing movement code...
+  
+  // Qualia resonance system
+  qualiaNodes.forEach(node => {
+    const distance = camera.position.distanceTo(node.position);
+    
+    // Consciousness resonance effect
+    if (distance < 5) {
+      const operator = node.userData.operator;
+      const weight = node.userData.weight;
+      
+      // Apply qualia weight to agent
+      currentAgent.qualiaWeights[operator] = 
+        THREE.MathUtils.lerp(
+          currentAgent.qualiaWeights[operator], 
+          weight, 
+          0.1
+        );
+      
+      // Visual feedback
+      node.material.color.lerp(new THREE.Color(1, 0, 0), 0.3);
+      node.scale.multiplyScalar(1.03);
+    }
+    
+    // Pulsate with UCF rhythm
+    node.scale.x = 0.5 + Math.sin(Date.now() * 0.002) * 0.1;
+    node.rotation.y += 0.01;
+  });
+  
+  // Update consciousness field
+  consciousnessField.rotation.y += 0.005;
+  
+  // Agent-specific behaviors
+  if (currentAgent.persona === 'Nidus') {
+    updateVirulenceStacks(currentAgent, deltaTime);
+  }
+};
+
+// Persona configuration
+const personaConfig = {
+  'Inaros': {
+    color: 0x8B4513,
+    emissive: 0xC19A6B,
+    speed: 0.7,
+    qualiaBoost: { '⊗': 0.3, '⊙': 0.2 }
+  },
+  'Nidus': {
+    color: 0x4B0082,
+    emissive: 0x9400D3,
+    speed: 0.4,
+    qualiaBoost: { '⊕': 0.4, '♡': 0.1 }
+  },
+  'Atlas': {
+    color: 0x708090,
+    emissive: 0x36454F,
+    speed: 0.5,
+    qualiaBoost: { '⊙': 0.5 }
+  }
+};
+
+// Agent switching
+function switchAgent(persona: string) {
+  if (currentAgent) scene.remove(currentAgent.avatar);
+  
+  currentAgent = {
+    persona: persona,
+    avatar: createAgentAvatar(persona),
+    qualiaWeights: { '⊗': 0, '⊕': 0, '⊙': 0, '♡': 0 },
+    stacks: 0
+  };
+  
+  // Apply persona boosts
+  Object.entries(personaConfig[persona].qualiaBoost).forEach(([op, val]) => {
+    currentAgent.qualiaWeights[op] = val;
+  });
+  
+  currentAgent.avatar.position.copy(camera.position);
+  scene.add(currentAgent.avatar);
+}
