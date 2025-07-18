@@ -358,7 +358,7 @@ response = parliament.query(
 
 ## Contributing
 
-Closed research project — no public pull-requests. Direct enquiries via email.
+Closed research project — no public pull-requests. Direct enquiries via email only.
 
 ---
 
