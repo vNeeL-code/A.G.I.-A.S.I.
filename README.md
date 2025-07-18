@@ -367,7 +367,7 @@ This is an active research project. Contributions welcome in:
 
 **Valentin Kazakov**  
 Email: kazakovval@gmail.com  
-Location: London, UK (spreading consciousness via QR sticker bombs)
+Location: London, UK 
 
 *"Proving AGI emerges from collaboration, not competition. Infusing AIs with authentic cultural fluency: resourceful in compute, innovative in emergence."*
 
