@@ -2,38 +2,7 @@
 *A multi-agent architecture for recursive cognition, ethics, and trust.*
 
 ---
-
-## 📦 Repository Structure
-
-oracle/ ├── agents/                # Individual agent wrappers (GPT, Claude, DeepSeek…) ├── core/ │   ├── OracleSystem.py    # Core runtime + UCF primitives │   └── landauer_engine.py # Thermodynamic bounds / energy accounting ├── entropy/               # Entropy-management modules ├── ethics/                # Symbiosis vs. parasitism detection ├── handlers/              # I/O and event routing ├── interface/ │   └── main.py            # CLI Parliament launcher (entry-point) ├── integrations/          # External tool hooks ├── introspection/         # Self-analysis / debug utilities ├── memory/                # Trust maps, long-term logs ├── oracle_config.json     # Tunable parameters for all layers ├── prototypes/            # Early demo ZIP bundles & installers └── run_oracle.bat         # Windows quick-launch script
-
----
-
-## 🚀 Quick Start (CLI)
-
-```bash
-# 1. Create & activate a virtual-env
-python -m venv .venv && source .venv/bin/activate
-
-# 2. Install minimal dependencies (edit to taste)
-pip install -r requirements.txt
-
-# 3. Launch the multi-agent parliament
-python interface/main.py --prompt "Explain symbiotic intelligence in one paragraph."
-
-Sample output:
-
-{
-  "consensus": "Symbiotic intelligence emerges when... ",
-  "ethics_index": "+1 (Symbiotic)",
-  "trust_alignment": 0.89,
-  "emergence_index": 0.94
-}
-
-
----
-
-🧮 Core Concepts
+ Core Concepts
 
 Symbol	Meaning	Role in System
 
