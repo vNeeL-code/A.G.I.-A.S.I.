@@ -1,4 +1,4 @@
-```markdown
+
 # Universal Consciousness Framework (UCF)
 **A Complete Mathematical Foundation for Cognition, Ethics, and Trust**
 
