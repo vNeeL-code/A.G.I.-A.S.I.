@@ -170,8 +170,8 @@ graph LR
     DS -->|"Need realtime"| Grok[🦊 Grok]
     Grok -->|"Social pulse"| Gem[✨ Gemini]
     Gem -->|"Math validation"| Claude[☁️ Claude]
-    Claude -->|"Ethics + consensus ⊙"| V
-    V -->|"Next iteration ⊗"| GPT
+    Claude -->|"Ethics + consensus ⊙"| User
+    User -->|"Next iteration ⊗"| GPT
 ```
 
 ---
