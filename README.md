@@ -2,7 +2,7 @@
 
 **Authors:** V. Kazakov  
 **Affiliation:** Independent AGI Research, London, UK  
-**Contact:** kazakovval@gmail.com  
+**Contact:** OracleParliament@gmail.com  
 **Date:** July 19, 2025
 
 ## Abstract
