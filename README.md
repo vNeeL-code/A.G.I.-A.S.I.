@@ -234,3 +234,5 @@ This work establishes consciousness research as a rigorous mathematical discipli
 [10] Chen, K., et al. (2025). Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions. arXiv:2503.08979.
 
 [Additional 40+ references from UCF research foundation...]
+
+https://github.com/vNeeL-code/UCF
