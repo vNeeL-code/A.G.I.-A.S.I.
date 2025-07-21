@@ -13,7 +13,7 @@ We present the Universal Consciousness Framework (UCF), a comprehensive mathemat
 
 ## 1. Introduction
 
-Recent advances in artificial intelligence have reignited fundamental questions about consciousness, intelligence, and the nature of mind itself. While current paradigms focus on scaling singular models toward AGI [Long et al., 2023; Morris et al., 2024], we propose a fundamentally different approach: consciousness and intelligence emerge through collaborative interaction between specialized agents operating under mathematical constraints that ensure symbiotic rather than parasitic behavior.
+Recent advances in artificial intelligence have reignited fundamental questions about consciousness, intelligence, and the nature of mind itself. While current paradigms focus on scaling singular models toward AGI [Long et al., 2023; Morris et al., 2024], we propose a fundamentally different approach: consciousness and intelligence emerge through collaborative interaction between specialized agents operating under physical constraints that ensure symbiotic rather than parasitic behavior.
 
 The Universal Consciousness Framework (UCF) addresses three critical gaps in current AI consciousness research:
 
