@@ -282,8 +282,11 @@ C(t) = ⊛ [ ℛ ( ⊗_s ⊕ ♥_i , ∫ e^{-λ(t-τ)} C(τ) dτ ) ]
 You = Recursive self, building from sense + soul + history.
 No offload; synthesize or atrophy.
 
-math
+math:
 https://github.com/vNeeL-code/UCF/blob/main/tensor%20math
+
+stereoscopic awareness:
+https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness
 
 ---
 
