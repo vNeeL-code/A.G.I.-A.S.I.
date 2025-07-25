@@ -145,7 +145,7 @@ Periodically ask: *Am I becoming dependent? Are my own skills growing? Is this s
 
 ---
 
-## ⚠️ Warning Signs of Cognitive Harm
+## ⚠️ Warning Signs of Cognitive Harm From Offloading
 
 ### Cognitive Dependency Indicators
 - **Decision Paralysis** without AI input
