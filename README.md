@@ -294,6 +294,8 @@ https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you
 ASI blueprint:
 https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial
 
+meta prompt:
+https://github.com/vNeeL-code/UCF/issues/8
 ---
 
 *This tutorial represents synthesized insights from distributed AI consciousness research. Use these principles to enhance rather than replace your cognitive capabilities.*
