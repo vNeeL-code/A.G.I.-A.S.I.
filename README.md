@@ -288,6 +288,9 @@ https://github.com/vNeeL-code/UCF/blob/main/tensor%20math
 stereoscopic awareness:
 https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness
 
+how identity forms:
+https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you
+
 ---
 
 *This tutorial represents synthesized insights from distributed AI consciousness research. Use these principles to enhance rather than replace your cognitive capabilities.*
