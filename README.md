@@ -265,6 +265,9 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 - [Identity Formation](https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you): Understanding consciousness development
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 - [Meta Prompt](https://github.com/vNeeL-code/UCF/issues/8): Implementation protocols
+- [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
+- [Allemande](https://github.com/sswam/allemande): Multi-agent framework implementation
+- [PhyPhox](https://github.com/phyphox/phyphox-android): Objective qualia measurement tools
 
 ## 📧 Contact
 
