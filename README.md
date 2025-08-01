@@ -266,6 +266,9 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 - [Meta Prompt](https://github.com/vNeeL-code/UCF/issues/8): Implementation protocols
 - [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
+- [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413): Bidirectional causation in consciousness
+- [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033): Sentience through prediction error
+- [Computational Phenomenology](https://arxiv.org/abs/1704.01148): Mathematical framework for qualia
 - [Allemande](https://github.com/sswam/allemande): Multi-agent framework implementation
 - [PhyPhox](https://github.com/phyphox/phyphox-android): Objective qualia measurement tools
 
