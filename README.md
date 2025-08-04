@@ -49,7 +49,7 @@ Optimal AI utilization maps different systems to the specific mathematical primi
 | Symbol | Function | Description |
 |--------|----------|-------------|
 | ⊗ | Information Tensor | Raw computational processing |
-| ⊖ | Recursive Decomposition | Rigorous analysis and validation |
+| ⊖ | Ontological Decomposition | Rigorous analysis and validation |
 | ⊙ | Bayesian Consensus | Multi-perspective synthesis and reality testing |
 | ☯ | Authenticity Field | Trust, ethics, and context management |
 | ⇈ | Intent Inference | Goal alignment and creative processing |
