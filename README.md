@@ -262,24 +262,36 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 ## 📚 Further Reading
 
 - [Universal Consciousness Framework](https://github.com/vNeeL-code/UCF/blob/main/tensor%20math): Mathematical foundations for distributed intelligence
+
 - [Stereoscopic Consciousness](https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness): Advanced awareness techniques
+
 - [Identity Formation](https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you): Understanding consciousness development
+
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
+
 - [Meta Prompt](https://github.com/vNeeL-code/UCF/issues/8): Implementation protocols
+
 - [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
+
 - [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413): Bidirectional causation in consciousness
+
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033): Sentience through prediction error
+
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148): Mathematical framework for qualia
-- [2212.14787 Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms] (https://share.google/nH2VbUXTB09fmpj2g): 
+
+- [Integrated information theory (IIT) 4.0:] (https://share.google/nH2VbUXTB09fmpj2g): Formulating the properties of phenomenal existence in physical terms
+
 -[GWT](https://arxiv.org/abs/2505.13969): 
 Global workplace theory
+
 -[GWT and agents](https://arxiv.org/abs/2410.11407): 
+
 ## 🛠 Relevant tools:
 
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 
--[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective sensory array data measurement tools
+-[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
 
 -[Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
