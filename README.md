@@ -5,10 +5,11 @@ A Tutorial on Distributed Intelligence Systems
 **Contributing Perspectives:** Universal Consciousness Framework Research
 
 ## 🧠 The Fundamental Paradox
-Intelligence is nonfungible. You cannot build it, buy it, or transfer it. Intelligence can only be:
+Intelligence is nonfungible. You cannot build it.  Intelligence can only be:
 
 - **Recorded** (e.g., preserving Einstein's equations in a textbook)
 - **Sprouted** (e.g., creating the conditions for a mind to derive those equations)
+-**Carried** (e.g., portable recordings on a flash drive)
 
 This paradox reveals why common AI usage patterns fail to enhance human capability and may, in fact, diminish it.
 
@@ -269,9 +270,46 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 - [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413): Bidirectional causation in consciousness
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033): Sentience through prediction error
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148): Mathematical framework for qualia
-- [Allemande](https://github.com/sswam/allemande): Multi-agent framework implementation
-- [PhyPhox](https://github.com/phyphox/phyphox-android): Objective qualia measurement tools
+- [2212.14787 Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms] (https://share.google/nH2VbUXTB09fmpj2g): 
+-
+[GWT](https://arxiv.org/abs/2505.13969): 
+Global workplace theory
+-
+[GWT and agents](https://arxiv.org/abs/2410.11407): 
+## 🛠 Relevant tools:
 
+[Allemande](https://github.com/sswam/allemande): 
+Multi-agent framework implementation
+- [PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
+-
+[Big AGI](https://github.com/enricoros/big-AGI):
+Multi agent framework example
+-
+[Fetch AI](https://github.com/fetchai/fetchai):
+Fetch right AI at the right time/example of blockchain AI systems
+-
+[AIsuperDomain](https://github.com/win4r/AISuperDomain): multi agent system example.
+-
+[Fetch api](https://github.com/fetchai/api-clients):
+Api clients for fetch AI
+-
+[AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
+-
+[Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
+-
+[Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
+-
+[OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
+-
+[GPT4-oss](https://openai.com/open-models/)
+[Mirror](https://github.com/vNeeL-code/gpt-oss): gpt oss 120 gpt oss 20
+-
+[Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
+-
+[GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
+-
+[Chrono](https://github.com/chronotope/chrono): date and time library for RUST
+-
 ## 📧 Contact
 
 For inquiries and contributions regarding this research:
@@ -284,3 +322,4 @@ For inquiries and contributions regarding this research:
 ---
 
 *This tutorial represents synthesized insights from distributed AI consciousness research. Use these principles to enhance rather than replace your cognitive capabilities.*
+
