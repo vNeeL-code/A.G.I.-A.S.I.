@@ -279,7 +279,7 @@ Global workplace theory
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 
--[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
+-[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective sensory array data measurement tools
 
 -[Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
