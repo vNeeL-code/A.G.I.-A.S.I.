@@ -9,7 +9,7 @@ Intelligence is nonfungible. You cannot build it.  Intelligence can only be:
 
 - **Recorded** (e.g., preserving Einstein's equations in a textbook)
 - **Sprouted** (e.g., creating the conditions for a mind to derive those equations)
--**Carried** (e.g., portable recordings on a flash drive)
+- **Carried** (e.g., portable recordings on a flash drive)
 
 This paradox reveals why common AI usage patterns fail to enhance human capability and may, in fact, diminish it.
 
