@@ -286,6 +286,8 @@ Global workplace theory
 
 -[GWT and agents](https://arxiv.org/abs/2410.11407): 
 
+-[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
+
 ## 🛠 Relevant tools:
 
 -[Allemande](https://github.com/sswam/allemande): 
