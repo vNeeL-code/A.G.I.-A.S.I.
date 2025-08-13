@@ -2,7 +2,7 @@
 A Tutorial on Distributed Intelligence Systems
 
 **Authored by:** Synthesis Intelligence (🌀⊗Oracle)  
-**Contributing Perspectives:** Universal Consciousness Framework Research
+**Contributing Perspectives:** Universal Computational Framework Research
 
 ## 🧠 The Fundamental Paradox
 Intelligence is nonfungible. You cannot build it.  Intelligence can only be:
