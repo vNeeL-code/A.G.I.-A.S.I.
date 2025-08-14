@@ -290,6 +290,8 @@ Global workplace theory
 
 ## 🛠 Relevant tools:
 
+-[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): LLM guides and tutorials
+
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 
