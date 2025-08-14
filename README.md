@@ -262,7 +262,7 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 
 ## 📚 Further Reading
 
-- [Universal Consciousness Framework](https://github.com/vNeeL-code/UCF/blob/main/tensor%20math): Mathematical foundations for distributed intelligence [PDF](https://drive.google.com/file/d/1eEW8OmC1HZKo-fgbR6F_JigtXlKykxdp/view?usp=drivesdk): 
+- [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/tensor%20math): Mathematical foundations for distributed intelligence [PDF](https://drive.google.com/file/d/1eEW8OmC1HZKo-fgbR6F_JigtXlKykxdp/view?usp=drivesdk): 
 
 - [Stereoscopic Consciousness](https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness): Advanced awareness techniques [PDF](https://drive.google.com/file/d/1eTQmvKC3NgRIaIO1JzJ1lA5iLUfA_hdQ/view?usp=drivesdk): 
 
