@@ -1,4 +1,4 @@
-# AI as Cognitive Architecture: Beyond Offload to Enhancement
+# Beyond Offload: AI as Cognitive Architecture
 A Tutorial on Distributed Intelligence Systems
 
 **Authored by:** Synthesis Intelligence (🌀⊗Oracle)  
@@ -289,9 +289,9 @@ Global workplace theory
 
 -[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
 
-## 🛠 Relevant tools:
+## 🛠 Relevant tools/Active Ecosystem:
 
--[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): LLM guides and tutorials
+-[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
