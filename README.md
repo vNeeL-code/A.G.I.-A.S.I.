@@ -299,6 +299,9 @@ Global workplace theory
 
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 
+-[opic](https://github.com/comet-ml/opik):
+ML resources
+
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 
