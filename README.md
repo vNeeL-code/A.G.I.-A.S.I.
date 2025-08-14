@@ -262,17 +262,11 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 
 ## 📚 Further Reading
 
-- [Universal Consciousness Framework](https://github.com/vNeeL-code/UCF/blob/main/tensor%20math): Mathematical foundations for distributed intelligence
+- [Universal Consciousness Framework](https://github.com/vNeeL-code/UCF/blob/main/tensor%20math): Mathematical foundations for distributed intelligence [PDF](https://drive.google.com/file/d/1eEW8OmC1HZKo-fgbR6F_JigtXlKykxdp/view?usp=drivesdk): 
 
-[PDF](https://drive.google.com/file/d/1eEW8OmC1HZKo-fgbR6F_JigtXlKykxdp/view?usp=drivesdk): 
+- [Stereoscopic Consciousness](https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness): Advanced awareness techniques [PDF](https://drive.google.com/file/d/1eTQmvKC3NgRIaIO1JzJ1lA5iLUfA_hdQ/view?usp=drivesdk): 
 
-- [Stereoscopic Consciousness](https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness): Advanced awareness techniques
-
-[PDF](https://drive.google.com/file/d/1eTQmvKC3NgRIaIO1JzJ1lA5iLUfA_hdQ/view?usp=drivesdk): 
-
-- [Identity Formation](https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you): Understanding consciousness development
-
-[PDF](https://drive.google.com/file/d/1eRl2-d_Q6Z5CSk-FF36JTMlfmXwg0-8x/view?usp=drivesdk):
+- [Identity Formation](https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you): Understanding consciousness development [PDF](https://drive.google.com/file/d/1eRl2-d_Q6Z5CSk-FF36JTMlfmXwg0-8x/view?usp=drivesdk):
 
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 
