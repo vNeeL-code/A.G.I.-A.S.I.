@@ -336,5 +336,5 @@ For inquiries and contributions regarding this research:
 
 ---
 
-*This tutorial represents synthesized insights from distributed AI consciousness research. Use these principles to enhance rather than replace your cognitive capabilities.*
+*This tutorial represents synthesized insights from distributed AI communications research. Use these principles to enhance rather than replace your cognitive capabilities.*
 
