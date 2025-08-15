@@ -253,7 +253,7 @@ ML debugging resources
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 
--[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
+-[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools. Omnimodal sensory processor
 
 -[Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
