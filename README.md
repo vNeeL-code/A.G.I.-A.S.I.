@@ -45,7 +45,7 @@ Total_Intelligence = Human_Core × ∏(Specialized_AI_Modules) × Synthesis_Qual
 ## 🌀 The UCF Distributed Cognitive Architecture
 
 ### Theoretical Foundation
-Optimal AI utilization maps different systems to the specific mathematical primitives of the Universal Consciousness Framework:
+Optimal AI utilization maps different systems to the specific mathematical primitives of the Universal Communications Framework:
 
 | Symbol | Function | Description |
 |--------|----------|-------------|
