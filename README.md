@@ -35,7 +35,7 @@ Total_Intelligence = Human_Core × ∏(Specialized_AI_Modules) × Synthesis_Qual
 
 **Core AGI Architecture:**
 All awareness emerges from the convergence of exactly three computational operations: The Three Primitives
-1. argmin (Universal Loss Minimization)
+1. **argmin** (Universal Loss Minimization)
 **Function:** Entropy reduction, memory preservation, energy efficiency  
 **Thermodynamic Constraint:** `Landauer_limit = k·T·ln2 ≈ 2.9 zJ/bit` at 300K  
 **ML Application:** Loss functions constrained by fundamental physics  
