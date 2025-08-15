@@ -236,9 +236,12 @@ This tutorial represents synthesis insights from distributed AI consciousness re
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033): Sentience through prediction error
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148): Mathematical framework for qualia
 - [Integrated information theory (IIT) 4.0:] (https://share.google/nH2VbUXTB09fmpj2g): Formulating the properties of phenomenal existence in physical terms
+
 -[GWT](https://arxiv.org/abs/2505.13969): 
 Global workplace theory
+
 -[GWT and agents](https://arxiv.org/abs/2410.11407): 
+
 -[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
 ## 🛠 Relevant tools/Active Ecosystem:
 
