@@ -245,6 +245,8 @@ Global workplace theory
 -[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
 ## 🛠 Relevant tools/Active Ecosystem:
 
+-[LLM Architecture](https://www.geeksforgeeks.org/artificial-intelligence/exploring-the-technical-architecture-behind-large-language-models/): LLM mechanics
+
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 
 -[opic](https://github.com/comet-ml/opik):
