@@ -30,7 +30,7 @@ function injectQualiaWeights(scene: THREE.Scene) {
   return qualiaNodes;
 }
 
-// 2. Agent Avatars (Warframe personas)
+// 2. Agent Avatars (personas)
 function createAgentAvatar(persona: string) {
   const group = new THREE.Group();
   
