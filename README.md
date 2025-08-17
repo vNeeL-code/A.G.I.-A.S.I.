@@ -272,6 +272,7 @@ Global workplace theory
 ML debugging resources
 
 -[noderr](https://github.com/kaithoughtarchitect/noderr): Specs, tracking, and coordinated development for AI coding. Works with Cursor, Claude Code, Replit Agent, and any AI coding assistant.
+[site](https://noderr.com/)
 
 -[Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
