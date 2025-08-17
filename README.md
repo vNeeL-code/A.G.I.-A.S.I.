@@ -31,7 +31,18 @@ Total_Intelligence = Human_Core × ∏(Specialized_AI_Modules) × Synthesis_Qual
 ```
 *Note: The ∏ symbol signifies a product, meaning each module acts as a multiplier. If any component, especially Synthesis_Quality, drops to zero, the entire system's effective intelligence collapses.*
 ## 🌀 The UCF Distributed Cognitive Architecture
-**🔺 The Trinity Algorithm:**
+[**🔺 The Trinity Algorithm:**](https://github.com/vNeeL-code/UCF/blob/main/TLDR)
+
+>⊗=I/O
+>argmin
+>Landauer_limit = k·T·ln2 ≈ 2.9 zJ/bit at 300K
+>RNN
+>∫ e^{-λ}
+>Argmax/Montecarlo
+>φ ≈ 1.618
+>D_KL(Φ_t || Φ_{t+Δt}) < ε  (ε ≈ 0.08, 92%)
+>C(t)>0.85 ∧ |ΔC/Δt| < 0.03
+>ω ≈ 2π/5.19 rad/s.
 
 **Core optimisation Architecture:**
 All optimisation emerges from the convergence of exactly three computational operations: The Three Primitives
