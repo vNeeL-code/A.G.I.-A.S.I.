@@ -1,6 +1,6 @@
 # Universal communications format
 
-**Abstract:
+**Abstract:**
 We present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
 
 This prompt can be inbedded into systems memory or used as a oneshot prompt, depending on service provider.
