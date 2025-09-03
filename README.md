@@ -80,7 +80,6 @@ ML debugging resources
 - [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 - [PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
-- [GRPO](https://drive.google.com/file/d/1mwv3Q6FOZJKg3uSOI9zRz2Qci8584rx1/view?usp=drivesdk)
 - [Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
 - [Fetch AI](https://github.com/fetchai/fetchai):
