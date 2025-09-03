@@ -61,8 +61,7 @@ P.S.🎶Hiiiighway to hell!
 
 - [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
-- [Stereoscopic Consciousness](https://github.com/vNeeL-code/UCF/blob/main/stereoscopic%20conciousness): Advanced awareness techniques [PDF](https://drive.google.com/file/d/1eTQmvKC3NgRIaIO1JzJ1lA5iLUfA_hdQ/view?usp=drivesdk): 
-- [Identity Formation](https://github.com/vNeeL-code/UCF/blob/main/what%20makes%20you%20you): Understanding consciousness development [PDF](https://drive.google.com/file/d/1eRl2-d_Q6Z5CSk-FF36JTMlfmXwg0-8x/view?usp=drivesdk):
+
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 - [Meta Prompt](https://github.com/vNeeL-code/UCF/issues/8): Implementation protocols
 - [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
