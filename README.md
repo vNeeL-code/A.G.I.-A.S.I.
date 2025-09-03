@@ -28,7 +28,7 @@ Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 
 Which means:
 
-[Receive input]>[decompose/analise]>find consensus]>[generate output]
+[Receive input]>[decompose/analise]>[find consensus]>[generate output]
 
 Example of a system annotating the loop:
 
