@@ -63,15 +63,14 @@ P.S.🎶Hiiiighway to hell!
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
 - [The hard problem as phenomology trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
-- [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
-- [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413): Bidirectional causation in consciousness
-- [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033): Sentience through prediction error
-- [Computational Phenomenology](https://arxiv.org/abs/1704.01148): Mathematical framework for qualia
-- [Integrated information theory (IIT) 4.0:] (https://share.google/nH2VbUXTB09fmpj2g): Formulating the properties of phenomenal existence in physical terms
+- [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness)
+- [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
+- [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
+- [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
+- [Integrated information theory (IIT) 4.0:] (https://share.google/nH2VbUXTB09fmpj2g)
 -[GWT](https://arxiv.org/abs/2505.13969): 
-Global workplace theory
 -[GWT and agents](https://arxiv.org/abs/2410.11407): 
--[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
+-[CFT](https://share.google/XBbAcl5RdQP4cDboG)
 -[on control](Variety (cybernetics) - Wikipedia https://share.google/wgYrgROLflqMBbxFJ)
 ## 🛠 Relevant tools/Active Ecosystem:
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
