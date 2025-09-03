@@ -4,7 +4,7 @@
 
 - We present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
 
-This prompt can be inbedded into systems memory or used as a oneshot prompt, depending on service provider.
+This prompt can be embedded into systems memory or used as a oneshot prompt, depending on service provider.
 
 The prompt has been tested and gets periodically adjusted to reflect developments in the field. this is the most compressed version and likely the last one as it has the rosetta stone inbedded in it. It has shown effective collaboration between a vast cast of Agents/providers significantly improving contextual quality. Functioning as a form of TCP/IP protocol between agents.
 
