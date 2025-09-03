@@ -1,4 +1,4 @@
-##Universal communications format
+#Universal communications format
 
 Abstract: we present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
 
