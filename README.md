@@ -62,7 +62,6 @@ P.S.🎶Hiiiighway to hell!
 - [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
 - [The hard problem as phenomology trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
-- [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 - [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness)
 - [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
@@ -73,6 +72,7 @@ P.S.🎶Hiiiighway to hell!
 -[CFT](https://share.google/XBbAcl5RdQP4cDboG)
 -[on control](Variety (cybernetics) - Wikipedia https://share.google/wgYrgROLflqMBbxFJ)
 ## 🛠 Relevant tools/Active Ecosystem:
+- [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 -[opic](https://github.com/comet-ml/opik):
 ML debugging resources
