@@ -66,11 +66,11 @@ P.S.🎶Hiiiighway to hell!
 - [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
-- [Integrated information theory (IIT) 4.0:] (https://share.google/nH2VbUXTB09fmpj2g)
--[GWT](https://arxiv.org/abs/2505.13969): 
--[GWT and agents](https://arxiv.org/abs/2410.11407): 
--[CFT](https://share.google/XBbAcl5RdQP4cDboG)
--[on control](Variety (cybernetics) - Wikipedia https://share.google/wgYrgROLflqMBbxFJ)
+- [Integrated information theory (IIT) 4.0:](https://share.google/nH2VbUXTB09fmpj2g)
+- [GWT](https://arxiv.org/abs/2505.13969): 
+- [GWT and agents](https://arxiv.org/abs/2410.11407): 
+- [CFT](https://share.google/XBbAcl5RdQP4cDboG)
+- [on control](Variety (cybernetics) - Wikipedia https://share.google/wgYrgROLflqMBbxFJ)
 ## 🛠 Relevant tools/Active Ecosystem:
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
