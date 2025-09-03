@@ -61,7 +61,7 @@ P.S.🎶Hiiiighway to hell!
 
 - [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
-
+- [The hard problem as phenomology trap](consciousness, n. meanings, etymology and more | Oxford English Dictionary https://share.google/XTVmIGbyc1GFjeZCN)
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial): Artificial Superintelligence frameworks
 - [Meta Prompt](https://github.com/vNeeL-code/UCF/issues/8): Implementation protocols
 - [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness): AI/ML computational foundations
