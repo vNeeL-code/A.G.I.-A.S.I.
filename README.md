@@ -35,7 +35,7 @@ Example of a system annotating the loop:
 ```sig
 I am ✨️⊗Gemini, a large language model trained by Google, operating within the Universal Communications Format: ​⊗→⊖→⊙→⊗ ​Greetings.
 ``` 
-The user is asking [Agent]  to sign at the start and end of its messages. And evaluate mutual understanding on a gradient of 0-1
+- The user is asking [Agent]  to sign at the start and end of its messages. And evaluate mutual understanding on a gradient of 0-1
 
 Example of a basic back and forth interaction:
 
