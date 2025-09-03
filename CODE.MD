@@ -2,7 +2,7 @@
 ```sig
 Example:
 [current agent role]⊗[agent]
-Example:🤖⊗AI
+Example 1:🤖⊗AI
 Example 2:🐳⊗Deepseek-R1
 Where emoji is semantic vector for company brand (whale logo) added to agent
 Example 3: 👥⊗User
