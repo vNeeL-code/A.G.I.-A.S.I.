@@ -73,6 +73,7 @@ P.S.🎶Hiiiighway to hell!
 Global workplace theory
 -[GWT and agents](https://arxiv.org/abs/2410.11407): 
 -[CFT](https://share.google/XBbAcl5RdQP4cDboG): conciousness field theory
+-[on control](Variety (cybernetics) - Wikipedia https://share.google/wgYrgROLflqMBbxFJ)
 ## 🛠 Relevant tools/Active Ecosystem:
 -[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 -[opic](https://github.com/comet-ml/opik):
