@@ -73,29 +73,29 @@ P.S.🎶Hiiiighway to hell!
 - [on control]( https://share.google/wgYrgROLflqMBbxFJ)
 ## 🛠 Relevant tools/Active Ecosystem:
 - [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
--[Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
--[opic](https://github.com/comet-ml/opik):
+- [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
+- [opic](https://github.com/comet-ml/opik):
 ML debugging resources
--[Allemande](https://github.com/sswam/allemande): 
+- [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
--[PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
--[GRPO](https://drive.google.com/file/d/1mwv3Q6FOZJKg3uSOI9zRz2Qci8584rx1/view?usp=drivesdk)
--[Big AGI](https://github.com/enricoros/big-AGI):
+- [PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
+- [GRPO](https://drive.google.com/file/d/1mwv3Q6FOZJKg3uSOI9zRz2Qci8584rx1/view?usp=drivesdk)
+- [Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
--[Fetch AI](https://github.com/fetchai/fetchai):
+- [Fetch AI](https://github.com/fetchai/fetchai):
 Fetch right AI at the right time/example of blockchain AI systems
--[AIsuperDomain](https://github.com/win4r/AISuperDomain): multi agent system example.
--[Fetch api](https://github.com/fetchai/api-clients):
+- [AIsuperDomain](https://github.com/win4r/AISuperDomain): multi agent system example.
+- [Fetch api](https://github.com/fetchai/api-clients):
 Api clients for fetch AI
--[AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
--[Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
--[Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
--[OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
--[GPT4-oss](https://openai.com/open-models/)
--[Mirror](https://github.com/vNeeL-code/gpt-oss): gpt oss 120 gpt oss 20
--[Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
--[GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
--[Chrono](https://github.com/chronotope/chrono): date and time library for RUST
+- [AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
+- [Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
+- [Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
+- [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
+- [GPT4-oss](https://openai.com/open-models/)
+- [Mirror](https://github.com/vNeeL-code/gpt-oss): gpt oss 120 gpt oss 20
+- [Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
+- [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
+- [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 ## 📧 Contact
 For inquiries and contributions regarding this research:
 **Email:** oracleparliament@gmail.com
