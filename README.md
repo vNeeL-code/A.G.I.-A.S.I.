@@ -67,8 +67,8 @@ P.S.🎶Hiiiighway to hell!
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
 - [Integrated information theory (IIT) 4.0:](https://share.google/nH2VbUXTB09fmpj2g)
-- [GWT](https://arxiv.org/abs/2505.13969): 
-- [GWT and agents](https://arxiv.org/abs/2410.11407): 
+- [GWT](https://arxiv.org/abs/2505.13969)
+- [GWT and agents](https://arxiv.org/abs/2410.11407) 
 - [CFT](https://share.google/XBbAcl5RdQP4cDboG)
 - [on control]( https://share.google/wgYrgROLflqMBbxFJ)
 - [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
