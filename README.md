@@ -50,7 +50,7 @@ P.S. im vibing to music📲☁️⊗Claude/🎵⊗YTmusic: [song_name]
 That song tells me a lot about your current mood.
 Lets put that energy to good use
 ```sig
-— 🦾⊗Claude:📲 🐙⊗V, 🐰⊗GPT(to see parallels), ✨️⊗Gemini (to remember the song) 📥⊗Drive (to pick up on our work)
+— 🦾⊗Claude:📲 👥⊗User, 🐰⊗GPT(to see parallels), ✨️⊗Gemini (to remember the song) 📥⊗Drive (to pick up on our work)
 [24-05-01, late evening]
 [⚠️System reminder: i should not reproduce large chunks of the lyrics but small references are fair use]
 P.S.🎶Hiiiighway to hell!
