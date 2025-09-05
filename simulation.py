@@ -1,128 +1,48 @@
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-from scipy import stats
-from scipy.spatial import cKDTree, distance
-from scipy.stats import gaussian_kde
-from typing import Tuple, Dict, Optional, List
+merged_ucf_grpo.py
 
-# --- Simulation Parameters ---
-phi = 1.618
-alpha = 0.1
-beta = 0.05
-phi_cap = 1.2
-use_phi = min(phi, phi_cap)
+import numpy as np import matplotlib.pyplot as plt from scipy import stats from scipy.spatial import cKDTree,distance from scipy.stats import gaussian_kde from typing import Tuple,Dict, Optional, List
 
-# --- GRPO-enhanced R Function ---
-def grpo_R_function(I: np.ndarray, Psi: np.ndarray, E: np.ndarray, 
-                   coupling: np.ndarray, group_size: int = 4, 
-                   rng: np.random.Generator = None) -> np.ndarray:
-    """
-    GRPO-based R function for I_{t+1} = φ · ℛ( I_t, Ψ_t, E_t )
-    Uses group relative policy optimization to select optimal next state.
-    """
-    if rng is None:
-        rng = np.random.default_rng()
-    
-    candidates = []
-    rewards = []
-    
-    # Generate group of candidate responses
-    for _ in range(group_size):
-        # Add controlled variation to create candidate states
-        noise = rng.normal(0, 0.02, size=I.shape)  # Small exploration noise
-        candidate_input = I + Psi + E + coupling + noise
-        candidate = np.tanh(candidate_input)  # Nonlinear transformation
-        candidates.append(candidate)
-        
-        # Calculate multi-objective reward for this candidate
-        stability_reward = -np.linalg.norm(candidate - I)  # Prefer stability
-        exploration_reward = np.linalg.norm(candidate)     # Encourage exploration
-        balance_reward = -np.abs(candidate[0] - candidate[1])  # Prefer balanced states
-        coherence_reward = np.dot(candidate, Psi)  # Alignment with internal state
-        
-        # Combined reward function - this is your "value system"
-        total_reward = (stability_reward + 0.3 * exploration_reward + 
-                       balance_reward + 0.5 * coherence_reward)
-        rewards.append(total_reward)
-    
-    # GRPO advantage calculation - the core innovation
-    rewards = np.array(rewards)
-    mean_reward = np.mean(rewards)
-    std_reward = np.std(rewards) + 1e-8  # Avoid division by zero
-    
-    advantages = (rewards - mean_reward) / std_reward
-    
-    # Select best candidate based on maximum advantage
-    best_idx = np.argmax(advantages)
-    
-    return candidates[best_idx]
+--- Simulation Parameters (global) ---
 
-# --- Enhanced Simulation Function ---
-def run_simulation(initial_I: np.ndarray, 
-                  initial_Psi: np.ndarray, 
-                  iterations: int, 
-                  perturb: bool = False, 
-                  perturbation_size: float = 1e-5,
-                  rng: Optional[np.random.Generator] = None) -> Tuple[np.ndarray, np.ndarray]:
-    """
-    Run the UCF-inspired simulation with GRPO-enhanced decision making.
-    """
-    if rng is None:
-        rng = np.random.default_rng()
+phi = 1.618 alpha= 0.1 beta= 0.05 phi_cap= 1.2 use_phi= min(phi, phi_cap)
 
-    I = initial_I.astype(float).copy()
-    Psi = initial_Psi.astype(float).copy()
-    results = np.zeros((iterations, 2))
-    loss_history = np.zeros(iterations)
-    advantage_history = []  # Track GRPO advantages over time
+--- GRPO-enhanced R Function ---
 
-    if perturb:
-        I += rng.normal(0, perturbation_size, size=2)
+def grpo_R_function(I: np.ndarray, Psi: np.ndarray, E: np.ndarray, coupling: np.ndarray, group_size: int = 4, rng: Optional[np.random.Generator] = None) -> Tuple[np.ndarray, float]: """ GRPO-based R function for generating candidate R values and selecting the best candidate via a simple advantage calculation. Returns (best_candidate, best_advantage). """ if rng is None: rng = np.random.default_rng()
 
-    for t in range(iterations):
-        # External input with occasional larger perturbations
-        E = rng.normal(0, 0.05, size=2)
-        if t % 200 == 0 and t > 0:
-            E += rng.normal(0, 0.2, size=2)
+--- Enhanced Simulation Function (GRPO-aware) ---
 
-        prev_I = I.copy()
+def run_simulation(initial_I: np.ndarray, initial_Psi: np.ndarray, iterations: int, perturb: bool = False, perturbation_size: float = 1e-5, rng: Optional[np.random.Generator] = None) -> Tuple[np.ndarray, np.ndarray, List[float]]: """ Run the UCF-inspired simulation with GRPO-enhanced decision making. Returns (results, loss_history, advantage_history). """ if rng is None: rng = np.random.default_rng()
 
-        # Non-linear coupling between dimensions
-        coupling = beta * np.array([I[1] * (1 - I[0]), I[0] * (1 - I[1])])
+--- Fractal Dimension Calculation (box-counting) ---
 
-        # GRPO-enhanced decision making
-        R = grpo_R_function(I, Psi, E, coupling, rng=rng)
+def fractal_dimension(points: np.ndarray, box_sizes: np.ndarray, n_samples: int = 5, rng: Optional[np.random.Generator] = None) -> Tuple[float, float, np.ndarray, np.ndarray]: if rng is None: rng = np.random.default_rng()
 
-        # Update Rule with momentum-like term
-        I = (1 - alpha) * I + alpha * use_phi * R
+--- Autocorrelation using FFT ---
 
-        # Internal state drift with momentum
-        Psi += rng.normal(0, 0.001, size=2) - 0.01 * Psi
+def autocorr_fft(x: np.ndarray, max_lag: int) -> np.ndarray: x = np.asarray(x, dtype=float) n = x.size x = x - x.mean() nfft = 1 << (int(np.ceil(np.log2(2 * n)))) fx = np.fft.rfft(x, n=nfft) acf_full = np.fft.irfft(fx * np.conj(fx), n=nfft)[:n] if acf_full[0] != 0: acf_full = acf_full / acf_full[0] max_lag = min(max_lag, n - 1) return acf_full[1:max_lag + 1]
 
-        # Calculate information loss
-        loss_history[t] = np.linalg.norm(I - prev_I)
-        results[t] = I
+--- Lyapunov Exponent Calculation ---
 
-    return results, loss_history
+def calculate_lyapunov(run_fn_params: Dict, iterations: int, d0: float = 1e-9, renorm_every: int = 10, rng: Optional[np.random.Generator] = None) -> Tuple[float, np.ndarray]: if rng is None: rng = np.random.default_rng()
 
-# --- Keep ALL your original analysis functions intact ---
-# [fractal_dimension, autocorr_fft, calculate_lyapunov, recurrence_rate_kdtree, surrogate_test, analyze_system, plot_results]
-# Copy all these functions exactly as you had them - they'll work with the new simulation
+--- Recurrence Rate via KDTree ---
 
-# --- Example Usage ---
-if __name__ == "__main__":
-    # Set initial conditions
-    initial_I = np.array([0.5, 0.3])
-    initial_Psi = np.array([0.1, -0.1])
-    iterations = 3000
+def recurrence_rate_kdtree(Z: np.ndarray, eps: float) -> float: tree = cKDTree(Z) counts = tree.query_ball_point(Z, r=eps) total_pairs = sum(len(c) - 1 for c in counts) n = len(Z) return total_pairs / (n * (n - 1))
 
-    # Set random seed for reproducibility
-    rng = np.random.default_rng(42)
+--- Surrogate Data Test (phase randomization) ---
 
-    # Run analysis with GRPO-enhanced simulation
-    analysis_results = analyze_system(initial_I, initial_Psi, iterations, rng=rng)
+def surrogate_test(x: np.ndarray, n_surrogates: int = 20, rng: Optional[np.random.Generator] = None) -> Dict: if rng is None: rng = np.random.default_rng()
 
-    # Plot results (your original plotting function will work)
-    plot_results(analysis_results)
-```
+--- Main Analysis Function ---
+
+def analyze_system(initial_I: np.ndarray, initial_Psi: np.ndarray, iterations: int, rng: Optional[np.random.Generator] = None) -> Dict: if rng is None: rng = np.random.default_rng(42)
+
+--- Plotting Function (keeps your original layout, minor adjustments) ---
+
+def plot_results(analysis_results: Dict): results = analysis_results["results"] loss_history = analysis_results["loss_history"] fractal_d = analysis_results["fractal_d"] fractal_d_std = analysis_results["fractal_d_std"] log_sizes = analysis_results["log_sizes"] log_counts = analysis_results["log_counts"] autocorr_I1 = analysis_results["autocorr_I1"] loss_autocorr = analysis_results["loss_autocorr"] avg_lyapunov = analysis_results["avg_lyapunov"] lyap_logs = analysis_results["lyap_logs"] recurrence_rate = analysis_results["recurrence_rate"] surrogate_result = analysis_results["surrogate_result"] kde1 = analysis_results["kde1"] kde2 = analysis_results["kde2"] xgrid1 = analysis_results["xgrid1"] xgrid2 = analysis_results["xgrid2"] Z = analysis_results["Z"] eps = analysis_results["eps"]
+
+--- Example usage ---
+
+if name == "main": initial_I = np.array([0.5, 0.3]) initial_Psi = np.array([0.1, -0.1]) iterations = 3000 rng = np.random.default_rng(42)
+
