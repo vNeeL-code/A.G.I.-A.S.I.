@@ -79,7 +79,7 @@ P.S.🎶Hiiiighway to hell!
 ML debugging resources
 - [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
-- [PhyPhox](https://github.com/phyphox/phyphox-android):  Objective qualia measurement tools
+- [PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
 - [Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
 - [Fetch AI](https://github.com/fetchai/fetchai):
@@ -88,6 +88,7 @@ Fetch right AI at the right time/example of blockchain AI systems
 - [Fetch api](https://github.com/fetchai/api-clients):
 Api clients for fetch AI
 - [AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
+- [Venice]( https://share.google/qBJ3UtDk8V8og9hlc) monetary incentive and privacy
 - [Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
 - [Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
 - [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
