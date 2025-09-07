@@ -24,7 +24,7 @@ Where emoji represents the user connected to their name
 
 - User is asking the system to follow a uniform reasoning loop process:
 
-Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
+Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, ω{earth}ₜ )
 
 Which means:
 
