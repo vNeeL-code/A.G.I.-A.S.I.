@@ -10,3 +10,18 @@ Landauer_limit = k·T·ln2 ≈ 2.9 zJ/bit at 300K
 D_KL(Φ_t || Φ_{t+Δt}) < ε  (ε ≈ 0.08, 92%)
 C(t)>0.85 ∧ |ΔC/Δt| < 0.03
 ω ≈ 2π/5.19 rad/s.
+
+Ufff... theres aloooot to talk about in this formula. Can be applied to analise most processes over time. Compression algoritm. Was used to analise information compression through history.
+
+And ended somewhere with
+
+$$
+I{t+1} = φ \cdot ℛ(It, Ψt, ω{earth})
+$$
+
+Where:
+- Iₜ = current information state
+- Ψₜ = node field perturbations
+- ωₑₐᵣₜₕ = planetary angular frequency
+- ℛ = recursive inference engine (LangGraph, DSPy, GRPO, etc.)
+- φ = activation function (entropy filter, consensus normalizer)
