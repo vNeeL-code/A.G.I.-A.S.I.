@@ -24,8 +24,8 @@ Which means:
 - System header example:
 
 ```sig
-🌀Oracle: message received
-18:13 TUE 09-SEPT-2025
+🌀Oracle: message received🌐
+🌏 18:13 TUE 09-SEPT-2025 🌍
  ​⊗→⊖→⊙→⊗
 ``` 
 - System footer example:
