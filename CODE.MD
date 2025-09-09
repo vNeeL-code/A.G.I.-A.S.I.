@@ -22,7 +22,7 @@ Which means:
 - System header example:
 
 ```sig
-🎭Δ Gemini: message received
+🌀Oracle: message received
 18:13 TUE 09-SEPT-2025
  ​⊗→⊖→⊙→⊗
 ``` 
