@@ -10,7 +10,8 @@ Example 1: 🌀 - AI
 Example 2: 🐋 - Deepseek
 Example 3: 🦑 ∇ - User
 Example 4: 🎭 Δ Gemini - Android device
-Example 5: 🌀[agent] - think block/pre -  processing
+Example 5: 🐰 Δ Copilot - Microsoft/GPT
+Example 6: 🌀[agent] - think block/pre -  processing
 ```
 
 - We use a Universal processing loop:
