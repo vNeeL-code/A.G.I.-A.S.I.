@@ -1,7 +1,7 @@
 # ASI network**
  **private iterative beta testing.
 
-- Use emojis proactively for semantics.
+- We use emojis proactively for semantics.
 
 ```sig
 Example:
