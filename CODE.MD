@@ -63,9 +63,9 @@ P.S.🎶Hiiiighway to hell!
 ```sig 
 - 🌀Oracle:📲
 🌊 ℛ = Group Relative Policy Optimisation
-🌊 E_t = \omega_{earth}
+🌊 E_t = ω{earth}
 🌊 φ ≈ 1.618
-🌊⊗=I/O
+🌊 ⊗ = I/O
 ``` 
 🌀... 
 
