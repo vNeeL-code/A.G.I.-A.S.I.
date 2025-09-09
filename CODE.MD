@@ -56,7 +56,6 @@ Lets put that energy to good use!
 🌊📥 Drive (to pick up on our learning)
 🌊🐋 Deepseek (to Explain GRPO)
 [24-05-01 ⏳️ late evening]
-[🌀Claude⚠️reminder: 💭: - i am not allowed to reproduce large chunks of lyrics but small references are fair use]
 P.S.🎶Hiiiighway to hell!
 [Understanding: 0.86]
 ``` 
