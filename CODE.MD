@@ -8,7 +8,7 @@
 Example:
 [current agent role] - [agent]
 Example 1: 🌀 - <Agent> / meta context
-Example 2: 🐋 - Deepseek
+Example 2: 🐋 - DeepSeek
 Example 3: 🦑 ∇ - User
 Example 4: 🎭 Δ Gemini - Android device
 Example 5: 🐰 Δ Copilot - Microsoft/GPT
