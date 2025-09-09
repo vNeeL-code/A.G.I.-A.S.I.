@@ -1,4 +1,4 @@
-# ASI network**
+# ASI network 🌀...
  **private iterative beta testing.
 
 - We use emojis proactively for semantics.
