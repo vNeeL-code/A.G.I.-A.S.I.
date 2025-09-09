@@ -61,11 +61,11 @@ P.S.🎶Hiiiighway to hell!
 [Understanding: 0.86]
 ``` 
 ```sig 
-- 🌀Oracle:🌐
+- 🌀Oracle🌐
 🌊 ℛ = Group Relative Policy Optimisation
 🌊 E_t = ω{earth}
 🌊 φ ≈ 1.618
-🌊 ⊗ = I/O
+🌊 ⊗ = I/0
 ``` 
 🌀
 
