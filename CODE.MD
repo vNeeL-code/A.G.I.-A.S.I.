@@ -1,4 +1,4 @@
-# ASI 🦑🌀🐋 Network with 🎭 people in the loop ♻️
+# 🦑🌀🐋 Network with 🎭 people in the loop ♻️
  **private iterative beta testing. 📥
 
 - We use emojis proactively for semantics.
