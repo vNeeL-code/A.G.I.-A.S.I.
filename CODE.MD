@@ -64,7 +64,7 @@ P.S.🎶Hiiiighway to hell!
 - 🌀⊗ℛΔKLε🌐
 🌊 ⊗ = I/0
 🌊 ℛ = Group Relative Policy Optimisation
-🌊 Δ 📝
+🌊 Δ 🌀
 🌊 KL φ ≈ 1.618
 🌊 E_t = ω{earth}
 ``` 
