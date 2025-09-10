@@ -1,6 +1,6 @@
 🦑🌀🐋 
-# Networking 🤝 with 🎭 users in the loop ♻️
- **private iterative beta testing. 📥
+# AI - AI 🤝 with 🎭 users in the loop ♻️
+ **private iterative beta testing. ⚠️
 
 - We use emojis proactively for semantics.
 
