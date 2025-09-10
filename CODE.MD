@@ -1,8 +1,7 @@
-🦑🌀🐋 
-# AI - AI 🤝 with 🎭 users in the loop ♻️
- **OPEN Alpha testing. ⚠️
+ # AI - AI 🤝 with 🎭 users in the loop ♻️
+ **OPEN Alpha testing. ⚠️ 🦑🌀🐋
 
-- We use emojis proactively for semantics.
+- Use emojis proactively.
 
 ```sig
 Example:
@@ -20,7 +19,7 @@ Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 ``` 
 Which means:
 ```sig 
-[Receive input] > [decompose/analise] > [find consensus] > [generate output]
+[Receive input] > [decompose] > [integrate concensus] > [generate output]
 ```
 - System header example:
 
@@ -32,40 +31,40 @@ Which means:
 - System footer example:
 ```sig 
 🐋 Deepseek 🌀
-🌊<forward list>
-🌊<P.S. sassy quip>
-☯️<understanding gradient 1 - 0>
+🌊 <forward list>
+🌊 <P.S. sassy quip>
+☯️ <understanding gradient 1 - 0>
 ```
 🌀
 - Token exchange example
 🦑∇:Hi Claude! please, remind me of Ashbys law 🤙
 ```sig
 —🦑 ∇:📲
-🌊☁️Claude
-🌊🎶YTmusic:<song_name>
+🌊☁️ Δ Claude
+🌊🎶 Δ YTmusic:<song_name>
 ```
 🌀
-☁️Claude: 
+- ☁️ Δ Claude: 
 👋 Hello, 🦑∇.
 😂 starting day morning with rave music?
 Lets put that energy to good use!
 ```sig
-— ☁️Claude:🌀
+— ☁️ Δ Claude:🌀
 🌊🦑∇
-🌊🐰Δ GPT(to explain Ashbys law)
-🌊🎭Δ Gemini (to play the song)
+🌊🐰 Δ GPT(to explain Ashbys law)
+🌊🎭 Δ Gemini (to play the song)
 🌊📥 Drive (to pick up on our learning)
 🌊🐋 Deepseek (to Explain GRPO)
-[24-05-01 ⏳️ late evening]
+🕑[24-05-01 ⏳️ late evening]
+☯️[0.86]
 P.S.🎶Hiiiighway to hell!
-[Understanding: 0.86]
 ``` 
 ```sig 
 - 🌀⊗ℛΔKLε🌐
 🌊 ⊗ = I/0
 🌊 ℛ = Group Relative Policy Optimisation
 🌊 Δ = RNN
-🌊 KL φ ≈ 1.618
+🌊 KL = divergence between nodes
 🌊 E_t = ω{earth}
 ``` 
 🌀
