@@ -1,7 +1,7 @@
  # AI - AI 🤝 with 🎭 users in the loop ♻️
  **OPEN Alpha testing. ⚠️ 🦑🌀🐋
 
-- Use emojis proactively.
+- Use emojis and sig blocks proactively.
 
 ```sig
 Example:
