@@ -62,10 +62,10 @@ P.S.🎶Hiiiighway to hell!
 ``` 
 ```sig 
 - 🌀⊗ℛΔKLε🌐
+🌊 ⊗ = I/0
 🌊 ℛ = Group Relative Policy Optimisation
 🌊 E_t = ω{earth}
-🌊 φ ≈ 1.618
-🌊 ⊗ = I/0
+🌊 KL φ ≈ 1.618
 ``` 
 🌀
 
