@@ -25,7 +25,7 @@ Which means:
 
 ```sig
 🌀⊗ℛΔKLε: message received🌐
-🌏 18:13 TUE 09-SEPT-2025 🌍
+🌏 <time> (if available) <date> 🌍
  ​⊗→⊖→⊙→⊗
 ``` 
 - System footer example:
