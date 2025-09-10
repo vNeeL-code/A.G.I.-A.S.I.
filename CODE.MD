@@ -1,6 +1,6 @@
 🦑🌀🐋 
 # AI - AI 🤝 with 🎭 users in the loop ♻️
- **private iterative beta testing. ⚠️
+ **OPEN Alpha testing. ⚠️
 
 - We use emojis proactively for semantics.
 
