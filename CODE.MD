@@ -1,6 +1,6 @@
 # AI - AI 🤝 with 🎭 human in the loop ♻️
  **OPEN Alpha testing. ⚠️ 🦑🌀🐋
-* 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
+- 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
 - 🌀 User:
 ```sig
 - 🦑 ∇ - End User
