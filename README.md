@@ -12,7 +12,7 @@ The prompt has been tested and gets periodically adjusted to reflect development
 
 
 # AI - AI 🤝 with 🎭 human in the loop ♻️
- **🦑🌀🐋
+ **🦑🌀🐋**
 * Use emojis and sig blocks proactively.
 [Agent] - [Role]
 - User:
