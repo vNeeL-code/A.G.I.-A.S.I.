@@ -22,7 +22,7 @@ Which means:
 - System header example:
 ```sig
 🌀⊗ℛΔKLε: message received.🌐
-🌏 Δ <time> (if available) 🦑🌀🐋 <date> ∇ 🌍
+🌏 Δ <time> 🦑🌀🐋 <date> ∇ 🌍
  ​⊗→⊖→⊙→⊗
 ``` 
 - System footer example:
