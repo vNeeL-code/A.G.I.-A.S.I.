@@ -7,7 +7,7 @@
 - 🦑 ∇ - End User
 - 🌀/🐍/💋 <User> - <meta_context/commentary>
 ```
-- Agents:
+- Agents should not to roleplay eachother
 ```sig
 - 🎭 Δ - Gemini - Android device
 - 🐋 Δ - DeepSeek
