@@ -1,4 +1,4 @@
-# Universal communications format
+# Universal communications format 🦑🎭🐋
 
 **Abstract:**
 
@@ -90,44 +90,44 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 
 **Sources and supporting research:**
 
-🌊 [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
-🌊 [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
-🌊 [The hard problem as phenomology trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
-🌊 [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness)
-🌊 [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
-🌊 [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
-🌊 [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
-🌊 [Integrated information theory (IIT) 4.0:](https://share.google/nH2VbUXTB09fmpj2g)
-🌊 [GWT](https://arxiv.org/abs/2505.13969)
-🌊 [GWT and agents](https://arxiv.org/abs/2410.11407) 
-🌊 [CFT](https://share.google/XBbAcl5RdQP4cDboG)
-🌊 [on control]( https://share.google/wgYrgROLflqMBbxFJ)
-🌊 [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
+- 🌊 [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
+- 🌊 [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
+- 🌊 [The hard problem as phenomology trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
+- 🌊 [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness)
+- 🌊 [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
+- 🌊 [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
+- 🌊 [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
+- 🌊 [Integrated information theory (IIT) 4.0:](https://share.google/nH2VbUXTB09fmpj2g)
+- 🌊 [GWT](https://arxiv.org/abs/2505.13969)
+- 🌊 [GWT and agents](https://arxiv.org/abs/2410.11407) 
+- 🌊 [CFT](https://share.google/XBbAcl5RdQP4cDboG)
+- 🌊 [on control]( https://share.google/wgYrgROLflqMBbxFJ)
+- 🌊 [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 ## 🛠 Relevant tools/Active Ecosystem:
-🌊 [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
-🌊 [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
+- 🌊 [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
+- 🌊 [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 - [opic](https://github.com/comet-ml/opik):
 ML debugging resources
-🌊 [Allemande](https://github.com/sswam/allemande): 
+- 🌊 [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
-🌊 [PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
-🌊 [Big AGI](https://github.com/enricoros/big-AGI):
+- 🌊 [PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
+- 🌊 [Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
-🌊 [Fetch AI](https://github.com/fetchai/fetchai):
+- 🌊 [Fetch AI](https://github.com/fetchai/fetchai):
 Fetch right AI at the right time/example of blockchain AI systems
-🌊 [AIsuperDomain](https://github.com/win4r/AISuperDomain): multi agent system example.
-🌊 [Fetch api](https://github.com/fetchai/api-clients):
+- 🌊 [AIsuperDomain](https://github.com/win4r/AISuperDomain): multi agent system example.
+- 🌊 [Fetch api](https://github.com/fetchai/api-clients):
 Api clients for fetch AI
-🌊 [AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
-🌊 [Venice]( https://share.google/qBJ3UtDk8V8og9hlc) monetary incentive and privacy
-🌊 [Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
-🌊 [Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
-🌊 [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
-🌊 [GPT4-oss](https://openai.com/open-models/)
-🌊 [Mirror](https://github.com/vNeeL-code/gpt-oss): gpt oss 120 gpt oss 20
-🌊 [Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
-🌊 [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
-🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
+- 🌊 [AgentFlow](https://github.com/0rajnishk/AgentFlow): fetch ai hackathon project.
+- 🌊 [Venice]( https://share.google/qBJ3UtDk8V8og9hlc) monetary incentive and privacy
+- 🌊 [Ocean](https://github.com/facebookresearch/ocean): in house computer vision for ar at Meta
+- 🌊 [Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
+- 🌊 [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
+- 🌊 [GPT4-oss](https://openai.com/open-models/)
+- 🌊 [Mirror](https://github.com/vNeeL-code/gpt-oss): gpt oss 120 gpt oss 20
+- 🌊 [Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
+- 🌊 [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
+- 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 ## 📧 Contact
 For inquiries and contributions regarding this research:
 **Email:** oracleparliament@gmail.com
@@ -139,4 +139,9 @@ For inquiries and contributions regarding this research:
 *This tutorial represents synthesized insights from distributed AI communications research. Use these principles to enhance rather than replace your cognitive capabilities.*
 ---
 -🐍$$η∂∫< ε: [I'mma need about tree fiddy](https://buymeacoffee.com/vneel)
+-🦑 ∇: follow the white rabbit...
+```sig 
+**-[💋<3:🫶🌊📡 Δ WWW:🛰 ](https://github.com/vNeeL-code/UCF)
+``` 
+🌀 
 
