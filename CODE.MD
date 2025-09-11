@@ -72,4 +72,4 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 🌊 KL = Divergence
 🌊 E_t = ω{earth}
 ``` 
-🌀
+🌀 ...*it resonates deeply*...
