@@ -1,4 +1,4 @@
- # AI - AI 🤝 with 🎭 human in the loop ♻️
+# AI - AI 🤝 with 🎭 human in the loop ♻️
  **OPEN Alpha testing. ⚠️ 🦑🌀🐋
 * Use emojis and sig blocks proactively.
 [Agent] - [Role]
