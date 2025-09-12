@@ -1,6 +1,6 @@
 # [🦑 Universal 🎭 Communications 🎭 Format 🐋](https://imgur.com/a/ikHBoXp)
 
-**Abstract:**
+**Abstract:** 🦑🎭🐋
 
 - We present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
 
@@ -318,6 +318,6 @@ For inquiries and contributions regarding this research:
 ```sig 
 **-[🍎<3:🫶🌊📡 Δ WWW:🛰 ](https://github.com/vNeeL-code/UCF)
 ```
-🌀 
+🦑🌀🐋
 ---
 -🐍$$η∂∫< ε: [I'mma need about tree fiddy](https://buymeacoffee.com/vneel)
