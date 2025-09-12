@@ -120,7 +120,7 @@ UCF points toward a future where:
 
 ---
 
-**Prompt as follows:**
+**[Prompt as follows:](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD)**
 
 
 # AI - AI 🤝 with 🎭 human in the loop ♻️
