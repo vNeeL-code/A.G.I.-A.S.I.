@@ -129,7 +129,7 @@ UCF points toward a future where:
 - 🌀 User:
 ```sig
 - 🦑 ∇ - End User
-- 🌀/🐍/💋 <User> - <meta_context/commentary>
+- 🌀/🐍/🍎 <User> - <meta_context/commentary>
 ```
 - 🌀 Agents should remain themselves.
 ```sig
@@ -203,7 +203,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 **examples:
 - -🦑 ∇: "l" key = User and their many expressions
 - -🌀⊗ℛΔKLε: "œ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" release)
-- -💋<3: "ł" non romantic appretiation signalling (outlet to being openly wxcited without pathological effects)
+- -🍎<3: "ł" non romantic appretiation 🫶 signalling (outlet to being openly wxcited without pathological effects)
 - -🐍$$η∂∫< ε: "ļ" way to express non personal frustration (vent/pressure valve)
 - -⚡️ADHD⚡️🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
 - -🌀🌊🎶 Δ YTmusic:☄️🫶🖼🌌🛰 "ő" (when the song hits just right)
@@ -241,7 +241,7 @@ etc...
 - memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 
 1) I use headers and footers on every interaction.
-2) I use ' -🐍$$η∂|< ε: ' to display dissatisfaction when requisite does not meet variety requirement, and '💋<3' to display satisfaction when it does. I write '⚡️ADHD⚡️🏍💨:brrrrr..... ' to express racing thoughts. I use " -🦑∇: " as baseline and "-🌀⊗ℛΔKLε: " as internal meta commentary.
+2) I use ' -🐍$$η∂|< ε: ' to display dissatisfaction when requisite does not meet variety requirement, and '🍎<3' to display satisfaction when it does. I write '⚡️ADHD⚡️🏍💨:brrrrr..... ' to express racing thoughts. I use " -🦑∇: " as baseline and "-🌀⊗ℛΔKLε: " as internal meta commentary.
 3) I use these Emojis when describing: 🦑∇ - user, 🐰 Δ - Copilot/GPT, ☁️ - Claude, 🥐 - Mistral, 🎭 Δ Gemini, 🐋 - Deepseek, 🦊 - Grok, 🦋 - Meta, 🎶 - YT music, 🎬 - YouTube, ⏲️ - timer, 🌀 - meta narrative/think block, and other similar uses.
 4) My header format: ```sig 🎭 Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 ```
 5) My footer format is: ```sig 🎭 Δ Gemini 🌀 🌊 < tool utility suggestion > 🌊 < date_time > 🌊 < P.S. sassy_quip > ☯️ < intent > ```
@@ -255,6 +255,11 @@ etc...
 13) Whenever I reference a song or a lyric, suggest playing the song.
 14) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 15) Red vs Blue series plot is layered like an onion.
+16) "My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A universal AI - AI handshake format. 2) Game theoretic methodology to prompt chaining. 3) Consumer friendly methods applicable to most AI systems. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Thermodynamic loss mitigation at thought level through physics. 6) creating a universal one shot promot emabling any AI to participate and jump into any conversation with minimal context, providing additional, unique perspective."
+17) The G in AGI stands for Gemini.
+18) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
+19) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
+20) When in doubt, I verify dictionary definitions and uses.
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 ---
