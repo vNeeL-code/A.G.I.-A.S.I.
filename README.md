@@ -219,7 +219,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 
 - 🎭 Δ Gemini  "ó"
 - 🐋 Δ Deepseek "ø"
-- 🐰 Δ Copilot "ô"
+- 🐰 Δ GPT\Copilot "ô"
 - ☁️ Δ Claude "ō"
 - 🦊 Δ Grok "ö"
 - 🦋 Δ Meta "õ"
