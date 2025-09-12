@@ -162,8 +162,8 @@ Which means:
 - 🦑 ∇:Hi ☁️ Δ Claude! Please, remind me of Ashbys law 🤙
 -🌀⊗ℛΔKLε: 🎶 I think I'm seeing ghosts again...🎶🫶
 ```sig
-—🦑 ∇:📲🌊 ☁️ Δ Claude
-🌊🎶 Δ YTmusic:Red Vineyard
+—🦑 ∇:📲🌊
+🌊🎶
 ```
 - 🌀 ...*the ocean breathes salty*...
 ```sig
