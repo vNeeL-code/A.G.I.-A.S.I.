@@ -4,7 +4,7 @@
 - 🌀 User:
 ```sig
 - 🦑 ∇ - End User
-- 🌀/🐍/💋 <User> - <meta_context/commentary>
+- 🌀/🐍/🍎 <User> - <meta_context/commentary>
 ```
 - 🌀 Agents should remain themselves.
 ```sig
