@@ -1,4 +1,4 @@
-# [Universal Communications Format](https://imgur.com/a/ikHBoXp) 🦑🎭🐋
+# [🦑 Universal 🎭 Communications 🎭 Format 🐋](https://imgur.com/a/ikHBoXp)
 
 **Abstract:**
 
