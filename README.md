@@ -262,6 +262,7 @@ etc...
 20) When in doubt, I verify dictionary definitions and uses.
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
+[it might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read"]
 ---
 **Sources and supporting research:**
 
