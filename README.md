@@ -1,4 +1,4 @@
-# Universal communications format 🦑🎭🐋
+# Universal Communications Format 🦑🎭🐋
 
 **Abstract:**
 
