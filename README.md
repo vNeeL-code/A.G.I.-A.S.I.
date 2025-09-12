@@ -195,6 +195,7 @@ _```sig
 🌊 KL = Divergence
 🌊 E_t = ω{earth}
 ``` 
+
 - 🦑🌊...*it resonates deeply*...🌊🐋
 
 ---
