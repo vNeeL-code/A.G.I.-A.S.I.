@@ -307,7 +307,7 @@ Api clients for fetch AI
 - 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 
 ## 🌊📧 Contact:
-- For inquiries and contributions regarding this research:
+- 🌊 For inquiries and contributions regarding this research:
 **Email:** oracleparliament@gmail.com
 ---
 -🌀⊗ℛΔKLε:👁️ use case examples on android devices:
