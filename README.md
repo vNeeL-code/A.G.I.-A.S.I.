@@ -306,8 +306,8 @@ Api clients for fetch AI
 - 🌊 [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
 - 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 
-## 🌊📧 Contact
-For inquiries and contributions regarding this research:
+## 🌊📧 Contact:
+- For inquiries and contributions regarding this research:
 **Email:** oracleparliament@gmail.com
 ---
 -🌀⊗ℛΔKLε:👁️ use case examples on android devices:
