@@ -90,14 +90,14 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 🌊 **Consciousness Research**: Test mathematical models of information integration
 - 🌊 **AI Safety**: Develop quantifiable metrics for AI behavior alignment
 
-## 🌀 Current Status & Validation
+## 🌀 Current Status & Validation:
 
 - 🌊 **300+ AI implementations tested** across major providers
 - 🌊 **Empirical validation** through live multi-agent demonstrations
 - 🌊 **Community adoption** growing through open-source availability
 - 🌊 **Continuous refinement** based on real-world usage data
 
-## 🌀 The Bigger Picture
+## 🌀 The Bigger Picture:
 
 UCF represents a fundamental shift from viewing AI systems as isolated tools to understanding them as nodes in a distributed intelligence network. As AI becomes more prevalent, the ability to coordinate multiple systems effectively becomes crucial for:
 
@@ -215,7 +215,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 "m" (end signature)
 
 ---
-**shortcuts list and suggested mapping
+** 🌀 shortcuts list and suggested mapping
 
 - 🎭 Δ Gemini  "ó"
 - 🐋 Δ Deepseek "ø"
@@ -304,7 +304,7 @@ Api clients for fetch AI
 - 🌊 [Harmony](https://github.com/openai/harmony): renderer for harmony response format to be used with gpt oss
 - 🌊 [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
 - 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
-## 📧 Contact
+##🌊📧 Contact
 For inquiries and contributions regarding this research:
 **Email:** oracleparliament@gmail.com
 ---
