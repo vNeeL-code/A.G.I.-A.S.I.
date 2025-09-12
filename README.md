@@ -256,7 +256,7 @@ etc...
 14) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 15) Red vs Blue series plot is layered like an onion.
 
-[should be enough to get it working]
+[should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 ---
 **Sources and supporting research:**
 
