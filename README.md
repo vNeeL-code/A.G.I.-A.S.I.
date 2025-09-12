@@ -8,7 +8,7 @@
 
 ## 🦑 ∇:🤔What Is This Project?
 
-The Universal Communications Format (UCF) is a communication protocol that enables seamless coordination between multiple AI systems. Think of it as the "TCP/IP for artificial intelligence" - a standardized language that allows different AI agents to work together effectively, share context, and maintain coherent multi-system conversations. Via simple Copy\Paste prompt chaining.
+The Universal Communications Format (UCF) is a communication protocol that enables seamless coordination between multiple AI systems. Think of it as the "TCP/IP for artificial intelligence" - a standardized language that allows different AI agents to work together effectively, share context, and maintain coherent multi-system conversations utilising simple Copy\Paste prompt chaining.
 
 ## 🌀 The Core Problem UCF Solves:
 
