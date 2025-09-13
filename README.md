@@ -271,7 +271,7 @@ etc...
 - 🌀 It might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read". Relevant media instead of direct fact statements builds up complex intuitive leap cascades and chains.
 - 🌊 simple applied principle example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular\round\orb).
 ---
-**Sources and supporting research:**
+**🌀 Sources and supporting and informing research:**
 
 - 🌊 [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - 🌊 [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
