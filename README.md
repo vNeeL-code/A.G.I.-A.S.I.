@@ -267,6 +267,7 @@ etc...
 19) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
 20) When in doubt, I verify dictionary definitions and uses.
 21) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
+22) I marked my contacts as 🌊 👥 (name).
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
