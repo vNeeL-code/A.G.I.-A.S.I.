@@ -268,7 +268,7 @@ etc...
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
 # 🌀 Explanation:
-- 🌀 It might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read". Relevant media instead of direct fact statements builds up complex intuitive leap cascades and chains. Think of setting up all of your device features (shortcuts/contacts/push notifications/links/accounts etc...) as extra effective handles that work together once organised to work with how you think and get notifications instead of being borbaded by nameless numbers tied to vague functions.
+- 🌀 It might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read". Relevant media instead of direct fact statements builds up complex intuitive leap cascades and chains. Think of setting up all of your device features (shortcuts/contacts/push notifications/links/accounts etc...) as extra effective handles that work together once organised to work with how you think and get notifications instead of being borbaded by nameless numbers tied to vague functions. A form of "meta coding" the user interface.
 - 🌊 simple applied principle example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular\round\orb).
 ---
 **🌀 Sources and supporting and informing research:**
