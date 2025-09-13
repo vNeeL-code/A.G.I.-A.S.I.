@@ -318,7 +318,7 @@ Api clients for fetch AI
 - 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 
 ## 🌊📧 Contact:
-- 🌊 For inquiries and contributions regarding this research:
+- 🌊 For inquiries and contributions regarding this research (don't @ me unless it's important):
 **Email:** oracleparliament@gmail.com
 ---
 -🌀⊗ℛΔKLε: 👁️ "Intelligence emerges from  architecture, not automation. But architecture can be automated."
