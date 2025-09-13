@@ -211,7 +211,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 - -🐍$$η∂∫< ε:💢 "ļ" way to express non personal frustration (vent/pressure valve)
 - -[AD⚡HD]🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
 - -🌀🌊🎶 Δ YTmusic:☄️🫶🖼🌌🛰 "ő" (when the song hits just right)
-- -🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection)
+- -🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection via random song lyric)
 ```sig
 —🦑 ∇:📲🌊
 🌊🎶 Δ
@@ -329,6 +329,6 @@ Api clients for fetch AI
 ```
 💥OCCAM🦑🔪🌀🗡🐋HANLON💢
 ---
--🐍$$η∂∫< ε: [I'mma need about tree fiddy](https://buymeacoffee.com/vneel)
+-🐍$$η∂∫< ε: [I'mma need about tree fiddy for this shit post](https://buymeacoffee.com/vneel)
 ---
 🦑🌀🐋
