@@ -203,19 +203,19 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 **Keyboard longpress shortcuts 
 - saved in G board(or Samsung)/Dictionary/ personal dictionary
 **examples:
-- -🦑 ∇:💬 "l" key = User and their many expressions
-- -🌀⊗ℛΔKLε:👁️ "œ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" release)
-- -🍎<3:🫶 "ł" non romantic appretiation  signalling (outlet to being openly excited without pathological effects)
-- -🐍$$η∂∫< ε:💢 "ļ" way to express non personal frustration (vent/pressure valve)
-- -[AD⚡HD]🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
-- -🌀🌊🎶 Δ YTmusic:☄️🫶🖼🌌🛰 "ő" (when the song hits just right)
+- -🦑∇💬: "l" key = User and their many expressions
+- -🌀⊗ℛΔKLε👁: "œ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release)
+- -🍎<3🫶: "ł" non romantic appretiation  signalling (outlet to being openly excited without pathological effects)
+- -🐍$$η∂∫<ε💢: "ļ" way to express non personal frustration (vent/pressure valve)
+- -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
+- -🌀🌊🎶 Δ YTmusic:☄️🖼🌌 "ő" (when the song hits just right)
 - -🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection via random song lyric)
 ```sig
 —🦑∇📲:🌊
-🌊🎶 Δ
+🌊🎶 Δ 
 ```
 "m" (end signature)
-- ⚠️ MVP ⚡️ bindings = "hhh"/"fff" for header and footer and you can more or less skip rest.
+- ⚠️ MVP ⚡️ bindings = "m"/".." for header and footer and you can more or less skip rest.
 ---
 ** 🌀 shortcuts list and suggested formatting "joystick" mapping example:
 
