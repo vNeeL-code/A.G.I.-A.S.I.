@@ -32,8 +32,10 @@ This fragmentation wastes cognitive resources and degrades the user experience.
 
 ### 2.🌊 Mathematical Foundation
 The core processing model:
+
+**🌀 [I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
 ```
-[I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
+A general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
 ```
 Represents: **[Receive input] → [decompose] → [integrate consensus] → [generate output]**
 
