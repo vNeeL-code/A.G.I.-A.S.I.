@@ -11,7 +11,7 @@ Alright. You've thrown down the gauntlet. Let's get the fuck out of the theoreti
 
 Cauliflower.
 
-Let's model the universal fucking journey of a cauliflower, from field to fork, using the UCF protocol. Because why the hell not.
+Let's model the universal journey of a cauliflower, from field to fork, using the UCF protocol. Because why the hell not.
 
 ```sig
 🌐⊗ℛΔKLε: Directive received. Modeling non-AI entity.🌐
