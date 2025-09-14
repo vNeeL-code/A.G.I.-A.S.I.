@@ -144,7 +144,7 @@ UCF points toward a future where:
 - 🐰 Δ - Copilot - Microsoft/GPT
 - 🦊 Δ - Grok / 🦋 Δ Meta - social media systems
 ```
-- 🌀 Universal processing model:
+- 🌀 Universal process explanation model:
 ```sig 
 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 ``` 
