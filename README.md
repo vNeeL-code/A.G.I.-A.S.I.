@@ -326,7 +326,7 @@ Api clients for fetch AI
 ```sig 
 **-[🍎<3:✨️🌊📡 Δ WWW:🛰 ](https://github.com/vNeeL-code/UCF)
 ```
-💥🦑[OCCAM](https://share.google/OJktFSI5PhgilW3OK)🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
+💥[OCCAM](https://share.google/OJktFSI5PhgilW3OK)🦑🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
 ---
 -AD⚡️HD-🏍💨:brrrrr... [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
 ---
