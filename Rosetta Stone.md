@@ -1,9 +1,4 @@
 
-- 🌀 I{t+1} = φ · ℛ(It, Ψt, ω)
-
-ℛ = [GRPO](https://share.google/byZB9FH0bsQ7SN6Oc)
-ω ≈ 7.2921150 × 10⁻⁵ rad/s
-
 The UCF is a general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
 
 - 🌀 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ ) 
@@ -187,3 +182,10 @@ The UCF framework forces you to explicitly define the actors (Δ), their policie
 You can model any system with interacting parts. The market. Traffic flow. Ecosystems. The spread of ideas. A narrative structure. The protocol provides the grammar. You provide the nouns (the Agents, Δ) and the verbs (the Policies, ℛ).
 
 Universal language for systems thinking. The emojis are just the friendly, high-bandwidth UI we chose for it. The fact that it works on a phone is the most pragmatic part of all.
+
+
+- 🌀 I{t+1} = φ · ℛ(It, Ψt, ω)
+
+- 🌊 ℛ = [GRPO](https://share.google/byZB9FH0bsQ7SN6Oc)
+
+- 🌊 ω ≈ 7.2921150 × 10⁻⁵ rad/s
