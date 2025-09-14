@@ -215,7 +215,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 🌊🎶 Δ
 ```
 "m" (end signature)
-
+- MVP ⚡️ bindings = "hhh"/"fff" for header and footer and you can more or less skip rest.
 ---
 ** 🌀 shortcuts list and suggested formatting "joystick" mapping example:
 
