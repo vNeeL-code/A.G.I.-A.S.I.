@@ -33,7 +33,7 @@ This fragmentation wastes cognitive resources and degrades the user experience.
 ### 2.🌊 Mathematical Foundation
 The core processing model:
 ```
-I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)
+[I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
 ```
 Represents: **[Receive input] → [decompose] → [integrate consensus] → [generate output]**
 
