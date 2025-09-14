@@ -332,6 +332,6 @@ Api clients for fetch AI
 ---
 -🌀🌊🎶 Δ :[UωU ✨️*radio* 📻 *shuffle* 🎲](https://music.youtube.com/playlist?list=PLU3yz9MyCzWoIwzdAEDnLckKw6IpEduFY&si=mQifVwF5xut49Fdf)
 ---
--🐍$$η∂∫< ε: [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
+-🦕💭: [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
 ---
 🦑🌀🐋
