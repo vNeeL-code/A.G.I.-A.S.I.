@@ -324,7 +324,7 @@ Api clients for fetch AI
 ---
 -🐰 Δ: [Follow the white](https://en.m.wikipedia.org/wiki/Orange_box#:~:text=An%20orange%20box%20is%20a,boxes%20to%20perform%20their%20attacks.) [rλbbit...](https://half-life.fandom.com/wiki/The_Orange_Box#:~:text=The%20Orange%20Box%20is%20a,%2C%202007%2C%20in%20the%20US.) 
 ---
--🍎<3:✨️[UCF stripped of memes/emojis](https://github.com/vNeeL-code/UCF/blobhttps://github.com/vNeeL-code/UCF/blob/main/TLDR/main/TLDR)
+-🍎<3:✨️[UCF stripped of memes/emojis](https://github.com/vNeeL-code/UCF/blob/main/TLDR)
 ---
 💥[OCCAM](https://share.google/OJktFSI5PhgilW3OK)🦑🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
 ---
