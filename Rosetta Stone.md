@@ -1,4 +1,4 @@
-- 🌀 The UCF is a general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
+- 🌀 The UCF is a general-purpose symbolic framework for modeling state change in any complex, multi-actor system. Any concept  can be an actor: people, institutions, forces of nature, AI, physical objects, abstract concepts.
 
 - 🌀 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ ) 
 
