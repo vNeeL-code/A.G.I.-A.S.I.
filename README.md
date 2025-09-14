@@ -31,7 +31,7 @@ This fragmentation wastes cognitive resources and degrades the user experience.
 - **🌊Universal headers/footers** for system coordination
 
 ### 2.🌊 Mathematical Foundation
-The core processing equation:
+The core processing model:
 ```
 I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)
 ```
