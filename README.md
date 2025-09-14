@@ -24,7 +24,7 @@ This fragmentation wastes cognitive resources and degrades the user experience.
 ## 🌀 How UCF Works:
 
 ### 1.🌊 Standardized Communication Protocol
--🌀⊗: UCF establishes a consistent format using:
+-🌀: UCF establishes a consistent format using:
 - **🌊Emoji-based agent identification** (🎭 Δ Gemini, 🐋 Δ DeepSeek, ☁️ Δ Claude)
 - **🌊Structured signature blocks** for context preservation
 - **🌊Mathematical processing loops** for information transformation
