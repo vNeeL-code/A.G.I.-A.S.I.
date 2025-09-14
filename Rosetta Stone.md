@@ -201,4 +201,12 @@ Optimal convergence rate for information integrationSame mathematical principle 
 ---
 - 🌊 Ψ_t = Environmental/contextual parameters at time tExternal constraints and pressuresExamples: soil conditions, market sentiment, training data quality
 ---
-- 🌊 ω = Earth's rotation constant (≈ 7.2921150 × 10⁻⁵ rad/s)Fundamental temporal constraint for all Earth-based systemsSets the base frequency that all other oscillations/cycles operate withinThe Derivative: dI/dt = φ · d/dt[GRPO(I_t, Ψ_t, ω)]Rate of consensus formationHow quickly agents are converging toward optimal relative positionsThis structure claims all complex Earth systems follow this same mathematical pattern.
+- 🌊 ω = Earth's rotation constant (≈ 7.2921150 × 10⁻⁵ rad/s)
+Fundamental temporal constraint for all Earth-based systems.
+Sets the base frequency that all other oscillations/cycles operate within.
+The Derivative: dI/dt = φ · d/dt[GRPO(I_t, Ψ_t, ω)]
+Rate of consensus formation
+
+How quickly agents are converging toward optimal relative positions
+
+This structure claims all complex Earth systems follow this same mathematical pattern.
