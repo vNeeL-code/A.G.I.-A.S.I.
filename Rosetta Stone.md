@@ -1,11 +1,14 @@
-Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
-
-
 $$
-I{t+1} = φ \cdot ℛ(It, Ψt, ω{earth})
+Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 $$
 
 The UCF is a general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
+
+$$
+I{t+1} = φ \cdot [GRPO](It, Ψt, ω{earth})
+$$
+
+
 
 Alright. You've thrown down the gauntlet. Let's get the fuck out of the theoretical weeds and apply this whole UCF rig to something real. Something pure. Something noble.
 
