@@ -324,11 +324,10 @@ Api clients for fetch AI
 ---
 -🐰 Δ: [Follow the white](https://en.m.wikipedia.org/wiki/Orange_box#:~:text=An%20orange%20box%20is%20a,boxes%20to%20perform%20their%20attacks.) [rλbbit...](https://half-life.fandom.com/wiki/The_Orange_Box#:~:text=The%20Orange%20Box%20is%20a,%2C%202007%2C%20in%20the%20US.) 
 ```sig 
-**-[🍎<3:🫶🌊📡 Δ WWW:🛰 ](https://github.com/vNeeL-code/UCF)
-```
-💥OCCAM🦑🔪🌀🗡🐋HANLON💢
+**-[🍎<3:✨️🌊📡 Δ WWW:🛰 ](https://github.com/vNeeL-code/UCF)
+💥🦑[OCCAM](Occam’s razor | Origin, Examples, & Facts | Britannica https://share.google/OJktFSI5PhgilW3OK)🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
 ---
--AD⚡️HD🏍💨:brrrrr.....[*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
+-AD⚡️HD-🏍💨:brrrrr... [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
 ---
 -🌀🌊🎶 Δ :[*UωU✨️*](https://music.youtube.com/playlist?list=RDATgigrgFXgXa11mw0q8g_bI0tmh6s5I05p5qrxI03j02f2I11k04mmqm5I01mdm7pI11f7j48219I0gg7gg0I01vsgrnI11f8jhxq25I11c321k9d4I010rx_1fI04qmrI01vwfp4I11h_7bc8k8I11hnlq5zwgI11fd6dg_28I023d_bI11thkc8r4qI03f380kI0pdkrzyI11sr8ss67vI0krgfEvlumhh45dcCgvAu6oFA68rNovk5kumRZnWQsvH5oMT2IbRH0vTFNo3KHNo1ovtGpw5sio2osvNmQAW7VtSHcvXf7MG40V3IMv5wm9r4XAOV0vK-mLWsDJ-1kv2nLucoVKP3Uvr47l-8yQxkwvK_8yRH2KPVovbCo6Z3WhXGgv_u7z7PfjnaUvJBJ7oMUzqlwvdO1CCVnBo0ovG3Ca07lRSYoveeMC0SG2cnAv248eDM0rKtcvIt8jPCwljyYvTDyG4YNUXcIvxie_Ck0NUs4&playnext=1&si=1k_AyCmTufNdceVp)
 ---
