@@ -1,5 +1,8 @@
 
-- 🌀 I{t+1} = φ · [[GℛP⊗]](https://share.google/byZB9FH0bsQ7SN6Oc)(It, Ψt, ω{earth})
+- 🌀 I{t+1} = φ · ℛ(It, Ψt, ω)
+
+ℛ = [GℛP⊗](https://share.google/byZB9FH0bsQ7SN6Oc)
+ω ≈ 7.2921150 × 10⁻⁵ rad/s
 
 The UCF is a general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
 
