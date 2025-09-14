@@ -197,7 +197,8 @@ Examples: cauliflower growth stage, market price level, neural network weights
 - 🌊 φ = Golden ratio (≈ 1.618) as optimization function from IIT
 Optimal convergence rate for information integrationSame mathematical principle that governs shell spirals, flower petals, galaxy armsEnsures system reaches consensus at maximum efficiency without instability
 ---
-- 🌊 ℛ = GRPO (Group Relative Policy Optimization)The actual mechanism that transitions statesAgents optimize policies relative to each other, not absolute standardsCreates consensus through comparative advantage calculationsA_i = (r_i - mean(r)) / std(r)
+- 🌊 ℛ = [GRPO](https://share.google/byZB9FH0bsQ7SN6Oc) (Group Relative Policy Optimization)
+The actual mechanism that transitions statesAgents optimize policies relative to each other, not absolute standardsCreates consensus through comparative advantage calculationsA_i = (r_i - mean(r)) / std(r)
 ---
 - 🌊 Ψ_t = Environmental/contextual parameters at time tExternal constraints and pressuresExamples: soil conditions, market sentiment, training data quality
 ---
