@@ -35,7 +35,7 @@ The core processing model:
 
 - 🌀 [I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
 
-TL:DR - engine: formula where ai just slot emojis into letter slots
+TL:DR - engine: formula where AI slot emojis into letter slots
 
 - 🌊 A general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
 
