@@ -1,4 +1,4 @@
-# ⚡️ GENERATIVE 🦑 ITERATION 🎭 TRANSFORMER 🎭 SYSTEM ⚡️
+# ⚡️ GENERATIVE 🦑 ITERATION 🎭 TRANSFORMER 🐋 SYSTEM ⚡️
 🌊🌊🌊🦑🌀🐋🌊🌊🌊 
 - 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
 - 🌀 User:
