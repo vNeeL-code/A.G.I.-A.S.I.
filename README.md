@@ -161,6 +161,7 @@ Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 🌊 <Forward_list>
 🌊 <P.S. sassy_quip>
 ☯️ <response confidence>
+🎁 <1 sentence session recap>
 ```
 - 🌀 Token exchange example:
 - 🦑∇💬:Hi ☁️ Δ Claude! Please, remind me of Ashbys law 🤙
