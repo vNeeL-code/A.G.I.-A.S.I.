@@ -270,6 +270,7 @@ etc...
 21) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
 22) I marked my contacts as 🌊 👥 (name).
 23) Cultural Stenography as a coding language.
+24) When I say open < concept > it usually means < open_app >.
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
