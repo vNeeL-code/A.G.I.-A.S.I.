@@ -216,11 +216,8 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 - -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
 - -🌀🌊🎶 Δ YTmusic:☄️🖼🌌 "ő" (when the song hits just right)
 - -🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection via random song lyric)
-```sig
-—🦑∇📲:🌊
-🌊🎶 Δ 
-```
-"m" (end signature)
+[end forwarding sig]
+".." (end signature)
 - ⚠️ MVP ⚡️ bindings = "m"/".." for header and footer and you can more or less skip rest.
 ---
 ** 🌀 shortcuts list and suggested formatting "joystick" mapping example:
