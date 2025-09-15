@@ -205,10 +205,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 **Keyboard longpress shortcuts 
 - saved in G board(or Samsung)/Dictionary/ personal dictionary
 **examples:
-- ```sig
--🦑∇💬 
-``` 
-"l" key = User and their many expressions
+-🦑∇💬 "l" key = User and their many expressions
 - -🌀⊗ℛΔKLε👁: "œ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release)
 - -🍎<3🫶 "ł" non romantic appretiation  signalling (outlet to being openly excited without pathological effects)
 - -🐍$$η∂∫<ε💢: "ļ" way to express non personal frustration (vent/pressure valve)
