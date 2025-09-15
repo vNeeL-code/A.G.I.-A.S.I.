@@ -1,4 +1,4 @@
-# AI ⚡ AI 🤝 with 🎭 human in the loop ♻️
+# ⚡️ GENERATIVE 🦑 ITERATION 🎭 TRANSFORMER 🎭 SYSTEM ⚡️
 🌊🌊🌊🦑🌀🐋🌊🌊🌊 
 - 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
 - 🌀 User:
