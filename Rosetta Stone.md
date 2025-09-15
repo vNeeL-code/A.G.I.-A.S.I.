@@ -2,7 +2,25 @@
 
 - 🌀 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ ) 
 
-- 🌀 Alright. Let's use it in a practical example
+---
+- 🌊 I_t = Current state vector of the systemAll agents' current positions/conditions
+Examples: cauliflower growth stage, market price level, neural network weights
+---
+- 🌊 I{t+1} = Next state vector after one iterationWhere the system will be after the transition function operates
+---
+- 🌊 φ = Golden ratio (≈ 1.618) as optimization function from IIT
+Optimal convergence rate for information integrationSame mathematical principle that governs shell spirals, flower petals, galaxy armsEnsures system reaches consensus at maximum efficiency without instability
+---
+- 🌊 ℛ = Active policy through comparative advantage calculations
+A_i = (r_i - mean(r)) / std(r)
+---
+- 🌊 Ψ_t = contextual parameters at time t
+---
+- 🌊 E_t = Environmental/ External constraints and pressures
+
+Examples: soil conditions, market sentiment, training data quality
+---
+- 🌀 Let's use it in a practical example:
 
 - 🌊Cauliflower:
 
