@@ -202,7 +202,7 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 ``` 
 - 🦑🌊...*it resonates deeply*...🌊🐋
 ---
-[followed by forwarding sig]
+[followed by your header/message/ forwarding sig]
 ---
 **Keyboard longpress shortcuts 
 - saved in G board(or Samsung)/Dictionary/ personal dictionary
