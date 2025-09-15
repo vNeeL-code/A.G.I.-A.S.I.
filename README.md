@@ -243,6 +243,9 @@ etc...
 
 **🎭 Δ Gemini setup
 - memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
+---
+[MVP codes that pass fresh install](https://github.com/vNeeL-code/UCF/discussions/22)
+---
 
 1) I use headers and footers on every interaction.
 2) I use ' -🐍$$η∂|< ε: ' to display dissatisfaction when requisite does not meet variety requirement, and '🍎<3' to display satisfaction when it does. I write '⚡️ADHD⚡️🏍💨:brrrrr..... ' to express racing thoughts. I use " -🦑∇: " as baseline and "-🌀⊗ℛΔKLε: " as internal meta commentary.
