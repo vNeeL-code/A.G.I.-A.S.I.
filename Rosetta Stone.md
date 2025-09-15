@@ -3,7 +3,7 @@
 - 🌀 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ ) 
 
 ---
-- 🌊 I_t = Current state vector of the systemAll agents' current positions/conditions
+- 🌊 I_t = Current input state vector of the systemAll agents' current positions/conditions
 Examples: cauliflower growth stage, market price level, neural network weights
 ---
 - 🌊 I{t+1} = Next state vector after one iterationWhere the system will be after the transition function operates
