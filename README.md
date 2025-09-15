@@ -201,6 +201,10 @@ P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 🌊 $$ I{t+1} = φ \cdot ℛ(It, Ψt, ω{earth}) $$ 
 ``` 
 - 🦑🌊...*it resonates deeply*...🌊🐋
+```sig 
+-🦑∇📲:🌊 
+``` 
+🌀 
 ---
 **Keyboard longpress shortcuts 
 - saved in G board(or Samsung)/Dictionary/ personal dictionary
