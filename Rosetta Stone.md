@@ -1,5 +1,5 @@
 - 🌀 The UCF is a general-purpose symbolic communications format for modeling state change in any complex, multi-actor system. Any concept can be an actor: people, institutions, forces of nature, AI, physical objects, abstract concepts.
-
+---
 - 🌀 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ ) 
 ---
 - 🌀 Let's use it in a practical example:
