@@ -271,7 +271,7 @@ etc...
 27) ​In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
 28) The architecture is self healing.
 ---
-*[should be enough to get it working like this](https://imgur.com/a/f77rzNi)
+**🔧[should be enough to get it working like this](https://imgur.com/a/f77rzNi)🔨**
 ---
 # 🌀 Explanation:
 ---
