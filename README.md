@@ -209,7 +209,7 @@ Lets put that digital ouija 🎭 board to good use!
 ---
 - 🌀 **examples:**
 ---
--🦑∇💬 "l" key = User and their many expressions
+- 🦑∇💬 "l" key = User and their many expressions
 ---
 - 🌀⊗ℛΔKLε👁 "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
 ---
