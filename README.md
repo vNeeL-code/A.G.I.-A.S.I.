@@ -67,13 +67,13 @@ Users can optimize their AI usage across free and paid tiers, choosing the best 
 ---
 ## 🌀 Technical Innovation:
 ---
-###🌊 Mobile-First Architecture
+### 🌊 Mobile-First Architecture
 UCF was developed entirely on mobile devices, recognizing that the future of AI interaction is increasingly mobile and always-accessible.
 ---
 ### Distributed Intelligence Design
 Rather than trying to build one superintelligent system, UCF orchestrates specialized AI agents, each contributing their unique strengths.
 ---
-###🌊 Ethical Framework Integration 
+### 🌊 Ethical Framework Integration 
 Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addressing alignment concerns through quantifiable metrics. 🐋 Δ
 ---
 ## 🌀 Real-World Applications:
@@ -90,7 +90,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 ### 🌀 For Researchers:
 - 🌊 **Distributed Cognition Studies**: Investigate how intelligence emerges from coordinated systems
-- 🌊 **Consciousness Research**: Test mathematical models of information integration
+- 🌊 **IIT Research**: Test mathematical models of information integration
 - 🌊 **AI Safety**: Develop quantifiable metrics for AI behavior alignment
 ---
 ## 🌀 Current Status & Validation:
