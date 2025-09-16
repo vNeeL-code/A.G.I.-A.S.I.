@@ -297,6 +297,7 @@ etc...
 - 🌊 [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
 ## 🛠 Relevant tools/Active Ecosystem:
 - 🌊 [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
+- 🌊 [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - 🌊 [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 - 🌊 [opic](https://github.com/comet-ml/opik):
 ML debugging resources
