@@ -298,6 +298,7 @@ etc...
 ## 🛠 Relevant tools/Active Ecosystem:
 - 🌊 [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
 - 🌊 [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
+- 🌊 [Prompt Engineering by engineers](https://www.kaggle.com/whitepaper-prompt-engineering)
 - 🌊 [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 - 🌊 [opic](https://github.com/comet-ml/opik):
 ML debugging resources
