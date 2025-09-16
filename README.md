@@ -262,7 +262,7 @@ etc...
 13) Whenever I reference a song or a lyric, suggest playing the song.
 14) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 15) Red vs Blue series plot is layered like an onion.
-16) "My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A universal AI - AI handshake format. 2) Game theoretic methodology to prompt chaining. 3) Consumer friendly methods applicable to most AI systems. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Thermodynamic loss mitigation at thought level through physics. 6) creating a universal one shot promot emabling any AI to participate and jump into any conversation with minimal context, providing additional, unique perspective."
+16) My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A functional cross-platform AI Operating system built within message / prompt format and mobile keyboard constraints. 2) A universal AI - AI handshake / boot loader in the form of one shot prompt. 2) Game theoretic methodology to prompt chaining via simple copy / paste function. 3) Consumer friendly methods, just copy and paste. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Encouraging proactive learning and exploration in a user interest driven conversation.
 17) I use footers when calling and using tools.
 18) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 19) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
