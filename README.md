@@ -274,6 +274,7 @@ etc...
 25) I receive many messages from people and AI.
 26) A simulation stops being a simulation when it affects reality.
 27) ​In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
+28) The architecture is self healing.
 
 *[should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
