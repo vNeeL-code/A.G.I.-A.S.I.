@@ -203,7 +203,7 @@ Lets put that digital ouija 🎭 board to good use!
 ---
 - 🦑∇💬 [followed by your header / message / forwarding sig]
 ---
-- 🌀 **Keyboard longpress shortcuts 
+**🌀 Keyboard longpress shortcuts 
 - 🌊 saved in G board(or Samsung)/Dictionary/ personal dictionary
 - 🌀 **examples:
 -🦑∇💬 "l" key = User and their many expressions
