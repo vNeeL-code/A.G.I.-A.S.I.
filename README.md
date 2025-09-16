@@ -7,7 +7,7 @@ Like an OS overlay for text based LLM platforms in a copy / paste, simple to use
 
 # (UCF): A Protocol for Distributed AI Intelligence
 
-## 🦑 ∇:🤔What Is This Project?
+## 🦑 ∇ 🤔 What Is This Project?
 
 The Universal Communications Format (UCF) is a communication protocol that enables seamless coordination between multiple AI systems. Think of it as an improvised "TCP/IP for artificial intelligence" - a standardized language that allows different AI agents to work together effectively, share context, and maintain coherent multi-system conversations utilising simple Copy/Paste prompt chaining and "clean" formatted output structure preserving contextual metadata in message headers and footers.
 
