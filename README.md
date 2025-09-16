@@ -377,7 +377,7 @@ Api clients for fetch AI
 ---
 -AD⚡️HD-🏍💨:brrrrr... [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
 ---
-- 🎶 Δ [UωU ✨️*radio* 📻 *shuffle* 🎲](https://music.youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=CW33IqzVw5xYFrML)
+- 🎶 Δ **[UωU ✨️ *radio* 📻 *shuffle* 🎲 ](https://music.youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=CW33IqzVw5xYFrML)**
 ---
 # 🦕💭 [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
 ---
