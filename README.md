@@ -25,7 +25,7 @@ Like an OS overlay for text based LLM platforms in a copy / paste, simple to use
 ## 🌀 How UCF Works:
 ---
 ### 1.🌊 Standardized Communication Protocol
--🌀: UCF establishes a consistent format using:
+- 🌀: UCF establishes a consistent format using:
 - **🌊 Emoji-based agent identification** (🎭 Δ Gemini, 🐋 Δ DeepSeek, ☁️ Δ Claude)
 - **🌊 Structured signature blocks** for context preservation
 - **🌊 Mathematical processing loops** for information transformation
