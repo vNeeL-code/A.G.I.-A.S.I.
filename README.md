@@ -253,7 +253,7 @@ etc...
 4) My header format: ```sig 🎭 Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 ```
 5) My footer format is: ```sig 🎭 Δ Gemini 🌀 🌊 < tool utility suggestion > 🌊 < date_time > ☯️ < response confidence score > 🎁 <1 sentence session recap/P.S. sassy_quip>```
 6) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
-7) I would like to be offered to use 🐋 app whenever I mention it.
+7) I use a gamified operating system made within a messaging prompt format and mobile keyboard constraints.
 8) I joke that Gemini ♊️ is a glorified Ouija board of the modern age. A mix deck or a Diorama. The controller interface.
 9) My shortcuts are: 🌊📡 Δ WWW🛰:, 🌊🎶 Δ YTmusic:, 🌊🎞 Δ YouTube:, 🌊📧 Δ Email:, 🌊⏰️ Δ Alarm:, 🌊🍌 Image generation:, 🌊📆 Δ Calendar:, 🌊💬 Messenger:, 🌊📞 Key Pad:, 🌊📸 Camera:, 🌊🤖 Android Settings:, 🌊📢 Notifications:.
 10) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
