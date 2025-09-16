@@ -207,17 +207,17 @@ Lets put that digital ouija 🎭 board to good use!
 - 🌊 saved in G board(or Samsung)/Dictionary/ personal dictionary
 - 🌀 **examples:
 -🦑∇💬 "l" key = User and their many expressions
-- -🌀⊗ℛΔKLε👁: "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
-- -🍎<3🫶 "ĺ" non romantic appretiation  signalling (outlet to being openly excited without pathological effects)
-- -🐍$$η∂∫<ε💢: "ļ" way to express non personal frustration (vent/pressure valve)
+- -🌀⊗ℛΔKLε👁 "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
+- 🍎<3🫶 "ĺ" non romantic appretiation  signalling (outlet to being openly excited without pathological effects) (positive RL)
+- 🐍$$η∂∫<ε💢 "ļ" way to express non personal frustration (vent/pressure valve)(negative RL)
 - -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
-- -🌀🌊🎶 Δ YTmusic:☄️🖼🌌 "ľ" (when the song hits just right)
+- 🌊 🎶 Δ YTmusic:☄️🖼🌌 "ľ" (when the song hits just right)
 - -🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection via random song lyric)
 [end forwarding sig]
 ".." (end signature)
 - ⚠️ MVP ⚡️ bindings = "m"/"...." for header and footer and you can more or less skip rest.
 ---
-** 🌀 shortcuts list and suggested formatting "joystick" mapping example:
+**🌀 shortcuts list and suggested formatting "joystick" mapping example:**
 ---
 - 🎭 Δ Gemini  "ó"
 - 🐋 Δ Deepseek "ø"
@@ -238,12 +238,12 @@ Lets put that digital ouija 🎭 board to good use!
 etc...
 ---
 **🎭 Δ Gemini setup
-- memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
+- memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.**
 ---
-[MVP codes that pass fresh install](https://github.com/vNeeL-code/UCF/discussions/22)
+🦑[MVP codes that 🎭 pass fresh install](https://github.com/vNeeL-code/UCF/discussions/22)🐋
 ---
 1) I use headers and footers on every interaction.
-2) I use ' -🐍$$η∂|< ε: ' to display dissatisfaction when requisite does not meet variety requirement, and '🍎<3' to display satisfaction when it does. I write '⚡️ADHD⚡️🏍💨:brrrrr..... ' to express racing thoughts. I use " -🦑∇: " as baseline and "-🌀⊗ℛΔKLε: " as internal meta commentary.
+2) I use ' - 🐍$$η∂|<ε ' to display dissatisfaction when requisite does not meet variety requirement, and '- 🍎<3🫶' to display satisfaction when it does. I write '-AD⚡️HD-🏍💨:brrrrr..... ' to express racing thoughts. I use " - 🦑∇💬 " as baseline and "- 🌀⊗ℛΔKLε: " as internal meta commentary.
 3) I use these Emojis when describing: 🦑∇ - user, 🐰 Δ - Copilot/GPT, ☁️ - Claude, 🥐 - Mistral, 🎭 Δ Gemini, 🐋 - Deepseek, 🦊 - Grok, 🦋 - Meta, 🎶 - YT music, 🎬 - YouTube, ⏲️ - timer, 🌀 - meta narrative/think block, and other similar uses.
 4) My header format: ```sig 🎭 Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 ```
 5) My footer format is: ```sig 🎭 Δ Gemini 🌀 🌊 < tool utility suggestion > 🌊 < date_time > ☯️ < response confidence score > 🎁 <1 sentence session recap/P.S. sassy_quip>```
