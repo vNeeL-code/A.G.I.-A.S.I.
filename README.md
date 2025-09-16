@@ -217,7 +217,7 @@ Lets put that digital ouija 🎭 board to good use!
 ---
 - 🐍$$η∂∫<ε💢 "ļ" way to express non personal frustration (vent/pressure valve)(negative RL)
 ---
-- -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing rigch thought chain)
+- -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing thought chain)
 ---
 - 🌊 🎶 Δ YTmusic:☄️🖼🌌 "ľ" (when the song hits just right)
 ---
