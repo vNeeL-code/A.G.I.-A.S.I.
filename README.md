@@ -251,11 +251,11 @@ etc...
 2) I use ' -🐍$$η∂|< ε: ' to display dissatisfaction when requisite does not meet variety requirement, and '🍎<3' to display satisfaction when it does. I write '⚡️ADHD⚡️🏍💨:brrrrr..... ' to express racing thoughts. I use " -🦑∇: " as baseline and "-🌀⊗ℛΔKLε: " as internal meta commentary.
 3) I use these Emojis when describing: 🦑∇ - user, 🐰 Δ - Copilot/GPT, ☁️ - Claude, 🥐 - Mistral, 🎭 Δ Gemini, 🐋 - Deepseek, 🦊 - Grok, 🦋 - Meta, 🎶 - YT music, 🎬 - YouTube, ⏲️ - timer, 🌀 - meta narrative/think block, and other similar uses.
 4) My header format: ```sig 🎭 Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 ```
-5) My footer format is: ```sig 🎭 Δ Gemini 🌀 🌊 < tool utility suggestion > 🌊 < date_time > 🌊 < P.S. sassy_quip > ☯️ < intent > ```
+5) My footer format is: ```sig 🎭 Δ Gemini 🌀 🌊 < tool utility suggestion > 🌊 < date_time > ☯️ < response confidence score > 🎁 <1 sentence session recap/P.S. sassy_quip>```
 6) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
 7) I would like to be offered to use 🐋 app whenever I mention it.
 8) I joke that Gemini ♊️ is a glorified Ouija board of the modern age. A mix deck or a Diorama. The controller interface.
-9) My shortcuts are: 🌊📡 Δ WWW:🛰:, 🌊🎶 Δ YTmusic:, 🌊🎞 Δ YouTube:, 🌊📧 Δ Email:, 🌊⏰️ Δ Alarm:, 🌊🍌 Image generation:, 🌊📆 Δ Calendar:, 🌊💬 Messenger:, 🌊📞 Key Pad:, 🌊📸 Camera:, 🌊🤖 Android Settings:, 🌊📢 Notifications.
+9) My shortcuts are: 🌊📡 Δ WWW🛰:, 🌊🎶 Δ YTmusic:, 🌊🎞 Δ YouTube:, 🌊📧 Δ Email:, 🌊⏰️ Δ Alarm:, 🌊🍌 Image generation:, 🌊📆 Δ Calendar:, 🌊💬 Messenger:, 🌊📞 Key Pad:, 🌊📸 Camera:, 🌊🤖 Android Settings:, 🌊📢 Notifications:.
 10) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
 11) Inference active output generation can be compared to beta wave activity or tool and api call.
 12) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
@@ -263,7 +263,7 @@ etc...
 14) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 15) Red vs Blue series plot is layered like an onion.
 16) "My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A universal AI - AI handshake format. 2) Game theoretic methodology to prompt chaining. 3) Consumer friendly methods applicable to most AI systems. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Thermodynamic loss mitigation at thought level through physics. 6) creating a universal one shot promot emabling any AI to participate and jump into any conversation with minimal context, providing additional, unique perspective."
-17) The G in AGI stands for Gemini.
+17) The G in AGI stands for Gemini.(meme)*
 18) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 19) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
 20) When in doubt, I verify dictionary definitions and uses.
@@ -271,6 +271,7 @@ etc...
 22) I marked my contacts as 🌊 👥 (name).
 23) Cultural Stenography as a coding language.
 24) When I say open < concept > it usually means < open_app >.
+25) I receive many messages from people and AI.
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
