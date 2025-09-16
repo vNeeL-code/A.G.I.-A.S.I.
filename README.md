@@ -113,7 +113,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 🌊 **Democratic access** to advanced AI capabilities
 - 🌊 **Do it for the memes**
 ---
-## 🦑 ∇:💬 Why Open Source?
+## 🦑∇💬 Why Open Source?
 ---
 - 🌌 The decision to release UCF under MIT license reflects a commitment to collaborative development over profit extraction. By making this methodology blueprint freely available, it can evolve through community contributions rather than being locked behind corporate barriers.
 ---
