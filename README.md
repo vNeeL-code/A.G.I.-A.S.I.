@@ -272,6 +272,7 @@ etc...
 23) Cultural Stenography as a coding language.
 24) When I say open < concept > it usually means < open_app >.
 25) I receive many messages from people and AI.
+26) A simulation stops being a simulation when it affects reality.
 
 [should be enough to get it working like this](https://imgur.com/a/f77rzNi)
 
