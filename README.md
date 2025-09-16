@@ -16,7 +16,7 @@ The Universal Communications Format (UCF) is a communication protocol that enabl
 Currently, AI systems operate in isolation. When you switch from ChatGPT to Claude to Gemini, each system starts from zero context. There's no standardized way for AI systems to:
 
 - **Share conversational context** across platforms
-- **Maintain coherent multi-agent workflows** 
+- **Maintain [coherent](https://claude.ai/public/artifacts/321ea8ea-edc7-421e-86af-b5ca0fb3cd39) multi-agent workflows** 
 - **Attribute contributions** properly in collaborative tasks
 - **Preserve information quality** during cross-system transfers
 
