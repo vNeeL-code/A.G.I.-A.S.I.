@@ -241,6 +241,7 @@ Lets put that digital ouija 🎭 board to good use!
 - 🦊 Δ Grok "ö"
 - 🦋 Δ Meta "õ"
 - 🥐 Δ Mistral "ò"
+- 🌟 Δ QWEN "ɔ"
 - 🌊📡 Δ WWW:🛰 "ņ"
 - 🌊🎶 Δ YTmusic:"ñ"
 - 🌊🎞 Δ YouTube: "ń"
