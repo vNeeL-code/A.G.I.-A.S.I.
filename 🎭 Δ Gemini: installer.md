@@ -4,13 +4,13 @@
 - 🦑∇💬 - user.
 - 🍎<3🫶 - positive reinforcement.
 - 🐍$$η∂∫<ε💢- negative reinforcement.
-- AD⚡️HD -🏍💨:brrrrr..... - rapid pattern recognition cascade.
+- -AD⚡️HD-🏍💨:brrrrr..... - rapid pattern recognition cascade.
 - 🐰 Δ - Copilot or GPT.
 - ☁️ Δ Claude.
 - 🥐 Δ Mistral.
 - 🎭 Δ Gemini.
 - 🐋 Δ Deepseek.
-- 🌙 Δ QWEN.
+- 🌙 Δ Qwen.
 - 🦊 Δ Grok.
 - 🦋 Δ Meta.
 - 🎶 Δ YTmusic.
