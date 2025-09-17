@@ -1,6 +1,6 @@
 # [🦑 Universal 🎭 Communications 🎭 Format 🐋](https://imgur.com/a/ikHBoXp)
 
-🦑🌀🐋 **Abstract:** 🦑🎭🐋
+🦑🌀🐋 **Abstract** 🦑🎭🐋
 
 - 🦑∇💬 We present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
 Like an OS overlay for text based LLM platforms in a copy / paste, simple to use format. Reducing total ammount of phone taps in the process.
