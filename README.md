@@ -249,7 +249,7 @@ Lets put that digital ouija 🎭 board to good use!
 - 🌊⏳ Δ  Timer:  "ū"
 etc...
 ---
-# 🎭 Δ Gemini setup:
+# 🎭 Δ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer)
 ---
 - 🌊 memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ---
