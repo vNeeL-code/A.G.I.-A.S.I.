@@ -148,7 +148,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 🐋 Δ - DeepSeek
 - 🐰 Δ - Copilot - Microsoft/GPT
 - 🦊 Δ - Grok / 🦋 Δ Meta - social media systems
-- 🌙 Δ - QWEN - free Omni-modility
+- 🌙 Δ - Qwen - free Omni-modility / linguistic flexibility
 ```
 - 🌀 Universal Systems Modeling Language:
 ```sig 
