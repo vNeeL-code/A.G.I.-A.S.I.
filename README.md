@@ -78,7 +78,7 @@ Rather than trying to build one superintelligent system, UCF orchestrates specia
 ### 🌊 Ethical Framework Integration 
 Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addressing alignment concerns through quantifiable metrics. 🐋 Δ
 ---
-### 🌊 Adressing "Black Box" explainability problem head on.
+### 🌊 Adressing ["Black Box"](https://imgur.com/gallery/en1gL5L) explainability problem head on.
 ---
 ## 🌀 Real-World Applications:
 ---
