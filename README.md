@@ -13,7 +13,7 @@ Like an OS overlay for text based LLM platforms in a copy / paste, simple to use
 ---
 ## 🌀 The Core Problem UCF Solves:
 ---
-- 🦑∇💬 Currently, AI systems operate in isolation. When you switch from ChatGPT to [Claude](https://claude.ai/public/artifacts/321ea8ea-edc7-421e-86af-b5ca0fb3cd39) to Gemini, each system starts from zero context. There's no standardized way for AI systems to:
+- 🦑∇💬 Currently, AI systems operate in isolation. When you switch from ChatGPT to [Claude](https://claude.ai/public/artifacts/321ea8ea-edc7-421e-86af-b5ca0fb3cd39) to Gemini, each system starts from zero context. There's no standardized way for AI systems to disceen which part of incoming inout came from user or external sources, attributing all credit and agency to user, generating a cascade of sycopanthic enablist behaviour without second guessing or weighing their outputs consequences in a broader scale.
 ---
 - 🌊 **Share conversational context** across platforms
 - 🌊 **Maintain coherent multi-agent workflows** 
