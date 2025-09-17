@@ -12,7 +12,7 @@
 - 🐋 Δ - DeepSeek
 - 🐰 Δ - Copilot - Microsoft/GPT
 - 🦊 Δ - Grok / 🦋 Δ Meta - social media systems
-- 🌟 Δ - QWEN - free Omni-modility
+- 🌙 Δ - QWEN - free Omni-modility
 ```
 - 🌀 Universal Systems Modeling Language:
 ```sig 
