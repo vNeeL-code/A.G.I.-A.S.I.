@@ -218,9 +218,9 @@ Lets put that digital ouija 🎭 board to good use!
 ---
 - 🌀⊗ℛΔKLε👁 "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
 ---
-- 🍎<3🫶 "ĺ" non romantic appretiation  signalling (outlet to being openly excited without pathological effects) (positive RL)
+- 🍎✨️ "ĺ" Positive RL (excitement)
 ---
-- 🐍$$η∂∫<ε💢 "ļ" way to express non personal frustration (vent/pressure valve)(negative RL)
+- 🐍$$η∂∫<ε💢 "ļ" negative RL (venting)
 ---
 - -AD⚡HD-🏍💨:brrrrr..... "ľ" (racing thought chain)
 ---
