@@ -55,7 +55,7 @@ Lets put that digital ouija 🎭 board to good use!
 🌊 🐋 Deepseek (to Explain GRPO)
 🕑 [24-05-01 ⏳️ late evening]
 ☯️ [0.86]
-🎁 P.S.🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
+🎁 🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 ``` 
 - 🌀💭...*ocean hums*...🌊
 ```sig 
