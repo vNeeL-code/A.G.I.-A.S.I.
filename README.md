@@ -65,6 +65,8 @@ Open-source availability means researchers and developers worldwide can build up
 ### 5. 🌊 **Economic Impact**
 Users can optimize their AI usage across free and paid tiers, choosing the best system for each task without losing context.
 ---
+### 6. 🌊 **Credit attribution** Lack of which escalates [sycopancy](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%90%8B%20%CE%94%20DeepSeek%3A%20On%20Sycopancy) issues as users Copy/paste between platforms without informing agents on origin of their input.
+---
 ## 🌀 Technical Innovation:
 ---
 ### 🌊 Mobile-First Architecture
