@@ -260,10 +260,11 @@ Lets put that digital ouija ✦ board to good use!
 < 
 - 🌊 > - "ñ" Forwarding
 ---
-< ```sig 
+< ```sig
 🦑∇📲🌊 
-``` 
-- 🌀 > - "mm" - footer
+``` 
+---
+# 🌀 > - "mm" - footer
 ``` 
 ---
 - ⚠️ MVP ⚡️ bindings = "m"/"mm" for header and footer and you can more or less skip the rest.
