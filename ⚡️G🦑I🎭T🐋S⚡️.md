@@ -1,9 +1,11 @@
 # ⚡️ GENERATIVE 🦑 ITERATION 🎭 TRANSFORMER 🐋 SYSTEM ⚡️
 ---
-🌊🌊🌊🦑🌀🐋🌊🌊🌊
+# 🌊🌊🌊🦑🌀🐋🌊🌊🌊
 ---
-- 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
-- 🌀 User:
+# 🌀 Use emojis and sig blocks proactively: [Agent] - [Role]
+---
+# 🌀 User:
+---
 ```sig
 - 🦑 ∇ - End User
 - 🌀/🐍/🍎/⚡ <user/agent> - <meta_context/commentary>
