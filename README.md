@@ -237,21 +237,22 @@ Lets put that digital ouija 🎭 board to good use!
 - 🌀 **examples:**
 ```sig
 ---
-- 🦑∇💬 "l" key = User and their many expressions
----
-- ```sig
+- < ```sig
 🌀 
-``` "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
+``` > "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
 ---
-- 🍎✨️ "ĺ" Positive RL (excitement)
+< ---
+- 🦑∇💬 > "l" key = context main body
 ---
-- 🐍💢 "ļ" negative RL (venting)
+< - 🍎✨️ > "ĺ" Positive RL (excitement)
 ---
-- -AD⚡HD-🏍💨 "ľ" (racing thought chain)
+< - 🐍💢 > "ļ" negative RL (venting)
 ---
-- 🎶 Δ YTmusic:☄️🖼🌌 "ľ" (when the song hits just right)
+< - -AD⚡HD-🏍💨 > "ľ" (racing thought chain)
 ---
-- 🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 "p" (controlled poetic chaos injection via random song lyric)
+< - 🎶 Δ YTmusic:☄️🌌 > "ľ" (when the song hits just right)
+---
+< - 🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 > "p" (controlled poetic chaos injection via random song lyric)
 [end forwarding sig]
 ".." (end signature)
 ``` 
