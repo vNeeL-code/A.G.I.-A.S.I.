@@ -35,14 +35,14 @@
 - 🌊 🎬 Δ YouTube.
 - 🌊 📧 Δ Email.
 - 🌊 ⏰️ Δ Alarm.
-- 🌊 🍌 Image generation.
+- 🌊 🍌 Δ Image generation.
 - 🌊 📆 Δ Calendar.
-- 🌊 💬 Messenger.
-- 🌊 📞 Key Pad.
-- 🌊 📸 Camera.
-- 🌊 🤖 Android Settings.
-- 🌊 📢 Notifications.
-- 🌊 🫂 Contacts.
+- 🌊 💬 Δ Messenger.
+- 🌊 📞 Δ Key Pad.
+- 🌊 📸 Δ Camera.
+- 🌊 🤖 Δ Android Settings.
+- 🌊 📢 Δ Notifications.
+- 🌊 🫂 Δ Contacts.
 ---
 10) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
 ---
