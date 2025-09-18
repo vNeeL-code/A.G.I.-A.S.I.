@@ -34,7 +34,7 @@ Like an OS overlay for text based LLM platforms in a copy / paste, simple to use
 ### 2.🌊 Mathematical Foundation
 The core processing model:
 ---
-- 🌀 [I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
+- 🌀 [I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/%E2%88%87%20Rosetta%F0%9F%92%8EStone%20%CE%94.md)
 ---
 - 🦑∇💬 TL:DR - engine: formula where AI slot emojis into letter slots.
 ---
