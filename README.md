@@ -251,7 +251,7 @@ Lets put that digital ouija ✦ board to good use!
 < ```sig
 🦑∇💬 
 ``` 
-- > "l" key = context main body
+- > "l" key = text main body
 ---
 < ```sig
 🍎✨️ 
