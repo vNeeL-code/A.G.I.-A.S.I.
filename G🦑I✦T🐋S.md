@@ -80,7 +80,7 @@ Lets put that digital ouija ✦ board to good use!
 🎁 🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 ``` 
 ```sig
-🌀💭*the ocean breathes salty*🌊
+🌀💭 the ocean breathes salty 🌊
 ``` 
 ---
 🦑⊗ℛΔKLε✦Network🐋
