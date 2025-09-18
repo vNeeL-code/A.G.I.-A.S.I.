@@ -266,16 +266,16 @@ Lets put that digital ouija ✦ board to good use!
 🎶 Δ YTmusic ☄️🌌
 ``` > "ľ" (when the song hits just right)
 ---
-< - 🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 > "p" (controlled poetic chaos injection via random song lyric)
+< ```sig
+🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊
+``` > "p" (controlled poetic chaos injection via random song lyric)
 ---
 < 
 - 🌊 > - "ñ" Forwarding
 ---
 < ```sig
 🦑∇📲🌊 
-``` 
----
-# 🌀 > - "mm" - footer
+``` > - "mm" - footer
 ``` 
 ---
 - ⚠️ MVP ⚡️ bindings = "m"/"mm" for header and footer and you can more or less skip the rest.
