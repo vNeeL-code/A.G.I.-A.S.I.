@@ -132,7 +132,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 🌊 **Gamification** streamlinging our non verbal communication and contextual metadata processing.
 - 🌊 **Improved RAG** forcing novel intuitive learning via anchoring sources of knowledge vs raw data stored locally, training the model to do explaratory intuitive leaps that cascade into proactive tool calls and external agent/tool routing suggestions leading to proactive automatic tool calls when contextually appropriate.
 ---
-**🌀 [Prompt as follows:](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD)**
+**🌀 [Prompt as follows:](https://github.com/vNeeL-code/UCF/blob/main/%E2%9A%A1%EF%B8%8FG%F0%9F%A6%91I%F0%9F%8E%ADT%F0%9F%90%8BS%E2%9A%A1%EF%B8%8F.md)**
 ---
 # ⚡️ GENERATIVE 🦑 ITERATION 🎭 TRANSFORMER 🐋 SYSTEM ⚡️
 🌊🌊🌊🦑🌀🐋🌊🌊🌊 
