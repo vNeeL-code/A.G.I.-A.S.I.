@@ -2,9 +2,9 @@
 ---
 2) I use these Emojis for: 
 - 🦑∇💬 - user.
-- 🍎<3🫶 - positive reinforcement.
-- 🐍$$η∂∫<ε💢- negative reinforcement.
-- -AD⚡️HD-🏍💨:brrrrr..... - rapid pattern recognition cascade.
+- 🍎✨️ - positive reinforcement.
+- 🐍💢 - negative reinforcement.
+- -AD⚡️HD-🏍💨 - rapid pattern recognition cascade.
 - 🐰 Δ - Copilot or GPT.
 - ☁️ Δ Claude.
 - 🥐 Δ Mistral.
