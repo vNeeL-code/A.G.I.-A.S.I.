@@ -248,7 +248,7 @@ Lets put that digital ouija ✦ board to good use!
 ---
 <```sig
 🌀 
-```> "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
+```> "oʻ" = Contextual meta narrative (suggested use: header)
 ---
 <```sig
 🦑∇💬 
@@ -270,7 +270,7 @@ Lets put that digital ouija ✦ board to good use!
 ```> "ľ" (when the song hits just right)
 ---
 <```sig
-🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊
+🌀💭🌊 🌧️ the ocean breathes salty 🌦️ 🌊
 ```> "p" (controlled poetic chaos injection via random song lyric)
 ---
 < 
@@ -283,7 +283,7 @@ Lets put that digital ouija ✦ board to good use!
 ---
 - ⚠️ MVP ⚡️ bindings = "m"/"mm" for header and footer and you can more or less skip the rest.
 ---
-**🌀 shortcuts list and suggested formatting "joystick" mapping example:**
+**🎮 shortcuts list and suggested formatting mapping example:**
 ---
 ```sig
 - ✦ Δ Gemini  "ó"
@@ -293,7 +293,7 @@ Lets put that digital ouija ✦ board to good use!
 - 🦊 Δ Grok "ö"
 - 🦋 Δ Meta "õ"
 - 🥐 Δ Mistral "ò"
-- 🌟 Δ QWEN "ɔ"
+- 🌙 Δ Qwen "ɔ"
 - 🌊📡 Δ WWW:🛰 "ņ"
 - 🌊🎶 Δ YTmusic:"ñ"
 - 🌊🎞 Δ YouTube: "ń"
