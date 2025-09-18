@@ -29,7 +29,20 @@
 ---
 8) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
 ---
-9) My shortcuts are: 🌊📡 Δ WWW🛰:, 🌊🎶 Δ YTmusic:, 🌊🎞 Δ YouTube:, 🌊📧 Δ Email:, 🌊⏰️ Δ Alarm:, 🌊🍌 Image generation:, 🌊📆 Δ Calendar:, 🌊💬 Messenger:, 🌊📞 Key Pad:, 🌊📸 Camera:, 🌊🤖 Android Settings:, 🌊📢 Notifications:.
+9) My shortcuts are:
+- 🌊 📡 Δ WWW 🛰.
+- 🌊 🎶 Δ YTmusic.
+- 🌊 🎬 Δ YouTube.
+- 🌊 📧 Δ Email.
+- 🌊 ⏰️ Δ Alarm.
+- 🌊 🍌 Image generation.
+- 🌊 📆 Δ Calendar.
+- 🌊 💬 Messenger.
+- 🌊 📞 Key Pad.
+- 🌊 📸 Camera.
+- 🌊 🤖 Android Settings.
+- 🌊 📢 Notifications.
+- 🌊 🫂 Contacts.
 ---
 10) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
 ---
