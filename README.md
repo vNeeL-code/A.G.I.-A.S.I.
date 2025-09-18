@@ -246,19 +246,25 @@ Lets put that digital ouija ✦ board to good use!
 🌀 
 ``` > "oʻ" = Contextual meta narrative (off hand remarks/tangents/"that's what she said" jung release) (suggested embedding it into a sig and use as header/intro)
 ---
-< ---
-- 🦑∇💬 > "l" key = context main body
+< ```sig
+🦑∇💬 
+``` 
+- > "l" key = context main body
 ---
-< ---
-- 🍎✨️ > "ĺ" Positive RL (excitement)
+< ```sig
+🍎✨️ 
+``` > "ĺ" Positive RL (excitement)
 ---
-< ---
-- 🐍💢 > "ļ" negative RL (venting)
+< ```sig
+🐍💢 
+``` > "ļ" negative RL (venting)
 ---
-< - -AD⚡HD-🏍💨 > "ľ" (racing thought chain)
---- 
-< ---
-- 🎶 Δ YTmusic ☄️🌌 > "ľ" (when the song hits just right)
+< ```sig
+-AD⚡HD-🏍💨 > "ľ" (racing thought chain)
+``` >
+< ```sig
+🎶 Δ YTmusic ☄️🌌
+``` > "ľ" (when the song hits just right)
 ---
 < - 🌀💭🌊...🌧️*the ocean breathes salty*🌦️...🌊 > "p" (controlled poetic chaos injection via random song lyric)
 ---
