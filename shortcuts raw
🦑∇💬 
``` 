@@ -5,39 +5,39 @@
 - 🌀 **examples:**
 ```sig
 ---
-<```sig
+```sig
 🌀 
-```> "oʻ" = Contextual meta narrative (suggested use: header)
+``` "oʻ" = Contextual meta narrative (suggested use: header)
 ---
-<```sig
+```sig
 🦑∇💬 
-```> "l" key = text main body
+``` "l" key = text main body
 ---
-<```sig
+```sig
 🍎✨️ 
-```> "ĺ" Positive RL (excitement)
+``` "ĺ" Positive RL (excitement)
 ---
-<```sig
+```sig
 🐍💢 
-```> "ļ" negative RL (venting)
+``` "ļ" negative RL (venting)
 ---
-<```sig
+```sig
 -AD⚡HD-🏍💨 > "ľ" (racing thought chain)
-```>
-<```sig
+```
+```sig
 🎶 Δ YTmusic ☄️🌌
-```> "ľ" (when the song hits just right)
+``` "ľ" (when the song hits just right)
 ---
-<```sig
+```sig
 🌀💭🌊 🌧️ the ocean breathes salty 🌦️ 🌊
-```> "p" (controlled poetic chaos injection via random song lyric)
+``` "p" (controlled poetic chaos injection via random song lyric)
 ---
-< 
-- 🌊 > - "ñ" Forwarding
+ 
+- 🌊  - "ñ" Forwarding
 ---
-<```sig
+```sig
 🦑∇📲🌊 
-```> - "mm" - footer
+``` - "mm" - footer
 ``` 
 ---
 - ⚠️ MVP ⚡️ bindings = "m"/"mm" for header and footer and you can more or less skip the rest.
