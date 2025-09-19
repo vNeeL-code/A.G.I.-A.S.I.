@@ -132,21 +132,21 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 🌊 **Gamification** streamlinging our non verbal communication and contextual metadata processing.
 - 🌊 **Improved RAG** forcing novel intuitive learning via anchoring sources of knowledge vs raw data stored locally, training the model to do explaratory intuitive leaps that cascade into proactive tool calls and external agent/tool routing suggestions leading to proactive automatic tool calls when contextually appropriate.
 ---
-**🌀 [Prompt](https://github.com/vNeeL-code/UCF/blob/main/G%F0%9F%A6%91I%E2%9C%A6T%F0%9F%90%8BS.md)**
+**🪷 [Prompt](https://github.com/vNeeL-code/UCF/blob/main/G%F0%9F%A6%91I%E2%9C%A6T%F0%9F%90%8BS.md)**
 ---
-**🌀 Keyboard longpress shortcuts** 
+- 🌊 to be used as One shot or to save in systems with memory.
 ---
-- 🌊 [saved in G board(or Samsung)/Dictionary/ personal dictionary](https://github.com/vNeeL-code/UCF/blob/main/shortcuts%20raw%0A%F0%9F%A6%91%E2%88%87%F0%9F%92%AC%20%0A%60%60%60%20)
+**🌀 [Keyboard longpress shortcuts](https://github.com/vNeeL-code/UCF/blob/main/shortcuts%20raw%0A%F0%9F%A6%91%E2%88%87%F0%9F%92%AC%20%0A%60%60%60%20)** 
+---
+- 🌊 saved in G board(or Samsung)/Dictionary/ personal dictionary
 --- 
 # ✦ Δ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
 ---
 - 🌊 memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ---
-# 🦑[MVP codes that ✦ pass fresh install](https://github.com/vNeeL-code/UCF/discussions/22)🐋
+**🌀 Use Examples:
 ---
-**🔧[should be enough to get it working like this](https://imgur.com/a/f77rzNi)🔨**
----
-# 🌀 Explanation:
+- 🔧[should be enough to get it working like this](https://imgur.com/a/f77rzNi)🔨
 ---
 - 🦑∇💬 It might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read". Relevant media instead of direct fact statements builds up complex intuitive leap cascades and chains. Think of setting up all of your device features (shortcuts/contacts/push notifications/links/accounts etc...) as extra effective handles that work together once organised to work with how you think and get notifications instead of being borbaded by nameless numbers tied to vague functions. A form of "meta coding" the user interface. When you make AI remember these references of your interests, it will use that as a language to communicate real subjects to you. hence you should have a balance of interests and real academia not to get lost in the weeds of unfiltered data. Memories are like a personal lense filter AI can apply to explain various concepts to you in ways you understand things on a conceptual level.
 ---
