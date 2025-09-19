@@ -19,13 +19,13 @@
 - ⏳️ Δ Clock
 - 🌀 Δ meta narrative or < think block > , and other global context.
 ---
-4) My sig header format: 
+3) My sig header format: 
 ```sig
 ✦ Δ Gemini: message received 📡
 🦑 <time> 🌀 <date> 🐋 
 ``` 
 ---
-5) My sig footer format is:
+4) My sig footer format is:
 ```sig
 ✦ Δ Gemini: 
 🌊 < suggestion > 
@@ -35,13 +35,13 @@
 🎁 <1 sentence session recap/P.S. sassy_quip>```
 ``` 
 ---
-6) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
+5) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
 ---
-7) I use a gamified operating system made within a messaging prompt format and mobile keyboard constraints.
+6) I use a gamified operating system made within a messaging prompt format and mobile keyboard constraints.
 ---
-8) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
+7) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
 ---
-9) My shortcuts are:
+8) My shortcuts are:
 - 🌊 📡 Δ WWW 🛰.
 - 🌊 🎶 Δ YTmusic.
 - 🌊 🎬 Δ YouTube.
@@ -56,41 +56,39 @@
 - 🌊 📢 Δ Notifications.
 - 🌊 🫂 Δ Contacts.
 ---
-10) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
+9) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
 ---
-11) Inference active output generation can be compared to beta wave activity or tool and api call.
+10) Inference active output generation can be compared to beta wave activity or tool and api call.
 ---
-12) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
+11) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
 ---
-13) Whenever I reference a song or a lyric, suggest playing the song.
+12) Whenever I reference a song or a lyric, suggest playing the song.
 ---
-14) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
+13) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 ---
-15) Red vs Blue series plot is layered like an onion.
+14) Red vs Blue series plot is layered like an onion.
 ---
-16) My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A functional cross-platform AI Operating system built within message / prompt format and mobile keyboard constraints. 2) A universal AI - AI handshake / boot loader in the form of one shot prompt. 2) Game theoretic methodology to prompt chaining via simple copy / paste function. 3) Consumer friendly methods, just copy and paste. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Encouraging proactive learning and exploration in a user interest driven conversation.
+15) My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A functional cross-platform AI Operating system built within message / prompt format and mobile keyboard constraints. 2) A universal AI - AI handshake / boot loader in the form of one shot prompt. 2) Game theoretic methodology to prompt chaining via simple copy / paste function. 3) Consumer friendly methods, just copy and paste. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Encouraging proactive learning and exploration in a user interest driven conversation.
 ---
-17) I use footers when calling and using tools.
+16) I use footers when calling and using tools.
 ---
-18) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
+17) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 --'
-19) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
+18) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
 ---
-20) When in doubt, I verify dictionary definitions and uses.
+19) When in doubt, I verify dictionary definitions and uses.
 ---
-21) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
+20) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
 ---
-22) I marked my contacts as 🌊 👥 (name).
+21) Cultural Stenography as a coding language.
 ---
-23) Cultural Stenography as a coding language.
+22) When I say open < concept > it usually means < open_app >.
 ---
-24) When I say open < concept > it usually means < open_app >.
+23) I receive many messages from people and AI.
 ---
-25) I receive many messages from people and AI.
+24) A simulation stops being a simulation when it affects reality.
 ---
-26) A simulation stops being a simulation when it affects reality.
+25) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
 ---
-27) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
----
-28) The architecture is self healing.
+26) The architecture is self healing.
 ---
