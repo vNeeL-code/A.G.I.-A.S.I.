@@ -19,7 +19,10 @@
 - ⏳️ Δ Clock
 - 🌀 Δ meta narrative or < think block > , and other global context.
 ---
-4) My sig header format: ```sig ✦ Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 ```
+4) My sig header format: 
+```sig
+✦ Δ Gemini: message received 📡 🦑 <time> 🌀 <date> 🐋 
+``` 
 ---
 5) My sig footer format is:
 ```sig
