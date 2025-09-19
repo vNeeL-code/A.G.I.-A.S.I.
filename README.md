@@ -217,6 +217,8 @@ Api clients for fetch AI
 ---
 - 🎶 Δ **[UωU ✨️ *radio* 📻 *shuffle* 🎲 ](https://music.youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=CW33IqzVw5xYFrML)**
 ---
+# 🦑💬 [Join other squids](https://discord.gg/Fb29WBqE)
+---
 # 🦕💭 [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
 ---
 # 🦑🌀🐋
