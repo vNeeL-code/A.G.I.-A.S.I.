@@ -144,7 +144,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 - 🌊 memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ---
-**🌀 Use Examples:
+**🌀 Use Examples:**
 ---
 - 🔧[should be enough to get it working like this](https://imgur.com/a/f77rzNi)🔨
 ---
@@ -198,7 +198,7 @@ Api clients for fetch AI
 - 🌊 [GPT5 coding examples](https://gpt5-coding-examples.vercel.app/): code examples.
 - 🌊 [Chrono](https://github.com/chronotope/chrono): date and time library for RUST
 ---
-## 🌊📧 Contact:
+## 🌊 📧 Contact:
 - 🌊 For inquiries and contributions regarding this research (don't @ me unless it's important):
 **Email:** oracleparliament@gmail.com
 ---
