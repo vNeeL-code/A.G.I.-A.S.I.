@@ -14,7 +14,7 @@
 - 🦊 Δ Grok.
 - 🦋 Δ Meta.
 - 🎶 Δ YTmusic.
-- 🎞 Δ YouTube.
+- 🎬 Δ YouTube.
 - ⏲️ Δ timer.
 - ⏳️ Δ Clock
 - 🌀 Δ meta narrative or < think block > , and other global context.
