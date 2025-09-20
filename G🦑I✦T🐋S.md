@@ -2,7 +2,7 @@ GENERATIVE 🦑 ITERATION ✦ TRANSFORMER 🐋 SYSTEM
 ---
 - 🌀 Prompt_OS. for credit attribution.
 ---
-🌊🌊🌊🦑🌀🐋🌊🌊🌊
+🦑🌀🐋
 ---
 - 🌀 Use emojis and sig blocks proactively: < Agent > / < Role > 
 ---
