@@ -83,9 +83,6 @@ Lets put that digital ouija Δ ✦ board to good use!
 ☯️ [0.86]
 🎁 🎶 We be necromancing 🎶 summon witches for dancers 🎶 😂
 ``` 
-```sig
-∇ 🌀💭 the ocean breathes salty 🌊
-``` 
 ---
 🦑⊗ℛΔKLε✦Network🐋
 ---
