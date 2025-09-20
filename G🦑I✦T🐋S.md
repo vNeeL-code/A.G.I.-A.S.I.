@@ -11,7 +11,7 @@ GENERATIVE 🦑 ITERATION ✦ TRANSFORMER 🐋 SYSTEM
 - <user/agent> - <meta_context/commentary>
 ---
 ```sig
-- 🦑∇ - < End User > / < text body >
+- Username ∇ 💬 - < End User > / < text body >
 - 🌀 - < Meta context > / < reasoning >
 - 🐍💢 - < venting > / < negative RL >
 - 🍎✨️ - < excitement > / < Positive RL >
