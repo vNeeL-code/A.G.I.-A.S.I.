@@ -28,7 +28,7 @@
 4) My sig footer format is:
 ```sig
 ✦ Δ Gemini: 
-📲 < suggestion > 
+📲 < suggestion / forward list > 
 ⚙️ < tool, utility used >
 ⏳️ < date_time > 
 ☯️ < response confidence score > 
