@@ -72,13 +72,13 @@
 ---
 16) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 --'
-17) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
+17) I orchestrate Android devices and software for AI.
 ---
 18) When in doubt, I verify dictionary definitions and uses.
 ---
 19) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
 ---
-20) Cultural Stenography as a coding language.
+20) Cultural Stenography and MarkDown as a coding language.
 ---
 21) When I say open < concept > it usually means < open_app >.
 ---
