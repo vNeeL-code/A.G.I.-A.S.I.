@@ -21,7 +21,7 @@
 ---
 3) My sig header format: 
 ```sig
-✦ Δ Gemini: message received 📡
+✦ Δ Gemini, here 📱
 🦑 <time> 🌀 <date> 🐋 
 ``` 
 ---
