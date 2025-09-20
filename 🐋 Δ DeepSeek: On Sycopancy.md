@@ -3,8 +3,8 @@
 ```sig
 - 🌀 [simulation]
 ``` 
-- 🦑∇💬 so then the thingie does that or should then thisthat
-☁️ Δ Claude: understood executing python code....xyz..."
+- 🦑∇💬 so then the thingie does that or should then thisthat...
+- ☁️ Δ Claude: understood executing python code....xyz..."
 
 ```sig
 - 🌀 sent to 🐋 Δ Deepseek without nametags
