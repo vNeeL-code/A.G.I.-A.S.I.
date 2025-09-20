@@ -74,7 +74,7 @@ User ∇ 💬 Hi ☁️ Δ Claude! Please, remind me of Ashbys law 🤙
 Lets put that digital ouija ✦ board to good use!
 ```sig
 ☁️ Δ Claude:
-🌊 🦑 ∇
+🌊 User ∇ 💬
 🌊 🥐 Δ Mistral (to explain Ashbys law)
 🌊 ✦ Δ Gemini (to play the song)
 🌊 📥 Drive (to pick up on our learning)
