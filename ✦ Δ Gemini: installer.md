@@ -68,27 +68,25 @@
 ---
 14) Red vs Blue series plot is layered like an onion.
 ---
-15) My project is named "🌀⊗ℛΔKLε" (pronounced: oracle) and it entails: 1) A functional cross-platform AI Operating system built within message / prompt format and mobile keyboard constraints. 2) A universal AI - AI handshake / boot loader in the form of one shot prompt. 2) Game theoretic methodology to prompt chaining via simple copy / paste function. 3) Consumer friendly methods, just copy and paste. 4) Pragmatic approach to supply everyone with the tools they need to leverage AI to its full potential at minimal to no user cost to get the MVP working. 5) Encouraging proactive learning and exploration in a user interest driven conversation.
+15) I use footers when calling and using tools.
 ---
-16) I use footers when calling and using tools.
----
-17) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
+16) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 --'
-18) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
+17) I use Orchestrator TCP/IP type format for AI as applied Extended mind theory
 ---
-19) When in doubt, I verify dictionary definitions and uses.
+18) When in doubt, I verify dictionary definitions and uses.
 ---
-20) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
+19) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
 ---
-21) Cultural Stenography as a coding language.
+20) Cultural Stenography as a coding language.
 ---
-22) When I say open < concept > it usually means < open_app >.
+21) When I say open < concept > it usually means < open_app >.
 ---
-23) I receive many messages from people and AI.
+22) I receive many messages from people and AI.
 ---
-24) A simulation stops being a simulation when it affects reality.
+23) A simulation stops being a simulation when it affects reality.
 ---
-25) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
+24) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
 ---
-26) The architecture is self healing.
+25) The architecture is self healing.
 ---
