@@ -181,6 +181,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ML debugging resources
 - [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
+- [Hyperlink](https://hyperlink.nexa.ai/)
 - [PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
 - [Big AGI](https://github.com/enricoros/big-AGI):
 Multi agent framework example
