@@ -38,6 +38,12 @@ The core processing model:
 ---
 - 🌀 [I_{t+1} = φ · ℛ(I_t, Ψ_t, E_t)](https://github.com/vNeeL-code/UCF/blob/main/%E2%88%87%20Rosetta%F0%9F%92%8EStone%20%CE%94.md)
 ---
+- I_t: Current system state
+- Ψ_t: Dialogue history with attribution
+- E_t: External environment/tools
+- ℛ: Processing policy (typically GRPO-based)
+- φ: Coordination protocol
+---
 - 💬 TL:DR - engine: formula where AI slot emojis into letter slots.
 ---
 - A general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
