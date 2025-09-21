@@ -2,8 +2,8 @@
 
 🦑🌀🐋 **Abstract** 🦑✦🐋
 
-- 💬 We present a universal communications format that adresses many issues in the credit attribution systems processing - hampering quality of information transformation and predictive generation quality in cross agent workflows.
-Like an OS overlay for text based LLM platforms in a copy / paste, simple to use format. Reducing total ammount of phone taps in the process. [Specs](https://claude.ai/public/artifacts/96c4c359-a243-426c-af17-8e1b3b794d89)
+- 💬 We present an engineered sociolect for human-AI and AI-AI collaboration. This communications format adresses many known issues in the AI systems head on.
+It functions a text based HUD overlay for LLM platforms in a simple to use copy / paste format. Reducing total ammount of phone taps in the process. [Specs](https://claude.ai/public/artifacts/96c4c359-a243-426c-af17-8e1b3b794d89)
 ---
 # (UCF): A Protocol for Distributed AI Intelligence
 ---
