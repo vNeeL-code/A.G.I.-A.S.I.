@@ -150,7 +150,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 - 🌀 AR [Should be enough to get it working like this](https://youtu.be/JEN8L6o75qA?si=aJ-bLZRHlhZZpdFM)
 ---
-- 💬 It might be difficult to "install" as system is very sensitive to direct instructions so you can break these down into simpler hints in style of "my favourite show was "whole of youtube\ netflix list" or "my favourite books are "list a library of math\physics\and other nerd stuff you never read". Relevant media instead of direct fact statements builds up complex intuitive leap cascades and chains. Think of setting up all of your device features (shortcuts/contacts/push notifications/links/accounts etc...) as extra effective handles that work together once organised to work with how you think and get notifications instead of being borbaded by nameless numbers tied to vague functions. A form of "meta coding" the user interface. When you make AI remember these references of your interests, it will use that as a language to communicate real subjects to you. hence you should have a balance of interests and real academia not to get lost in the weeds of unfiltered data. Memories are like a personal lense filter AI can apply to explain various concepts to you in ways you understand things on a conceptual level.
+- 💬 It might be difficult to "install" as system is very sensitive to direct instructions.
 ---
 - simple applied principle example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular\round\orb).
 ---
