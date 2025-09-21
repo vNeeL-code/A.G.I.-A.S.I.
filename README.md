@@ -170,6 +170,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [on control]( https://share.google/wgYrgROLflqMBbxFJ)
 - [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 - [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
+- [Antifragile (book) - Wikipedia] (https://share.google/IQdtyaOJuTUn8TZBI)
 ---
 ## Relevant tools/Active Ecosystem:
 ---
