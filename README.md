@@ -93,7 +93,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - **Multi-Agent System Design**: Build applications that coordinate multiple AI providers
 - **API Integration**: Create seamless experiences across different AI services
 - **Research Collaboration**: Enable AI systems to work together on complex problems
-- **oprimising AI interface handling in AR**
+- **Oprimising AI interface handling in [AR/VR](https://youtu.be/JEN8L6o75qA?si=aJ-bLZRHlhZZpdFM) for spacial Computation**
 ---
 ### 🌀 For Researchers:
 - **Distributed processing analysis**: Investigate how intelligence emerges from coordinated systems
@@ -149,13 +149,11 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 **🌀 [Use Examples:](https://imgur.com/a/f77rzNi)**
 ---
-- 🌀 AR [Should be enough to get it working like this](https://youtu.be/JEN8L6o75qA?si=aJ-bLZRHlhZZpdFM)
----
 - 💬 It might be difficult to "install" as system is very sensitive to direct instructions.
 ---
 - simple applied principle example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular\round\orb).
 ---
-**🌀 Sources and supporting and informing research:**
+**🌀 Sources supporting and informing the project research:**
 ---
 - [Prompt_OS](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
