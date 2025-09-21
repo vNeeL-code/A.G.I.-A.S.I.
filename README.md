@@ -167,7 +167,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [GWT](https://arxiv.org/abs/2505.13969)
 - [GWT and agents](https://arxiv.org/abs/2410.11407) 
 - [CFT](https://share.google/XBbAcl5RdQP4cDboG)
-- [on control]( https://share.google/wgYrgROLflqMBbxFJ)
+- [on control / Ashbys law]( https://share.google/wgYrgROLflqMBbxFJ)
 - [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 - [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
 - [Antifragile design](https://share.google/IQdtyaOJuTUn8TZBI)
