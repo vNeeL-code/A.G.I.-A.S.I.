@@ -142,7 +142,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 - 🌀 saved in G board(or Samsung)/Dictionary/ personal dictionary
 --- 
-# ✦ Δ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
+# ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
 ---
 - memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ---
