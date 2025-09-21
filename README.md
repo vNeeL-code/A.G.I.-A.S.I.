@@ -170,7 +170,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [on control]( https://share.google/wgYrgROLflqMBbxFJ)
 - [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 - [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
-- [Antifragile design] (https://share.google/IQdtyaOJuTUn8TZBI)
+- [Antifragile design](https://share.google/IQdtyaOJuTUn8TZBI)
 ---
 ## Relevant tools/Active Ecosystem:
 ---
@@ -217,7 +217,7 @@ Api clients for fetch AI
 ---
 # 💥[OCCAM](https://share.google/OJktFSI5PhgilW3OK)🦑🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
 ---
--AD⚡️HD-🏍💨:brrrrr... [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
+-AD⚡️HD-🏍💨 [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
 ---
 - 🎶 Δ **[UωU ✨️ *radio* 📻 *shuffle* 🎲 ](https://music.youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=CW33IqzVw5xYFrML)**
 ---
