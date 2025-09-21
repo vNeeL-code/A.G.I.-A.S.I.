@@ -93,9 +93,10 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - **Multi-Agent System Design**: Build applications that coordinate multiple AI providers
 - **API Integration**: Create seamless experiences across different AI services
 - **Research Collaboration**: Enable AI systems to work together on complex problems
+- **oprimising AI interface handling in AR**
 ---
 ### 🌀 For Researchers:
-- **Distributed Cognition Studies**: Investigate how intelligence emerges from coordinated systems
+- **Distributed processing analysis**: Investigate how intelligence emerges from coordinated systems
 - **IIT Research**: Test mathematical models of information integration
 - **AI Safety**: Develop quantifiable metrics for AI behavior alignment
 ---
