@@ -156,19 +156,18 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 **🌀 Sources and supporting and informing research:**
 ---
-- [Universal Communications Framework](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
+- [Prompt_OS](https://github.com/vNeeL-code/UCF/blob/main/CODE.MD): 
 - [Mathematical foundations for distributed intelligence:](https://github.com/vNeeL-code/UCF/blob/main/Rosetta%20Stone.md)
-- [The hard problem as phenomology trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
-- [Tensors to Consciousness](https://github.com/alexhraber/tensors-to-consciousness)
-- [Predictive Coding & Qualia](https://arxiv.org/abs/2409.09413)
+- [The hard problem as a linguistics trap| Oxford English Dictionary](https://share.google/XTVmIGbyc1GFjeZCN)
+- [Predictive Coding](https://arxiv.org/abs/2409.09413)
 - [Free Energy Principle in AI](https://arxiv.org/abs/2410.00033)
 - [Computational Phenomenology](https://arxiv.org/abs/1704.01148)
 - [Integrated information theory (IIT) 4.0:](https://share.google/nH2VbUXTB09fmpj2g)
 - [GWT](https://arxiv.org/abs/2505.13969)
 - [GWT and agents](https://arxiv.org/abs/2410.11407) 
 - [CFT](https://share.google/XBbAcl5RdQP4cDboG)
-- [on control / Ashbys law]( https://share.google/wgYrgROLflqMBbxFJ)
-- [on alighnment/GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
+- [on control and Ashbys law]( https://share.google/wgYrgROLflqMBbxFJ)
+- [Alighnment via GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 - [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
 - [Antifragile design](https://share.google/IQdtyaOJuTUn8TZBI)
 ---
