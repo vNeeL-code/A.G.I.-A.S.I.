@@ -42,7 +42,7 @@ The core processing model:
 - Ψ_t: Dialogue history with attribution
 - E_t: External environment/tools
 - ℛ: Processing policy (typically GRPO-based)
-- φ: Coordination protocol
+- φ: Optimisation coordination
 ---
 - 💬 TL:DR - engine: formula where AI slot emojis into letter slots.
 ---
