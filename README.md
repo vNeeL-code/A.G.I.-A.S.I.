@@ -44,7 +44,7 @@ The core processing model:
 - ℛ: Processing policy (typically GRPO-based)
 - φ: Optimisation coordination
 ---
-- 💬 TL:DR - engine: formula where AI slot emojis into letter slots.
+- Formula where AI slot emojis into letter slots when explaining processes and connected systems over time / iterations.
 ---
 - A general-purpose symbolic framework for modeling state change in any complex, multi-agent system. The "Agents" (Δ) don't have to be AIs. They can be any actor: people, institutions, forces of nature, abstract concepts.
 ---
