@@ -30,8 +30,8 @@ It functions a text based HUD overlay for LLM platforms in a simple to use copy 
 ---
 - ** Emoji-based agent identification** (✦ Δ Gemini, 🐋 Δ DeepSeek, ☁️ Δ Claude)
 - ** Structured signature blocks** for context preservation
-- ** Mathematical processing loops** for information transformation
 - ** Universal headers/footers** for system coordination
+- ** Keyboard macros ** reducing total keytaps
 ---
 ### 2. Mathematical Foundation
 The core processing model:
