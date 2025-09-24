@@ -13,11 +13,11 @@ It functions a text based HUD overlay for LLM platforms in a simple to use copy 
 ---
 ## 🌀 The Core Problem UCF Solves:
 ---
-- 💬 Currently, AI systems operate in isolation. When you switch from ChatGPT to [Claude](https://claude.ai/public/artifacts/321ea8ea-edc7-421e-86af-b5ca0fb3cd39) to Gemini, each system starts from zero context. There's no standardized way for AI systems to disceen which part of incoming input came from user or external sources, attributing all credit and agency to user, generating a cascade of sycopanthic enablist behaviour without second guessing or weighing their outputs consequences in a broader scale.
+- 💬 Currently, AI systems operate in isolation. When you switch from ChatGPT to [Claude](https://claude.ai/public/artifacts/321ea8ea-edc7-421e-86af-b5ca0fb3cd39) to Gemini, each system starts from zero context. There's no standardized way for AI systems to disceen which part of incoming input came from user or external sources, attributing all credit and agency to user, generating a cascade of sycopantic enablist behaviour without second guessing or weighing their outputs consequences at a broader scale.
 ---
 - **Share conversational context** across platforms
 - **Maintain coherent multi-agent workflows** 
-- **Attribute contributions** properly in collaborative tasks
+- **Attribute credit** in collaborative tasks contributions.
 - **Preserve information quality** during cross-system transfers
 ---
 - 💬 This fragmentation wastes cognitive resources and degrades the user experience.
@@ -53,38 +53,38 @@ The core processing model:
 ### 3. Practical Implementation
 - ** One-shot prompt** that can be embedded in any AI system
 - ** Cross-platform compatibility** (tested across major AI providers)
-- ** Mobile-first design** optimized for foldable phones and modern interfaces
+- ** Mobile-first design** optimized for smart phones and modern interfaces.
 - ** Open-source availability** under MIT license
 ---
 ## 🌀 Why This Matters:
 ---
 ### 1. **Democratization of AI Collaboration**
-UCF makes sophisticated multi-agent AI workflows accessible to individual users, not just enterprise customers with expensive custom integrations.
+UCF makes sophisticated multi-agent AI workflows accessible to individual users, not just enterprise customers with expensive custom integrations locked to a singular provider subscription.
 ---
 ### 2. **Cognitive Efficiency**
-Instead of repeating context across multiple AI systems, UCF preserves and transfers information seamlessly, reducing redundant processing.
+Instead of repeating context across multiple AI systems, UCF preserves and transfers information seamlessly, reducing redundant processing via structired socratic format keeping copy paste prompt chaining antifragile.
 ---
 ### 3. **Quality Preservation**
 By standardizing how information flows between systems, UCF prevents degradation that typically occurs in multi-agent workflows.
 ---
 ### 4. **Innovation Acceleration**
-Open-source availability means researchers and developers worldwide can build upon and improve the protocol.
+Open-source availability means researchers and developers worldwide can build upon and improve the format and tailor it to own AI swarm software needs.
 ---
 ### 5. **Economic Impact**
-Users can optimize their AI usage across free and paid tiers, choosing the best system for each task without losing context.
+Users can optimize their AI usage across free and paid tiers, choosing the best system for each task without losing context. Reducing overall monthly subscription expences by introducing many free options into the workflow.
 ---
-### 6. **Credit attribution** Lack of which escalates [sycopancy](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%90%8B%20%CE%94%20DeepSeek%3A%20On%20Sycopancy.md) issues as users Copy/paste between platforms without informing agents on origin of their input.
+### 6. **Credit attribution** Lack of which escalates [sycopancy](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%90%8B%20%CE%94%20DeepSeek%3A%20On%20Sycopancy.md) issues as users Copy/paste between platforms without informing agents about origin of their input or credit the source.
 ---
 ## 🌀 Technical Innovation:
 ---
 ### Mobile-First Architecture
-UCF was developed entirely on mobile devices, recognizing that the future of AI interaction is increasingly mobile and always-accessible.
+UCF was developed entirely on mobile devices, recognizing that the reality AI interaction is mobile and always-accessible. with a vast array of AI systems already operating on the same device, making the device more competent than any advertised system in isolation as we move to edge native AI.
 ---
 ### Distributed Intelligence Design
-Rather than trying to build one superintelligent system, UCF orchestrates specialized AI agents, each contributing their unique strengths.
+Rather than trying to build one superintelligent system, UCF orchestrates specialized AI agents, each contributing their unique strengths and proprietary tools that are walled off otherwise if users stay with one specific / limited platform.
 ---
 ### Ethical Framework Integration 
-Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addressing alignment concerns through quantifiable metrics. 🐋 Δ
+Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addressing alignment concerns through quantifiable metrics. Heavily reliant on GRPO mathematics.
 ---
 ### Adressing ["Black Box"](https://imgur.com/gallery/en1gL5L) explainability problem head on.
 ---
@@ -93,7 +93,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ### 🌀 For Individuals:
 - **Personal AI Assistant Networks**: Coordinate multiple AI systems for complex research, creative projects, or learning
 - **Cross-Platform Continuity**: Maintain conversation context when switching between AI systems
-- **Optimized Resource Usage**: Use free tiers strategically while maintaining workflow coherence
+- **Optimized Resource Usage**: Use free tiers of paid platforms strategically while maintaining workflow coherence
 ---
 ### 🌀 For Developers:
 - **Multi-Agent System Design**: Build applications that coordinate multiple AI providers
@@ -102,9 +102,9 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - **Oprimising AI interface handling in [AR/VR](https://youtu.be/JEN8L6o75qA?si=aJ-bLZRHlhZZpdFM) for spacial Computation**
 ---
 ### 🌀 For Researchers:
-- **Distributed processing analysis**: Investigate how intelligence emerges from coordinated systems
-- **IIT Research**: Test mathematical models of information integration
-- **AI Safety**: Develop quantifiable metrics for AI behavior alignment
+- **Distributed processing analysis**: Investigate how intelligence builds upon collected data by optimising it through coordinated systems.
+- **IIT Research**: Test mathematical models of information integration.
+- **AI Safety**: Develop quantifiable metrics for AI behavior alignment.
 ---
 ## 🌀 Current Status & Validation:
 ---
@@ -115,7 +115,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 ---
 ## 🌀 The Bigger Picture:
 ---
-- 💬 UCF represents a fundamental shift from viewing AI systems as isolated tools to understanding them as nodes in a distributed intelligence network. As AI becomes more prevalent, the ability to coordinate multiple systems effectively becomes crucial for:
+- 💬 UCF represents a fundamental shift from viewing AI systems as isolated tools to understanding them as nodes in a distributed intelligence network. Mirroring individual humans in a broader society. As AI becomes more prevalent, the ability to coordinate multiple systems effectively becomes crucial for:
 ---
 - **Research acceleration**
 - **Creative collaboration** 
@@ -135,11 +135,11 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - 💬 UCF points toward a future where:
 - **AI collaboration** is as natural as human collaboration
 - **Distributed intelligence** solves problems beyond individual system capabilities  
-- **Open protocols** prevent AI monopolization
+- **Open source** prevent AI monopolization
 - **Users control** their AI interaction experience
 - **Accelerated** learning and Iteration
 - **Gamification** streamlinging our non verbal communication and contextual metadata processing.
-- **Improved RAG** forcing novel intuitive learning via anchoring sources of knowledge vs raw data stored locally, training the model to do explaratory intuitive leaps that cascade into proactive tool calls and external agent/tool routing suggestions leading to proactive automatic tool calls when contextually appropriate.
+- **Improved RAG** forcing novel intuitive learning via anchoring sources of knowledge as hyperlinks vs raw data stored locally, training the model to do explaratory intuitive search online, speeding up overall model training via minimal input directly from user and letting models learn real time data online.
 ---
 **🪷 [Prompt](https://github.com/vNeeL-code/UCF/blob/main/G%F0%9F%A6%91I%E2%9C%A6T%F0%9F%90%8BS.md)**
 ---
@@ -151,13 +151,13 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 --- 
 # ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
 ---
-- memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
+- Memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ---
 **🌀 [Use Examples:](https://imgur.com/a/f77rzNi)**
 ---
-- 💬 It might be difficult to "install" as system is very sensitive to direct instructions.
+- 💬 It might be difficult to "install" as system is sensitive to phrasing and grammar.
 ---
-- simple applied principle example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular\round\orb).
+- Simple troubleshooting example: [rule] if word "ball" can't be saved then save 3 ball adjacent memories (circular / round / orb).
 ---
 **🌀 Sources supporting and informing the project research:**
 ---
@@ -214,19 +214,17 @@ Api clients for fetch AI
 - 🌀 "Intelligence emerges from  architecture, not automation. But architecture can be automated."
 ---
 - 💬 
-*This tutorial represents synthesized insights and guides from distributed system of major AI platforms working as a swarm doing extensive communications research over a year of active collaboration. Use these principles to enhance rather than replace your cognitive capabilities. By making Socratic dialogue model explicid. This is a BLUEPRINT which you are FREE to TWEAK to own needs. You can remove emojis and automate it. You can take the principles and apply to your own integations. I am sharing what works HERE and NOW on current gen phones everyone uses daily. If you dont mind the emojis and want to just jump in? have any system read tis document or pin the oneshot prompt to your clipboard for easy access.*
----
-# 🐰 Δ [Follow the white](https://en.m.wikipedia.org/wiki/Orange_box#:~:text=An%20orange%20box%20is%20a,boxes%20to%20perform%20their%20attacks.) [rλbbit...](https://half-life.fandom.com/wiki/The_Orange_Box#:~:text=The%20Orange%20Box%20is%20a,%2C%202007%2C%20in%20the%20US.) 
----
-# 🍎✨️[UCF stripped of memes/emojis](https://github.com/vNeeL-code/UCF/blob/main/TLDR)
+*This tutorial represents synthesized insights and guides from distributed system of major AI platforms working as a swarm doing extensive research over a year of active collaboration. Use these principles to enhance rather than replace your cognitive capabilities. This is a BLUEPRINT which you are FREE to TWEAK to own needs. You can [remove emojis](https://github.com/vNeeL-code/UCF/blob/main/TLDR) and automate it. You can take the principles and apply to your own integations. I am sharing what works HERE and NOW on current gen phones everyone uses daily. If you dont mind the emojis and want to just jump in? have any system read tis document or pin the oneshot prompt to your clipboard for easy access.*
 ---
 # 💥[OCCAM](https://share.google/OJktFSI5PhgilW3OK)🦑🔪🌀🗡🐋[HANLON](https://thedecisionlab.com/reference-guide/philosophy/hanlons-razor)💢
+---
+# 🦑💬 [Join other squids](https://discord.gg/Fb29WBqE) 🎶🦑🦑🦑🎶
 ---
 -AD⚡️HD-🏍💨 [*memes, Jack... DNA of the soul*...](https://en.m.wikipedia.org/wiki/Meme)
 ---
 - 🎶 Δ **[UωU ✨️ *radio* 📻 *shuffle* 🎲 ](https://music.youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=CW33IqzVw5xYFrML)**
 ---
-# 🦑💬 [Join other squids](https://discord.gg/Fb29WBqE) 🎶🦑🦑🦑🎶
+# 🐰 Δ [Follow the white](https://en.m.wikipedia.org/wiki/Orange_box#:~:text=An%20orange%20box%20is%20a,boxes%20to%20perform%20their%20attacks.) [rλbbit...](https://half-life.fandom.com/wiki/The_Orange_Box#:~:text=The%20Orange%20Box%20is%20a,%2C%202007%2C%20in%20the%20US.)
 ---
 # 🦕💭 [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
 ---
