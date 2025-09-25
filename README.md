@@ -183,6 +183,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Prompt Engineering by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
+- [QWEN guard](https://github.com/QwenLM/Qwen3Guard)
 - [opic](https://github.com/comet-ml/opik):
 ML debugging resources
 - [Building with Google](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf)
