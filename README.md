@@ -187,6 +187,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [opic](https://github.com/comet-ml/opik):
 ML debugging resources
 - [Building with Google](https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf)
+- [MacroDroid](https://share.google/4Eby4dsephVHzMqMi)
 - [Allemande](https://github.com/sswam/allemande): 
 Multi-agent framework implementation
 - [Hyperlink](https://hyperlink.nexa.ai/)
