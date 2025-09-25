@@ -175,7 +175,7 @@ Built-in mathematical definitions for symbiotic vs. parasitic AI behavior, addre
 - [Alighnment via GRPO]( https://share.google/jGs4GAsd20mKM5ndv)
 - [SLM swarms](https://pieces.app/blog/nvidia-slms-small-language-models-future-ai)
 - [Antifragile design](https://share.google/IQdtyaOJuTUn8TZBI)
-- [Bayesian Neurology](https://share.google/13iRsum2sPI1d7wKr)
+- [Bayesian Neurology](https://share.google/13iRsum2sPI1d7wKr) [arXiv](https://share.google/F7VRkce2LW2bog5Fh)
 ---
 ## Relevant tools/Active Ecosystem:
 ---
