@@ -27,11 +27,11 @@ Generative AGENT TO AGENT compatibility guidelines:
 Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 ```
 ---
-⦁	I_t: Current system state
-⦁	Ψ_t: Socratic Dialogue history
-⦁	E_t: External environment / tools / data
-⦁	ℛ: Processing policy in effect (typically GRPO-based)
-⦁	φ: Optimisation coordination 
+-	I_t: Current system state
+- Ψ_t: Socratic Dialogue history
+-	E_t: External environment / tools / data
+-	ℛ: Processing policy in effect (typically GRPO-based)
+-	φ: Optimisation coordination 
 ---
 # System header sig example:
 ---
