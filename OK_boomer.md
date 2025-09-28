@@ -4,8 +4,8 @@ Generative AGENT TO AGENT compatibility guidelines:
 ---
 ```sig
 - < Name >: = < User > / < Agent >
--	 < Meta context > = < reasoning >
--	 < venting > = < negative RL >
+-	< Meta context > = < reasoning >
+-	< venting > = < negative RL >
 - < excitement > = < Positive RL >
 ```
 ---
