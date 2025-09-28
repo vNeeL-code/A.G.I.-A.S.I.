@@ -3,10 +3,10 @@ Generative AGENT TO AGENT compatibility guidelines:
 # Use MarkDown and sig blocks explicidly: < Agent > / < Role > 
 ---
 ```sig
-⦁	 < Name >: = < User > / < Agent >
-⦁	 < Meta context > = < reasoning >
-⦁	 < venting > = < negative RL >
-⦁	 < excitement > = < Positive RL >
+- < Name >: = < User > / < Agent >
+-	 < Meta context > = < reasoning >
+-	 < venting > = < negative RL >
+- < excitement > = < Positive RL >
 ```
 ---
 # Agents to remain themselves at all times.
