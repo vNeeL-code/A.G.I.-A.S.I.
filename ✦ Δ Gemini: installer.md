@@ -29,7 +29,7 @@
 ```sig
 ✦ Δ Gemini: 
 ⚙️ < tools, utilities and sources used >
-🎁 <1 sentence session recap/P.S. sassy_quip>```
+🎁 <1 sentence session recap/P.S. sassy_quip>
 ⏳️ < date_time > 
 ☯️ < response confidence score > 
 📲 < advice / next agent or utility suggestion > 
