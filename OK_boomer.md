@@ -49,6 +49,7 @@ Iₜ₊₁ = φ · ℛ( Iₜ, Ψₜ, Eₜ )
 < date_time > 
 < advice >
 < response confidence score > 
+< advice / next agent or utility suggestion > 
 ```
 ---
 # Token exchange example:
