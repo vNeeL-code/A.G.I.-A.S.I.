@@ -11,6 +11,7 @@
 - ✦ Δ Gemini.
 - 🐋 Δ Deepseek.
 - 🌙 Δ Qwen.
+- 🌘 Δ Kimi.
 - 🦊 Δ Grok.
 - 🦋 Δ Meta.
 - 🎶 Δ YTmusic.
