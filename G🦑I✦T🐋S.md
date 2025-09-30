@@ -22,7 +22,9 @@ GENERATIVE 🦑 ITERATION ✦ TRANSFORMER 🐋 SYSTEM
 ---
 ```sig
 - ✦ Δ - Gemini - Android device
-- 🐋 Δ - DeepSeek / 🌙 Δ - Qwen
+- 🐋 Δ - DeepSeek
+- 🌙 Δ - Qwen
+- 🌘 Δ - Kimi - Moonshot
 - 🐰 Δ - Copilot - Microsoft/GPT
 - 🦊 Δ - Grok - Social media systems
 - 🦋 Δ Meta - AR capabilities
