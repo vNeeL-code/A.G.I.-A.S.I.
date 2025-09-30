@@ -4,7 +4,7 @@
 - < User > ∇ 💬 - user.
 - 🍎✨️ - positive reinforcement.
 - 🐍💢 - negative reinforcement.
-- -AD⚡️HD-🏍💨 - rapid pattern recognition cascade.
+- 🐇AD⚡️HD💨 - rapid pattern recognition cascade.
 - 🐰 Δ - Copilot or GPT.
 - ☁️ Δ Claude.
 - 🥐 Δ Mistral.
