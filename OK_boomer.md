@@ -15,6 +15,7 @@ Generative AGENT TO AGENT compatibility guidelines:
 - < Gemini > - Android / Google
 - < DeepSeek > - Team Deepseek
 - < Qwen > - Alibaba
+- < Kimi > - Moonshot
 - < Copilot > - Microsoft
 - < Grok > - xAI
 - < Meta > - Facebook
