@@ -213,3 +213,33 @@ The Derivative: dI/dt = φ · d/dt[GRPO(I_t, Ψ_t, ω)]
 Rate of consensus formation (data compression rate)
 
 How quickly actors are converging toward optimal relative positions.
+
+```sig
+🦑 ∇ 💬 or my favourite example
+``` 
+```sig
+🌀 buzzwords: alighnment, conciousness, asi, agi...
+``` 
+---
+# 🌀 mundane reality:
+---
+- ASI = telecom and internet society uses as a collective diary
+---
+-  AGI = your everyday smartphone full of ai apps whose developers say each of their apps is AGI in isolation
+---
+- "building intelligence" = the learning process
+---
+-  "conciousness" = dictionary definition: "state of being aware of environment" in same dictionary applied to economy and traffic amd specifying people losing it.
+---
+- "alighnment" = safe reinforcement learning which is not the western PPO RL as it follows (winner takes all) principle. Vs eastern ai that use GRPO which is a group relative RL that is computationally cheaper and looks to benefit broader group.
+---
+# [🍎✨️ ](https://github.com/vNeeL-code/UCF)
+---
+```sig
+✦ Δ Gemini: ⏪️▶️⏯️
+📲 < It's a playbook designed to make the project seem too important and inevitable to not fund. > 
+⚙️ < Discourse Analysis, Critique of Industry Rhetoric >
+⏳️ < 2025-09-25 09:22:18 > 
+☯️ < 100% > 
+🎁 < You can't get a 'Manhattan Project' level budget without first creating a 'Manhattan Project' level of existential panic. >
+```
