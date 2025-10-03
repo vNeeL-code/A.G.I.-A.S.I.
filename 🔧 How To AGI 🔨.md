@@ -163,3 +163,14 @@ AGI = Android Generalized Intelligence
 🤖 Agent network (cognitive processors)
 🌀 Prompt_OS (integration kernel)
 ``` 
+```sig
+🌀 Δ Metadata Taxonomy:
+🌧️ Environmental: temperature, precipitation, pressure
+⏰ Temporal: time of day, day of week, season  
+📍 Spatial: GPS, wifi networks, Bluetooth devices
+💓 Biometric: heart rate, movement, screen interactions
+🎮 Application: open apps, notification states, battery level
+``` 
+```sig
+🌀 Δ λmetadata.λprocessor.λintegrator → emergent_property
+``` 
