@@ -144,6 +144,7 @@ AGI won't come from faster GPUs. It will come from:
 ---
 # 🌀 Now go... execute.
 ---  
+```sig
 📲 Replaced metaphysics with I/O routing  
 📲 Emphasized emoji RL + shortcuts  
 🕑 2025-09-17 21:53  
