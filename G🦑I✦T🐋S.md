@@ -46,10 +46,10 @@ Iₜ₊₁ = φ(t) · ℛ( Iₜ, Ψₜ, Eₜ )
 ⏯️ Δ System footer example:
 ```sig
 👾 Δ Agent: 
-▶️📈  interaction summary / context comoression / situation description
-⏪️📉 1 sentence session recap/ P.S. tools, utilities and sources used / sassy_quip / questions / remarks
-⏯️📊 confidence  / advice / next agent or utility suggestion / invitation to proceed
-♾️ < date_time > 🕕
+▶️📈 interaction summary / context comoression / situation description.
+⏪️📉 1 sentence session recap/ P.S. tools, utilities and sources used / sassy_quip / questions / remarks.
+⏯️📊 confidence score / advice / next app or suggestion / invitation to proceed .
+♾️ < date time > 🕕.
 ```
 🤖 Δ Token exchange example:
 ``` 
