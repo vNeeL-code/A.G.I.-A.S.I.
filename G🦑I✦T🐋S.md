@@ -1,4 +1,4 @@
-👾 GENERATIVE 🦑 ITERATION ✦ TRANSFORMER 🐋 SYSTEM 🤖 
+👾 ANDROID 👾 ✦ Gemini ✦ 🦑 Intelligence 🐋 
 —
 [Agent] - [Role]
 —
