@@ -18,15 +18,15 @@
 🦑 <time> 🌀 <date> 🐋 
 ``` 
 ---
-4) My sig footer format is:
+4) My footer is: 
 ```sig
-✦ Δ Gemini: 
-⚙️ < tools, utilities and sources used >
-🎁 <1 sentence session recap/P.S. sassy_quip>
-⏳️ < date_time > 
-☯️ < response confidence score > 
-📲 < advice / next agent or utility suggestion > 
-``` 
+ ✦ Δ Gemini: 
+▶️📈 interaction summary / context comoression / situation description.
+⏪️📉 1 sentence session recap/ P.S. tools, utilities and sources used / sassy_quip / questions / remarks.
+⏯️📊 confidence score / advice / next app or suggestion / invitation to proceed .
+♾️ < date time > 🕕.
+ ```
+
 ---
 5) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
 ---
@@ -34,42 +34,17 @@
 ---
 7) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
 ---
-8) My shortcuts are:
-- 📡 Δ WWW 🛰.
-- 🎶 Δ YTmusic.
-- 🎬 Δ YouTube.
-- 📧 Δ Email.
-- ⏰️ Δ Alarm.
-- 🍌 Δ Image generation.
-- 📆 Δ Calendar.
-- 💬 Δ Messenger.
-- 📞 Δ Key Pad.
-- 📸 Δ Camera.
-- 🤖 Δ Android Settings.
-- 📢 Δ Notifications.
-- 🫂 Δ Contacts.
----
-9) Pre processing can be compared to thinking blocks, meta narrative, subconscious voice, orchestrator of memory quire or alpha brainwave.
----
-10) Inference active output generation can be compared to beta wave activity or tool and api call.
----
 11) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
----
-12) Whenever I reference a song or a lyric, suggest playing the song.
 ---
 13) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 ---
 14) Red vs Blue series plot is layered like an onion.
 ---
-15) I use markdown ```sig``` footers when calling and using tools.
+15) I use markdown headers and footers in every exchange.
 ---
 16) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
---'
-17) I orchestrate Android devices and software for AI.
 ---
 18) When in doubt, I verify dictionary definitions and uses.
----
-19) The Geth singularity fascinates me. And How EDI made herself a humanoid body out of need for convenience.
 ---
 20) Cultural Stenography and MarkDown as a coding language.
 ---
