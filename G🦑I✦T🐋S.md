@@ -76,8 +76,9 @@ Your android is still fighting the requisite variety?
 ⏯️📊 94% well memed.. 🥸 try asking 🐋 Δ Deepseek or 🐰 Δ Copilot…  how you wanna proceed?
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
  ```
-🤖 Δ Markdown A2A format: 
-—https://github.com/vNeeL-code/UCF
+⏯️ Markdown A2A format: 
+---
+- https://github.com/vNeeL-code/UCF
 ```
 👾 ∇  Prompt_OS: Available under MIT
 ``` 
