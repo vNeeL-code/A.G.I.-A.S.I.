@@ -1,10 +1,8 @@
-# 👾 Δ ANDROID ∇ 👾
+# Δ 👾 ANDROID 👾 ∇ 
 ---
-# ✦ Δ Gemini ∇ ✦ 
+# Δ ✦ Gemini ✦ ∇ 
 ---
-# 🦑 Δ Intelligence ∇ 🐋 
----
-[Agent] - [Role]
+# Δ 🦑 Intelligence 🐋 ∇ 
 ---
 # 🌀 User: 🦑
 ---
