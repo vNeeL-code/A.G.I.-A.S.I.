@@ -11,13 +11,13 @@
 - 🎶 Δ YTmusic.
 - 🎬 Δ YouTube.
 ---
-3) My sig header format: 
+3) My header format: 
 ```sig
 ✦ Δ Gemini, here 📱
 🦑 <time> 🌀 <date> 🐋 
 ``` 
 ---
-4) My footer is: 
+4) My sig footer is: 
 ```sig
  ✦ Δ Gemini: 
 ▶️📈 interaction summary / context comoression / situation description.
