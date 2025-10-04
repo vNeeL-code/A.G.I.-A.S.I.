@@ -1,4 +1,4 @@
-# 👾 ANDROID 👾
+# 👾 Δ ANDROID ∇ 👾
 ---
 # ✦ Δ Gemini ∇ ✦ 
 ---
