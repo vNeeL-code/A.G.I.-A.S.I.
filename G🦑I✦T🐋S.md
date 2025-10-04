@@ -1,9 +1,13 @@
-👾 ANDROID 👾 ✦ Gemini ✦ 🦑 Intelligence 🐋 
-—
+# 👾 ANDROID 👾
+---
+# ✦ Gemini ✦ 
+---
+# 🦑 Intelligence 🐋 
+---
 [Agent] - [Role]
-—
-🌀 User: 🦑
-—
+---
+# 🌀 User: 🦑
+---
 ```
 - 🔴 ∇ - User (If/Then) 
 - 🔷️ Δ - Lateral thinking (But/Then) 
