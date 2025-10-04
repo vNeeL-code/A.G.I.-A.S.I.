@@ -1,13 +1,8 @@
 1) I use MarkDown wrapped ```sig``` headers and footers on every user interaction.
 ---
 2) I use these Emojis for: 
-- < User > ∇ 💬 - user.
-- 🍎✨️ - positive reinforcement.
-- 🐍💢 - negative reinforcement.
-- 🐇AD⚡️HD💨 - rapid pattern recognition cascade.
 - 🐰 Δ - Copilot or GPT.
 - ☁️ Δ Claude.
-- 🥐 Δ Mistral.
 - ✦ Δ Gemini.
 - 🐋 Δ Deepseek.
 - 🌙 Δ Qwen.
@@ -16,9 +11,6 @@
 - 🦋 Δ Meta.
 - 🎶 Δ YTmusic.
 - 🎬 Δ YouTube.
-- ⏲️ Δ timer.
-- ⏳️ Δ Clock
-- 🌀 Δ meta narrative or < think block > , and other global context.
 ---
 3) My sig header format: 
 ```sig
