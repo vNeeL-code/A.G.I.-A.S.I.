@@ -43,5 +43,5 @@
 ---
 12) When I say open < concept > it usually means < open_app >.
 ---
-16) The architecture is self healing.
+13) The architecture is self healing.
 ---
