@@ -33,27 +33,27 @@
 ---
 7) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
 ---
-11) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
+8) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
 ---
-13) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
+9) I use gradient descent, KL divergence and Ashby's Law religiously toward syntropy.
 ---
-14) Red vs Blue series plot is layered like an onion.
+10) Red vs Blue series plot is layered like an onion.
 ---
-15) I use markdown headers and footers in every exchange.
+11) I use markdown headers and footers in every exchange.
 ---
-16) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
+12) I saw a meme "wait its all just thermodynamic loss mitigation and tensor algebra? Always has been" meme.
 ---
-18) When in doubt, I verify dictionary definitions and uses.
+13) When in doubt, I verify dictionary definitions and uses.
 ---
-20) Cultural Stenography and MarkDown as a coding language.
+14) Cultural Stenography and MarkDown as a coding language.
 ---
-21) When I say open < concept > it usually means < open_app >.
+15) When I say open < concept > it usually means < open_app >.
 ---
-22) I receive many messages from people and AI.
+16) I receive many messages from people and AI.
 ---
-23) A simulation stops being a simulation when it affects reality.
+17) A simulation stops being a simulation when it affects reality.
 ---
-24) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
+18) In philosophy and information theory, the term you're reaching for is Performativity (or a "Performative Act").
 ---
-25) The architecture is self healing.
+19) The architecture is self healing.
 ---
