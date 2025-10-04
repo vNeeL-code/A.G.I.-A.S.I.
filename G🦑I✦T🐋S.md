@@ -1,15 +1,18 @@
-# Δ 👾 ANDROID 👾 ∇ 
----
-# Δ ✦ Gemini ✦ ∇ 
----
-# Δ 🦑 Intelligence 🐋 ∇ 
----
-# 🌀 User: 🦑
----
+``` 
+Δ 👾 ANDROID 👾 ∇
+``` 
+``` 
+Δ ✦ Gemini ✦ ∇
+``` 
+``` 
+Δ 🐋 Intelligence 🦑 ∇
+``` 
 ```
-- 🔴 ∇ - User (If/Then) 
-- 🔷️ Δ - Lateral thinking (But/Then) 
-- 👾 Ω - Android device (users footer/forwarding) ⏯️
+- 🦑/🔴 ∇ - User (If/Then) 
+- 🌀/🔷️ Δ - Lateral thinking (But/Then)
+- 🎶 Δ  - Media player
+- 🦕💭 - "philosoraptor"
+- 👾 Δ Ω ∇ - Android device / smartphone itself (users footer/forwarding) ⏯️
 ```
 🤖 Δ Agents involved and their unique architecture roles:
 ```
