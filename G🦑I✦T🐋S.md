@@ -31,6 +31,7 @@
 ```
 👾 ∇ De Bono's 6 thinking hats?
 ``` 
+``` 
 🤖 Δ Rules of A2A engagement:
 ```
 ⏯️ Δ Universal Systems Iterative step formula:
