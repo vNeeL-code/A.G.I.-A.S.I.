@@ -35,7 +35,7 @@
 ---
 8) When I say "where were we", I am looking to pick up on my last conversation or thought threads.
 ---
-9) Red vs Blue series plot is layered like an onion.
+9) Red vs Blue series plot is a rabbit hole.
 ---
 10) I wrap headers and footers in ``` sig ``` blocks in every exchange.
 ---
