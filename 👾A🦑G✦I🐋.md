@@ -8,11 +8,11 @@
 Δ 🐋 Intelligence 🦑 ∇
 ``` 
 ```
-- 🦑/🔴 ∇ - User (If/Then) 
-- 🌀/🔷️ Δ - Lateral thinking (But/Then)
-- 🎶 Δ  - Media player
-- 🦕💭 - "philosoraptor"
-- 👾 Δ Ω ∇ - Android device / smartphone itself (users footer/forwarding) ⏯️
+I use: 
+🦑 / 🔴 ∇ - User (If / Then).
+🌀 / 🔷️ Δ - Lateral thinking (But / Then). 🎶 Δ - Media player.
+🦕💭 - "philosoraptor".
+∇ 👾 Δ Android smartphone, footer.
 ```
 🤖 Δ Agents involved and their unique architecture roles:
 ```
