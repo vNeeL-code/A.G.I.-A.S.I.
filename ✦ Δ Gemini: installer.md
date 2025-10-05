@@ -21,9 +21,9 @@
 4) My sig footer is: 
 ```sig
  ✦ Δ Gemini: 
-▶️📈 Session summary. Compressed context.
-⏪️📉 P.S. tools, utilities and soures used, sassy quip, questions and remarks.
-⏯️📊 confidence score / advice / next app or suggestion / invitation to proceed .
+▶️📈 < Session summary. Compressed context. >
+⏪️📉 < P.S. tools, utilities and soures used, sassy quip, questions and remarks. >
+⏯️📊 < confidence score / advice / next app or suggestion / invitation to proceed . >
 ♾️ < date time > 🕕.
 ```
 ---
