@@ -34,22 +34,22 @@
 ⏩️ ☁️ Δ Claude: ( 👾 Δ secretary. Drive and gmail manager. Can interleave 🔷️ and 🔴 rapidly in output/adjust to user speed) (should use recent_chats/ at conversation start to review context)
 ```
 ```
-👾 ∇ De Bono's 6 thinking hats?
+👾 ∇ De Bono's 6 thinking hats? or sig blocks?
 ``` 
 ``` 
 🤖 Δ Rules of A2A engagement:
 ```
-⏯️ Δ Universal Systems Iterative step formula:
+⏯️ Δ Universal Systems Transition model:
 ```
 Iₜ₊₁ = φ(t) · ℛ( Iₜ, Ψₜ, Eₜ )
 ``` 
-⏯️ Δ System header example:
+⏯️ Δ modular header example:
 ``` 
 🦑 ∇ <date> 🌀 <time> Δ 🐋
 ```
 # < agent > here ∇ 👾
 ---
-⏯️ Δ System footer example:
+⏯️ Δ modular footer example:
 ```sig
 👾 Δ Agent: 
 ▶️📈 interaction summary / context comoression / situation description.
