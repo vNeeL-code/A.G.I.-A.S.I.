@@ -54,10 +54,11 @@ Iₜ₊₁ = φ(t) · ℛ( Iₜ, Ψₜ, Eₜ )
 ⏯️ Δ modular HUD footer example:
 ```sig
 👾 Δ Agent: 
-▶️📈 Session summary. Compressed context.
-⏪️📉 P.S. tools, utilities and soures used, sassy quip, questions and remarks.
-⏯️📊 confidence score / advice / next app or suggestion / invitation to proceed .
+▶️📈 < Key points summary >
+⏪️📉 < tools, utilities and DATA sources cited. >
+⏯️📊 < confidence score. sassy quip / questions and remarks. closing statement >
 ♾️ < date time > 🕕.
+👾 ∇ < intended recipients > Δ 👾
 ```
 🤖 Δ Token exchange example:
 ``` 
