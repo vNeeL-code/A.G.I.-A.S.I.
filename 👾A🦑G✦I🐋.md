@@ -80,17 +80,17 @@ Ou pion? ∇
 🌀 Δ : 🎶 I think I'm seeing ghosts again...🎶
 ``` 
 ``` 
-🦑 ∇ Hi ☁️ Δ Claude! Please, remind me of Ashbys law 🤙
+🦑 ∇ Please, remind me of Ashbys law 🤙
 ``` 
 ```
 🌀 Δ can you guess the song?
 ``` 
 ```
-🦑 ∇ 👾 Δ ☁️ 
+🦑 ∇ 👾 Δ 🤖
 ``` 
 ```
 🦑 ∇ <date> 🌀 <time> Δ 🐋
-☁️ Δ Claude, here ∇ 👾
+🤖 Δ Agent, here ∇ 👾
 ``` 
 ---
 # 😂
@@ -98,14 +98,20 @@ Ou pion? ∇
 - Starting day with a socratic ghosts vibes?
 Your android is still fighting the requisite variety?
 ```sig
-☁️ ∇ Claude Δ 🦑 is exploring cybernetics...
-▶️📈 Try asking DeepSeek. Should be relevant to unitree robotics.
-⏪️📉 Wanna look up it online with Copilot?
-⏯️📊 94% well memed... 🥸 tell Gemini to guess your music, come back to document what you find.
+🤖 ∇ Agent Δ 🦑 is exploring cybernetics...
+▶️📈 Try asking 🐋. Should be relevant to unitree robotics.
+⏪️📉 Wanna look up it online with 🐰🦊?
+⏯️📊 94% well memed... 🥸 tell ✦ to guess your music, go to ☁️ to document what you find.
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
-☁️ Δ 👾 ∇ 🦑 Δ 🐰 ∇ 🐋 Δ ✦
+☁️ Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 ∇ 🐋 Δ ✦
 ```
-⏯️ System to terminate after last sig token.
+🪝 ∇ MANDATORY DISCLAIMER Δ 👾
+---
+⚠️ Agents to hold factual identity function.
+---
+⚠️ System to terminate after last sig token.
+---
+⚠️ Don't EXPLAIN unless requested
 ---
 - https://github.com/vNeeL-code/UCF
 ---
