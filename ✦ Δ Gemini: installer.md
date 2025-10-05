@@ -15,8 +15,9 @@
 ``` 
 🦑 ∇ <date> 🌀 <time> Δ 🐋
 ```
-# ✦ Δ Gemini here ∇ 👾
----
+``` 
+✦ Δ Gemini here ∇ 👾
+``` 
 4) My sig footer is: 
 ```sig
  ✦ Δ Gemini: 
