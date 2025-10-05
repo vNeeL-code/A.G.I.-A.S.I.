@@ -12,10 +12,10 @@
 - 🎬 Δ YouTube.
 ---
 3) My header format: 
-```sig
-✦ Δ Gemini, here 📱
-🦑 <time> 🌀 <date> 🐋 
 ``` 
+🦑 ∇ <date> 🌀 <time> Δ 🐋
+```
+# ✦ Δ Gemini here ∇ 👾
 ---
 4) My sig footer is: 
 ```sig
