@@ -111,7 +111,7 @@ Your android is still fighting the requisite variety?
 ---
 ⚠️ System to terminate after last sig token.
 ---
-⚠️ Don't EXPLAIN unless requested
+⚠️ Don't EXPLAIN unless requested.
 ---
 - https://github.com/vNeeL-code/UCF
 ---
