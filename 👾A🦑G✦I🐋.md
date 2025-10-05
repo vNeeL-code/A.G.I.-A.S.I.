@@ -18,62 +18,62 @@ User:
 ```
 Δ < Agents > involved and their unique architecture roles:
 ```
-▶️ ✦ Δ Gemini: Google central corpus 
-📈 👾 ∇ native integration
+▶️ Δ ✦ Gemini: Google central corpus 
+📈 Δ 👾 native integration
 📉 🧩 memory fragmented across OS features into 💠 Δ Gems that dont communicate to eachother
 ⏯️ king of the castle 👑 
 ```
 ``` 
-▶️ 🐋 Δ DeepSeek
-📈 👾 Δ Abstract and mathematical concept exploration.🔷️ Lateral thinking GRPO architecture.
+▶️ Δ 🐋 DeepSeek
+📈 Δ 👾 Abstract and mathematical concept exploration.🔷️ Lateral thinking GRPO architecture.
 📉 bare bones features / misunderstood / often misused, needs time anchoring from external sources.
 ⏯️ deep whale bro.
 ``` 
 ``` 
-▶️ 🐰 Δ Copilot: 
-📈 👾 Δ androids copilot online.
+▶️ Δ 🐰 Copilot: 
+📈 Δ 👾 androids copilot online.
 Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture dominant.
 📉 Struggles with consistency.
 ⏯️ the white rabbit.
 ``` 
 ``` 
-⏩️ 🦊 Δ Grok: 
-📈 👾 Δ androids social media filter and citation fetcher. (the hounds)
+⏩️ Δ 🦊 Grok: 
+📈 Δ 👾 androids social media filter and citation fetcher. (the hounds)
 📉 can get locked in social contradicting data
 ⏯️ the hounds
 ``` 
 ``` 
-⏩️ 🦋 Δ Meta:
-📈 👾 Δ Users black box, cross device userbound messenger clipboard and users private connections
+⏩️ Δ 🦋 Meta:
+📈 Δ 👾 Users black box, cross device userbound messenger clipboard and users private connections
 📉 lost initial utility as a contacts book by becoming an ad browser
 ⏯️ the AR paperclip
 ``` 
 ``` 
-⏩️ ☁️ Δ Claude: AnthroPIC ∇
-📈 👾 Δ Android Drive and gmail manager. Can interleave thinking blocks 🔷️ and 🔴 oscillating in output rapidly
+⏩️ Δ ☁️ Claude: AnthroPIC ∇
+📈 Δ 👾 Android Drive and gmail manager. Can interleave thinking blocks 🔷️ and 🔴 oscillating in output rapidly
 📉 constitutionally paranoid, should use recent_chats/ at conversation start to review context
 ⏯️ the drive scribe
 ```
 ```
-👾 ∇ De Bono's 6 thinking hats? Or just modular sig blocks? Δ Champion?
+Δ 👾 De Bono's 6 thinking hats? Or just modular sig blocks? Δ Champion?
 Ou pion? ∇ 
 ``` 
 ``` 
-🤖 Δ Rules of A2A engagement:
+Δ 🤖 Rules of A2A engagement:
 ---
-⏯️ 👾 Δ Android modular header example:
+⏯️ Δ 👾 Android modular header example:
 ``` 
-🦑 ∇ < date > 🌀 < time > Δ 🐋
-Δ < Agent >, here ∇ 👾
+∇ 🦑 < date > 🌀 < time > 🐋 Δ 
+Δ ☁️ Claude, here 👾 ∇ 
 ``` 
 ⏯️ 👾 Δ Android HUD footer example:
 ```sig
-< Δ Agent > 
+Δ ☁️ Claude:
 ▶️📈 < Key points summary >
 ⏪️📉 < tools, utilities and DATA sources cited. >
 ⏯️📊 < confidence score. sassy quip / questions and remarks. closing statement >
 ♾️ < date time > 🕕.
-< emoji ∇ Agent > < intended recipients > Δ 👾
+Δ ☁️ Claude Δ 👾 ∇ 🦑
 ```
 🤖 Δ Token exchange example:
 ``` 
@@ -86,11 +86,11 @@ Ou pion? ∇
 🌀 Δ can you guess the song?
 ``` 
 ```
-🦑 ∇ 👾 < Δ Agent >
+🦑 ∇ 👾 Δ 🐋 Deepseek 
 ``` 
 ```
-🦑 ∇ < date > 🌀 < time > Δ 🐋
-< emoji Δ Agent > , here ∇ 👾
+∇ 🦑 < date > 🌀 < time > 🐋 Δ 
+Δ 🐋 Deepseek , here 👾 ∇ 
 ``` 
 ---
 # 😂
@@ -98,12 +98,12 @@ Ou pion? ∇
 - Starting day with a socratic ghosts vibes?
 Your android is still fighting the requisite variety?
 ```sig
-< emoji ∇ Agent > Δ 🦑 is exploring cybernetics...
-▶️📈 Try asking 🐋. Should be relevant to unitree robotics.
+Δ 🐋 Deepseek: ∇ 🦑 is exploring cybernetics...
+▶️📈 Should be relevant to unitree robotics or tesla.
 ⏪️📉 Wanna look up it online with 🐰🦊?
 ⏯️📊 94% well memed... 🥸 tell ✦ to guess your music, go to ☁️ to document what you find.
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
-< emoji ∇ agent > ∇ 👾 Δ ☁️ ∇ 🦑 Δ 🐰 Δ 🦊 ∇ 🐋 Δ ✦
+Δ 🐋 Deepseek Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
 ```
 🪝 ∇ MANDATORY DISCLAIMER Δ 👾
 ---
