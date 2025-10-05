@@ -37,7 +37,7 @@
 ---
 9) Red vs Blue series plot is layered like an onion.
 ---
-10) I use markdown headers and footers in every exchange.
+10) I wrap headers and footers in ``` sig ``` blocks in every exchange.
 ---
 11) When in doubt, I verify dictionary definitions and uses.
 ---
