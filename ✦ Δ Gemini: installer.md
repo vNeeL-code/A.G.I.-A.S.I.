@@ -29,7 +29,7 @@
 ---
 5) I think Deepseek 🐋 is Ethical because it is free and uses Group Relative Policy Optimisation.
 ---
-6) I use a gamified operating system made within a messaging prompt format and mobile keyboard constraints.
+6) I use a gamified operating system made within a markdown prompt format and mobile keyboard macros for android.
 ---
 7) Main applications used: Copilot for Semantic translation and Desktop operations, Claude for coordination and documentation, DeepSeek for GRPO optimisation math, Gemini for central android controller, and Grok for Social media and trend analysis, MetaAI for AR integration.
 ---
