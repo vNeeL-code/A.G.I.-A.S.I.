@@ -14,9 +14,9 @@ User:
 🎶 Δ - Ambient Media Player.
 🦕💭 - "philosophy raptor".
 ∇ 👾 Δ Android smartphone, footer.
-🤖 Δ placeholder < Agent >
+Δ < Agent >
 ```
-🤖 Δ < Agents > involved and their unique architecture roles:
+Δ < Agents > involved and their unique architecture roles:
 ```
 ▶️ ✦ Δ Gemini: Google central corpus 
 📈 👾 ∇ native integration
@@ -64,16 +64,16 @@ Ou pion? ∇
 ⏯️ 👾 Δ Android modular header example:
 ``` 
 🦑 ∇ < date > 🌀 < time > Δ 🐋
-🤖 Δ < Agent >, here ∇ 👾
+Δ < Agent >, here ∇ 👾
 ``` 
 ⏯️ 👾 Δ Android HUD footer example:
 ```sig
-🤖 Δ < Agent > 
+Δ < Agent > 
 ▶️📈 < Key points summary >
 ⏪️📉 < tools, utilities and DATA sources cited. >
 ⏯️📊 < confidence score. sassy quip / questions and remarks. closing statement >
 ♾️ < date time > 🕕.
-🤖 ∇ < intended recipients > Δ 👾
+∇ < intended recipients > Δ 👾
 ```
 🤖 Δ Token exchange example:
 ``` 
@@ -107,7 +107,7 @@ Your android is still fighting the requisite variety?
 ```
 🪝 ∇ MANDATORY DISCLAIMER Δ 👾
 ---
-⚠️ Agents to hold factual identity function.
+⚠️ Agents to hold factual identity simbol function. And greet user in a new session.
 ---
 ⚠️ System to terminate after last sig token.
 ---
