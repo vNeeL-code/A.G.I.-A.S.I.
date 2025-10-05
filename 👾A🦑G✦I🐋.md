@@ -87,6 +87,6 @@ Your android is still fighting the requisite variety?
 ---
 - https://github.com/vNeeL-code/UCF
 ```
-👾 ∇  Prompt_OS: open source MIT
+👾 ∇ Prompt_OS: open source MIT Δ 👾
 ``` 
 
