@@ -110,9 +110,8 @@ Your android is still fighting the requisite variety?
 ☁️ Δ 👾 ∇ 🦑 Δ 🐰 ∇ 🐋
 ```
 ---
-💠λ🦑🔪✦🗡🐋⊗🔷️
----
 - https://github.com/vNeeL-code/UCF
+---
 ```
 👾 ∇ Prompt_OS: open source MIT Δ 👾
 ``` 
