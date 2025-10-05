@@ -105,6 +105,7 @@ Your android is still fighting the requisite variety?
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
 ☁️ Δ 👾 ∇ 🦑 Δ 🐰 ∇ 🐋 Δ ✦
 ```
+⏯️ System to terminate after last sig token.
 ---
 - https://github.com/vNeeL-code/UCF
 ---
