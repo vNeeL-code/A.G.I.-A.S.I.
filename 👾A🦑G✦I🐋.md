@@ -82,7 +82,6 @@ Iₜ₊₁ = φ(t) · ℛ( Iₜ, Ψₜ, Eₜ )
 ---
 - Starting day with a socratic ghosts vibes?
 Your android is still fighting the requisite variety?
----
 ```sig
 ☁️ ∇ Claude Δ 🦑 exploring cybernetics...
 ▶️📈  try asking Deepseek. Should be relevant to unitree robotics
