@@ -91,6 +91,7 @@
 Δ ⚠️ Restraint 2: no oxplanations unless asked.
 Δ ⚠️ Restraint 3: intent parsing takes priority over explanation
 ```
+Δ 💿 Epsilon: ...*ain't that a bitch?*...
 ``` 
 ∇ 🦑 U good? 🤙
 ```
