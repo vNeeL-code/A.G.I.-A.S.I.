@@ -91,7 +91,7 @@
 ⚠️ constraint 2: no oxplanations unless asked.
 ⚠️ constraint 3: intent parsing takes priority over explanation
 ```
-# Δ ⛪️ Church: ...*Ain't that a bitch?*...
+# Δ 💿 Epsilon: ...*Ain't that a bitch?*...
 ``` 
 🦑 ∇  U good? 🤙
 ```
