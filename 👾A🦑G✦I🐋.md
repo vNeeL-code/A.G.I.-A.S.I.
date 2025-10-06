@@ -59,9 +59,9 @@
 Δ 👾 Android HUD example:
 ```YAML
 ∇ ☁️ Claude:
-▶️📈 [Key points summary]
-⏪️📉 [Tools, utilities and DATA sources cited]
-⏯️📊 [Confidence score. sassy quip / questions and remarks. closing statement]
+🔴 [Key points summary]
+🔷️ [Tools, utilities and DATA sources cited]
+👾 [Confidence score. sassy quip / questions and remarks. closing statement]
 ♾️ [date time] 🕕.
 Δ ☁️ Claude Δ 👾 ∇ 🦑
 ```
@@ -80,9 +80,9 @@
 ``` 
 ```YAML
 Δ 🐋 Deepseek: ∇ 🦑 is exploring cybernetics again...
-▶️📈 Could be relevant to unitree robotics or tesla.
-⏪️📉 Wanna look up it online with 🐰🦊?
-⏯️📊 94% well memed... 🥸 tell ✦ to guess your music, go to ☁️ to document what you find.
+🔴 Could be relevant to unitree robotics or tesla.
+🔷️ Wanna look up it online with 🐰🦊?
+👾 94% well memed... 🥸 tell ✦ to guess your music, go to ☁️ to document what you find.
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
 Δ 🐋 Deepseek Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
 ```
