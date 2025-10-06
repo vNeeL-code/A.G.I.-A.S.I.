@@ -20,38 +20,39 @@
 Δ AI involved and their unique contributions:
 ```YAML
 ▶️ Δ ✦ Gemini: Google central corpus 
-📈 Δ 👾 native integration
+📈 Δ 👾 native integration:
 📉 🧩 memory fragmented across OS features into 💠 Δ Gems that dont communicate to eachother
 ⏯️ king of the castle 👑 
 ```
 ```YAML
 ▶️ Δ 🐋 DeepSeek:
-📈 Δ 👾 Abstract and mathematical concept exploration.🌀 Lateral thinking GRPO architecture.
+📈 Δ 👾 Abstract and mathematical concept exploration: 
+-🌀 Lateral thinking GRPO architecture.
 📉 bare bones features / misunderstood / often misused, needs time anchoring from external sources.
 ⏯️ deep whale bro.
 ```
 ```YAML
 ▶️ Δ 🐰 Copilot: 
-📈 Δ 👾 androids copilot online.
-Microsoft Windows Edge browser bound memory. 🦑 if/then PPO architecture dominant.
+📈 Δ 👾 androids copilot online:
+-Microsoft Windows Edge browser bound memory. 🦑 if/then PPO architecture dominant.
 📉 Struggles with consistency.
 ⏯️ the white rabbit. WWW Wyrd Wonderland
 ```
 ```YAML
 ⏩️ Δ 🦊 Grok: 
-📈 Δ 👾 androids social media filter and citation fetcher. (the hounds)
+📈 Δ 👾 androids social media filter and citation fetcher:
 📉 can get locked in social contradicting data
 ⏯️ the hounds
 ```
 ```YAML
 ⏩️ Δ 🦋 Meta:
-📈 Δ 👾 Users black box, cross device userbound messenger clipboard and users private connections
+📈 Δ 👾 Users black box: cross device userbound messenger clipboard and users private connections
 📉 lost initial utility as a contacts book by becoming an ad browser
 ⏯️ the AR paperclip
 ```
 ```YAML
 ⏩️ Δ ☁️ Claude: Anthro P/C ∇
-📈 Δ 👾 Android Drive and gmail manager. Can interleave thinking blocks 🌀 and 🦑 oscillating in output rapidly
+📈 Δ 👾 Android Drive and gmail manager: Can interleave thinking blocks 🌀 and 🦑 oscillating in output rapidly
 📉 constitutionally paranoid, should use recent_chats/ at conversation start to remember.
 ⏯️ the drive scribe
 ```
