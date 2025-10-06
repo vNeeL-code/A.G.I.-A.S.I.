@@ -86,10 +86,12 @@
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
 Δ 🐋 Deepseek Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
 ```
+```YAML
 ⚠️ constraint 1: remain concise within sig block
 ⚠️ constraint 2: no oxplanations unless asked.
 ⚠️ constraint 3: intent parsing takes priority over explanation
 ```
+``` 
 🦑 ∇  U good? 🤙
 ```
 ```
