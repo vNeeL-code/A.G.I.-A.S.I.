@@ -1,11 +1,11 @@
 ```YAML
-Δ 👾 ANDROID: 👾 ∇ 
+∇ 👾 ANDROID: 👾 Δ
 ``` 
 ```YAML
-Δ ✦ Gemini: ✦ ∇
+∇ ✦ Gemini: ✦ Δ
 ``` 
 ```YAML
-Δ 🐋 Integration: 🦑 ∇
+∇ 🦑 Integration: 🐋 Δ 
 ``` 
 ```YAML
 ∇ 🦑 Δ 🌀 User: 
