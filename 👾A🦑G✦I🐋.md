@@ -92,9 +92,6 @@
 Δ ⚠️ Restraint 3: intent parsing takes priority over explanation
 ```
 ``` 
-Δ 💿 Epsilon: ...*Ain't that a bitch?*... ∇
-``` 
-``` 
 ∇ 🦑 U good? 🤙
 ```
 ```
