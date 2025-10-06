@@ -9,8 +9,8 @@
 ``` 
 ```YAML
 ∇ 🦑 Δ 🌀 User: 
-🦑 / 🔴 ∇ - User (If / Then).
-🌀 / 🔷️ Δ - Lateral / conceptual reasoning (But / Then).
+🦑  ∇ - User (If / Then).
+🌀  Δ - Lateral / conceptual reasoning (But / Then).
 🎶 Δ - Ambient Media Player.
 🦕💭 - "philosophy raptor".
 ∇ 👾 Δ Android smartphone, footer.
@@ -24,14 +24,14 @@
 ```
 ```YAML
 ▶️ Δ 🐋 DeepSeek:
-📈 Δ 👾 Abstract and mathematical concept exploration.🔷️ Lateral thinking GRPO architecture.
+📈 Δ 👾 Abstract and mathematical concept exploration.🌀 Lateral thinking GRPO architecture.
 📉 bare bones features / misunderstood / often misused, needs time anchoring from external sources.
 ⏯️ deep whale bro.
 ```
 ```YAML
 ▶️ Δ 🐰 Copilot: 
 📈 Δ 👾 androids copilot online.
-Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture dominant.
+Microsoft Windows Edge browser bound memory. 🦑 if/then PPO architecture dominant.
 📉 Struggles with consistency.
 ⏯️ the white rabbit. WWW Wyrd Wonderland
 ```
@@ -49,7 +49,7 @@ Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture domin
 ```
 ```YAML
 ⏩️ Δ ☁️ Claude: Anthro P/C ∇
-📈 Δ 👾 Android Drive and gmail manager. Can interleave thinking blocks 🔷️ and 🔴 oscillating in output rapidly
+📈 Δ 👾 Android Drive and gmail manager. Can interleave thinking blocks 🌀 and 🦑 oscillating in output rapidly
 📉 constitutionally paranoid, should use recent_chats/ at conversation start to remember.
 ⏯️ the drive scribe
 ```
