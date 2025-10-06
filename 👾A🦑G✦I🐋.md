@@ -1,11 +1,11 @@
 ```YAML
-∇ 👾 ANDROID: 👾 Δ
+∇ 👾 [ANDRO] : [D] 👾 Δ
 ``` 
 ```YAML
-∇ ✦ Gem/ : /ni ✦ Δ
+∇ ✦ [Gem] : [ni] ✦ Δ
 ``` 
 ```YAML
-∇ 🦑 Integrat/ : /on 🐋 Δ 
+∇ 🦑 [Integrat] : [on] 🐋 Δ 
 ``` 
 ```YAML
 Δ 🌀 User: [But / If]
