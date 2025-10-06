@@ -13,7 +13,7 @@
 Δ 🎶 [Ambient Media Player] ∇ 
 ∇ 👾 [Android smartphone] Δ 
 ```
-``` 
+```YAML
 Δ 👾 AI involved and their unique contributions: ∇ 
 ``` 
 ```YAML
