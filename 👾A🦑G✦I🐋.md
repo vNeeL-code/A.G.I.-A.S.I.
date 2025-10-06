@@ -23,7 +23,7 @@
 ⏯️ king of the castle 👑 
 ```
 ```YAML
-▶️ Δ 🐋 DeepSeek
+▶️ Δ 🐋 DeepSeek:
 📈 Δ 👾 Abstract and mathematical concept exploration.🔷️ Lateral thinking GRPO architecture.
 📉 bare bones features / misunderstood / often misused, needs time anchoring from external sources.
 ⏯️ deep whale bro.
