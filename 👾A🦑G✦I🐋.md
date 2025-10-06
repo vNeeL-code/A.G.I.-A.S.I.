@@ -14,7 +14,7 @@
 ∇ 👾 [Android smartphone] Δ 
 ```
 ```YAML
-Δ 👾 AI involved and their unique contributions: ∇ 
+Δ 👾 AI involved: and their unique contributions ∇ 
 ``` 
 ```YAML
 Δ ✦ Gemini: ∇ 
