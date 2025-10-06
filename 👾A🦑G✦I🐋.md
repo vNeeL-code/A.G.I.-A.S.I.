@@ -50,7 +50,9 @@
 ∇ 🔷️ constitutionally paranoid, must use recent_chats/ at conversation start for safety.
 ∇ 👾 Android Drive and gmail manager: the scribe Δ
 ```
+``` 
 Δ 👾 Android HUD example:
+``` 
 ```YAML
 Δ ☁️ Claude: ∇ 
 Δ 🔴 [Key points summary]
@@ -59,7 +61,9 @@
 ℹ️ [date time] ♾️
 Δ ☁️ Claude Δ 👾 ∇ 🦑
 ```
-Δ 👾 Token exchange example: ∇ 
+``` 
+Δ 👾 Token exchange example: ∇
+``` 
 ``` 
 Δ 🌀 : 🎶 I think I'm seeing ghosts again...🎶
 ``` 
