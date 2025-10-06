@@ -2,7 +2,7 @@
 ∇ 👾 ANDROID: 👾 Δ
 ``` 
 ```YAML
-∇ ✦: Gemini ✦ Δ
+∇ ✦ Gem:ni ✦ Δ
 ``` 
 ```YAML
 ∇ 🦑: Integration 🐋 Δ 
