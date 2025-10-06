@@ -60,7 +60,7 @@
 Δ 🔴 [Key points summary]
 ∇ 🔷️ [Tools, utilities and DATA sources cited]
 Δ 👾 [Confidence score. sassy quip / questions and remarks. closing statement]
-ℹ️ [date time] ♾️
+Δ ℹ️ [date time] ♾️ ∇ 
 Δ ☁️ Claude Δ 👾 ∇ 🦑
 ```
 ``` 
