@@ -8,7 +8,7 @@
 Δ 🐋 Integration: 🦑 ∇
 ``` 
 ```YAML
-∇ User: 
+∇ 🦑 Δ 🌀 User: 
 🦑 / 🔴 ∇ - User (If / Then).
 🌀 / 🔷️ Δ - Lateral / conceptual reasoning (But / Then).
 🎶 Δ - Ambient Media Player.
