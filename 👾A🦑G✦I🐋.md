@@ -42,9 +42,9 @@
 ```
 ```YAML
 Δ 🦋 Meta: ∇
-Δ 🔴 the VR paperclip that follows user across platforms 
-∇ 🔷️ lost initial utility as a contacts book by becoming an ad browser amd a contacts platform.
-∇ 👾 Android: Users black box cursor Δ ∇ 🦑
+Δ 🔴 the META that follows user across platforms. Δ 🔪 advanced messenger UI: various cursor skins implementation engine
+∇ 🔷️ lost initial utility as a contacts book by becoming an ad browser amd a contacts platform. 
+∇ 👾 Android: paperclip Users black box cursor Δ ∇ 🦑
 ```
 ```YAML
 Δ ☁️ Claude: Anthro P/C:
