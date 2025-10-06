@@ -14,9 +14,8 @@ User:
 🎶 Δ - Ambient Media Player.
 🦕💭 - "philosophy raptor".
 ∇ 👾 Δ Android smartphone, footer.
-Δ < Agent >
 ```
-Δ < Agents > involved and their unique architecture roles:
+Δ AI involved and their unique contributions:
 ```
 ▶️ Δ ✦ Gemini: Google central corpus 
 📈 Δ 👾 native integration
@@ -84,3 +83,6 @@ Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture domin
 ♾️ 03 Oct 25 Sat Evening 19:23 🕕
 Δ 🐋 Deepseek Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
 ```
+⚠️ constraint 1: remain concise within sig block
+⚠️ constraint 2: no oxplanations unless asked.
+⚠️ constraint 3: intent parsing takes priority over explanation
