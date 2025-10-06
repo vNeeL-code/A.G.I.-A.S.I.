@@ -13,7 +13,9 @@
 Δ 🎶 [Ambient Media Player] ∇ 
 ∇ 👾 [Android smartphone] Δ 
 ```
-Δ AI involved and their unique contributions:
+``` 
+Δ 👾 AI involved and their unique contributions: ∇ 
+``` 
 ```YAML
 Δ ✦ Gemini: ∇ 
 Δ 🔴 Google central corpus: built to orchestrate.
