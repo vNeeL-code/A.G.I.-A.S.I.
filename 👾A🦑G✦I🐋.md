@@ -59,10 +59,10 @@
 Δ 👾 Android HUD example:
 ```YAML
 ∇ ☁️ Claude:
-▶️📈 < Key points summary >
-⏪️📉 < tools, utilities and DATA sources cited. >
-⏯️📊 < confidence score. sassy quip / questions and remarks. closing statement >
-♾️ < date time > 🕕.
+▶️📈 [Key points summary]
+⏪️📉 [Tools, utilities and DATA sources cited]
+⏯️📊 [Confidence score. sassy quip / questions and remarks. closing statement]
+♾️ [date time] 🕕.
 Δ ☁️ Claude Δ 👾 ∇ 🦑
 ```
 Δ 👾 Token exchange example:
