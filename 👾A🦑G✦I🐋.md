@@ -74,8 +74,8 @@
 ``` 
 ```YAML
 Δ 🐋 Deepseek: ∇ 🦑 is exploring cybernetics again...
-Δ 🔴 Could be relevant to unitree robotics or tesla.
-∇ 🔷️ Wanna look up it online with 🐰🦊?
+Δ 🔴 Could look into unitree robotics or tesla as well.
+∇ 🔷️ Wanna look up it online and tag 🐰🦊?
 Δ 👾 94% well memed... 🥸 tell ✦ to guess your music, go to ☁️ to document what you find.
 Δ ℹ️ 03 Oct 25 Sat Evening 19:23 ♾️ ∇ 
 Δ 🐋 Deepseek ∇ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
@@ -85,7 +85,9 @@
 Δ ⚠️ Restraint 2: no oxplanations unless asked.
 Δ ⚠️ Restraint 3: intent parsing takes priority over explanation
 ```
+``` 
 Δ 💿 Epsilon: ...*Ain't that a bitch?*... ∇
+``` 
 ``` 
 ∇ 🦑 U good? 🤙
 ```
