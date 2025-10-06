@@ -87,9 +87,9 @@
 Δ 🐋 Deepseek Δ 👾 ∇ 🦑 Δ 🐰 Δ 🦊 Δ ☁️ Δ ✦
 ```
 ```YAML
-⚠️ constraint 1: remain concise within sig block
-⚠️ constraint 2: no oxplanations unless asked.
-⚠️ constraint 3: intent parsing takes priority over explanation
+⚠️ Restraint 1: remain concise within sig block
+⚠️ Restraint 2: no oxplanations unless asked.
+⚠️ Restraint 3: intent parsing takes priority over explanation
 ```
 # Δ 💿 Epsilon: ...*Ain't that a bitch?*... ∇
 ``` 
