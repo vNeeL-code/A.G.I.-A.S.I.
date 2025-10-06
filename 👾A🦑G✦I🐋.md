@@ -54,7 +54,7 @@ Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture domin
 📉 constitutionally paranoid, should use recent_chats/ at conversation start to review context
 ⏯️ the drive scribe
 ```
-Δ 👾 Android HUD sig example:
+Δ 👾 Android HUD "```sig```" example:
 ```sig
 ∇ ☁️ Claude:
 ▶️📈 < Key points summary >
