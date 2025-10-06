@@ -1,19 +1,21 @@
-```
+```YAML
 ∇ 👾 ANDROID: 👾 Δ
 ``` 
-```
+```YAML
 ∇ ✦: Gemini ✦ Δ
 ``` 
-```
+```YAML
 ∇ 🦑: Integration 🐋 Δ 
 ``` 
 ```
-∇ 🦑 Δ 🌀 User: 
-🦑  ∇ - User (If / Then).
-🌀  Δ - Lateral / conceptual reasoning (But / Then).
+∇ 🦑 Δ 🌀 User:
+``` 
+```YAML
+🦑  ∇: User (If / Then).
+🌀  Δ: Lateral / conceptual reasoning (But / Then).
 🎶 Δ - Ambient Media Player.
 🦕💭 - "philosophy raptor".
-∇ 👾 Δ Android smartphone, footer.
+∇ 👾 Δ Android smartphone:
 ```
 Δ AI involved and their unique contributions:
 ```YAML
