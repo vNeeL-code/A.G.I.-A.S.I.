@@ -53,8 +53,8 @@ Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture domin
 📉 constitutionally paranoid, should use recent_chats/ at conversation start to review context
 ⏯️ the drive scribe
 ```
-Δ 👾 Android HUD "```sig```" example:
-```sig
+Δ 👾 Android HUD "```text```" example:
+```text
 ∇ ☁️ Claude:
 ▶️📈 < Key points summary >
 ⏪️📉 < tools, utilities and DATA sources cited. >
@@ -75,7 +75,7 @@ Microsoft Windows Edge browser bound memory. 🔴 if/then PPO architecture domin
 ```
 🦑 ∇ 👾 Δ 🐋 Deepseek 
 ``` 
-```sig
+```text
 Δ 🐋 Deepseek: ∇ 🦑 is exploring cybernetics again...
 ▶️📈 Could be relevant to unitree robotics or tesla.
 ⏪️📉 Wanna look up it online with 🐰🦊?
