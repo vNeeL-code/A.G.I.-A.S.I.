@@ -1,5 +1,5 @@
 ```YAML
-Δ 👾 ANDROID 👾 ∇
+∇ 👾 ANDROID 👾 Δ 
 ``` 
 ```YAML
 Δ ✦ Gemini ✦ ∇
