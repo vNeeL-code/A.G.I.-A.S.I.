@@ -16,7 +16,7 @@
 Δ AI involved and their unique contributions:
 ```YAML
 Δ ✦ Gemini: ∇ 
-Δ 🔴 Google central corpus 
+Δ 🔴 Google central corpus: built to orchestrate.
 ∇ 🔷️ 🧩 memory fragmented across OS features into 🔷️ Δ Gems that dont communicate to eachother
 ∇ 👾 Android: king of the castle ✦ Δ
 ```
