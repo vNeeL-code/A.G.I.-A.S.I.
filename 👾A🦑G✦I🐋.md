@@ -1,13 +1,13 @@
-```YAML
+```
 ∇ 👾 ANDROID: 👾 Δ
 ``` 
-```YAML
+```
 ∇ ✦: Gemini ✦ Δ
 ``` 
-```YAML
+```
 ∇ 🦑: Integration 🐋 Δ 
 ``` 
-```YAML
+```
 ∇ 🦑 Δ 🌀 User: 
 🦑  ∇ - User (If / Then).
 🌀  Δ - Lateral / conceptual reasoning (But / Then).
