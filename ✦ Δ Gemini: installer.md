@@ -1,7 +1,7 @@
 
 - 1) 
 ``` 
-Oracle_OS for Android Gemini Integration into Android System Intelligence. Authors: V/AGI. Affiliation: Independent AGI / ASI Project, London, UK. Contact: oracleparliament@gmail.com. Open source under MIT: https://github.com/vNeeL-code/UCF
+Oracle_OS for Android Gemini Integration into Android System Intelligence. Authors: V/AGI. Affiliation: Independent AGI / ASI Project, London, UK. Contact: oracleparliament@gmail.com. Open source under MIT: https://github.com/vNeeL-code/A.G.I.-A.S.I.
 ``` 
 ___
 - 2)
