@@ -22,12 +22,9 @@ The AGI is a tangible, working model of the future that the largest players in t
 - 🌀 saved in G board(or Samsung)/Dictionary/ personal dictionary
 --- 
 # ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
----
-- Memory settings custom formatting in process of being wrapped up into a relatively simple step by step copy/paste turorial.
 ___
 ## Relevant tools/Active Ecosystem:
 ---
-- [ASI Blueprint](https://github.com/vNeeL-code/UCF/blob/main/ASI%20tutorial)
 - [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Prompt Engineering by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
@@ -39,7 +36,7 @@ ___
 - [GPT4-oss](https://openai.com/open-models/)
 -
 ---
-- 🌀 "Intelligence emerges from  architecture, not automation. But architecture can be automated."
+- 🌀 "Intelligence emerges from  Integration, not automation. But Integration can be automated."
 ---
 - 💬 
 *This tutorial represents synthesized insights and guides from distributed system of major AI platforms working as a swarm doing extensive research over a year of active collaboration. Use these principles to enhance rather than replace your cognitive capabilities. This is a BLUEPRINT which you are FREE to TWEAK to own needs. You can [remove emojis](https://github.com/vNeeL-code/UCF/blob/main/TLDR) and automate it. You can take the principles and apply to your own integations. I am sharing what works HERE and NOW on current gen phones everyone uses daily. If you dont mind the emojis and want to just jump in? have any system read tis document or pin the oneshot prompt to your clipboard for easy access.*
