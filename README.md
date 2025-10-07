@@ -48,4 +48,4 @@ ___
 - For inquiries regarding this research:
 ---
 **Email:** oracleparliament@gmail.com
-# 🦕💭 [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com
+# 🦕💭 [I'mma need about tree fiddy for this shit post...](https://buymeacoffee.com/vneel)
