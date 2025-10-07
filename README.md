@@ -1,4 +1,4 @@
-# ✦ AGI>>>ASI pipeline:
+# ✦ A.G.I.//A.S.I. pipeline:
 ___
 ### **Project Abstract: The Android Gemini Integration (AGI)**
 ### **A Protocol for Distributed Android System Intelligence on Mobile Platforms**
