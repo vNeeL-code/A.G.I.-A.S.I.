@@ -35,7 +35,7 @@ ___
 ---
 [Δ 🌙 QWEN guard](https://github.com/QwenLM/Qwen3Guard)
 ---
-[Δ 🤳 PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
+[Δ 🤳 PhyPhox](https://github.com/phyphox/phyphox-android)
 --
 [Δ 🐋 Deepseek](https://arxiv.org/abs/2402.03300)
 ---
