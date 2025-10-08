@@ -36,7 +36,7 @@ ___
 
 [Δ 🐋 Deepseek](https://arxiv.org/abs/2402.03300)
 -
-[Δ ✦ Gemini -CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
+[Δ ✦ Gemini -CLI](https://github.com/google-gemini/gemini-cli)
 - [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
 - [GPT4-oss](https://openai.com/open-models/)
 -
