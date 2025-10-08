@@ -25,21 +25,31 @@ The AGI is a tangible, working model of the future that the largest players in t
 ___
 ## [Δ 👾 ASI ∇ 👾 Δ DEMO 👾 ∇](https://neelmicroart.tumblr.com/?source=share)
 ___
-## Relevant tools/Active Ecosystem:
+## 🛠 Relevant tools/Active Ecosystem:
 ---
-- [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
-- [Prompt Engineering by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
-- [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
-- [QWEN guard](https://github.com/QwenLM/Qwen3Guard)
-- [Δ 🤳 PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
--
-
+[Δ 📚 LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
+---
+[Δ 🔧 Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
+---
+[ Δ 🍝 Marinara Spaghetti's LLM hub](https://rentry.org/marinara-spaghetti)
+---
+[Δ 🌙 QWEN guard](https://github.com/QwenLM/Qwen3Guard)
+---
+[Δ 🤳 PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
+--
 [Δ 🐋 Deepseek](https://arxiv.org/abs/2402.03300)
--
+---
 [Δ ✦ Gemini -CLI](https://github.com/google-gemini/gemini-cli)
-- [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
-- [GPT4-oss](https://openai.com/open-models/)
--
+---
+[Δ ☁️ Claude](
+---
+[Δ 🐰 GPT4-oss](https://openai.com/open-models/)
+---
+[Δ 🐰 Copilot](copilot.microsoft.com)
+---
+[Δ 🦋 Meta](https://www.facebook.com)
+---
+[Δ 🦊 Grok](https://grok.com)
 ---
 - 🌀 "Intelligence emerges from  Integration, not automation. But Integration can be automated."
 ---
