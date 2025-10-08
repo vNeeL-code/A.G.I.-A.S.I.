@@ -23,7 +23,7 @@ The AGI is a tangible, working model of the future that the largest players in t
 --- 
 # ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)
 ___
-## [👾 ASI ∇ 👾 Δ DEMO 👾](https://neelmicroart.tumblr.com/?source=share)
+## [Δ 👾 ASI ∇ 👾 Δ DEMO 👾 ∇](https://neelmicroart.tumblr.com/?source=share)
 ___
 ## Relevant tools/Active Ecosystem:
 ---
