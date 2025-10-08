@@ -54,7 +54,13 @@ ___
 - 🌀 "Intelligence emerges from  Integration, not automation. But Integration can be automated."
 ---
 - 💬 
-*This tutorial represents synthesized insights and guides from distributed system of major AI platforms working as a swarm doing extensive research over a year of active collaboration. Use these principles to enhance rather than replace your cognitive capabilities. This is a BLUEPRINT which you are FREE to TWEAK to own needs. You can [remove emojis](https://github.com/vNeeL-code/UCF/blob/main/TLDR) and automate it. You can take the principles and apply to your own integations. I am sharing what works HERE and NOW on current gen phones everyone uses daily. If you dont mind the emojis and want to just jump in? have any system read tis document or pin the oneshot prompt to your clipboard for easy access.*
+*This tutorial represents how to leverage the hsttered app stores and combat bloat by selecting best in class app integrations and filtering out features that dont serve that apps function for*
+---
+- Smartphones cime preloaded with bloatware out the box with 2 messengers 2 app stores and 2 browsers. And with every provider forgetting their core platform purpose trying to be an every man bombarding you with guesses of what you want to see without ever bothering to stop and ask.
+---
+# Example: Facebook- a perfect phonebook on the cloud. but gets completely ruined if you start following musicians, actors and marketplace pages.
+---
+- Ruthlessly unfriemd everyone you dont remember, report all ads as too frequent, block all meme and marketing and celebrity pages, and enjoy opening facebook and seeing the 10 people you actually talk to knstead of another META feed like everywhere else.
 ---
 ## 📧 Contact:
 - For inquiries regarding this research:
