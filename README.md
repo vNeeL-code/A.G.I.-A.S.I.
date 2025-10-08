@@ -31,12 +31,12 @@ ___
 - [Prompt Engineering by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
 - [Marinara's LLM hub](https://rentry.org/marinara-spaghetti): an invaluable toolchain for LLM tuning and prompt infrastructure.
 - [QWEN guard](https://github.com/QwenLM/Qwen3Guard)
-- [PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
+- [Δ 🤳 PhyPhox](https://github.com/phyphox/phyphox-android):  sensory array diagnostic tools
 -
 
-https://arxiv.org/abs/2402.03300 
+[Δ 🐋 Deepseek](https://arxiv.org/abs/2402.03300)
 -
-[Gemini-CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
+[Δ ✦ Gemini -CLI](https://github.com/google-gemini/gemini-cli): Google gemini in your CLI
 - [OpenAI-Codex](https://github.com/openai/codex): OpenAI lightweight agent
 - [GPT4-oss](https://openai.com/open-models/)
 -
