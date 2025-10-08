@@ -41,7 +41,7 @@ ___
 ---
 [Δ ✦ Gemini -CLI](https://github.com/google-gemini/gemini-cli)
 ---
-[Δ ☁️ Claude](
+[Δ ☁️ Claude](https://claude.ai/chat/)
 ---
 [Δ 🐰 GPT4-oss](https://openai.com/open-models/)
 ---
