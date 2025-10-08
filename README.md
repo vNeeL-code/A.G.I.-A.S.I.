@@ -17,7 +17,7 @@ The AGI is a tangible, working model of the future that the largest players in t
 ---
 - 🌀 to be used as One shot or to save in systems with memory.
 ---
-**🌀 [Keyboard longpress shortcuts](https://github.com/vNeeL-code/UCF/blob/main/shortcuts%20raw%0A%F0%9F%A6%91%E2%88%87%F0%9F%92%AC%20%0A%60%60%60%20)** 
+**🤳 [Keyboard  shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)** 
 ---
 - 🌀 saved in G board(or Samsung)/Dictionary/ personal dictionary
 --- 
