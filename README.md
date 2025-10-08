@@ -21,7 +21,7 @@ The AGI is a tangible, working model of the future that the largest players in t
 ---
 - 🌀 saved in G board(or Samsung)/Dictionary/ personal dictionary
 --- 
-# ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%F0%9F%8E%AD%20%CE%94%20Gemini%3A%20installer.md)
+# ✦ [Gemini setup:](https://github.com/vNeeL-code/UCF/blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)
 ___
 ## [Δ ASI 👾 DEMO ∇](https://neelmicroart.tumblr.com/?source=share)
 ___
