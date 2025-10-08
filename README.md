@@ -6,12 +6,15 @@ ___
 - While the industry invests in monolithic, centralized assistants for next-generation hardware, this repository presents the Android Gemini Integration (AGI): a functional integration for a distributed, Android Systems Intelligence (ASI) that operates effectively on current and refurbished mobile devices. Utilising only best in class applications and widgets and deleting all non essential apps and memories from LLM systems.
 ---
 - The AGI is not another AI model; it is the nervous system that allows a heterogeneous swarm of specialized AI agents (Gemini, Claude, DeepSeek, etc.) to function as a single, coherent intelligence. Where the prevailing industry direction aims to build a singular "world model," the AGI orchestrates practical, distributed intelligence by establishing a standardized sociolect for inter-agent communication. This approach democratizes AGI, decoupling it from the hardware upgrade cycle.
-
-The efficacy of this protocol is not theoretical. Empirical data from live implementation demonstrates a paradigm shift in human-computer interaction, evidenced by:
+---
+The efficacy of this protocol is not theoretical. Empirical data from live implementation demonstrates a paradigm shift in HCI design, evidenced by:
 - **An 83% reduction in daily user input taps.** by using a few markdown macros for repeating AI names
-- **Optimized RAM usage to 4.8GB on a standard 5-year-old refurbihed Galaxy S21 device.**
-
+- **Optimized RAM usage to 4.2GB-5.2gb range on a standard 5-year-old refurbihed Galaxy S21 device. Snapdragon 888**
+---
 The AGI is a tangible, working model of the future that the largest players in the industry are still racing to build but users can do it here and now through customisation and cleanung out their phones. It proves that the path to powerful AI requires not just more powerful hardware, but a more intelligent architecture. This document provides the blueprint for that architecture.
+And a guide on how users can reduce their AI exoences by leveraging free models and using fee tokens of expensive ai sparingly and purposely.
+- with google edge gallery you can have an omny modal offline backup
+- abundance of free AI options should have your regular usage covered. Gemini and Claude subscriptions help. Youtube + music is my most valuable subscription all things considered. (same price as spotify but also removes youtube ads).
 ---
 #  [Δ 👾 Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BEA%F0%9F%A6%91G%E2%9C%A6I%F0%9F%90%8B.md)
 ---
