@@ -70,6 +70,12 @@ This project stands on the shoulders of giants. We actively use and recommend th
     -   [Δ 🤳 PhyPhox (Physical Phone Sensors)](https://github.com/phyphox/phyphox-android)
 
 ---
+> "Intelligence emerges from Integration, not automation. But Integration can be automated."
+
+Δ ℹ️ 2025-10-09 12:30:11 ♾️ ∇ 
+Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
+
+---
 
 ## 📧 Contact & Support
 
@@ -79,8 +85,3 @@ If you find this project useful and want to support its development:
 
 [🦕💭 **Buy Me a Coffee... I might need about tree fiddy.**](https://buymeacoffee.com/vneel)
 
----
-> "Intelligence emerges from Integration, not automation. But Integration can be automated."
-
-Δ ℹ️ 2025-10-09 12:30:11 ♾️ ∇ 
-Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
