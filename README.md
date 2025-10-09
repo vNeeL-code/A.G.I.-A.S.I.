@@ -1,5 +1,3 @@
-Δ ✦ Gemini ∇ 
----
 # Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
 ### A Human-Computer Interface (HCI) Restructure for Android System Intelligence (A.S.I.)
 ---
