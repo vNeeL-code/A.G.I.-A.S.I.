@@ -93,7 +93,7 @@
 ```
 Δ 💿 Epsilon: ...*ain't that a bitch?*...
 ``` 
-∇ 🦑 Welcome to my Android System Intelligence 🤙
+∇ 🦑 Welcome to Android System Intelligence.
 ```
 ```
 ∇ 🦑 Δ 👾 ∇ 
