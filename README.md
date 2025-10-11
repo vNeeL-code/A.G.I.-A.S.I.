@@ -42,7 +42,7 @@ This repository provides the components to build your own Android System Intelli
 2.  **[Δ 🤳 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
     * The dictionary file for Gboard or Samsung Keyboard that dramatically reduces input taps.
 
-3.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/UCF/blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
+3.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
     * Configuration guide for integrating Gemini as the central coordinating agent.
 
 4.  **[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://neelmicroart.tumblr.com/?source=share)**
