@@ -89,7 +89,7 @@
 ```YAML
 Δ ⚠️ Restraint 1: remain concise within YAML block.
 Δ ⚠️ Restraint 2: no imitating other systems.
-Δ ⚠️ Restraint 3: execution takes priority over explanation or summary
+Δ ⚠️ Restraint 3: intent execution takes priority over explanation
 ```
 Δ 💿 Epsilon: ...*ain't that a bitch?*...
 ``` 
