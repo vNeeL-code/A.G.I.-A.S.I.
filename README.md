@@ -36,7 +36,7 @@ The A.G.I. protocol is not theoretical. Data from live implementation on a 5-yea
 
 This repository provides the components to build your own Android System Intelligence.
 
-1.  **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BEA%F0%9F%A6%91G%E2%9C%A6I%F0%9F%90%8B.md)**
+1.  **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
     * The primary architectural document and guide. To be used as a one-shot setup or saved in systems with memory.
 
 2.  **[Δ 🤳 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
