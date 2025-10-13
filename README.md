@@ -22,10 +22,12 @@ This repository provides the components to build your own Android System Intelli
 1.  **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
     * The primary architectural document and guide. To be used as a one-shot setup or saved in systems with memory.
 
-2.  **[Δ 🤳 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
+2.  **[Δ 📲 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
     * The dictionary file for Gboard or Samsung Keyboard that dramatically reduces input taps.
 
-3.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
+3.  **[Δ 🤳 One hand gestures prototype: demo](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
+
+4.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
     * Configuration guide for integrating Gemini as the central coordinating agent.
 
 ---
