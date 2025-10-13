@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
+
+
 [![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
 
 # Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
