@@ -34,7 +34,7 @@ This repository provides the components to build your own Android System Intelli
 
 ## 💬 The Philosophy: Combatting Digital Fragmentation
 ---
-Today's digital ecosystem is fragmented. Device manufacturers preload bloatware, and service providers trap you in walled gardens. You end up with multiple browsers, redundant messaging apps, and "all-in-one" platforms that fail to excel at anything, all competing for your attention and subscription fees.
+Today's digital and economic attention ecosystem is fragmented. Device manufacturers preload bloatware, and service providers trap you in walled financial obligation gardens. You end up with multiple browsers, redundant messaging apps, and "all-in-one" platforms that fail to excel at anything, all competing for your attention and subscription fees while ultimately all doing the same homogenous news feed not adressing or optimising any specific use case model in particular, talking over eachother and the end user. All while competing with free, default services.
 ---
 The A.G.I. philosophy is about reclaiming control through intelligent integration:
 ---
