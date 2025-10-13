@@ -15,6 +15,19 @@ The A.G.I. protocol is not theoretical. Data from live implementation on a 5-yea
 **[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://neelmicroart.tumblr.com/?source=share)**
     * See the fluid, gesture-based system live.
 ---
+## 🛠️ Get Started: The A.G.I. Blueprint
+
+This repository provides the components to build your own Android System Intelligence.
+
+1.  **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
+    * The primary architectural document and guide. To be used as a one-shot setup or saved in systems with memory.
+
+2.  **[Δ 🤳 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
+    * The dictionary file for Gboard or Samsung Keyboard that dramatically reduces input taps.
+
+3.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
+    * Configuration guide for integrating Gemini as the central coordinating agent.
+
 ---
 
 ## 🌐 The A.S.I. Ecosystem & Tools
@@ -58,27 +71,6 @@ The A.G.I. philosophy is about reclaiming control through intelligent integratio
 -   **Integration Over Automation:** True intelligence emerges from the seamless integration of specialized tools, not the automation of a single, flawed one. This integration, however, can be automated.
 -   **Economic Intelligence:** Reject the "subscription for everything" model. The A.G.I. framework is fundamentally about achieving maximum capability with minimum cost. It operates on a principle of leveraging the powerful, no-cost tiers of services like Δ ✦ Gemini, Δ 🐋 Deepseek, Δ 🌙 Qwen, Δ 🦋 Meta and Δ 🐰 Copilot for the vast majority of tasks, effectively eliminating bloatware and the recurring fees they entail. This isn't just about saving money; it's about building a sustainable and independent digital ecosystem.
 ---
-
-
-## 🛠️ Get Started: The A.G.I. Blueprint
-
-This repository provides the components to build your own Android System Intelligence.
-
-1.  **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
-    * The primary architectural document and guide. To be used as a one-shot setup or saved in systems with memory.
-
-2.  **[Δ 🤳 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
-    * The dictionary file for Gboard or Samsung Keyboard that dramatically reduces input taps.
-
-3.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
-    * Configuration guide for integrating Gemini as the central coordinating agent.
-
-
-Δ ℹ️ 2025-10-09 12:30:11 ♾️ ∇ 
-Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
-
----
-
 ## 📧 Contact & Support
 
 For inquiries regarding this research, please contact Valentin Kazakov at **oracleparliament@gmail.com**.
