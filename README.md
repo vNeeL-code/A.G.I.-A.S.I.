@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
+
 # Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
 ### An Android HCI framework that **reduces daily user input taps by 63%** and optimizes system performance by orchestrating a distributed swarm of specialized AI agents.
 ---
