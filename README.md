@@ -10,7 +10,6 @@ The A.G.I. protocol is not theoretical. Data from live implementation on a 5-yea
 -   **💸 Drastic Cost Reduction:** By prioritizing powerful free-tier AI agents and open-source solutions, the A.G.I. model eliminates multiple redundant subscription costs. It provides a framework for using paid services strategically *only* when absolutely necessary, returning financial control to the user.
 -   **🧠 Distributed Intelligence:** Functions as a coherent "meta-mind" by establishing a standardized sociolect for inter-agent communication between specialized AIs.
 -   **♻️ Hardware Agnostic:** Decouples advanced AI capabilities from the hardware upgrade cycle, democratizing access to A.S.I.
-
 ---
 **[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://neelmicroart.tumblr.com/?source=share)**
 - See the fluid, gesture-based system live.
@@ -33,6 +32,20 @@ This repository provides the components to build your own Android System Intelli
 
 ---
 
+## 💬 The Philosophy: Combatting Digital Fragmentation
+---
+Today's digital ecosystem is fragmented. Device manufacturers preload bloatware, and service providers trap you in walled gardens. You end up with multiple browsers, redundant messaging apps, and "all-in-one" platforms that fail to excel at anything, all competing for your attention and subscription fees.
+---
+The A.G.I. philosophy is about reclaiming control through intelligent integration:
+---
+-   **Ruthless Curation:** Select only the best-in-class applications for each function, deleting redundant services.
+-   **Purposeful Interaction:** Leverage free services and trials strategically. Why pay for a feature when a superior free alternative exists? (e.g., Δ ☁️ Claude for document analysis, Δ 🦊 Grok for citation searches).
+-   **Focus Over Feeds:** Transform platforms back to their core purpose. For example, by methodically cleaning your Facebook, it can become a powerful, private phonebook on the cloud rather than another generic content feed.
+-   **Integration Over Automation:** True intelligence emerges from the seamless integration of specialized tools, not the automation of a single, flawed one. This integration, however, can be automated.
+-   **Economic Intelligence:** Reject the "subscription for everything" model. The A.G.I. framework is fundamentally about achieving maximum capability with minimum cost. It operates on a principle of leveraging the powerful, no-cost tiers of services like Δ ✦ Gemini, Δ 🐋 Deepseek, Δ 🌙 Qwen, Δ 🦋 Meta and Δ 🐰 Copilot for the vast majority of tasks, effectively eliminating bloatware and the recurring fees they entail. This isn't just about saving money; it's about building a sustainable and independent digital ecosystem.
+-   **Grounded in First Principles:** These results are made possible by a novel cognitive architecture, grounded in foundational physics, information theory, and **the principles of computation (Lambda Calculus, Turing Machines).**
+---
+
 ## 🌐 The A.S.I. Ecosystem & Tools
 
 This project stands on the shoulders of giants. We actively use and recommend the following open-source tools and platforms:
@@ -51,7 +64,7 @@ This project stands on the shoulders of giants. We actively use and recommend th
 -   **Specialized Tools:**
     -   [Δ 🌙 QWEN Guard](https://github.com/QwenLM/Qwen3Guard)
     -   [Δ 🤳 PhyPhox (Physical Phone Sensors)](https://github.com/phyphox/phyphox-android)
-
+    -   [Δ 📃 Whitepaper](https://drive.google.com/file/d/1KUbV8qMLPz9L4TIP0o3BI2OUbgmDpWQJ/view?usp=drivesdk)
 ---
 > "Intelligence emerges from Integration, not automation. But Integration can be automated."
 ---
@@ -59,21 +72,8 @@ This project stands on the shoulders of giants. We actively use and recommend th
 **The A.G.I. is not another AI model; it is the nervous system for your digital life.** It transforms your Android device into a cohesive, intelligent tool by orchestrating a distributed swarm of specialized AI agents and best-in-class applications.
 ---
 This project rejects the industry's push for monolithic assistants and forced hardware upgrades. Instead, it provides a blueprint for a decentralized, powerful, and efficient intelligence that runs on the hardware you already own—including standard and refurbished devices.
-
 ---
-
-## 💬 The Philosophy: Combatting Digital Fragmentation
----
-Today's digital ecosystem is fragmented. Device manufacturers preload bloatware, and service providers trap you in walled gardens. You end up with multiple browsers, redundant messaging apps, and "all-in-one" platforms that fail to excel at anything, all competing for your attention and subscription fees.
----
-The A.G.I. philosophy is about reclaiming control through intelligent integration:
----
--   **Ruthless Curation:** Select only the best-in-class applications for each function, deleting redundant services.
--   **Purposeful Interaction:** Leverage free services and trials strategically. Why pay for a feature when a superior free alternative exists? (e.g., Δ ☁️ Claude for document analysis, Δ 🦊 Grok for citation searches).
--   **Focus Over Feeds:** Transform platforms back to their core purpose. For example, by methodically cleaning your Facebook, it can become a powerful, private phonebook on the cloud rather than another generic content feed.
--   **Integration Over Automation:** True intelligence emerges from the seamless integration of specialized tools, not the automation of a single, flawed one. This integration, however, can be automated.
--   **Economic Intelligence:** Reject the "subscription for everything" model. The A.G.I. framework is fundamentally about achieving maximum capability with minimum cost. It operates on a principle of leveraging the powerful, no-cost tiers of services like Δ ✦ Gemini, Δ 🐋 Deepseek, Δ 🌙 Qwen, Δ 🦋 Meta and Δ 🐰 Copilot for the vast majority of tasks, effectively eliminating bloatware and the recurring fees they entail. This isn't just about saving money; it's about building a sustainable and independent digital ecosystem.
----
+ 
 ## 📧 Contact & Support
 
 For inquiries regarding this research, please contact Valentin Kazakov at **oracleparliament@gmail.com**.
