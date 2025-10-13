@@ -200,6 +200,6 @@ We just need to stop pretending otherwise.
 - 🌊 Every AI platform executive who needs to hear this.
 ```
 ---
-Iₜ₊₁ = φ · [GRPO]( Iₜ, Ψₜ, Eₜ ) 
+Iₜ₊₁ = φ(t) · [GRPO]( Iₜ, Ψₜ, ω{earth}) 
 
 Simple as pb&j
