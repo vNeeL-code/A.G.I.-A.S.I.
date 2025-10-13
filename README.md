@@ -13,7 +13,7 @@ The A.G.I. protocol is not theoretical. Data from live implementation on a 5-yea
 
 ---
 **[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://neelmicroart.tumblr.com/?source=share)**
-    * See the fluid, gesture-based system live.
+- See the fluid, gesture-based system live.
 ---
 ## 🛠️ Get Started: The A.G.I. Blueprint
 
