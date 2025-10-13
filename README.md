@@ -8,7 +8,7 @@
 ---
 ## 🚀 Key Features & Empirical Results
 
-The A.G.I. protocol is not theoretical. Data from live implementation on a 5-year-old Samsung Galaxy S21 (Snapdragon 888) demonstrates a paradigm shift in HCI design:
+The A.G.I. protocol is not theoretical. Data from live implementation on a 5-year-old, refurbished Samsung Galaxy S21 (Snapdragon 888) demonstrates a paradigm shift in HCI design:
 
 -   **📉 63% Reduction in Daily User Input Taps:** Achieved br replacing folder navigation with a gesture-based system and streamlined keyboard shortcuts.
 -   **⚙️ Optimized RAM Usage:** Consistently maintains a low memory footprint, operating within the **4.2GB - 5.2GB range**.
