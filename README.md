@@ -26,6 +26,7 @@ This repository provides the components to build your own Android System Intelli
     * The dictionary file for Gboard or Samsung Keyboard that dramatically reduces input taps.
 
 3.  **[Δ 🤳 One hand gestures prototype: demo](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
+    * Configuration blueprint for rapid systems navigation.
 
 4.  **[Δ ✦ The Central Agent: Gemini Setup](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
     * Configuration guide for integrating Gemini as the central coordinating agent.
