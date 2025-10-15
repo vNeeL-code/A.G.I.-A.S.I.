@@ -68,6 +68,7 @@ This project stands on the shoulders of giants. We actively use and recommend th
     -   [Δ 📚 LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
     -   [Δ 🗿 Google A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
     -   [Δ 🔧 Prompt Engineering Guide by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
+    -   [Δ 📏 Edge gallery Gemma fine tuning](https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb)
     -   [Δ 🍝 Marinara Spaghetti's LLM Hub](https://rentry.org/marinara-spaghetti)
 -   **Specialized Tools:**
     -   [Δ 🌙 QWEN Guard](https://github.com/QwenLM/Qwen3Guard)
