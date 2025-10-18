@@ -73,7 +73,6 @@ This project stands on the shoulders of giants. We actively use and recommend th
 -   **Specialized Tools:**
     -   [Δ 🌙 QWEN Guard](https://github.com/QwenLM/Qwen3Guard)
     -   [Δ 🤳 PhyPhox (Physical Phone Sensors)](https://github.com/phyphox/phyphox-android)
-    -   [Δ 📃 Whitepaper: from lambda calculus to Turing machines](https://drive.google.com/file/d/1KUbV8qMLPz9L4TIP0o3BI2OUbgmDpWQJ/view?usp=drivesdk)
 ---
 > "Intelligence emerges from Integration, not automation. But Integration can be automated."
 ---
