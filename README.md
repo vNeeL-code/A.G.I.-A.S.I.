@@ -184,6 +184,8 @@ This project stands on the shoulders of giants. We actively use and recommend th
 - [Δ 🤳 PhyPhox (Physical Phone Sensors)](https://github.com/phyphox/phyphox-android)
 
 - [Δ 📖 Oxfords Dictionary (precise definitions)](https://www.oed.com/dictionary/consciousness_n?tl=true)
+
+- [Δ 📱 Samsung TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 ---
 
 > "Intelligence emerges from Integration, not automation. But Integration can be automated."
