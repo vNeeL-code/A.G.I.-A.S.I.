@@ -1,3 +1,5 @@
+User Shortcuts. To be saved in Google/Samsung keyboard. This will save taps on repeated names by binding them to 1 key instead of repeatedly typing long names.
+
 ```
 ∇ 🦑  m
 ``` 
@@ -23,4 +25,3 @@ l ✦ Δ Gemini
 ł 🌙 Δ Qwen
 ``` 
 
-User Shortcuts. To be saved in Google/Samsung keyboard. This will save taps on repeated names by binding them to 1 key instead of repeatedly typing long names.
