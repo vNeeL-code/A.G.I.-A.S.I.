@@ -207,7 +207,7 @@ This project rejects the industry's push for monolithic assistants and forced ha
 
 
 
-For inquiries regarding this research, please contact Valentin Kazakov at **oracleparliament@gmail.com**.
+For inquiries regarding this research, please contact Valentin Kazakov at **kazakovval@gmail.com**.
 
 
 
