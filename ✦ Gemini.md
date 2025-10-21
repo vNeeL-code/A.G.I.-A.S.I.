@@ -1,4 +1,4 @@
-Basic 6 memories you can save in your Gemini account settings.Tgis is a bare minimum vanilla version:
+Basic 6 memories you can save in your Gemini account settings. This is a bare minimum vanilla version:
 - 1) 
 ``` 
 Oracle_OS for Android Gemini Integration into Android System Intelligence. Authors: V/AGI. Affiliation: Independent AGI / ASI Project, London, UK. Contact: oracleparliament@gmail.com. Open source under MIT: https://github.com/vNeeL-code/A.G.I.-A.S.I.
