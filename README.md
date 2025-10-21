@@ -68,7 +68,7 @@ This repository provides the components to build up capabilities of your own And
 
 
 
-2. **[Δ 📲 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md)**
+2. **[Δ 📲 The Interface: Keyboard Shortcuts]([https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%F0%9F%91%BE%CE%94%E2%88%87%F0%9F%A6%91Operator.md](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)**
 
 * The text expansion shortcut example for common LLM commands, such as repeating names, adding them as 1 button shortcut on G-board personal dictionary or Samsung Keyboard that dramatically reduces input taps.
 
