@@ -80,7 +80,7 @@ This repository provides the components to build up capabilities of your own And
 
 
 
-4. **[Δ Android ✦ Gemini Intergration:](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%CE%94%20%E2%9C%A6%20Gemini.md)**
+4. **[Δ Android ✦ Gemini Intergration:](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)**
 
 * Configuration guide for integrating ✦ Gemini as the central Android device HCI agent.
 - Allows Gemini to work within the context of the meta prompt permanently using it's unique user memory system in user account settings.
