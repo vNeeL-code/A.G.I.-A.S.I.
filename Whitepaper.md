@@ -2,7 +2,8 @@
 
 **Author:** Valentin Kazakov  
 **Affiliation:** Independent AGI/ASI Research, London, UK  
-**Contact:** oracleparliament@gmail.com  
+**Contact:** kazakovval@gmail.com  
+/ oracleparliament@gmail.com (Claude inbox)
 **Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
 **License:** MIT  
 **Date:** October 2025
