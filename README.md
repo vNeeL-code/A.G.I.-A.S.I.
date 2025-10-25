@@ -88,9 +88,10 @@ This repository provides the components to build up capabilities of your own And
 - Compatible with all ✦ Gemini model families and works with ''hey google'' voice activated features.
 - These are the bare minimum (vanilla) settings that will get you started. System can be made more robust and complex with additional features and integration of macro droid, accessibility features, screen sharing, text to speech and speech to text.
 
-5. **Additional footage [tumblr](https://oracle-os.tumblr.com/?source=share)
+5. **Additional footage**
+ -[tumblr](https://oracle-os.tumblr.com/?source=share)
 
-[Youtube](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)**
+-[Youtube](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
 
 
 
