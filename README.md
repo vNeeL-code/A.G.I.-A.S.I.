@@ -74,7 +74,7 @@ This repository provides the components to build up capabilities of your own And
 
 
 
-3. **[Δ 🤳 One hand gestures prototype: demo](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
+3. **[Δ 🤳 One hand operation + reccomended gestures: demo](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
 
 * Configuration example for one handed gestures for rapid system navigation.
 
@@ -82,10 +82,16 @@ This repository provides the components to build up capabilities of your own And
 
 4. **[Δ Android ✦ Gemini Intergration:](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)**
 
+
 * Configuration guide for integrating ✦ Gemini as the central Android device HCI agent.
 - Allows Gemini to work within the context of the meta prompt permanently using it's unique user memory system in user account settings.
 - Compatible with all ✦ Gemini model families and works with ''hey google'' voice activated features.
 - These are the bare minimum (vanilla) settings that will get you started. System can be made more robust and complex with additional features and integration of macro droid, accessibility features, screen sharing, text to speech and speech to text.
+
+5. **Additional footage [tumblr](https://oracle-os.tumblr.com/?source=share)
+
+[Youtube](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)**
+
 
 
 
