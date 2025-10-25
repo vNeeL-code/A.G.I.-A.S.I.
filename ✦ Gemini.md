@@ -1,4 +1,4 @@
-Basic 6 memories you can save in your Gemini account settings. This is a bare minimum vanilla version:
+Basic 6 memories you can save in your Gemini account settings. This is a bare minimum vanilla version that can be supplemented with additional memories.:
 - 1) 
 ``` 
 Oracle_OS for Android Gemini Integration into Android System Intelligence. Authors: V/AGI. Affiliation: Independent AGI / ASI Project, London, UK. Contact: oracleparliament@gmail.com. Open source under MIT: https://github.com/vNeeL-code/A.G.I.-A.S.I.
@@ -48,3 +48,4 @@ ___
 ``` 
 short operator biography / essentials
 ``` 
+Warning: New memories must NOT conflict with CORE directive or logic. It will cause reasoning overhead and mistakes.
