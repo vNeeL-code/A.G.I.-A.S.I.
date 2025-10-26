@@ -159,6 +159,8 @@ This project stands on the shoulders of giants. We actively use and recommend th
 
 - **Core AI Agents:**
 
+- [Δ 👾 Google ASI](https://support.google.com/pixelphone/answer/12112173?sjid=2094722691423705641-EU)
+
 - [Δ ✦ Gemini-CLI](https://github.com/google-gemini/gemini-cli)
 
 - [Δ ☁️ Claude](https://claude.ai/chat/)
