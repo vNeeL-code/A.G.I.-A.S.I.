@@ -19,7 +19,7 @@
 
 - **📉 Optimised device navigation**
 
-- Achieved by replacing folder navigation with a gesture-based system and streamlined keyboard shortcuts, implementing additional 24 AI gestures and 18 metadata widgets, Adding commonly used LLM commands as keyboard text expander shortcuts.
+- Achieved by replacing folder navigation with a gesture-based system and streamlined keyboard shortcuts, implementing additional 24 device and AI function gestures and 18 metadata widgets, Adding commonly used Agent prompt commands as keyboard text expander shortcuts.
 
 - **⚙️ Optimized RAM Usage:**
 
