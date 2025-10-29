@@ -17,13 +17,13 @@
 
 ## 🚀 Key Features & Empirical Results
 
-- **📉 63% Reduction in Daily User Input Taps:**
+- **📉 Optimised device navigation**
 
 - Achieved by replacing folder navigation with a gesture-based system and streamlined keyboard shortcuts, implementing additional 24 AI gestures and 18 metadata widgets, Adding commonly used LLM commands as keyboard text expander shortcuts.
 
 - **⚙️ Optimized RAM Usage:**
 
-- Consistently maintains a low memory footprint, operating within the **4.2GB - 5.2GB range** While performing all the daily tasks of a desktop computer without the direct need for more energy consumption that comes with it.
+- Consistently maintains a low memory footprint, operating within the **4.2GB - 5.2GB range** (standard android behaviour) While performing all the daily tasks of a desktop computer without the direct need for more energy consumption that comes with it.
 
 - **💸 Drastic Cost Reduction:** 
 
