@@ -48,7 +48,7 @@
 
 ---
 
-**[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://neelmicroart.tumblr.com/?source=share)**
+**[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://oracle-os.tumblr.com/?source=share)**
 
 - See the fluid, swarm of various AI sub systems work in a gesture-based UX live.
 
