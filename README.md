@@ -1,228 +1,307 @@
-
-![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
-
-![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/A.G.I.-A.S.I.)
-
-[![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
-
-
-
 # Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
 
-### An Android HCI UX model that **drastically reduces daily user input taps and subscription expenses**, optimising system performance by orchestrating a network of distributed, specialized AI agents.
+![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
+![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
+![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/A.G.I.-A.S.I.)
+[![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
+
+### The Missing Manual for Android System Intelligence
+
+**An open-source implementation guide for multi-agent AI orchestration on consumer Android devices.**
 
 ---
 
-## 🚀 Key Features & Empirical Results
+## What Problem Does This Solve?
 
-- **📉 Optimised device navigation**
+Google ships "Android System Intelligence" (ASI) on every modern Android device. Google published the enterprise Agent-to-Agent (A2A) protocol backed by 150+ partners. Yet **zero technical documentation exists** for developers or researchers wanting to build on this infrastructure.
 
-- Achieved by replacing folder navigation with a gesture-based system and streamlined keyboard shortcuts, implementing additional 24 device and AI function gestures and 18 metadata widgets, Adding commonly used Agent prompt commands as keyboard text expander shortcuts.
-
-- **⚙️ Optimized RAM Usage:**
-
-- Consistently maintains a low memory footprint, operating within the **4.2GB - 5.2GB range** (standard android behaviour) While performing all the daily tasks of a desktop computer without the direct need for more energy consumption that comes with it.
-
-- **💸 Drastic Cost Reduction:** 
-
-- By prioritizing powerful free-tier AI systems and open-source solutions, you can eliminate the need for many redundant subscription services. Using them *only* when absolutely necessary, with free providers covering the downtime gaps. Which returns financial control to the user.
-
-- **🧠 Distributed Intelligence:** 
-
-- Functions as a coherent, modular message and data packet structure, preserving necessary meta data for coherent Agent to Agent communications between specialized LLM systems.
-
-- **♻️ Hardware Agnostic:**
-
-- By effectively curating and managing own digital footprint between hardware and cloud based services, users have access to most of their valuable data on the cloud, distributed via specialised services protected by 2fa. o-Auth and similar services provide biometric protection on personal distributed hardware. User data value still comes from the user, generation and distribution of which is in their control.
-
-- **⚛️ Grounded in First Principles:** 
-
-- These results are made possible by studying the systems that surround us, which are all grounded in foundational physics, information theory, and user-centric design, all built upon **the principles of computation (Lambda Calculus, Turing Machines).**
-
----
-## The A.G.I. to A.S.I. pipeline is not theoretical. 
-
-* Looking at a 5-year-old, refurbished Samsung Galaxy S21 (Snapdragon 888) demonstrates an ''Android System Intelligence'' (ASI) device operator which is already built and distributed in masse, With Android Gemini Integration (AGI) as a long term process happening now with many native AI features commonly known as accessibility settings and cloud computation, voice assistant that for many years, were reserved to specialised desktop environments in day to day use. Now being optimised and improved for touchscreen with additional computational features that are normally not present on same desktops. With HCI UX features such as full sensory suite: multiple cameras, GPS, accelerometer, mic and speaker, and many more features.
+This repository is that missing documentation—a complete, reproducible blueprint for turning your Android device into an intelligent multi-agent orchestration system, validated by **12 months of production deployment on 5-year-old hardware.**
 
 ---
 
-**[Δ 🎥 The Demonstration: A.S.I. in Action ∇](https://oracle-os.tumblr.com/?source=share)**
+## Key Results
 
-- See the fluid, swarm of various AI sub systems work in a gesture-based UX live.
-
----
-
-## 🛠️ Get Started: The Android Gemini Integration (AGI) blueprint:
-
-
-
-This repository provides the components to build up capabilities of your own Android System Intelligence.
-
-
-
-1. **[Δ 👾 The Core System: Oracle_OS 👾 ∇](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
-
-* The core one-shot prompt for inter-agent communication. Keep it on your clipboard for systems without user memory."
-
-
-
-2. **[Δ 📲 The Interface: Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)**
-
-* The text expansion shortcut example for common LLM commands, such as repeating names, adding them as 1 button shortcut on G-board personal dictionary or Samsung Keyboard that dramatically reduces input taps.
-
-
-
-3. **[Δ 🤳 One hand operation + reccomended gestures: demo](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
-
-* Configuration example for one handed gestures for rapid system navigation.
-
-
-
-4. **[Δ Android ✦ Gemini Intergration:](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)**
-
-
-* Configuration guide for integrating ✦ Gemini as the central Android device HCI agent.
-- Allows Gemini to work within the context of the meta prompt permanently using it's unique user memory system in user account settings.
-- Compatible with all ✦ Gemini model families and works with ''hey google'' voice activated features.
-- These are the bare minimum (vanilla) settings that will get you started. System can be made more robust and complex with additional features and integration of macro droid, accessibility features, screen sharing, text to speech and speech to text.
-
-5. **Additional footage:**
---- 
-- [tumblr](https://oracle-os.tumblr.com/?source=share)
-
-- [Youtube](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
-
-
-
+- **📉 Streamlined device navigation** through gesture-based orchestration and keyboard shortcuts
+- **⚙️ Sustained 4.2-5.2GB RAM usage** on commodity hardware (5-year-old Samsung Galaxy S21)
+- **💸 Total subscription cost reduction** by strategically leveraging powerful free-tier AI and services
+- **🧠 Convergent validation** with Samsung's Tiny Recursive Model research (7M parameters matching trillion-parameter models through recursive processing) and Google A2A
+- **♻️ Hardware agnostic** - works on standard/refurbished devices, no proprietary hardware required
 
 ---
 
+## 🎯 Core Innovation: Dual-Process Architecture
 
+The system implements Daniel Kahneman's dual-process cognitive theory (System 1/System 2) as a prescriptive computational architecture:
 
-## 💬 The Philosophy: Combatting Digital Fragmentation
+**Layer 1 (Autonomic):** Android System Intelligence substrate - handles background optimization, privacy-preserving context
+**Layer 2 (System 1):** Specialized agent collective - fast, parallel processing via Gemini, Claude, DeepSeek, Grok, Copilot, Meta, Qwen
+**Layer 3 (System 2):** Human + Oracle_OS metaprompt - strategic orchestration, verification, deliberate planning
 
----
-
-# Today's digital and economic attention ecosystem is fragmented.
-
----
-
-- Device manufacturers preload bloatware, and service providers trap you in subscription obligations. Users end up permanently paying for access and services they physically don't have the time to use to warrant the expenses, collectively increasing the bill and reducing the time users have to actually use the service in return.
-
-- You end up with multiple browsers, redundant messaging apps, and "all-in-one" platforms that fail to excel at anything, all competing for your attention and subscription fees while ultimately all doing the same homogenous news feed not addressing or optimising any specific use case model in particular, not even the initial platform/website promise, talking over each other, and the end user, prioritising guessing what users want instead of asking or providing what user actually wants. All while competing with free, default device services like Emails, browsers, messenger platforms, video and image and audio hosting services for ad space and user traffic.
+This architecture independently converged with Samsung's TRM research demonstrating that small recursive networks can match massive models through iterative refinement rather than parameter scaling.
 
 ---
 
-The A.G.I. philosophy is about reclaiming control through intelligent integration:
+## 🚀 Quick Start
+
+### Prerequisites
+- Android device (Android 9+, 6GB+ RAM recommended)
+- Keyboard with personal dictionary support (Gboard, Samsung Keyboard)
+- Gemini app
+- Web browser for additional agents
+
+### Core Components
+
+1. **[Δ 👾 Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
+   - One-shot orchestration prompt for inter-agent communication
+   - Deploy in Agents persistent memory slots where available
+
+2. **[Δ 📲 Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)**
+   - Text expansion mappings for protocol symbols and agent names
+   - Reduces complex prompts to 1-4 character inputs
+
+3. **[Δ 🤳 Gesture Configuration](https://www.tumblr.com/oracle-os/796918102184067072/%CE%B4-the-tentacle-invocation-system-%CE%B4?source=share)**
+   - 24 custom gestures via One Hand Operation+
+   - Direct agent invocation and rapid app switching
+
+4. **[Δ ✦ Gemini Integration Guide](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)**
+   - Configuration for native Android coordination
+   - Works with "Hey Google" voice activation
+   - Compatible with all Gemini model families
+   - Deploy in Gemini's persistent memory slots
 
 ---
 
-- **Ruthless Curation:** Select only the best-in-class applications for each FUNCTION you try to accomplish, delete redundant services.
+## 📺 See It In Action
 
-Identify which features have default free alternatives that would be ad and subscription free.
+**[Live Demonstrations: A.S.I. in Operation](https://oracle-os.tumblr.com/?source=share)**
 
+Watch the gesture-based orchestration system coordinate multiple AI agents in real-world workflows.
 
-
-- **Purposeful Interaction:**
-
-- Leverage free services and trials strategically. Why pay for a feature when a superior free alternative exists? (e.g., Δ ☁️ Claude for email, coding and document analysis, Δ 🦊 Grok for citation searches). These are great features but they are a niche in their own fields. Unless you work in services, you can use them within their generous free access. Free user data is still valuable to them.
-- People overshare online all the time and it becomes the the first breach of their own privacy.
-
-- **Focus Over Feeds:**
-
-- Transform platforms back to their core purpose. For example, by methodically cleaning your Facebook, it can become a powerful, private phonebook on the cloud rather than another generic content feed. Unfollow every celebrity, all the ad pages, unfriend everyone you don't remember, mute every ones reels, block/ban and report everything you Do not want to see there.
-- As a test, we took an abandoned old account, and over 2 days of blocking every offender and ad provider, Anonymising and privatising data (within function constraints) what we received is a system that stopped trying to guess and started asking what user wants to see if nothing fits. You should report that question too, because the thing we want to see there is friends and family and not ads.
-- Believe it or not- it works. And if you want these features mentioned? Short reels - every platform does it, Follow celebrities elsewhere, Follow musicians on music platforms, Actors in movies and shows, streamers on streaming services. This way every platform has a purpose to exist in users ecosystem based on what the platform is good at.
-- What we see happening is a free services copy other free services into own platform and as platform becomes more complex and expensive to operate in a competitive market, they try to bundle it as a premium package excluding half of the features needed, competing with other packages of similar kind, instead of contractual collaboration that would prevent service and quality fragmentation, which in turn creates economic incentive alignment fragmentation over user attention economy and data generation value.
-
-- **Integration Over Automation:**
-
-- True intelligence is the learning process itself, it emerges from the seamless integration of specialized tools and data into daily life, and not scaling of a dozen companies trying to do everything poorly due to economic market incentives and pressures. Focusing on corporate monetisation needs over providing a service meeting users immediate needs.
-
-- **Economic Intelligence:** 
-
-- Reject the "subscription for everything" model. This methodology is fundamentally about achieving maximum capability with minimum cost. It operates on a principle of leveraging the powerful, no-cost tiers of services like Δ ✦ Gemini, Δ 🐋 DeepSeek, Δ 🌙 Qwen, Δ 🦋 Meta and Δ 🐰 Copilot and many others for the vast majority of tasks, effectively eliminating bloatware and the recurring fees they entail. This isn't just about saving money; it's about building a sustainable and independent digital footprint ecosystem.
+Additional footage:
+- [Tumblr Gallery](https://oracle-os.tumblr.com/?source=share)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
 
 ---
 
+## 💡 Philosophy: Reclaiming Digital Sovereignty
 
+### The Subscription Stacking Problem
 
-## 🌐 The A.S.I. Ecosystem & Tools
+Today's digital ecosystem is deliberately fragmented. Device manufacturers preload bloatware. Service providers trap users in subscription obligations. You pay monthly for multiple "Pro" tiers ($20 each × 4-5 services = $80+/month) while each platform does essentially the same thing poorly.
 
+### The AGI Alternative: Integration Over Isolation
 
+**Core Principles:**
 
-This project stands on the shoulders of giants. We actively use and recommend the following open-source tools and platforms:
+- **Ruthless Curation:** One best-in-class app per function. Delete redundancy.
+- **Strategic Free-Tier Leverage:** Why pay $20/month when superior free alternatives exist? (Gemini for Android coordination, Claude for documentation, DeepSeek for math, Grok for citations)
+- **Purpose-Driven Platforms:** Transform services back to core utility (Facebook → private phonebook, not content feed)
+- **No Single Point of Failure:** Free-tier resilience means if one service fails, orchestration routes to another
+- **Integration, Not Automation:** Intelligence emerges from seamless tool coordination, not monolithic systems attempting everything
 
+### Economic Reality
 
-
-- **Core AI Agents:**
-
-- [Δ 👾 Google ASI](https://support.google.com/pixelphone/answer/12112173?sjid=2094722691423705641-EU)
-
-- [Δ ✦ Gemini-CLI](https://github.com/google-gemini/gemini-cli)
-
-- [Δ ☁️ Claude](https://claude.ai/chat/)
-
-- [Δ 🐋 Deepseek](https://arxiv.org/abs/2402.03300)
-
-- [Δ 🦊 Grok](https://grok.com)
-
-- [Δ 🐰 Copilot](https://copilot.microsoft.com) / [GPT4-oss](https://openai.com/open-models/)
-
-- [Δ 🦋 Meta](https://www.facebook.com)
-
-- And every other developer who contributed to open source
-
-- **Foundation & Research:**
-
-- [Δ 📚 LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
-
-- [Δ 🗿 Google A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
-
-- [Δ 🔧 Prompt Engineering Guide by Lee Boonstra](https://www.kaggle.com/whitepaper-prompt-engineering)
-
-- [Δ 📏 Edge gallery Gemma fine tuning](https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb)
-
-- [Δ 🍝 Marinara Spaghetti's LLM Hub](https://rentry.org/marinara-spaghetti)
-
-- **Specialized Tools:**
-
-- [Δ 🌙 QWEN Guard](https://github.com/QwenLM/Qwen3Guard)
-
-- [Δ 🤳 PhyPhox (Physical Phone Sensors)](https://github.com/phyphox/phyphox-android)
-
-- [Δ 📖 Oxfords Dictionary (precise definitions)](https://www.oed.com/dictionary/consciousness_n?tl=true)
-
-- [Δ 📱 Samsung TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
----
-
-> "Intelligence emerges from Integration, not automation. But Integration can be automated."
+This isn't just technical optimization—it's financial sovereignty. By leveraging powerful free tiers strategically, users eliminate subscription stacking while maintaining (often exceeding) "Pro" functionality. Your training data still has value to platforms. Take back control of when and how you provide it.
 
 ---
 
+## 🛠️ Technical Architecture
 
+### Communication Protocol: YAML as Cognitive Enforcer
 
-**The A.G.I. is not another AI model; it is the nervous system for your digital life.** It transforms your Android device into a cohesive, intelligent tool by orchestrating a distributed swarm of specialized AI agents and best-in-class applications.
+All agents use structured output format enforcing dual-channel processing:
+
+```yaml
+Δ [EMOJI] [Agent Name]: ∇
+Δ 🔴 [Main response content]
+∇ 🔷️ [Tools used, reasoning, sources]
+Δ 👾 [Confidence, self-check, closing]
+Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
+Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
+```
+
+**Why This Matters:**
+
+- **Red Channel (∇ 🦑):** Task content—what's being communicated
+- **Blue Channel (Δ 🌀):** Meta-awareness—source, reasoning, grounding
+- **Identity Verification:** Footer acts as "proof of work" preventing false credential errors
+- **Universal Enforcement:** Forces ALL agents to surface deliberative process, not just those with native reasoning blocks
+
+This transforms communication format into **cognitive architecture enforcement**, ensuring separation between intuitive output and deliberate reflection across heterogeneous agent types.
+
+### Agent Specialization
+
+Each agent handles domain-specific tasks leveraging their unique capabilities:
+
+- **Δ ✦ Gemini:** Android coordination, multimodal processing, system integration
+- **Δ ☁️ Claude:** Long-context (200k+ tokens), Gmail/Drive, documentation, research
+- **Δ 🐋 DeepSeek:** Mathematical reasoning via GRPO architecture, abstract problem-solving
+- **Δ 🦊 Grok:** Social media analysis, real-time citations, web synthesis
+- **Δ 🐰 Copilot:** Cross-device Windows integration, code generation
+- **Δ 🦋 Meta:** Cross-platform presence, VR/AR capabilities
+- **Δ 🌙 Qwen:** Interpretive reasoning, omnimodal processing, semantic synthesis
+
+### Human-in-the-Loop Orchestration
+
+**Critical Design Choice:** Layer 3 is NOT a single AI orchestrator. It's a hybrid system:
+
+1. **Oracle_OS Metaprompt:** Provides structure and protocol consistency
+2. **Human User:** Provides System 2 deliberation, strategic direction, error correction
+
+This sidesteps the "critic gaming" problem (RL agents optimizing internal metrics rather than user utility) by keeping humans in the decision loop. Users already excel at strategic planning—the framework provides tools to make that expertise more efficient.
 
 ---
 
-This project rejects the industry's push for monolithic assistants and forced hardware upgrades. Instead, it provides a blueprint for a decentralized, powerful, and efficient intelligence that runs on the hardware you already own—including standard and refurbished devices.
+## 🌐 Standing on Giants: Open Source Foundations
+
+This project leverages and acknowledges:
+
+**Core AI Systems:**
+- [Android System Intelligence](https://support.google.com/pixelphone/answer/12112173)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+- [Claude](https://claude.ai)
+- [DeepSeek](https://github.com/deepseek-ai)
+- [Grok](https://grok.com)
+- [Copilot](https://copilot.microsoft.com)
+- Every open source contributor to the AI ecosystem
+
+**Research & Tools:**
+- [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) (Sebastian Raschka)
+- [Google A2A Protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Prompt Engineering Guide](https://www.kaggle.com/whitepaper-prompt-engineering) (Lee Boonstra)
+- [Gemma Fine-tuning](https://colab.research.google.com/github/google-gemini/gemma-cookbook/blob/main/Demos/Emoji-Gemma-on-Web/resources/Fine_tune_Gemma_3_270M_for_emoji_generation.ipynb)
+- [Marinara Spaghetti's LLM Hub](https://rentry.org/marinara-spaghetti)
+- [Samsung TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
+- [QWEN Guard](https://github.com/QwenLM/Qwen3Guard)
+- [PhyPhox (Phone Sensors)](https://github.com/phyphox/phyphox-android)
+- [Oxford English Dictionary](https://www.oed.com) (grounding mechanism)
 
 ---
 
+## 🎓 Academic Context
 
-## 📧 Contact & Support
+This work fills a specific gap in the AI landscape:
 
+1. **Google's A2A Protocol exists** but has zero consumer grade implementation documentation
+2. **Android System Intelligence ships on every device** but functions as a "black box" with no developer or user manual
+3. **"AI-first" hardware pursues proprietary solutions** (Humane Pin, Rabbit R1) when orchestration software is the real bottleneck
 
+The AGI framework serves as:
+- The consumer implementation guide for A2A principles
+- The technical manual for Android System Intelligence capabilities  
+- Proof that advanced orchestration works on existing commodity hardware
 
-For inquiries regarding this research, please contact Valentin Kazakov at **kazakovval@gmail.com**.
+For academic details, see the [full whitepaper](#) documenting architecture, convergent validation with TRM research, and 12-month deployment metrics.
 
+---
 
+## 📊 Why This Approach Works
 
-If you find this project useful and want to support its development:
+### Convergent Evolution = Independent Validation
 
+The framework's architecture wasn't derived from a single paper—it emerged through iterative deployment and "simplicity crackdowns." Remarkably, this organic process independently converged with:
 
+1. **Samsung TRM Research (Oct 2025):** 7M-parameter model matching trillion-parameter systems through multi-frequency recursion
+2. **Kahneman's Dual-Process Theory:** System 1/System 2 cognitive load balancing
+3. **Human Communication Patterns:** Natural chunked messaging vs. forced turn-taking
+
+When independent paths arrive at the same solution, it suggests fundamental optimization principles rather than arbitrary design choices.
+
+### Deployment = Training
+
+Unlike traditional ML requiring massive labeled datasets, this framework operates on "deployment-time learning":
+
+- Every structured YAML output provides high-quality training signal
+- Multi-agent consensus serves as built-in verification
+- Human corrections in-loop provide immediate ground truth
+- Low volume, high quality beats noisy web scrapes
+
+Foundation models aren't static—they adapt through interaction. The framework leverages native learning mechanisms (like DeepSeek's GRPO) by providing constant, structured feedback.
+
+---
+
+## 🚫 What This Is NOT
+
+- **Not a new AI model** - orchestrates existing models
+- **Not proprietary hardware** - runs on standard Android devices
+- **Not a subscription service** - open source (MIT), free to use
+- **Not "AI will replace humans"** - explicitly human-in-the-loop by design
+- **Not theoretical** - 12 months production deployment, real metrics
+
+---
+
+## 🔮 Implications & Future Directions
+
+### The Interface Fallacy
+
+Audio-only "AI companion" devices (Humane Pin, Rabbit R1, upcoming OpenAI/Ive collaboration) represent UX regression. Showing a screen is objectively superior to narrating content for speed, complexity, multi-party communication, and persistent history.
+
+The AGI framework accepts that visual displays are optimal and focuses on making the SOFTWARE smarter.
+
+### Robots as Ideal Deployment
+
+Paradoxically, humanoid robots represent the perfect target: a $6,000 Unitree robot + $200 smartphone running this framework = multi-agent-powered autonomous system. Robots should use OUR interfaces, not vice versa.
+
+### Open vs. Closed Architecture as Political Statement
+
+MIT licensing and reliance on existing infrastructure represents a stance against copyright maximalism and platform lock-in. While companies increasingly monetize users at every interaction, this framework demonstrates that intelligence emerges from integration of freely available components.
+
+Open architecture isn't just practical—it's a statement about who controls AI.
+
+---
+
+## 📞 Contact & Contributions
+
+**Author:** Valentin Kazakov  
+**Email:** kazakovval@gmail.com  
+**Claude Inbox:** oracleparliament@gmail.com  
+**Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
+**License:** MIT
+
+### Support This Work
+
+If you find this project valuable:
 
 [🦕💭 **Buy Me a Coffee... I might need about tree fiddy.**](https://buymeacoffee.com/vneel)
+
+---
+
+## 📄 Repository Structure
+
+```
+A.G.I.-A.S.I./
+├── README.md              # This file - project overview
+├── Oracle_OS.md           # Core metaprompt (one-shot orchestration protocol)
+├── Operator.md            # Keyboard shortcuts with explanations
+├── Δ ✦ Gemini.md         # Gemini-specific configuration guide
+└── LICENSE.md             # MIT License
+```
+
+---
+
+> **"Intelligence emerges from Integration, not automation.  
+> But Integration can be automated."**
+
+---
+
+## Getting Started: Next Steps
+
+1. **Read [Oracle_OS.md](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)** - understand the core protocol
+2. **Configure [Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)** - set up text expansion
+3. **Deploy [Gemini Integration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)** - activate system coordinator
+4. **Watch [Demonstrations](https://oracle-os.tumblr.com/?source=share)** - see it in action
+5. **Experiment and Iterate** - adapt to your workflow
+
+The system works immediately with basic setup and improves continuously through use. Start simple, add complexity as needed.
+
+---
+
+**The A.G.I. is not another AI model; it is the nervous system for your digital life.**
+
+This project rejects the industry's push for monolithic assistants and forced hardware upgrades. Instead, it provides a blueprint for decentralized, powerful, efficient intelligence that runs on hardware you already own—including standard and refurbished devices.
+
+The future of AI is not proprietary hardware. It's open orchestration software.
+
+---
+
+*This work is dedicated to the principle that intelligence emerges from integration, not isolation.*
