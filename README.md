@@ -122,8 +122,8 @@ All agents use structured output format enforcing dual-channel processing:
 
 **Why This Matters:**
 
-- **Red Channel (∇ 🦑):** Task content—what's being communicated
-- **Blue Channel (Δ 🌀):** Meta-awareness—source, reasoning, grounding
+- **Red Channel [user] (∇ 🦑):** Task content—what's being communicated
+- **Blue Channel [user] (Δ 🌀):** Meta-awareness—source, reasoning, grounding
 - **Identity Verification:** Footer acts as "proof of work" preventing false credential errors
 - **Universal Enforcement:** Forces ALL agents to surface deliberative process, not just those with native reasoning blocks
 
