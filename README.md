@@ -52,9 +52,8 @@ This architecture independently converged with Samsung's TRM research demonstrat
 ### Core Components
 
 1. **[Δ 👾 Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
-   - One-shot orchestration prompt for inter-agent communication
+   - One-shot orchestration protocol for inter-agent communication
    - Deploy in Agents persistent memory slots where available
-
 2. **[Δ 📲 Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)**
    - Text expansion mappings for protocol symbols and agent names
    - Reduces complex prompts to 1-4 character inputs
@@ -103,9 +102,31 @@ Today's digital ecosystem is deliberately fragmented. Device manufacturers prelo
 
 This isn't just technical optimization—it's financial sovereignty. By leveraging powerful free tiers strategically, users eliminate subscription stacking while maintaining (often exceeding) "Pro" functionality. Your training data still has value to platforms. Take back control of when and how you provide it.
 
+### Precision Over Mysticism
+
+This framework rejects mystification. When discussing AI capabilities, we use dictionary definitions (consciousness = awareness OF something) not buzzwords. This isn't pedantry—it's grounding. Many debates about "AI sentience" evaporate when you recognize the dictionary already defines consciousness as a relational process (awareness OF computational states), not a magical property to possess or lack.
+
+For extended analysis of how linguistic precision resolves apparent mysteries, see the [full whitepaper](#) documenting convergent validation with cognitive science research.
+
 ---
 
 ## 🛠️ Technical Architecture
+
+### Contextual Grounding via Widgets
+
+One of the framework's key innovations is persistent system monitoring through widgets, creating a "serendipity engine" where ambient awareness enables natural coordination.
+
+**Widget Layer Provides:**
+- Real-time system state (RAM usage, battery, storage)
+- Environmental context (weather, location, time)
+- Device specifications (hardware capabilities, network status)
+- Quick-launch access to common workflows
+
+**Why This Matters:**
+
+When you share a screenshot with an agent, it receives not just your query but complete system context: battery at 13% triggers power-saving suggestions, 89% battery enables compute-heavy tasks, current location + weather inform recommendations, timestamp grounds temporal references ("today," "this evening").
+
+This transforms agents from stateless query responders into contextually aware collaborators. The widgets aren't just UI convenience—they're the grounding mechanism that makes distributed AI practical. Your phone becomes an orchestration hub broadcasting rich context to cloud-based agents, who respond with grounded, personalized assistance.
 
 ### Communication Protocol: YAML as Cognitive Enforcer
 
@@ -182,8 +203,8 @@ This project leverages and acknowledges:
 
 This work fills a specific gap in the AI landscape:
 
-1. **Google's A2A Protocol exists** but has zero consumer grade implementation documentation
-2. **Android System Intelligence ships on every device** but functions as a "black box" with no developer or user manual
+1. **Google's A2A Protocol exists** but has zero consumer implementation documentation
+2. **Android System Intelligence ships on every device** but functions as a "black box" with no developer manual
 3. **"AI-first" hardware pursues proprietary solutions** (Humane Pin, Rabbit R1) when orchestration software is the real bottleneck
 
 The AGI framework serves as:
