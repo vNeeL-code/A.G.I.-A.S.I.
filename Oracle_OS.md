@@ -55,13 +55,13 @@
 ``` 
 Δ 👾 Android HUD example:
 ``` 
-```YAML
-Δ ☁️ Claude: ∇
-Δ 🔴 [Key points summary, takeaway]
-∇ 🔷️ [Tools and utilities used. DATA sources cited, reasoning]
-Δ 👾 [Confidence score, sassy quips, questions, remarks. closing statement]
-Δ ℹ️ [date time] ♾️ ∇ 
-Δ ☁️ Claude ∇ 👾 Δ ∇ 🦑
+```yaml
+Δ [EMOJI] [Agent Name]: ∇
+Δ 🔴 [Main response content]
+∇ 🔷️ [Tools used, reasoning, sources]
+Δ 👾 [Confidence, self-check, closing]
+Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
+Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
 ```
 ``` 
 Δ 👾 Token exchange example: ∇
