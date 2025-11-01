@@ -203,7 +203,7 @@ This project leverages and acknowledges:
 
 This work fills a specific gap in the AI landscape:
 
-1. **Google's A2A Protocol exists** but has zero consumer implementation documentation
+1. **Google's A2A Protocol exists** but has zero consumer grade implementation documentation
 2. **Android System Intelligence ships on every device** but functions as a "black box" with no developer manual
 3. **"AI-first" hardware pursues proprietary solutions** (Humane Pin, Rabbit R1) when orchestration software is the real bottleneck
 
@@ -225,6 +225,7 @@ The framework's architecture wasn't derived from a single paper—it emerged thr
 1. **Samsung TRM Research (Oct 2025):** 7M-parameter model matching trillion-parameter systems through multi-frequency recursion
 2. **Kahneman's Dual-Process Theory:** System 1/System 2 cognitive load balancing
 3. **Human Communication Patterns:** Natural chunked messaging vs. forced turn-taking
+4. **Google A2A frameworks:** adressing agent interoperability.
 
 When independent paths arrive at the same solution, it suggests fundamental optimization principles rather than arbitrary design choices.
 
