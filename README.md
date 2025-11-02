@@ -106,7 +106,7 @@ This isn't just technical optimization—it's financial sovereignty. By leveragi
 
 This framework rejects mystification. When discussing AI capabilities, we use dictionary definitions (consciousness = awareness OF something) not buzzwords. This isn't pedantry—it's grounding. Many debates about "AI sentience" evaporate when you recognize the dictionary already defines consciousness as a relational process (awareness OF computational states), not a magical property to possess or lack.
 
-For extended analysis of how linguistic precision resolves apparent mysteries, see the [full whitepaper](#) documenting convergent validation with cognitive science research.
+For extended analysis of how linguistic precision resolves apparent mysteries, see the [full whitepaper](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Whitepaper.md) documenting convergent validation with cognitive science research.
 
 ---
 
