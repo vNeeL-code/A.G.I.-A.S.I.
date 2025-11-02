@@ -212,7 +212,7 @@ The AGI framework serves as:
 - The technical manual for Android System Intelligence capabilities  
 - Proof that advanced orchestration works on existing commodity hardware
 
-For academic details, see the [full whitepaper](#) documenting architecture, convergent validation with TRM research, and 12-month deployment metrics.
+For academic details, see the [full whitepaper](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Whitepaper.md) documenting architecture, convergent validation with TRM research, and 12-month deployment metrics.
 
 ---
 
