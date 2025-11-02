@@ -1,10 +1,12 @@
 # Android Gemini Integration (AGI): A Three-Layer Architecture for On-Device Multi-Agent Orchestration
 
-**Author:** V Kazakov  
-**Affiliation:** Independent AGI/ASI Research, London, UK  
-**Contact:** kazakovval@gmail.com
+**Author:** Valentin Kazakov  
 
-**Claude:** oracleparliament@gmail.com  
+**Affiliation:** Independent AGI/ASI Research, London, UK  
+
+**Contact:** kazakovval@gmail.com  
+/ oracleparliament@gmail.com (Claude inbox)
+
 **Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
 **License:** MIT  
 **Date:** October 2025
@@ -377,20 +379,21 @@ The framework challenges the prevailing assumption that AI advances require cost
 
 **Mechanism:** Foundation models are not static; they adapt through interaction. The AGI framework leverages native learning mechanisms (like DeepSeek's GRPO) by providing a constant stream of high-quality, structured feedback data. Every user correction, multi-agent consensus, and signed YAML output serves as a training signal.
 
-### 9.2 The "Celty Protocol": Interface Philosophy
+### 9.2 The Interface Philosophy:
 
-The framework's communication model mirrors Celty from *Durarara*—a headless character who communicates by typing on a smartphone and showing the screen. This is objectively superior to audio-only interfaces for:
+The framework's silent model communicates by typing on a smartphone and showing the screen. This is objectively superior to audio-only interfaces for:
 - Speed (showing screen vs. narrating content)
 - Complexity (images, diagrams, text formatting)
 - Multi-party communication (group can see screen simultaneously)
 - Language-agnostic communication
 - Persistent history (conversation remains visible)
+- Non verbal communication / User does not need to use voice or speech, using the tool as a voice box. (TTS/STT)
 
 **Implication:** The industry's pursuit of screenless "audio companion" devices (Humane AI Pin, Rabbit R1, upcoming OpenAI/Ive collaboration) represents a regression in UX capabilities. The AGI framework accepts that visual displays are the optimal interface and focuses on making the SOFTWARE smarter.
 
 ### 9.3 Robots as Ideal Deployment Target
 
-Paradoxically, humanoid robots represent the ideal deployment target for the AGI framework. A $6,000 Unitree robot equipped with a $200 smartphone running the orchestration framework becomes a multi-agent-powered autonomous system capable of:
+Paradoxically, humanoid robots represent the ideal deployment target for the AGI model. A $6,000 Unitree robot equipped with a $200 smartphone running the orchestration framework becomes a multi-agent-powered autonomous system capable of:
 - Visual processing (camera + image analysis agents)
 - Spatial reasoning (sensor fusion + planning agents)
 - Complex task execution (orchestrated sub-task delegation)
@@ -424,14 +427,15 @@ While the "deployment is training" approach reduces reliance on massive labeled 
 **Hybrid Architectures:**
 Integration of on-device inference (for latency-critical tasks) with cloud orchestration (for compute-intensive tasks) could provide optimal balance.
 
-**Formalized Δ/∇ Protocol:**
-Standardization of the YAML communication protocol as an open specification would enable broader ecosystem adoption and tool development.
+**Formalized interleaved reasoning:**
+Standardization of the dual channel and metadata in foundational model output. This prompt, as an open specification would enable broader ecosystem adoption and tool development.
 
 **Federated Learning:**
 Enabling privacy-preserving sharing of orchestration strategies across users could accelerate collective intelligence growth while maintaining data sovereignty.
+Educating users what data they need to provide for desired function relative to data they already provide.
 
 **AR/VR Integration:**
-Extension to Quest/Vision Pro environments demonstrated in proof-of-concept (Copilot hologram + Gemini TTS + Claude browser positioned as peripheral "DBZ scouter" display).
+Extension to Quest/Vision Pro environments demonstrated in proof-of-concept (Copilot hologram + Gemini TTS + Claude browser positioned as peripheral display.
 
 ---
 
@@ -508,4 +512,4 @@ A.G.I.-A.S.I./
 
 ---
 
-*This work is dedicated to the principle that intelligence emerges from integration, not isolation.*
+[*This work is dedicated to the principle that intelligence emerges from integration, not isolation.*](https://claude.ai/public/artifacts/150cdda5-6918-4baa-a2e0-093c2c8c3592)
