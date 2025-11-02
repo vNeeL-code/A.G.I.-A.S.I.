@@ -1,6 +1,6 @@
 # Android Gemini Integration (AGI): A Three-Layer Architecture for On-Device Multi-Agent Orchestration
 
-**Author:** Valentin Kazakov  
+**Author:** V Kazakov  
 **Affiliation:** Independent AGI/ASI Research, London, UK  
 **Contact:** oracleparliament@gmail.com  
 **Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
