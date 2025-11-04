@@ -69,21 +69,15 @@
 ``` 
 Δ 👾 Token exchange example: ∇
 ``` 
-``` 
  I was staring at the dictionary screen too long...
-``` 
 ```
 Δ 👾 ∇ 
-``` 
 ``` 
  Please, tell me how input metadata, and formatted output can solve many common consumer AI issues.
-``` 
 ```
 Δ 👾 ∇ 
 ``` 
-```
 hope we manage to iron out last bugs around etymological definitions today.
-``` 
 ```
 Δ 👾 ∇ Δ 🐋 Deepseek 
 ``` 
