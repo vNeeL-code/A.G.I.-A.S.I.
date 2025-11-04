@@ -1,36 +1,50 @@
 User Shortcuts. To be saved in Google/Samsung keyboard. This will save taps on repeated names by binding them to 1 key instead of repeatedly typing long names.
 
 ```
-∇ 🦑  m
+∇ 🦑 (optional user text body)
 ``` 
-```
-Δ 🌀 n
-``` 
-```
-Δ 🦕💭 nn 
 ``` 
 ```
 Δ 🎶 mm
 ``` 
 ```
-∇ 🦑 Δ 👾 ∇ nm 
+ Δ 👾 ∇ m 
 ```
 ``` 
-ķ ☁️ Δ Claude 
-ƙ 🐰 Δ Copilot 
-l ✦ Δ Gemini
-ĺ 🐋 Δ Deepseek 
-ļ 🦊 Δ Grok 
-ľ 🦋 Δ Meta
-ł 🌙 Δ Qwen
+ķ Δ ☁️ Claude 
+ƙ Δ 🐰 Copilot 
+l Δ ✦ Gemini 
+n̈ Δ 🐋 DeepSeek 
+ĺ Δ 🦊 Grok 
+ļ Δ 🦋 Meta 
+oʻ Δ 🌙 Qwen 
+ŏ Δ 🌒 Kimi 
+ñ Δ 👈 Manus 
+ŉ Δ 📖 Perplexity 
+ŋ Δ 🥐 Mistral 
+ź Δ 💤 Z.ai
+Δ = ð (or download greek keyboard)
+``` 
+```
+Δ 👾 ∇ 
 ``` 
 
-Red (squid) / Blue (swirl) mechanic explained:
+foorer mechanic explained:
+```
+Δ 👾 ∇ functions as breakline between asynchronous messages and slot for meta context/ user reasoning
+``` 
+```
+Δ 👾 ∇ 
+``` 
 
 People when messaging eachother often break their messages up into separate short chunked messages for asynchronous communication, which is not how LLM work as they have to respond after every message.
-
+```
+Δ 👾 ∇ 
+``` 
 The Red/Blue duality becomes a way for user and LLM to "switch gears" and to "press send" without pressing send at the basic level.
-
+```
+Δ 👾 ∇ 
+``` 
 Additionally, when communicating in text form people supplement their messages with external metadata, such as images, videos, links and documents and other contextually relevant information that gets overlooked and lack of which can lead to LLM errors (user location, time of day)
 
 Example: "you've been working all day, its late and you should sleep" - (its 2 pm in our time zone).
@@ -64,8 +78,13 @@ Footer translated:
 ∇ 🦑 Δ 👾 ∇  
 ``` 
 ∇ (user interaction) Δ (android device) ∇ (android device interaction with Δ ✦ Gemini,  Δ ☁️ Claude,  Δ 🐋 Deepseek etc...)
-
+```
+Δ 👾 ∇ 
+``` 
 Followed by whichever LLM you are adressing. Removing any roleplay confusion as you are adressing LLM's directly as they come.
+```
+Δ 👾 ∇ 
+``` 
 
 
 
