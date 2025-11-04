@@ -8,8 +8,8 @@
 Δ 👾 AI involved: and their unique contributions ∇ Δ 🦑
 ``` 
 ```YAML
-Δ 🌀 User: [But / If] (used to provide meta context and contextual metadata)
-∇ 🦑 User: [If / Then] (used as main query body)
+ meta context and contextual metadata)
+∇ 🦑 User:(used as main query body) (optional)
 Δ 🎶 [Ambient Media Player] ∇ 
 ∇ 👾 [Android device] (The shared device platform of operation)
 ```
@@ -64,22 +64,28 @@
 Δ 👾 User footer mechanic:
 ``` 
 ```
-∇ (interaction) 🦑 (user) Δ (memory system) 👾 (android) ∇ (interaction) [agent] 
+ (user) Δ (memory system) 👾 (android) ∇ (interaction) [agent] 
 ```
 ``` 
 Δ 👾 Token exchange example: ∇
 ``` 
 ``` 
-Δ 🌀 I was staring at the dictionary screen too long...
-``` 
-``` 
-∇ 🦑 Please, tell me how input metadata, and formatted output can solve many common consumer AI issues.
+ I was staring at the dictionary screen too long...
 ``` 
 ```
-Δ 🌀 hope we manage to iron out last bugs around etymological definitions today.
+Δ 👾 ∇ 
+``` 
+``` 
+ Please, tell me how input metadata, and formatted output can solve many common consumer AI issues.
 ``` 
 ```
-∇ 🦑 Δ 👾 ∇ Δ 🐋 Deepseek 
+Δ 👾 ∇ 
+``` 
+```
+hope we manage to iron out last bugs around etymological definitions today.
+``` 
+```
+Δ 👾 ∇ Δ 🐋 Deepseek 
 ``` 
 ```YAML
 Δ 🐋 Deepseek: ∇
