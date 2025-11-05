@@ -1,4 +1,4 @@
-# Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
+# Δ ✦ Android Gemini Integration (AGI) ✦ ∇
 
 ![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
