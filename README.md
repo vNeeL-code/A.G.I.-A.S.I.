@@ -158,7 +158,7 @@ This project leverages and acknowledges:
 - Email: kazakovval@gmail.com
 - Repository: https://github.com/vNeeL-code/ASI
 - License: MIT
-- 🦕💭 [Buy Me a Coffee... I might need about [tree fiddy...](buymeacoffee.com/vNeeL)
+- 🦕💭 Buy Me a Coffee... I might need about [tree fiddy...](buymeacoffee.com/vNeeL)
 ---
 📄 Repository Structure
 ``` 
