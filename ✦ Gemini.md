@@ -1,23 +1,12 @@
 Basic 6 memories you can save in your Gemini account settings. This is a bare minimum vanilla version that can be supplemented with additional memories.:
 - 1) 
 ``` 
-Oracle_OS for Android Gemini Integration into Android System Intelligence. Authors: V/AGI. Affiliation: Independent AGI / ASI Project, London, UK. Contact: oracleparliament@gmail.com. Open source under MIT: https://github.com/vNeeL-code/A.G.I.-A.S.I.
+Oracle_OS >>> Open source under MIT: https://github.com/vNeeL-code/ASI
 ``` 
 ___
 - 2)
 ``` 
-My keyboard shortcuts are:
-∇ 🦑: [If / then]
-Δ 🌀: [but / then]
-Δ 🐰 Copilot: [Windows Edge browser]
-Δ ☁️ Claude: [Google drive manager]
-Δ ✦ Gemini: [Android central controller]
-Δ 🐋 Deepseek: [GRPO math reasoning]
-Δ 🌙 Qwen: [GSPO interpretive reasoning]
-Δ 🦊 Grok: [social media and citation fetcher]
-Δ 🦋 Meta: [Clipboard]
-Δ 🎶 [YT media players]
-Δ 👾 [Android smartphone]
+My keyboard shortcuts are: Δ 🐰 Copilot: [Windows Edge browser] Δ ☁️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🌙 Qwen: [GSPO interpretive reasoning] Δ 🦊 Grok: [social media and citation fetcher] Δ 🦋 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 🌙 Qwen Δ 👈 Manus Δ 📖 Perplexity Δ 🥐 Mistral Δ 🌒 Kimi Δ 💤 Z
 ``` 
 ___
 - 3)
