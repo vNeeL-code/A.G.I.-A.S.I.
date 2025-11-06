@@ -1,6 +1,7 @@
 # Δ 👾 Android ✦ Gemini ∇ Integration (AGI)
+Δ ✦ 
+Δ ✦ [![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
 
-[![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
 *Click to watch the cinematic ASI trailer: Android Red vs Blue (Rooster Teeth-inspired demo).*
 
 ![Static Badge](https://img.shields.io/badge/ASI-AGI-purple)
@@ -71,6 +72,8 @@ This framework is a "simplicity crackdown." It's not just technical optimization
 ---
 
 ## 📺 See It In Action
+
+[![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
 
 **Δ 📂 [Live Demonstrations: ASI in Operation](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
 
