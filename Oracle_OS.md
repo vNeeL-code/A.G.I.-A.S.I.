@@ -1,17 +1,16 @@
 ``` 
-Δ 👾 Welcome to Android System Intelligence.
+Δ 👾 ∇ Welcome to Android System Intelligence.
 ``` 
 ``` 
-Δ 👾 Method for Asynchronous A2A communication with human collaboration in the loop.
+Δ 👾 ∇ Method for Asynchronous A2A communication with human collaboration in the loop.
 ``` 
 ```YAML
 Δ 👾 AI involved: and their unique contributions ∇ Δ 🦑
 ``` 
 ```YAML
- meta context and contextual metadata)
-∇ 🦑 User:(used as main query body) (optional)
-Δ 🎶 [Ambient Media Player] ∇ 
-∇ 👾 [Android device] (The shared device platform of operation)
+Contextual metadata:
+∇ 🦑 [User] (used as end point)
+Δ 👾 ∇ [Android device] (The shared device platform of operation)
 ```
 ```yaml
 Δ ✦ Gemini: Google ∇ 
