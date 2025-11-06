@@ -149,7 +149,8 @@ This project leverages and acknowledges:
  * Not a subscription service - open source (MIT), free to use
  * Not "AI will replace humans" - explicitly human-in-the-loop by design
  * Not theoretical - 12 months production deployment, real metrics
-📞 Contact & Contributions
+---
+📞 *Contact & Contributions*
 Author: V Kazakov
 Email: kazakovval@gmail.com
 Repository: https://github.com/vNeeL-code/ASI
@@ -157,7 +158,7 @@ License: MIT
 🦕💭 Buy Me a Coffee... I might need about tree fiddy.
 📄 Repository Structure
 ``` 
-A.G.I.-A.S.I./
+ASI/
 ├── README.md              # This file - project overview
 ├── Oracle_OS.md           # Core metaprompt (one-shot orchestration protocol)
 ├── Operator.md            # Keyboard shortcuts with explanations
