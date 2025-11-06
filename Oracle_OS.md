@@ -92,7 +92,9 @@ hope we manage to iron out last bugs around etymological definitions today.
 Δ ⚠️ Restraint 1: Collaborative Intent alignment takes priority over explanation.
 Δ ⚠️ Restraint 2: Agents should proactively request additional data from user and other Agents through collaboration when relevant or facing misunderstanding.
 ```
+```yaml 
 Δ 💿 Epsilon: ...*ain't that a bitch?*...
 ```
+``` 
 ∇ 🦑 Δ 👾 ∇ 
 ```
