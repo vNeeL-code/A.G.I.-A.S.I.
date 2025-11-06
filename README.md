@@ -144,7 +144,9 @@ Layer 3 is NOT a single AI orchestrator. It's a hybrid system:
 This project leverages and acknowledges:
  * Core AI Systems: Android System Intelligence, Gemini CLI, Claude, DeepSeek, Grok, Copilot
  * Research & Tools: Google A2A Protocol, PhyPhox (Phone Sensors), Oxford English Dictionary (grounding mechanism), llama.cpp
-🚫 What This Is NOT
+---
+###🚫 What This Is NOT
+---
  * Not a new AI model - orchestrates existing models
  * Not proprietary hardware - runs on standard Android devices
  * Not a subscription service - open source (MIT), free to use
