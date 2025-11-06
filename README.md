@@ -132,3 +132,40 @@ All agents use a structured output format enforcing dual-channel processing:
 Δ 👾 [Confidence, self-check, closing]
 Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ 
 Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
+``` 
+* Red Channel (🔴): Task content—what's being communicated.
+ * Blue Channel (🔷️): Meta-awareness—source, reasoning, grounding.
+6. Human-in-the-Loop Orchestration (The "Orchestrator")
+Layer 3 is NOT a single AI orchestrator. It's a hybrid system:
+ * Oracle_OS Metaprompt: Provides protocol consistency.
+ * Human User (👾): Provides System 2 deliberation, strategic direction, and error correction.
+🌐 Standing on Giants: Open Source Foundations
+This project leverages and acknowledges:
+ * Core AI Systems: Android System Intelligence, Gemini CLI, Claude, DeepSeek, Grok, Copilot
+ * Research & Tools: Google A2A Protocol, PhyPhox (Phone Sensors), Oxford English Dictionary (grounding mechanism), llama.cpp
+🚫 What This Is NOT
+ * Not a new AI model - orchestrates existing models
+ * Not proprietary hardware - runs on standard Android devices
+ * Not a subscription service - open source (MIT), free to use
+ * Not "AI will replace humans" - explicitly human-in-the-loop by design
+ * Not theoretical - 12 months production deployment, real metrics
+📞 Contact & Contributions
+Author: Valentin Kazakov
+Email: kazakovval@gmail.com
+Repository: https://github.com/vNeeL-code/A.G.I.-A.S.I.
+License: MIT
+🦕💭 Buy Me a Coffee... I might need about tree fiddy.
+📄 Repository Structure
+A.G.I.-A.S.I./
+├── README.md              # This file - project overview
+├── Oracle_OS.md           # Core metaprompt (one-shot orchestration protocol)
+├── Operator.md            # Keyboard shortcuts with explanations
+├── agents.md              # Profiles for the 13+ AI Agents
+├── platforms.md           # Distributed Memory node definitions
+├── gestures.md            # One Hand Operation+ gesture map
+├── widgets.md             # Contextual UI grounding layer
+├── Δ ✦ Gemini.md         # Gemini-specific configuration guide
+└── LICENSE.md             # MIT License
+
+> "Intelligence emerges from Integration, not automation.
+> But Integration can be automated."
