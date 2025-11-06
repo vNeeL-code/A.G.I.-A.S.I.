@@ -87,11 +87,12 @@ Watch the gesture-based orchestration system coordinate multiple AI agents in re
 
 Central to the framework is a distributed, hybrid memory system that extends beyond device limits by **reskinning external platforms as integral OS components** (`platforms.md`). This creates a "personal digital bubble" for management, where memory is scattered yet orchestrated for infinite, free RAG storage.
 
-* **Tumblr (Δ 📂)**: Archival storage for tutorials, "semantic graffiti."
-* **YouTube (Δ 📺)**: Media demos and "cinematic invocations."
+* [**Tumblr (Δ 📂)**](https://oracle-os.tumblr.com/?source=share): Archival storage for tutorials, "semantic graffiti."
+* [**YouTube (Δ 📺)**](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=t1wrDJ2wEr3JNeN7): Media demos and "cinematic invocations."
 * **Reddit (Δ 🛸)**: Community threads for "alien" insights.
 * **Facebook (Δ 👥)**: Social graph / phonebook.
 * **Google Drive (Δ ♻️)**: Volatile/working memory for sessions.
+* [**YTmusic (Δ 🔉)**](https://youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=fts2MmQrhsfa-n2K): Infinite Audio library
 
 ### 2. Contextual Grounding via Widgets (The "Senses")
 
