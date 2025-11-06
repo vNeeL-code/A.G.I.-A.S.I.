@@ -3,7 +3,7 @@
 [![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
 *Click to watch the cinematic ASI trailer: Android Red vs Blue (Rooster Teeth-inspired demo).*
 
-![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
+![Static Badge](https://img.shields.io/badge/ASI-AGI-purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
 ![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/A.G.I.-A.S.I.)
 [![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
