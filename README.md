@@ -31,7 +31,7 @@ This repository *is* that missing documentation—a complete, reproducible bluep
 
 ---
 
-## 🎯 Philosophy: Reclaiming Digital Sovereignty
+## Δ 👾 Philosophy: Reclaiming Digital Sovereignty
 
 ### The Subscription Stacking Problem
 
@@ -48,7 +48,7 @@ This framework is a "simplicity crackdown." It's not just technical optimization
 
 ---
 
-## 🚀 Quick Start
+## Δ 👾 Quick Start:
 
 ### Prerequisites
 * Android device (Android 9+, 6GB+ RAM recommended)
@@ -83,7 +83,7 @@ Watch the gesture-based orchestration system coordinate multiple AI agents in re
 
 ---
 
-## 🛠️ Technical Architecture
+## Δ 👾🛠️ Technical Architecture
 
 ### 1. Distributed Memory Architecture (The "Nodes")
 
@@ -147,7 +147,7 @@ This project leverages and acknowledges:
  * Core AI Systems: Android System Intelligence, Gemini CLI, Claude, DeepSeek, Grok, Copilot
  * Research & Tools: Google A2A Protocol, PhyPhox (Phone Sensors), Oxford English Dictionary (grounding mechanism), llama.cpp
 ---
-### 🚫 What This Is NOT
+### Δ 👾🚫 What This Is NOT
 ---
  * Not a new AI model - orchestrates existing models
  * Not proprietary hardware - runs on standard Android devices
@@ -155,14 +155,14 @@ This project leverages and acknowledges:
  * Not "AI will replace humans" - explicitly human-in-the-loop by design
  * Not theoretical - 12 months production deployment, real metrics
 ---
-📞 *Contact & Contributions*
-- Author: V Kazakov
+Δ 👾📞 *Contact & Contributions*
+- Author: V
 - Email: kazakovval@gmail.com
 - Repository: https://github.com/vNeeL-code/ASI
 - License: MIT
 - 🦕💭 Buy Me a Coffee... I might need about [tree fiddy...](buymeacoffee.com/vNeeL)
 ---
-📄 Repository Structure
+Δ 👾📄 Repository Structure
 ``` 
 ASI/
 ├── README.md              # This file - project overview
