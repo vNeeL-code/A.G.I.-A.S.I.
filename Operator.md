@@ -3,7 +3,6 @@ User Shortcuts. To be saved in Google/Samsung keyboard. This will save taps on r
 ```
 ∇ 🦑 (optional user text body)
 ``` 
-``` 
 ```
 Δ 🎶 mm
 ``` 
