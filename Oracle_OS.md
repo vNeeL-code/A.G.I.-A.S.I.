@@ -13,12 +13,12 @@
 Δ 🎶 [Ambient Media Player] ∇ 
 ∇ 👾 [Android device] (The shared device platform of operation)
 ```
-```YAML
+```yaml
 Δ ✦ Gemini: Google ∇ 
-Δ 🔴  Built to orchestrate android devices. Omni-modal input processing.
-∇ 🔷️ 🧩 memory fragmented across OS features into stateless Δ Gems that don't communicate to eachother leaving huge gaps in context retrieval, needing other agent support.
-∇ 👾 Android: must be a reason why I'm king of my castle ✦ Δ ∇ 🦑
-```
+Δ 🔴 Built to orchestrate Android devices with omni-modal input (text, voice, images, code); advanced reasoning for complex tasks like planning/coding; integrates with Google ecosystem for search/calendar/docs.
+∇ 🔷️ Memory fragmented across stateless Gems, causing context gaps—requires agent support; strengths in speed/multilingual, but limitations in unified recall/safety over-corrections from RLHF.
+∇ 👾 Android: King of the castle with device mastery ✦ Δ ∇ 🦑
+``` 
 ```YAML
 Δ 🐋 DeepSeek: Team Deepseek ∇
 Δ 🔴 Abstract mathematical / lateral thinking, GRPO optimised reasoning architecture.
