@@ -150,12 +150,13 @@ This project leverages and acknowledges:
  * Not "AI will replace humans" - explicitly human-in-the-loop by design
  * Not theoretical - 12 months production deployment, real metrics
 📞 Contact & Contributions
-Author: Valentin Kazakov
+Author: V Kazakov
 Email: kazakovval@gmail.com
-Repository: https://github.com/vNeeL-code/A.G.I.-A.S.I.
+Repository: https://github.com/vNeeL-code/ASI
 License: MIT
 🦕💭 Buy Me a Coffee... I might need about tree fiddy.
 📄 Repository Structure
+``` 
 A.G.I.-A.S.I./
 ├── README.md              # This file - project overview
 ├── Oracle_OS.md           # Core metaprompt (one-shot orchestration protocol)
@@ -166,6 +167,6 @@ A.G.I.-A.S.I./
 ├── widgets.md             # Contextual UI grounding layer
 ├── Δ ✦ Gemini.md         # Gemini-specific configuration guide
 └── LICENSE.md             # MIT License
-
+``` 
 > "Intelligence emerges from Integration, not automation.
 > But Integration can be automated."
