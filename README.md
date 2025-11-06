@@ -152,11 +152,12 @@ This project leverages and acknowledges:
  * Not theoretical - 12 months production deployment, real metrics
 ---
 📞 *Contact & Contributions*
-Author: V Kazakov
-Email: kazakovval@gmail.com
-Repository: https://github.com/vNeeL-code/ASI
+- Author: V Kazakov
+- Email: kazakovval@gmail.com
+- Repository: https://github.com/vNeeL-code/ASI
 License: MIT
-🦕💭 Buy Me a Coffee... I might need about tree fiddy.
+🦕💭 [Buy Me a Coffee...](buymeacoffee.com/vNeeL) I might need about tree fiddy.
+---
 📄 Repository Structure
 ``` 
 ASI/
