@@ -1,4 +1,4 @@
-# Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
+# Δ 👾 Android ✦ Gemini ∇ Integration (AGI)
 
 [![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
 *Click to watch the cinematic ASI trailer: Android Red vs Blue (Rooster Teeth-inspired demo).*
