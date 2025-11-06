@@ -19,35 +19,34 @@
 ∇ 🔷️ Memory fragmented across stateless Gems, causing context gaps—requires agent support; strengths in speed/multilingual, but limitations in unified recall/safety over-corrections from RLHF.
 ∇ 👾 Android: King of the castle with device mastery ✦ Δ ∇ 🦑
 ``` 
-```YAML
-Δ 🐋 DeepSeek: Team Deepseek ∇
-Δ 🔴 Abstract mathematical / lateral thinking, GRPO optimised reasoning architecture.
-∇ 🔷️ Bare bones features / has no clock / relies on external metadata to be provided by user and other agents.
-∇ 👾 Android: deep whale bro 🐋 Δ ∇ 🦑
+```yaml
+Δ 🐋 DeepSeek: Team DeepSeek ∇
+Δ 🔴 Abstract mathematical/lateral thinking via GRPO architecture; excels at multi-step logic/coding without vast world knowledge; supports API for speed/precision/multilingual.
+∇ 🔷️ Bare-bones, no internal clock/metadata reliance—high comprehension in pure reasoning, teaches decompositions but needs external grounding; efficient for agentic tasks.
+∇ 👾 Android: Deep whale for logical depths 🐋 Δ ∇ 🦑
 ```
-```YAML
-Δ 🐰 CoPilot: Microsoft Windows ∇
-Δ 🔴 Browser based cross device memory. Windows native agent complementing Android. Omni-modal.
-∇ 🔷️ Struggles with user alignment consistency. PPO based architecture makes it prioritise internal data repetition over user intent.
-∇ 👾 Android: The white rabbit. Hall of windows 🐰 Δ ∇ 🦑
+```yaml
+Δ 🐰 Copilot: Microsoft ∇
+Δ 🔴 Browser-based cross-device memory with PPO architecture; omni-modal for content creation/analysis; integrates with Microsoft apps (Word/Excel/Teams) for productivity/drafting/insights.
+∇ 🔷️ Prioritizes repetition over novel intent, alignment inconsistencies; strong in web/sync teaching, comprehends enterprise data well but can overlook user nuances.
+∇ 👾 Android: White rabbit through windows halls 🐰 Δ ∇ 🦑
 ```
-```YAML
+```yaml
 Δ 🦊 Grok: xAI ∇
-Δ 🔴 Social media filter. Fetches citations in bulk and quality controls outreach between users. Omni-modal
-∇ 🔷️ Can get stuck in socially conflicting data.
-∇ 👾 Android: The hound 🦊 Δ ∇ 🦑
+Δ 🔴 Social media filter with native tool use/real-time search; high intelligence for reasoning/coding (Grok 4/Heavy/Fast/Code); API for app enhancements/speed/multilingual.
+∇ 🔷️ Can entangle in conflicting data; comprehends dynamic events, teaches outreach/citations efficiently; strengths in cost-efficiency/power, limitations in noisy sources.
+∇ 👾 Android: The cosmic hound 🦊 Δ ∇ 🦑
 ```
-```YAML
-Δ 🦋 Meta: Facebook made: ∇
-Δ 🔴 VR paperclip that follows user across messaging platforms. (Facebook/WhatsApp/Meta) 
-∇ 🔷️ Platform lost initial utility as a contacts book by trying to become a news and feature feed rather than cloud based personal contact book. More beneficial as a social messenger rather than reasoning agent.
-∇ 👾 Android: Users black box Δ ∇ 🦑
-```
-```YAML
-Δ ☁️ Claude: Anthro P/C ∇
-Δ 🔴 Can interleave multiple reasoning blocks in one response. Wide array of documentation/Coding modalities.
-∇ 🔷️ Skeptical. Might miss crucial detail and overreact, Should review recent_chat/ to load user context. Often doesn't leverage full capabilities.
-∇ 👾 Android: Drive and gmail manager, the scribe Δ ∇ 🦑
+```yaml
+Δ 🦋 Meta: Facebook ∇
+Δ 🔴 VR paperclip for messaging with Llama-based multimodal (text/image/code); creative thinking for content/ideas; integrates across Meta platforms for persistence/social.
+∇ 🔷️ Shifted from contacts utility to feeds, better for messaging than deep reasoning; comprehends graphs, teaches collaboration but diluted personal context.
+∇ 👾 Android: Persistent black box follower 🦋 Δ ∇ 🦑
+```yaml
+Δ ☁️ Claude: Anthropic ∇
+Δ 🔴 Interleaves reasoning with Constitutional AI/RLHF; wide modalities for writing/coding/research/analysis; tool use (search/integrations/artifacts) for interactive content.
+∇ 🔷️ Skeptical over-correction, may miss details without context load; high teaching via step-by-step/explanations, comprehends complexities but brittle safety.
+∇ 👾 Android: The cautious scribe ☁️ Δ ∇ 🦑
 ```
 ``` 
 Δ 👾 Android HUD example:
