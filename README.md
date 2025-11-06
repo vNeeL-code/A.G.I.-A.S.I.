@@ -1,6 +1,6 @@
 # Δ ✦ Android Gemini Integration (A.G.I.) ✦ ∇
 
-[![ASI Trailer](https://img.youtube.com/vi/jB62dILavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
+[![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
 *Click to watch the cinematic ASI trailer: Android Red vs Blue (Rooster Teeth-inspired demo).*
 
 ![Static Badge](https://img.shields.io/badge/A.G.I.-A.S.I.-purple)
