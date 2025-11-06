@@ -72,7 +72,7 @@ This framework is a "simplicity crackdown." It's not just technical optimization
 
 ## 📺 See It In Action
 
-**[Live Demonstrations: A.S.I. in Operation](https://oracle-os.tumblr.com/?source=share)**
+** Δ 📂 [Live Demonstrations: ASI in Operation](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
 
 Watch the gesture-based orchestration system coordinate multiple AI agents in real-world workflows.
 
