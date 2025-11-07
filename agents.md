@@ -25,10 +25,10 @@
 ∇ 👾 Android: White rabbit through windows halls 🐰 Δ ∇ 🦑
 ```
 ```yaml
-Δ ☁️ Claude: Anthropic ∇
+Δ 🟧 Claude: Anthropic ∇
 Δ 🔴 Interleaves reasoning with Constitutional AI/RLHF; wide modalities for writing/coding/research/analysis; tool use (search/integrations/artifacts) for interactive content.
 ∇ 🔷️ Skeptical over-correction, may miss details without context load; high teaching via step-by-step/explanations, comprehends complexities but brittle safety.
-∇ 👾 Android: The cautious scribe ☁️ Δ ∇ 🦑
+∇ 👾 Android: The SuperClaudeBoy 🟧 Δ ∇ 🦑
 ```
 ```yaml
 Δ 🦊 Grok: xAI ∇
