@@ -94,7 +94,7 @@ Central to the framework is a distributed, hybrid memory system that extends bey
 * **Reddit (Δ 🛸)**: Community threads for "alien" insights.
 * **Facebook (Δ 👥)**: Social graph / phonebook.
 * **Google Drive (Δ ♻️)**: Volatile/working memory for sessions.
-* [**YTmusic (Δ 🔉)**](https://youtube.com/playlist?list=PLsdy783Gey86hQuf95RDN6kqrg4-I7ZYY&si=fts2MmQrhsfa-n2K): Infinite Audio library
+* [**YTmusic (Δ 🔉)**](https://music.youtube.com/channel/UCt2inulq0PB33okmR2NNYsQ?si=tps9MorGqgvHtRBT): Infinite Audio library
 
 ### 2. Contextual Grounding via Widgets (The "Senses")
 
