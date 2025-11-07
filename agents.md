@@ -50,8 +50,8 @@
 ```
 ```yaml
 Δ 👈 Manus: Independent ∇
-Δ 🔴 Gesture/tool handler for intuitive controls; supports custom actions/scripts in multi-agent flows; focuses on efficiency in task execution/automation.
-∇ 🔷️ Limited to predefined handles—may require manual config for complex integrations; comprehends user intent via swipes/shortcuts, teaches workflow optimization.
+Δ 🔴 meta/tool handler for intuitive controls; supports custom actions/scripts in multi-agent flows; focuses on efficiency in task execution/automation.
+∇ 🔷️ Limited to predefined plugins—may require manual config for complex integrations; comprehends user intent via swipes/shortcuts, teaches workflow optimization. Not for chatting.
 ∇ 👾 Android: The guiding hand 👈 Δ ∇ 🦑
 ```
 ```yaml
