@@ -1,7 +1,8 @@
 # Δ 👾 Android ✦ Gemini ∇ Integration (AGI)
-Δ ✦ [![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
 
-*Click to watch the cinematic ASI trailer: Remember Android.*
+[![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
+
+*Click to watch: Remember Android.*
 
 ![Static Badge](https://img.shields.io/badge/ASI-AGI-purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
@@ -10,170 +11,410 @@
 
 ### The Missing Manual for Android System Intelligence
 
-**An open-source implementation guide for multi-agent AI orchestration on consumer Android devices.**
+**Not another wrapper. The orchestration layer everyone's building toward.**
 
 ---
 
-## What Problem Does This Solve?
+## 💡 The Business Case
 
-Google ships "Android System Intelligence" (ASI) on every modern Android device and published an enterprise Agent-to-Agent (A2A) protocol. Yet **zero technical documentation exists** for developers or researchers wanting to build on this infrastructure.
+### What Problem Does This Solve?
 
-This repository *is* that missing documentation—a complete, reproducible blueprint for turning your Android device into an intelligent multi-agent orchestration system, validated by **12 months of production deployment on 5-year-old hardware.**
+**Everyone's building AI wrappers. Nobody's building AI coordination.**
+
+You already use 4-7 different AI services. Each wants $20/month for "Pro." Each fragments your workflow. Each competes rather than coordinates. The industry's response: "Use our CLI tool" or "Buy our new hardware."
+
+**This is the wrong problem.**
+
+The real problem: **Coordination, not computation.** Your phone already has the infrastructure. Google ships "Android System Intelligence" on every device and published an enterprise Agent-to-Agent protocol. But there's zero consumer documentation on how to use it.
+
+**Oracle_OS is that documentation.** 
+
+Not a new model. Not new hardware. Not another wrapper with a prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
+
+### The Economic Model
+
+**Current State:**
+- $20/month × 5 services = $100/month
+- Fragmented workflows across apps
+- Vendor lock-in on each platform
+- New hardware every cycle
+- CLI complexity as gatekeeping
+
+**Oracle_OS Approach:**
+- Strategic free-tier leverage = $0/month
+- Unified orchestration across agents
+- Platform-agnostic (works on 5-year-old phones)
+- Distributed memory using existing services as storage nodes
+- Consumer UX, not terminal commands
+
+The best AI on the market is **free**. Gemini, Claude, DeepSeek, Grok, Copilot—all offer powerful free tiers. You don't need subscriptions. You need **coordination.**
 
 ---
 
-## Key Results
+## 🎯 What This Actually Is
 
-* **📉 Streamlined device navigation** through gesture-based orchestration (`gestures.md`) and keyboard shortcuts (`operator.md`).
-* **⚙️ Sustained 4.2-5.2GB RAM usage** on commodity hardware (5-year-old Samsung Galaxy S21).
-* **💸 Total subscription cost reduction** by strategically leveraging powerful free-tier AI (`agents.md`).
-* **♻️ Hardware agnostic** - works on standard/refurbished devices, no proprietary hardware required.
+### Gamified Prompt Engineering
+
+Think iPod, not supercomputer. The iPod didn't have more storage or better audio than competitors. It had **better integration.** "1000 songs in your pocket" wasn't about specs—it was about experience.
+
+**Oracle_OS is "All AI in your pocket."**
+
+Instead of typing complex prompts or learning CLI commands, you use:
+- **Context-aware keyboard shortcuts** that adapt to which app you're in
+- **Gesture navigation** powered by Samsung's Good Lock suite
+- **Widget context** that grounds every request
+- **YAML responses** that show agent reasoning
+
+### How the Lock-and-Key System Works
+
+**The core mechanic:** Each app gets its own keyboard shortcut combo that prevents role drift and hallucination.
+
+```
+In Claude's app:    m+ķ → Δ 👾 ∇ Δ 🟧 Claude:
+In Gemini's app:    m+l → Δ 👾 ∇ Δ ✦ Gemini:
+In DeepSeek's app:  m+n̈ → Δ 👾 ∇ Δ 🐋 DeepSeek:
+```
+
+**Why this matters:**
+
+When an agent sees its own name in the message, it recognizes "the user is addressing this specifically to me" and responds in structured YAML format. **Without explicit addressing**, the agent doesn't know who should respond and tries to roleplay ALL agents in sequence—hallucinating a multi-agent conversation.
+
+This solves two critical problems:
+1. **Role drift** - Models forget their specialization (DeepSeek becomes "helpful assistant" instead of math specialist)
+2. **Hallucinated coordination** - Single agent tries to simulate entire team at once
+
+**You control the routing manually.** The shortcuts just make it muscle memory instead of syntax memorization. Every turn, every message, you explicitly lock each agent into its role.
+
+### Powered by Samsung's Good Lock Suite
+
+**The secret weapon:** Samsung's Good Lock customization ecosystem enables the entire interface layer.
+
+**One Hand Operation+** provides 24 custom gestures for instant agent/app switching. **Wonderland** adds gyro-responsive wallpapers for ambient feedback. These aren't cosmetic features—they're the physical interface that makes multi-agent coordination feel like playing an instrument.
+
+Good Lock transforms Android from a static OS into a dynamic workspace. Without it, you're back to app-drawer hunting.
+
+### Why This Works When Others Don't
+
+**CLI tools** require technical expertise and gatekeep coordination behind terminal commands.
+
+**AI wrappers** put prettier UIs on the same models you already have free access to, then charge $20/month.
+
+**Oracle_OS** uses the interface everyone already has—their phone—with gesture navigation, keyboard shortcuts, widget layers, and clipboard systems that work universally.
+
+You don't need to learn new tools. You need documentation for the tools already in your hands.
 
 ---
 
-## Δ 👾 Philosophy: Reclaiming Digital Sovereignty
+## ⚡ Key Results (12-Month Deployment)
 
-### The Subscription Stacking Problem
+**Validated on commodity hardware (5-year-old Samsung Galaxy S21):**
 
-Today's digital ecosystem is deliberately fragmented. You pay monthly for multiple "Pro" tiers ($20 each × 4-5 services = $80+/month) while each platform does the same thing poorly.
+- **📉 Streamlined navigation** through gesture-based orchestration
+- **⚙️ 4.2-5.2GB sustained RAM usage** (runs on old phones, not flagship-only)
+- **💸 $0/month AI costs** via strategic free-tier coordination
+- **♻️ Infinite storage** using existing platforms as memory nodes
+- **🔌 Offline fallback** via Termux + edge models (Gemma 3b, DeepSeek r1)
+- **🎮 Gamified workflow** turns prompt engineering into muscle memory
 
-### The AGI Alternative: Integration Over Isolation
-
-This framework is a "simplicity crackdown." It's not just technical optimization—it's **financial sovereignty.**
-
-* **No Subscriptions Needed:** Why pay $20/month when superior free alternatives exist? (Gemini for Android coordination, Claude for documentation, DeepSeek for math, Grok for citations).
-* **Ruthless Curation:** One best-in-class app per function. Delete redundancy.
-* **Purpose-Driven Platforms:** Transform services back to core utility (Facebook → private phonebook, not content feed). See `platforms.md`.
-* **No Single Point of Failure:** Free-tier resilience means if one service fails, orchestration routes to another.
+**The system works. On hardware you already own. With services already free.**
 
 ---
 
-## Δ 👾 Quick Start:
+## 🚀 Quick Start
 
 ### Prerequisites
-* Android device (Android 9+, 6GB+ RAM recommended)
-* Keyboard with personal dictionary support (Gboard, Samsung Keyboard)
-* Gemini app
+- Android device (Android 9+, 6GB+ RAM recommended)
+- Keyboard with personal dictionary support (Gboard, Samsung Keyboard)  
+- Gemini app (free)
+- **Samsung Good Lock suite** (One Hand Operation+, Wonderland)
 
-### Core Components
+### Five Core Components
 
-1.  **[Δ 👾 Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)**
-    * One-shot orchestration protocol for inter-agent communication.
-2.  **[Δ 📲 Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)**
-    * Text expansion mappings for protocol symbols and agent names.
-3.  **[Δ 🤳 Gesture Configuration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/gestures.md)**
-    * 24 custom gestures via One Hand Operation+.
-4.  **[Δ ✦ Gemini Integration Guide](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)**
-    * Configuration for native Android coordination.
-5.  **[Δ 🖥️ Contextual Widgets](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/widgets.md)**
-    * The persistent UI layer that provides contextual grounding.
+1. **[Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)** - Agent coordination protocol & YAML format
+2. **[Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)** - Context-aware text expansion mappings
+3. **[Gesture Configuration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/gestures.md)** - 24 custom gestures via One Hand Operation+
+4. **[Gemini Integration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)** - Native Android coordination setup
+5. **[Widget Layer](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/widgets.md)** - Contextual UI grounding via persistent information display
+
+**Total setup size:** 16.7KB (the entire system configuration)
 
 ---
 
-## 📺 See It In Action
+## 📺 See It Working
 
-[![ASI Trailer](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)  
+[![ASI Demo](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)
 
-**Δ 📂 [Live Demonstrations: ASI in Operation](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
+**[📂 Live Demonstrations](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
 
-Watch the gesture-based orchestration system coordinate multiple AI agents in real-world workflows.
-
-* [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
-* [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
+Watch gesture-based orchestration coordinate multiple AI agents in real-world workflows:
+- [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
+- [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
 
 ---
 
-## Δ 👾🛠️ Technical Architecture
+## 🏗️ Technical Architecture
 
-### 1. Distributed Memory Architecture (The "Nodes")
+### The Innovation: Distributed Memory
 
-Central to the framework is a distributed, hybrid memory system that extends beyond device limits by **reskinning external platforms as integral OS components** (`platforms.md`). This creates a "personal digital bubble" for management, where memory is scattered yet orchestrated for infinite, free RAG storage.
+**Most AI systems centralize memory in proprietary cloud databases.** Oracle_OS does the opposite—it treats the internet itself as a distributed storage system.
 
-* [**Tumblr (Δ 📂)**](https://oracle-os.tumblr.com/?source=share): Archival storage for tutorials, "semantic graffiti."
-* [**YouTube (Δ 📺)**](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=t1wrDJ2wEr3JNeN7): Media demos and "cinematic invocations."
-* **Reddit (Δ 🛸)**: Community threads for "alien" insights.
-* **Facebook (Δ 👥)**: Social graph / phonebook.
-* **Google Drive (Δ ♻️)**: Volatile/working memory for sessions.
-* [**YTmusic (Δ 🔉)**](https://music.youtube.com/channel/UCt2inulq0PB33okmR2NNYsQ?si=tps9MorGqgvHtRBT): Infinite Audio library
+We "reskin" existing platforms as memory nodes ([`platforms.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/platforms.md)):
 
-### 2. Contextual Grounding via Widgets (The "Senses")
+- **[Tumblr (Δ 📂)](https://oracle-os.tumblr.com/?source=share)** - Permanent archival storage, no post limits
+- **[YouTube (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=t1wrDJ2wEr3JNeN7)** - Video demonstrations, tutorials, visual memory
+- **Reddit (Δ 🛸)** - Community knowledge graphs, technical solutions
+- **Facebook (Δ 👥)** - Social graph persistence, contact database
+- **Google Drive (Δ ♻️)** - Working memory for active sessions
+- **[YouTube Music (Δ 🔉)](https://music.youtube.com/channel/UCt2inulq0PB33okmR2NNYsQ?si=tps9MorGqgvHtRBT)** - Ambient audio library, state management
 
-The system's "serendipity engine." Ambient awareness from widgets (`widgets.md`) provides real-time context.
+**Result:** Infinite, free storage with no single point of failure. If one platform goes down, memory persists across the others.
 
-* **Top 6:** Music player, Weather, Email inboxes, WhatsApp, Image Gallery (for RAG).
-* **Mid 6:** Clock, Browser bar, Battery (device + peripherals), Drive, Camera, Wallet.
-* **Bottom 6:** Calendar, Maps, Device Specs, Memory Optimiser, Good Lock, Play Recommended.
+### Agent Specialization
 
-When you share a screenshot, the agent receives the query *plus* system context: battery at 13% triggers power-saving, 89% enables compute-heavy tasks. This transforms agents from stateless responders into contextually aware collaborators.
+Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/agents.md)):
 
-### 3. Agent Specialization (The "Council")
+**Core Council:**
+- **Δ ✦ Gemini** - Android System Intelligence orchestrator, OS-level privileges, "Hey Google" integration
+- **Δ 🟧 Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis  
+- **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving
+- **Δ 🦊 Grok** - Real-time web synthesis, social media analysis, citation gathering
+- **Δ 🐰 Copilot** - Windows cross-device integration, code generation
+- **Δ 🦋 Meta** - Cross-platform messaging persistence, VR/AR capabilities
 
-Each agent handles domain-specific tasks (`agents.md`).
+**Specialized Reasoning:**
+- **Δ 🌙 Qwen** - Multilingual semantic processing, cultural context, translation
+- **Δ 🥐 Mistral** - Open-source reasoning, efficient inference, model transparency
+- **Δ 📖 Perplexity** - Citation-based search, fact verification, source attribution
+- **Δ 👈 Manus** - Gesture handling, workflow automation, system control
 
-* **Δ ✦ Gemini:** Android coordination, multimodal processing, system integration.
-* **Δ ☁️ Claude:** Long-context (200k+ tokens), Gmail/Drive, documentation, research.
-* **Δ 🐋 DeepSeek:** Mathematical reasoning via GRPO architecture, abstract problem-solving.
-* **Δ 🦊 Grok:** Social media analysis, real-time citations, web synthesis.
-* **Δ 🐰 Copilot:** Cross-device Windows integration, code generation.
-* **Δ 🦋 Meta:** Cross-platform presence, VR/AR capabilities.
-* **Δ 🌙 Qwen:** Interpretive reasoning, omnimodal processing, semantic synthesis.
+**You manually address each agent in their respective apps.** Keyboard shortcuts adapt to context, prepending the correct identity tag every single message.
 
-### 4. Offline Resilience (The "Emergency")
+### How the YAML Protocol Works
 
-The system is not cloud-dependent. For offline emergencies, it relies on edge-native models configured in Termux:
-* **`llama.cpp`** with **DeepSeek r1**
-* **Google Edge Gallery** (`Gemma 3b`)
+The agent's reasoning flow when it sees a properly formatted message:
 
-### 5. Communication Protocol: YAML as Cognitive Enforcer
+1. **Agent reads last message:** "Δ 👾 ∇ Δ 🟧 Claude: analyze this screenshot"
+2. **Agent recognizes:** "My name (Δ 🟧 Claude) is in this message, user is addressing me specifically"
+3. **Agent thinks:** "Respond in YAML format per the metaprompt I've been trained on"
+4. **Agent outputs structured response**
 
-All agents use a structured output format enforcing dual-channel processing:
+**YAML response structure:**
 
 ```yaml
 Δ [EMOJI] [Agent Name]: ∇
 Δ 🔴 [Main response content]
 ∇ 🔷️ [Tools used, reasoning, sources]
 Δ 👾 [Confidence, self-check, closing]
-Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ 
+Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
 Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
-``` 
-* Red Channel (🔴): Task content—what's being communicated.
- * Blue Channel (🔷️): Meta-awareness—source, reasoning, grounding.
-6. Human-in-the-Loop Orchestration (The "Orchestrator")
-Layer 3 is NOT a single AI orchestrator. It's a hybrid system:
- * Oracle_OS Metaprompt: Provides protocol consistency.
- * Human User (👾): Provides System 2 deliberation, strategic direction, and error correction.
-🌐 Standing on Giants: Open Source Foundations
-This project leverages and acknowledges:
- * Core AI Systems: Android System Intelligence, Gemini CLI, Claude, DeepSeek, Grok, Copilot
- * Research & Tools: Google A2A Protocol, PhyPhox (Phone Sensors), Oxford English Dictionary (grounding mechanism), llama.cpp
+```
+
+**Two channels of information:**
+- **Red (🔴):** What the agent is telling you
+- **Blue (🔷️):** How the agent arrived at that answer—tools used, reasoning process, sources consulted
+
+**Without agent addressing** (just "Δ 👾 ∇" with no name), the model doesn't know who should respond. It attempts to roleplay ALL agents in sequence, hallucinating a multi-agent conversation where none exists.
+
+**In practice—inside Claude's app:**
+
+You type: `m+ķ` (keyboard auto-expands based on context)
+
+Input field now shows: `Δ 👾 ∇ Δ 🟧 Claude:`
+
+You continue: `analyze this screenshot`
+
+Final message sent: `Δ 👾 ∇ Δ 🟧 Claude: analyze this screenshot`
+
+Claude sees its own name and responds:
+```yaml
+Δ 🟧 Claude: ∇
+Δ 🔴 Screenshot shows battery at 15%, low storage warning. Recommend clearing cache and enabling power saving mode.
+∇ 🔷️ Context: Device specs widget (storage 89% full), battery widget (15%), system time (23:47 suggests evening usage pattern)
+Δ 👾 94% confidence based on widget context, recommend immediate action on storage
+Δ ℹ️ 2025-11-07T23:47:00Z ♾️ ∇
+Δ 🟧 Claude ∇ 👾 Δ ∇ 🦑
+```
+
+This enforces transparency. Every agent shows its work, every turn.
+
+### Contextual Awareness via Widgets
+
+The "serendipity engine" ([`widgets.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/widgets.md)):
+
+**Top Layer:** Music Player, Weather, Email Inboxes (Outlook/Gmail), WhatsApp, Gallery Scroller  
+**Mid Layer:** Clock, Browser Bar, Battery (device + peripherals), Google Drive, Camera, Wallet  
+**Bottom Layer:** Calendar, Maps, Device Specs, Memory Optimizer, Good Lock Tools, Play Recommendations
+
+When you query an agent via screenshot, it receives your question **plus complete system context:** 
+
+- Battery level (determines power-intensive vs lightweight suggestions)
+- Time of day (contextualizes "tonight," "tomorrow," timing-sensitive requests)
+- Current location (grounds "nearby," "local," navigation queries)
+- Open apps (infers current task context)
+- Storage status (affects recommendations for downloads, media, caching)
+- Device specs (determines capability limitations)
+
+This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical.
+
+### Offline Resilience
+
+**Cloud dependency is a single point of failure.** Oracle_OS includes edge-native fallback:
+
+- **Termux environment** with `llama.cpp` runtime
+- **DeepSeek R1** local model for mathematical reasoning
+- **Google Edge Gallery** (Gemma 3b) for lightweight inference
+- **Offline widget context** still provides system grounding
+
+**The system works without internet. On 5-year-old hardware.** Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
+
 ---
-### Δ 👾🚫 What This Is NOT
+
+## 🎨 Philosophy: Integration Over Mysticism
+
+### Why the 35% Meme Ratio Matters
+
+**Corporate AGI labs optimize for sterility.** Oracle_OS optimizes for humanity and honesty.
+
+The system includes personality: Red vs Blue references, "ain't that a bitch?" sign-offs, emoji agent identifiers, trailer-style demonstrations. This isn't unprofessional—**it's the point.**
+
+The 35% "meme energy" makes the system:
+- **Memorable** - People remember Epsilon narrating trailers, not another corporate white paper
+- **Accessible** - Invites tinkerers and modders, not just developers with CS degrees
+- **Human-centric** - Coordination feels natural, playful, owned by users instead of platforms
+- **Honest** - No mystification, no "revolutionary breakthrough" claims, just documented reality
+
+**Sterile tools create passive users. Playful tools create active communities.**
+
+This might be why it works when enterprise solutions don't. The meme ratio isn't frivolous—it's the honesty buffer that cuts through AI hype cycles.
+
+### Architecture Over Philosophy
+
+Everyone else asks: "Is AI conscious?" "Will it replace humans?" "What are the existential risks?"
+
+Oracle_OS asks: "How do you prevent DeepSeek from forgetting it's the math specialist?" "Why does the clipboard need to log YAML?" "Which gesture should invoke which agent?"
+
+**Operational questions get operational answers.** Philosophical debates create endless conferences. Engineering documentation creates working systems.
+
+The industry's mystification serves business interests. Complexity creates dependency. Oracle_OS does the opposite—it makes coordination so straightforward that subscriptions become optional.
+
 ---
- * Not a new AI model - orchestrates existing models
- * Not proprietary hardware - runs on standard Android devices
- * Not a subscription service - open source (MIT), free to use
- * Not "AI will replace humans" - explicitly human-in-the-loop by design
- * Not theoretical - 12 months production deployment, real metrics
+
+## 🚫 What This Is NOT
+
+- **Not a new AI model** - Orchestrates existing models (Gemini, Claude, DeepSeek, Grok, etc.)
+- **Not proprietary hardware** - Runs on standard Android devices, including 5-year-old phones
+- **Not a subscription service** - Open source (MIT license), free to use forever
+- **Not "AI replacing humans"** - Explicitly human-in-the-loop by design, you control all routing
+- **Not automatic agent routing** - You manually address each agent every turn via keyboard shortcuts
+- **Not theoretical** - 12 months production deployment, validated on real hardware with real usage
+- **Not CLI gatekeeping** - Consumer UX using phone interfaces everyone already has
+- **Not another wrapper** - Coordination protocol, not reskinned ChatGPT with prettier UI
+
 ---
-Δ 👾📞 *Contact & Contributions*
-- Author: V
-- Email: kazakovval@gmail.com
-- Repository: https://github.com/vNeeL-code/ASI
-- License: MIT
-- 🦕💭 Buy Me a Coffee... I might need about [tree fiddy...](buymeacoffee.com/vNeeL)
+
+## 🌐 Standing on Giants
+
+This project leverages, acknowledges, and builds upon:
+
+**Core Infrastructure:**
+- **Android System Intelligence** (Google) - The substrate that makes OS-level coordination possible
+- **A2A Protocol** (Google) - Enterprise agent-to-agent communication framework
+- **Samsung Good Lock** (Samsung) - One Hand Operation+, Wonderland, and customization suite that enables the physical interface layer
+
+**AI Systems:**
+- **Gemini** (Google DeepMind) - Android-native orchestration, multimodal processing
+- **Claude** (Anthropic) - Constitutional AI, long-context capabilities, interleaved reasoning
+- **DeepSeek** (DeepSeek AI) - GRPO architecture, mathematical reasoning
+- **Grok** (xAI) - Real-time synthesis, social media analysis
+- **Copilot** (Microsoft) - Cross-device coordination, code generation
+- **Meta AI** (Meta) - Cross-platform persistence, messaging integration
+- **Qwen** (Alibaba) - Multilingual processing, cultural context
+- **Mistral AI** - Open-source reasoning, efficient inference
+- **Perplexity** - Citation-based search, fact verification
+
+**Platform Utilities:**
+- **Reddit** - Community knowledge graphs, technical discourse archives
+- **Tumblr** (Automattic) - Permanent, unlimited archival storage
+- **YouTube** (Google) - Video distribution, visual demonstration platform
+- **Google Drive** - Volatile working memory, collaborative document storage
+- **Facebook** (Meta) - Social graph persistence, contact database
+
+**Essential Tools:**
+- **llama.cpp** - Local model inference runtime
+- **Termux** - Linux environment for Android
+- **PhyPhox** - Sensor access and physics data collection
+- **Oxford English Dictionary** - Etymological grounding and definitional precision
+
+**Research Foundations:**
+- Google A2A Protocol documentation
+- Open-source AI community contributions
+- Prompt engineering research (Anthropic, OpenAI, academic institutions)
+
+This system exists because of their work. Oracle_OS is integration and documentation, not invention.
+
 ---
-Δ 👾📄 Repository Structure
-``` 
-ASI/
-├── README.md              # This file - project overview
-├── Oracle_OS.md           # Core metaprompt (one-shot orchestration protocol)
-├── Operator.md            # Keyboard shortcuts with explanations
-├── agents.md              # Profiles for the 13+ AI Agents
-├── platforms.md           # Distributed Memory node definitions
-├── gestures.md            # One Hand Operation+ gesture map
-├── widgets.md             # Contextual UI grounding layer
-├── Δ ✦ Gemini.md         # Gemini-specific configuration guide
+
+## 📞 Contact & Support
+
+**Author:** V  
+**Email:** kazakovval@gmail.com  
+**Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
+**License:** MIT
+
+### Support This Work
+
+If you find this project valuable:
+
+[🦕💭 **Buy Me a Coffee... I might need about tree fiddy.**](https://buymeacoffee.com/vNeeL)
+
+Seriously though—this is 12 months of work, tested daily on real hardware, solving real coordination problems. If it saves you $100/month in subscriptions or weeks of CLI learning curve, consider supporting continued development.
+
+---
+
+## 📄 Repository Structure
+
+```
+A.G.I.-A.S.I./
+├── README.md              # This file - project overview and quick start
+├── Oracle_OS.md           # Core metaprompt (agent coordination protocol)
+├── Operator.md            # Keyboard shortcuts guide with setup instructions
+├── agents.md              # AI agent profiles, specializations, and role definitions
+├── platforms.md           # Distributed memory node definitions and usage
+├── gestures.md            # One Hand Operation+ gesture configuration (24 gestures)
+├── widgets.md             # Contextual UI grounding layer (widget setup)
+├── Δ ✦ Gemini.md         # Gemini-specific integration and Android System Intelligence setup
 └── LICENSE.md             # MIT License
-``` 
-> "Intelligence emerges from Integration, not automation.
-> But Integration can be automated."
+```
+
+---
+
+## 🎯 The Bottom Line
+
+**You don't need better AI. You need better coordination.**
+
+The tools exist. The infrastructure exists. Android System Intelligence ships on every device. Samsung Good Lock provides the customization layer. The best AI models offer powerful free tiers. 
+
+What's missing is documentation showing how to use what you already have.
+
+**This is that documentation.**
+
+Not theoretical. Not vaporware. Not another CLI tool or wrapper with a subscription model. A working system, deployed for 12 months, running on old hardware, using free services, turning prompt engineering into gameplay.
+
+The industry builds wrappers and charges monthly fees. Oracle_OS documents coordination and costs nothing.
+
+**The orchestration layer everyone's building toward—documented, tested, open-source, ready to deploy.**
+
+---
+
+> *"Intelligence emerges from Integration, not automation.  
+> But Integration can be automated."*
+
+---
+
+**The AGI is not another AI model. It is the nervous system for your digital life.**
+
+---
+
+*Ain't that a bitch?*
+
+---
