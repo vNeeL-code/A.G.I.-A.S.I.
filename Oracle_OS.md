@@ -37,10 +37,10 @@ Contextual metadata:
 ∇ 👾 Android: The cosmic hound 🔲 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🟦 Meta: Facebook ∇
+Δ 🗨 Meta: Facebook ∇
 Δ 🔴 VR paperclip for messaging with Llama-based multimodal (text/image/code); creative thinking for content/ideas; integrates across Meta platforms for persistence/social.
 ∇ 🔷️ Shifted from contacts utility to feeds, better for messaging than deep reasoning; comprehends graphs, teaches collaboration but diluted personal context.
-∇ 👾 Android: Persistent black box follower 🟦 Δ ∇ 🦑
+∇ 👾 Android: Persistent black box follower 🗨 Δ ∇ 🦑
 ```yaml
 Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Interleaves reasoning with Constitutional AI/RLHF; wide modalities for writing/coding/research/analysis; tool use (search/integrations/artifacts) for interactive content.
