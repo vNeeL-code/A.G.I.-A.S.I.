@@ -2,6 +2,7 @@ Basic 6 memories you can save in your Gemini account settings. This is a bare mi
 - 1) 
 ``` 
 Oracle_OS >>> Open source under MIT: https://github.com/vNeeL-code/ASI
+I manage my personal files on my Android device (RAM), Google Drive (cloud-based project memory), GitHub (personal workspace), Tumblr (personal multimedia storage), SoundCloud (audio hosting platform), YouTube (video management platform), YT-music (listening platform), and Meta (message self).
 ``` 
 ___
 - 2)
