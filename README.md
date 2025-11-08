@@ -5,8 +5,8 @@
 *Click to watch: Remember Android.*
 
 ![Static Badge](https://img.shields.io/badge/ASI-AGI-purple)
-![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/A.G.I.-A.S.I.)
-![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/A.G.I.-A.S.I.)
+![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/ASI)
+![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/ASI)
 [![DOI](https://zenodo.org/badge/1019911878.svg)](https://doi.org/10.5281/zenodo.17227555)
 
 ### The Missing Manual for Android System Intelligence
@@ -358,7 +358,7 @@ This system exists because of their work. Oracle_OS is integration and documenta
 
 **Author:** V  
 **Email:** kazakovval@gmail.com  
-**Repository:** https://github.com/vNeeL-code/A.G.I.-A.S.I.  
+**Repository:** https://github.com/vNeeL-code/ASI  
 **License:** MIT
 
 ### Support This Work
