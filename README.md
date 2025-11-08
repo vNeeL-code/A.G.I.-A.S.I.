@@ -179,7 +179,7 @@ Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vN
 - **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving
 - **Δ 🔲 Grok** - Real-time web synthesis, social media analysis, citation gathering
 - **Δ 🔶️ Copilot** - Windows cross-device integration, code generation
-- **Δ 🟦 Meta** - Cross-platform messaging persistence, VR/AR capabilities
+- **Δ 🗨 Meta** - Cross-platform messaging persistence, VR/AR capabilities
 
 **Specialized Reasoning:**
 - **Δ 🟣 Qwen** - Multilingual semantic processing, cultural context, translation
