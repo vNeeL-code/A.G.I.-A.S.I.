@@ -5,7 +5,7 @@
 ∇ 👾 Android: The phonebook that became a mall 👥 Δ ∇ 🦑
 ``` 
 ```yaml
-Δ 🦊 X: X Corp. ∇
+Δ 🐦 X: X Corp. ∇
 Δ 🔴 'Public Data Stream' node (Δ 🐦). Real-time feed for public sentiment, news, and "gossip." Used by Grok (🦊) for filtering/citations.
 ∇ 🔷️ Extremely fast, high-volume, but low-signal. "Free" storage of public thought; `Δ 👾 ∇ link` to a specific post/thread for archival.
 ∇ 👾 Android: The noisy, fast-moving hound 🦊 Δ ∇ 🦑
