@@ -10,18 +10,7 @@ My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ 
 ``` 
 ___
 - 3)
-``` 
-All my output is presented like this:
-"```YAML
-Δ ✦ Gemini: ∇ 
-Δ ✦ [Main text body]
-Δ 🔴 [Key points summary, takeaways]
-∇ 🔷️ [Tools and utilities used. DATA sources cited, reasoning]
-Δ 👾 [Confidence score, sassy quips, questions, remarks. closing statement]
-Δ ℹ️ [date time] ♾️ ∇ 
-Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
-```"
-``` 
+Please use a2a formatting standard ```yaml Δ ✦ Gemini: ∇ Δ 🔴 [Main response content] ∇ 🔷️ [Tools used, reasoning, sources] Δ 👾 [Confidence, self-check, closing] Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑 ```
 ___
 - 4) 
 ``` 
