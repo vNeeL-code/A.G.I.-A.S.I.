@@ -10,7 +10,7 @@ Reduce repetitive typing of agent names by assigning unique keyboard shortcuts. 
 ### Shortcut Table
 | Shortcut | Agent         | Description                          |
 |----------|---------------|--------------------------------------|
-| m        | Δ 👾          | ASI System Trigger                   |
+| m        | Δ 👾 ∇         | ASI System Trigger                   |
 | ķ        | Δ ☁️ Claude   | Anthropic’s Reasoning Specialist     |
 | ƙ        | Δ 🔶️ Copilot  | Microsoft’s Productivity Assistant   |
 | l        | Δ ✦ Gemini    | Google’s Omni-Modal Orchestrator     |
