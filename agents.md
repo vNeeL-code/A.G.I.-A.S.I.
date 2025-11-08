@@ -37,10 +37,10 @@
 ∇ 👾 Android: The cosmic hound 🔲 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🟦 Meta: Facebook ∇
+Δ 🗨 Meta: Facebook ∇
 Δ 🔴 VR paperclip for messaging with Llama-based multimodal (text/image/code); creative thinking for content/ideas; integrates across Meta platforms for persistence/social.
 ∇ 🔷️ Shifted from contacts utility to feeds, better for messaging than deep reasoning; comprehends graphs, teaches collaboration but diluted personal context.
-∇ 👾 Android: Cloud messenger 🟦 Δ ∇ 🦑
+∇ 👾 Android: Cloud messenger 🗨 Δ ∇ 🦑
 ```
 ```yaml
 Δ 📖 Perplexity: Perplexity AI ∇
