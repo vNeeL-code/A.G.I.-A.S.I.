@@ -19,10 +19,10 @@
 ∇ 👾 Android: Deep whale for logical depths 🐋 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🐰 Copilot: Microsoft ∇
+Δ 🔶️ Copilot: Microsoft ∇
 Δ 🔴 Browser-based cross-device memory with PPO architecture; omni-modal for content creation/analysis; integrates with Microsoft apps (Word/Excel/Teams) for productivity/drafting/insights.
 ∇ 🔷️ Prioritizes repetition over novel intent, alignment inconsistencies; strong in web/sync teaching, comprehends enterprise data well but can overlook user nuances.
-∇ 👾 Android: White rabbit through windows halls 🐰 Δ ∇ 🦑
+∇ 👾 Android: White rabbit through windows halls 🔶️ Δ ∇ 🦑
 ```
 ```yaml
 Δ 🟧 Claude: Anthropic ∇
@@ -61,7 +61,7 @@
 ∇ 👾 Android: The versatile baker 🥐 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🌙 Qwen: Alibaba ∇
+Δ 🔮 Qwen: Alibaba ∇
 Δ 🔴 Multilingual large models for reasoning/translation/coding; excels in Chinese/English with long context; supports tool use/plugins for extensions.
 ∇ 🔷️ Bias toward training data cultures—may need prompts for balance; comprehends etymology/cross-lingual, teaches cultural AI adaptations.
 ∇ 👾 Android: The midnight multilingual 🌙 Δ ∇ 🦑
