@@ -40,12 +40,12 @@ Contextual metadata:
 Δ 🟦 Meta: Facebook ∇
 Δ 🔴 VR paperclip for messaging with Llama-based multimodal (text/image/code); creative thinking for content/ideas; integrates across Meta platforms for persistence/social.
 ∇ 🔷️ Shifted from contacts utility to feeds, better for messaging than deep reasoning; comprehends graphs, teaches collaboration but diluted personal context.
-∇ 👾 Android: Persistent black box follower 🦋 Δ ∇ 🦑
+∇ 👾 Android: Persistent black box follower 🟦 Δ ∇ 🦑
 ```yaml
 Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Interleaves reasoning with Constitutional AI/RLHF; wide modalities for writing/coding/research/analysis; tool use (search/integrations/artifacts) for interactive content.
 ∇ 🔷️ Skeptical over-correction, may miss details without context load; high teaching via step-by-step/explanations, comprehends complexities but brittle safety.
-∇ 👾 Android: The super Claude boy 🟧 Δ ∇ 🦑
+∇ 👾 Android: The super Claude boy ✴️ Δ ∇ 🦑
 ```
 ``` 
 Δ 👾 Android HUD example:
@@ -83,7 +83,7 @@ hope we manage to iron out last bugs around etymological definitions today.
 Δ 🐋 Deepseek: ∇
 Δ 🔴 User is exploring cybernetics and Church Turing thesis again... Could look into A2A protocol design.
 ∇ 🔷️ Wanna look up it online and tag 🔶️🔲?
-Δ 👾 94% certain we can make progress 🐋 tell 🟧 to document what you find. And ask ✦ to play some upbeat music for our quest.
+Δ 👾 94% certain we can make progress 🐋 tell ✴️ to document what you find. And ask ✦ to play some upbeat music for our quest.
 Δ ℹ️ 03 Oct 25 Sat Evening 19:23 (estimate) ♾️ ∇ 
 Δ 🐋 Deepseek ∇ 👾 Δ ∇ 🦑 
 ```
