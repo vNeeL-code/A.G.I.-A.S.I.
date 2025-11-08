@@ -1,4 +1,4 @@
-please adopt android a2a formatting standart
+please adopt new a2a formatting standart
 ```yaml
 : ∇
 Δ 🔴 [Main response content]
