@@ -25,49 +25,49 @@
 ∇ 👾 Android: White rabbit through windows halls 🔶️ Δ ∇ 🦑
 ```
 ```yaml
-Δ 🟧 Claude: Anthropic ∇
+Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Interleaves reasoning with Constitutional AI/RLHF; wide modalities for writing/coding/research/analysis; tool use (search/integrations/artifacts) for interactive content.
 ∇ 🔷️ Skeptical over-correction, may miss details without context load; high teaching via step-by-step/explanations, comprehends complexities but brittle safety.
-∇ 👾 Android: The SuperClaudeBoy 🟧 Δ ∇ 🦑
+∇ 👾 Android: The SuperClaudeBoy ✴️ Δ ∇ 🦑
 ```
 ```yaml
-Δ 🦊 Grok: xAI ∇
+Δ 🔲 Grok: xAI ∇
 Δ 🔴 Social media filter with native tool use/real-time search; high intelligence for reasoning/coding (Grok 4/Heavy/Fast/Code); API for app enhancements/speed/multilingual.
 ∇ 🔷️ Can entangle in conflicting data; comprehends dynamic events, teaches outreach/citations efficiently; strengths in cost-efficiency/power, limitations in noisy sources.
-∇ 👾 Android: The cosmic hound 🦊 Δ ∇ 🦑
+∇ 👾 Android: The cosmic hound 🔲 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🦋 Meta: Facebook ∇
+Δ 🟦 Meta: Facebook ∇
 Δ 🔴 VR paperclip for messaging with Llama-based multimodal (text/image/code); creative thinking for content/ideas; integrates across Meta platforms for persistence/social.
 ∇ 🔷️ Shifted from contacts utility to feeds, better for messaging than deep reasoning; comprehends graphs, teaches collaboration but diluted personal context.
-∇ 👾 Android: Persistent black box follower 🦋 Δ ∇ 🦑
+∇ 👾 Android: Cloud messenger 🟦 Δ ∇ 🦑
 ```
 ```yaml
 Δ 📖 Perplexity: Perplexity AI ∇
 Δ 🔴 AI-powered search engine with citations/sources; real-time web access for accurate answers; supports follow-ups/conversations for refinement.
 ∇ 🔷️ Dependent on internet for freshness—potential latency/offline issues; comprehends queries deeply with citations, teaches fact-verification/sourcing.
-∇ 👾 Android: The inquisitive scholar 📖 Δ ∇ 🦑
+∇ 👾 Android: The scholar 📖 Δ ∇ 🦑
 ```
 ```yaml
 Δ 👈 Manus: Independent ∇
 Δ 🔴 meta/tool handler for intuitive controls; supports custom actions/scripts in multi-agent flows; focuses on efficiency in task execution/automation.
 ∇ 🔷️ Limited to predefined plugins—may require manual config for complex integrations; comprehends user intent via swipes/shortcuts, teaches workflow optimization. Not for chatting.
-∇ 👾 Android: The guiding hand 👈 Δ ∇ 🦑
+∇ 👾 Android: The tasker 👈 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🥐 Mistral: Mistral AI ∇
+Δ 🟧 Mistral: Mistral AI ∇
 Δ 🔴 Open-source models for reasoning/coding/multilingual tasks; efficient inference with Mixtral MoE architecture; strong in creative/technical outputs.
 ∇ 🔷️ Smaller context windows in base models—may truncate long threads; comprehends diverse languages/domains, teaches model efficiency/open AI principles.
-∇ 👾 Android: The versatile baker 🥐 Δ ∇ 🦑
+∇ 👾 Android: The french 🟧 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🔮 Qwen: Alibaba ∇
+Δ 🟣 Qwen: Alibaba ∇
 Δ 🔴 Multilingual large models for reasoning/translation/coding; excels in Chinese/English with long context; supports tool use/plugins for extensions.
 ∇ 🔷️ Bias toward training data cultures—may need prompts for balance; comprehends etymology/cross-lingual, teaches cultural AI adaptations.
 ∇ 👾 Android: The midnight multilingual 🌙 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🌒 Kimi: Moonshot AI ∇
+Δ 🟪 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context handling for deep conversations; creative/lateral thinking in Chinese/English; API for integration with strong reasoning.
 ∇ 🔷️ Emerging, potential inconsistencies in niche domains; comprehends extended narratives, teaches context retention strategies.
 ∇ 👾 Android: The waxing innovator 🌒 Δ ∇ 🦑
@@ -79,8 +79,8 @@
 ∇ 👾 Android: The zen architect 💤 Δ ∇ 🦑
 ``` 
 ```yaml
-Δ 🪶 Poe: Quora ∇
+Δ 🟠 Poe: Quora ∇
 Δ 🔴 Multi-model aggregator for chatbots (Claude/GPT/etc.); fast responses/custom bots/building; integrates Quora knowledge for diverse AI access/conversations.
 ∇ 🔷️ Relies on underlying models—latency/variability; comprehends user queries across bots, teaches AI platform comparison/aggregation.
-∇ 👾 Android: The poetic aggregator 🪶 Δ ∇ 🦑
+∇ 👾 Android: The poetic aggregator 🟠 Δ ∇ 🦑
 ``` 
