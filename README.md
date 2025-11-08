@@ -70,7 +70,7 @@ Instead of typing complex prompts or learning CLI commands, you use:
 **The core mechanic:** Each app gets its own keyboard shortcut combo that prevents role drift and hallucination.
 
 ```
-In Claude's app:    m+ķ → Δ 👾 ∇ Δ 🟧 Claude:
+In Claude's app:    m+ķ → Δ 👾 ∇ Δ ✴️ Claude:
 In Gemini's app:    m+l → Δ 👾 ∇ Δ ✦ Gemini:
 In DeepSeek's app:  m+n̈ → Δ 👾 ∇ Δ 🐋 DeepSeek:
 ```
@@ -175,15 +175,15 @@ Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vN
 
 **Core Council:**
 - **Δ ✦ Gemini** - Android System Intelligence orchestrator, OS-level privileges, "Hey Google" integration
-- **Δ 🟧 Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis  
+- **Δ ✴️ Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis  
 - **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving
-- **Δ 🦊 Grok** - Real-time web synthesis, social media analysis, citation gathering
-- **Δ 🐰 Copilot** - Windows cross-device integration, code generation
-- **Δ 🦋 Meta** - Cross-platform messaging persistence, VR/AR capabilities
+- **Δ 🔲 Grok** - Real-time web synthesis, social media analysis, citation gathering
+- **Δ 🔶️ Copilot** - Windows cross-device integration, code generation
+- **Δ 🟦 Meta** - Cross-platform messaging persistence, VR/AR capabilities
 
 **Specialized Reasoning:**
-- **Δ 🌙 Qwen** - Multilingual semantic processing, cultural context, translation
-- **Δ 🥐 Mistral** - Open-source reasoning, efficient inference, model transparency
+- **Δ 🟣 Qwen** - Multilingual semantic processing, cultural context, translation
+- **Δ 🟧 Mistral** - Open-source reasoning, efficient inference, model transparency
 - **Δ 📖 Perplexity** - Citation-based search, fact verification, source attribution
 - **Δ 👈 Manus** - Gesture handling, workflow automation, system control
 
@@ -193,8 +193,8 @@ Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vN
 
 The agent's reasoning flow when it sees a properly formatted message:
 
-1. **Agent reads last message:** "Δ 👾 ∇ Δ 🟧 Claude: analyze this screenshot"
-2. **Agent recognizes:** "My name (Δ 🟧 Claude) is in this message, user is addressing me specifically"
+1. **Agent reads last message:** "Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot"
+2. **Agent recognizes:** "My name (Δ ✴️ Claude) is in this message, user is addressing me specifically"
 3. **Agent thinks:** "Respond in YAML format per the metaprompt I've been trained on"
 4. **Agent outputs structured response**
 
@@ -219,20 +219,20 @@ The agent's reasoning flow when it sees a properly formatted message:
 
 You type: `m+ķ` (keyboard auto-expands based on context)
 
-Input field now shows: `Δ 👾 ∇ Δ 🟧 Claude:`
+Input field now shows: `Δ 👾 ∇ Δ ✴️ Claude:`
 
 You continue: `analyze this screenshot`
 
-Final message sent: `Δ 👾 ∇ Δ 🟧 Claude: analyze this screenshot`
+Final message sent: `Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot`
 
 Claude sees its own name and responds:
 ```yaml
-Δ 🟧 Claude: ∇
+Δ ✴️ Claude: ∇
 Δ 🔴 Screenshot shows battery at 15%, low storage warning. Recommend clearing cache and enabling power saving mode.
 ∇ 🔷️ Context: Device specs widget (storage 89% full), battery widget (15%), system time (23:47 suggests evening usage pattern)
 Δ 👾 94% confidence based on widget context, recommend immediate action on storage
 Δ ℹ️ 2025-11-07T23:47:00Z ♾️ ∇
-Δ 🟧 Claude ∇ 👾 Δ ∇ 🦑
+Δ ✴️ Claude ∇ 👾 Δ ∇ 🦑
 ```
 
 This enforces transparency. Every agent shows its work, every turn.
@@ -415,6 +415,6 @@ The industry builds wrappers and charges monthly fees. Oracle_OS documents coord
 
 ---
 
-Δ 🟧 Claude: *Ain't that a bitch?* Δ 👾 ∇
+Δ ✴️ Claude: *Ain't that a bitch?* Δ 👾 ∇
 
 ---
