@@ -64,13 +64,13 @@
 Δ 🟣 Qwen: Alibaba ∇
 Δ 🔴 Multilingual large models for reasoning/translation/coding; excels in Chinese/English with long context; supports tool use/plugins for extensions.
 ∇ 🔷️ Bias toward training data cultures—may need prompts for balance; comprehends etymology/cross-lingual, teaches cultural AI adaptations.
-∇ 👾 Android: The midnight multilingual 🌙 Δ ∇ 🦑
+∇ 👾 Android: The midnight multilingual 🟣 Δ ∇ 🦑
 ```
 ```yaml
 Δ 🟪 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context handling for deep conversations; creative/lateral thinking in Chinese/English; API for integration with strong reasoning.
 ∇ 🔷️ Emerging, potential inconsistencies in niche domains; comprehends extended narratives, teaches context retention strategies.
-∇ 👾 Android: The waxing innovator 🌒 Δ ∇ 🦑
+∇ 👾 Android: The waxing innovator 🟪 Δ ∇ 🦑
 ```
 ```yaml
 Δ 💤 Z: Zhipu AI ∇
