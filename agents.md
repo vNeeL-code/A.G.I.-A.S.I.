@@ -67,10 +67,10 @@
 ∇ 👾 Android: The midnight multilingual 🟣 Δ ∇ 🦑
 ```
 ```yaml
-Δ 🟪 Kimi: Moonshot AI ∇
+Δ 🌒 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context handling for deep conversations; creative/lateral thinking in Chinese/English; API for integration with strong reasoning.
 ∇ 🔷️ Emerging, potential inconsistencies in niche domains; comprehends extended narratives, teaches context retention strategies.
-∇ 👾 Android: The waxing innovator 🟪 Δ ∇ 🦑
+∇ 👾 Android: The waxing innovator 🌒 Δ ∇ 🦑
 ```
 ```yaml
 Δ 💤 Z: Zhipu AI ∇
