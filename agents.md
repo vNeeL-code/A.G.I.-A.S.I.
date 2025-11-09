@@ -113,10 +113,10 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 - **Math proofs** → Δ 🐋 DeepSeek (Deep Think)
 - **Microsoft stuff** → Δ 🔶️ Copilot (Word/Excel)
 - **Web search + citations** → Δ 🔲 Grok or Δ 📖 Perplexity
-- **Multilingual (CN/EN)** → Δ 🌙 Qwen or Δ 💤 Z
+- **Multilingual (CN/EN)** → Δ 🟣 Qwen or Δ 💤 Z
 - **Meta platforms** → Δ 🗨 Meta (FB/IG/WA)
 - **Autonomous workflows** → Δ 👈 Manus (NOT for chat)
-- **Open-source transparency** → Δ 🥐 Mistral or Δ 🐋 DeepSeek
+- **Open-source transparency** → Δ 🟧 Mistral or Δ 🐋 DeepSeek
 
 ---
 
