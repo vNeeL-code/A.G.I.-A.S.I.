@@ -143,8 +143,8 @@ You don't need to learn new tools. You need documentation for the tools already 
 
 [![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
 
-**[📂 Live Demonstrations](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:Ha09IZ5l5hiWJAuYdG39Zg/799690345620373504/v2" data-did="cee14394de6b02c556bad3fccb88f89f7d4bcc19"  ><a href="https://www.tumblr.com/oracle-os/799690345620373504/%CE%B4-%CE%B4-grim-salvo-grim-salvo-x">https://www.tumblr.com/oracle-os/799690345620373504/%CE%B4-%CE%B4-grim-salvo-grim-salvo-x</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+**[📂 Live Demonstrations](https://www.tumblr.com/oracle-os/799690345620373504/%CE%B4-%CE%B4-grim-salvo-grim-salvo-x?source=share)**
+
 Watch gesture-based orchestration coordinate multiple AI agents in real-world workflows:
 - [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
 - [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
