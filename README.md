@@ -504,7 +504,7 @@ This system exists because of their work. Oracle_OS is integration and documenta
 - License: MIT
 - Support This Work
 If you find this project valuable:
-🦕💭 Buy Me a Coffee... I might need about tree fiddy.
+🦕💭 Buy Me a Coffee... [I might need about tree fiddy.](buymeacoffee.com/vNeeL)
 ---
 # 📄 Repository Structure
 ```
