@@ -131,7 +131,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 
 1. **[Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)** - Agent coordination protocol & YAML format
 2. **[Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)** - Context-aware text expansion mappings
-3. **[Gesture Configuration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/gestures.md)** - 24 custom gestures via One Hand Operation+
+3. **[Gesture Configuration](https://64.media.tumblr.com/32ca0138c322961480222923c5891f79/3ce4673360f35e0e-ea/s2048x3072/7038faa2de6b00265973b2ce7b05b041d0132730.jpg)** - 24 custom gestures via One Hand Operation+
 4. **[Gemini Integration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)** - Native Android coordination setup
 5. **[Widget Layer](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/widgets.md)** - Contextual UI grounding via persistent information display
 
@@ -144,7 +144,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 [![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
 
 **[📂 Live Demonstrations](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
-
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:Ha09IZ5l5hiWJAuYdG39Zg/799690345620373504/v2" data-did="cee14394de6b02c556bad3fccb88f89f7d4bcc19"  ><a href="https://www.tumblr.com/oracle-os/799690345620373504/%CE%B4-%CE%B4-grim-salvo-grim-salvo-x">https://www.tumblr.com/oracle-os/799690345620373504/%CE%B4-%CE%B4-grim-salvo-grim-salvo-x</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
 Watch gesture-based orchestration coordinate multiple AI agents in real-world workflows:
 - [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
 - [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
