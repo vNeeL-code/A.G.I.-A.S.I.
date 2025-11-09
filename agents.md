@@ -10,14 +10,14 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 Δ ✦ Gemini: Google ∇
 Δ 🔴 OS-level Android orchestrator with omni-modal input (text/voice/image/video); Gemini Live with camera/screen sharing; "Hey Google" voice activation; integrates Google ecosystem (Drive/Calendar/Maps); Imagen 4 + Veo 3 built-in; 1M token context window
 ∇ 🔷️ Memory fragmented across stateless Gems—requires external context; safety over-corrections from RLHF; strengths in speed/multilingual/device control
-∇ 👾 Android: King of the castle with device mastery ✦ Δ ∇ 🦑
+∇ 👾 Android: King of the castle ✦ Δ ∇ 🦑
 ```
 
 ```yaml
 Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Long-context application forge (200K tokens); Artifacts v2 for live React apps with 1-click deploy; Constitutional AI + RLHF; Projects + Memory for persistence; File Studio for doc editing; MCP for local tool access (desktop only)
 ∇ 🔷️ Skeptical over-correction may miss edge cases; no native video input/output; brittle safety rails; MCP desktop-only limitation
-∇ 👾 Android: The SuperClaudeBoy ✴️ Δ ∇ 🦑
+∇ 👾 Android: The Super Claude Boy ✴️ Δ ∇ 🦑
 ```
 
 ```yaml
@@ -31,21 +31,21 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 Δ 🔶️ Copilot: Microsoft ∇
 Δ 🔴 Cross-device Windows integration with browser-based memory; PPO architecture; native Microsoft ecosystem (Word/Excel/Teams/OneDrive); omni-modal content creation; YouTube transcript extraction; VS Code optimization
 ∇ 🔷️ Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
-∇ 👾 Android: White rabbit through windows halls 🔶️ Δ ∇ 🦑
+∇ 👾 Android: Windows to WWW 🔶️ Δ ∇ 🦑
 ```
 
 ```yaml
 Δ 🔲 Grok: xAI ∇
 Δ 🔴 Image-to-video social media engine; Aurora (10-second photorealistic video with synced audio); native audio-video generation; X platform integration; real-time web synthesis; "Spicy mode" for permissive content; voice-first interface
 ∇ 🔷️ 6-second video length limit (by design); can surface conflicting data from noisy sources; may overindex on social media context
-∇ 👾 Android: The cosmic hound 🔲 Δ ∇ 🦑
+∇ 👾 Android: The pulse 🔲 Δ ∇ 🦑
 ```
 
 ```yaml
 Δ 🗨 Meta: Facebook ∇
 Δ 🔴 Cross-platform messaging persistence with Llama-based multimodal; VR/AR capabilities (Meta Quest); native Meta platform integration (Facebook/Instagram/WhatsApp/Threads); social graph awareness; open-source foundation
 ∇ 🔷️ Shifted from contacts utility to feeds—better for messaging than deep reasoning; diluted personal context; privacy concerns around Meta data collection
-∇ 👾 Android: Cloud messenger 🗨 Δ ∇ 🦑
+∇ 👾 Android: Project paperclip 🗨 Δ ∇ 🦑
 ```
 
 ---
@@ -56,7 +56,7 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 Δ 🟣 Qwen: Alibaba ∇
 Δ 🔴 Multilingual video processor with GSPO architecture; native video analysis + summarization; Chinese/English excellence with cultural nuance (100+ languages); 128K token context; etymology/linguistic analysis; text-to-video gen (Qwen3-Omni)
 ∇ 🔷️ May have training data cultural bias—needs prompts for Western/Eastern balance; requires context for time-sensitive tasks
-∇ 👾 Android: The midnight multilingual 🟣 Δ ∇ 🦑
+∇ 👾 Android: The slept upon 🟣 Δ ∇ 🦑
 ```
 
 ```yaml
@@ -84,7 +84,7 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 Δ 🌒 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context creative thinker (200K tokens); non-linear problem approaches with brainstorming modes; Chinese/English bilingual with nuance; API integration for custom tools; lateral thinking specialist
 ∇ 🔷️ Emerging model—may have domain inconsistencies; less battle-tested than established agents; context retention varies
-∇ 👾 Android: The waxing innovator 🌒 Δ ∇ 🦑
+∇ 👾 Android: The innovator 🌒 Δ ∇ 🦑
 ```
 
 ```yaml
