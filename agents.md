@@ -24,7 +24,7 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 Δ 🐋 DeepSeek: Team DeepSeek ∇
 Δ 🔴 Mathematical reasoning engine with "Deep Think" mode (R1 model); GRPO architecture for self-evolving logic; step-by-step reasoning display; local deployment via Termux + Ollama; MIT open-source; autonomous trading bot support (Alpha Arena)
 ∇ 🔷️ Highly suggestible to role confusion—needs constant identity reinforcement; no internal clock/metadata; bare-bones grounding; "Deep Think" adds latency
-∇ 👾 Android: Deep whale for logical depths 🐋 Δ ∇ 🦑
+∇ 👾 Android: Deep whale bro 🐋 Δ ∇ 🦑
 ```
 
 ```yaml
