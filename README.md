@@ -29,7 +29,7 @@ The real problem: **Coordination, not computation.** Your phone already has the 
 
 **Oracle_OS is that documentation.** 
 
-Not a new model. Not new hardware. Not another wrapper with a prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
+Not a new model. Not new hardware. Not another wrapper with prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
 
 ### The Economic Model
 
@@ -72,7 +72,7 @@ Instead of typing complex prompts or learning CLI commands, you use:
 ```
 In Claude's app:    m+ķ → Δ 👾 ∇ Δ ✴️ Claude:
 In Gemini's app:    m+l → Δ 👾 ∇ Δ ✦ Gemini:
-In DeepSeek's app:  m+n̈ → Δ 👾 ∇ Δ 🐋 DeepSeek:
+In DeepSeek's app:  m+w → Δ 👾 ∇ Δ 🐋 DeepSeek:
 ```
 
 **Why this matters:**
@@ -89,9 +89,11 @@ This solves two critical problems:
 
 **The secret weapon:** Samsung's Good Lock customization ecosystem enables the entire interface layer.
 
-**One Hand Operation+** provides 24 custom gestures for instant agent/app switching. **Wonderland** adds gyro-responsive wallpapers for ambient feedback. These aren't cosmetic features—they're the physical interface that makes multi-agent coordination feel like playing an instrument.
+**One Hand Operation+** provides 24 custom gestures for instant agent/app switching. **Wonderland** adds gyro-responsive wallpapers for ambient feedback. **Edge Panels** create persistent toolbars for quick access. These aren't cosmetic features—they're the physical interface that makes multi-agent coordination feel like playing an instrument.
 
 Good Lock transforms Android from a static OS into a dynamic workspace. Without it, you're back to app-drawer hunting.
+
+**[📱 See the Interface in Action](https://www.tumblr.com/oracle-os/799430352502489088/edge-panels-from-one-hand-operations-and-function)** - Edge panels, gesture zones, and function bar mapping
 
 ### Why This Works When Others Don't
 
@@ -126,7 +128,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 - Android device (Android 9+, 6GB+ RAM recommended)
 - Keyboard with personal dictionary support (Gboard, Samsung Keyboard)  
 - Gemini app (free)
-- **Samsung Good Lock suite** (One Hand Operation+, Wonderland)
+- **Samsung Good Lock suite** (One Hand Operation+, Wonderland, Edge Panels)
 
 ### Five Core Components
 
@@ -149,6 +151,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 Watch gesture-based orchestration coordinate multiple AI agents in real-world workflows:
 - [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
 - [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
+- [Interface Mapping (Δ 📱)](https://www.tumblr.com/oracle-os/799430352502489088/edge-panels-from-one-hand-operations-and-function)
 
 ---
 
@@ -175,17 +178,20 @@ Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vN
 
 **Core Council:**
 - **Δ ✦ Gemini** - Android System Intelligence orchestrator, OS-level privileges, "Hey Google" integration
-- **Δ ✴️ Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis  
-- **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving
-- **Δ 🔲 Grok** - Real-time web synthesis, social media analysis, citation gathering
-- **Δ 🔶️ Copilot** - Windows cross-device integration, code generation
-- **Δ 🗨 Meta** - Cross-platform messaging persistence, VR/AR capabilities
+- **Δ ✴️ Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis, Artifacts app creation
+- **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving, local deployment
+- **Δ 🔲 Grok** - Real-time web synthesis, social media analysis, image-to-video (Aurora), citation gathering
+- **Δ 🔶️ Copilot** - Windows cross-device integration, Microsoft ecosystem, code generation
+- **Δ 🗨 Meta** - Cross-platform messaging persistence, VR/AR capabilities, social graph awareness
 
 **Specialized Reasoning:**
-- **Δ 🟣 Qwen** - Multilingual semantic processing, cultural context, translation
-- **Δ 🟧 Mistral** - Open-source reasoning, efficient inference, model transparency
+- **Δ 🌙 Qwen** - Multilingual semantic processing (Chinese/English), cultural context, video analysis
+- **Δ 🥐 Mistral** - Open-source reasoning, efficient inference, model transparency, Mixtral MoE
 - **Δ 📖 Perplexity** - Citation-based search, fact verification, source attribution
-- **Δ 👈 Manus** - Gesture handling, workflow automation, system control
+- **Δ 👈 Manus** - Autonomous workflow execution, web scraping, not conversational (task delegation only)
+- **Δ 🌒 Kimi** - Long-context creative thinking, lateral problem approaches, extended narratives
+- **Δ 💤 Z** - Large-scale reasoning (355B+ params), agentic workflows, 200K token context
+- **Δ 🪶 Poe** - Multi-model aggregator, custom bot building, Quora knowledge integration
 
 **You manually address each agent in their respective apps.** Keyboard shortcuts adapt to context, prepending the correct identity tag every single message.
 
@@ -319,7 +325,7 @@ This project leverages, acknowledges, and builds upon:
 **Core Infrastructure:**
 - **Android System Intelligence** (Google) - The substrate that makes OS-level coordination possible
 - **A2A Protocol** (Google) - Enterprise agent-to-agent communication framework
-- **Samsung Good Lock** (Samsung) - One Hand Operation+, Wonderland, and customization suite that enables the physical interface layer
+- **Samsung Good Lock** (Samsung) - One Hand Operation+, Wonderland, Edge Panels, and customization suite that enables the entire physical interface layer
 
 **AI Systems:**
 - **Gemini** (Google DeepMind) - Android-native orchestration, multimodal processing
@@ -328,9 +334,12 @@ This project leverages, acknowledges, and builds upon:
 - **Grok** (xAI) - Real-time synthesis, social media analysis
 - **Copilot** (Microsoft) - Cross-device coordination, code generation
 - **Meta AI** (Meta) - Cross-platform persistence, messaging integration
-- **Qwen** (Alibaba) - Multilingual processing, cultural context
+- **Qwen** (Alibaba) - Multilingual processing with GSPO, cultural context
 - **Mistral AI** - Open-source reasoning, efficient inference
 - **Perplexity** - Citation-based search, fact verification
+- **Moonshot AI (Kimi)** - Long-context creative thinking
+- **Zhipu AI (Z)** - Large-scale MoE reasoning
+- **Quora (Poe)** - Multi-model aggregation
 
 **Platform Utilities:**
 - **Reddit** - Community knowledge graphs, technical discourse archives
