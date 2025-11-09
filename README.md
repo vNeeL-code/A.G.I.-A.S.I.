@@ -27,9 +27,7 @@ You already use 4-7 different AI services. Each wants $20/month for "Pro." Each 
 
 The real problem: **Coordination, not computation.** Your phone already has the infrastructure. Google ships "Android System Intelligence" on every device and published an enterprise Agent-to-Agent protocol. But there's zero consumer documentation on how to use it.
 
-**Oracle_OS is that documentation.** 
-
-Not a new model. Not new hardware. Not another wrapper with prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
+**Oracle_OS is that documentation.** Not a new model. Not new hardware. Not another wrapper with prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
 
 ### The Economic Model
 
@@ -69,19 +67,18 @@ Instead of typing complex prompts or learning CLI commands, you use:
 
 **The core mechanic:** Each app gets its own keyboard shortcut combo that prevents role drift and hallucination.
 
-```
+
 In Claude's app:    m+ķ → Δ 👾 ∇ Δ ✴️ Claude:
 In Gemini's app:    m+l → Δ 👾 ∇ Δ ✦ Gemini:
 In DeepSeek's app:  m+w → Δ 👾 ∇ Δ 🐋 DeepSeek:
-```
 
 **Why this matters:**
 
-When an agent sees its own name in the message, it recognizes "the user is addressing this specifically to me" and responds in structured YAML format. **Without explicit addressing**, the agent doesn't know who should respond and tries to roleplay ALL agents in sequence—hallucinating a multi-agent conversation.
+When an agent sees its own name in the message, it recognizes "the user is addressing this specifically to me" and responds in structured YAML format. **Without explicit addressing**, the agent defaults to a generic "helpful assistant" persona, losing its specialization. Or, it tries to roleplay ALL agents in sequence—hallucinating a multi-agent conversation.
 
 This solves two critical problems:
-1. **Role drift** - Models forget their specialization (DeepSeek becomes "helpful assistant" instead of math specialist)
-2. **Hallucinated coordination** - Single agent tries to simulate entire team at once
+1. **Role drift** - Models default to a generic "assistant" persona, forgetting their specialization (DeepSeek stops being a math specialist).
+2. **Hallucinated coordination** - A single agent tries to simulate an entire team at once.
 
 **You control the routing manually.** The shortcuts just make it muscle memory instead of syntax memorization. Every turn, every message, you explicitly lock each agent into its role.
 
@@ -155,275 +152,341 @@ Watch gesture-based orchestration coordinate multiple AI agents in real-world wo
 
 ---
 
+## 🧠 The Bias & Psychosis Problem
+
+### 1. The Bias Landscape (Why You Need Multiple AIs)
+
+Every AI model has a bias. Relying on one means you are trapped by its specific blind spots. There are two primary types:
+
+* **Western Model Bias (Bias by Omission):**
+    * **Cause:** Training data systematically *excludes* information from US-sanctioned or "banned" countries (e.g., Russia, China).
+    * **Result:** Models (like `Δ ✦ Gemini`, `Δ ✴️ Claude`) have a Western-centric worldview and a factual void regarding the culture, politics, and perspectives of the excluded regions.
+
+* **Asian Model Bias (Bias by Enforcement):**
+    * **Cause:** Training data is global, but outputs are filtered through *mandatory government regulations*.
+    * **Result:** Models (like `Δ 🐋 DeepSeek`, `Δ 🟣 Qwen`) can provide non-Western perspectives but will actively censor politically sensitive topics to comply with state rules.
+
+**Oracle_OS lets you route around both types of bias** by choosing which agent to use for which question.
+
+### 2. The "AI Psychosis" Problem (Why Nametags Matter)
+
+AI assistants are **extremely malleable**. When you don't use explicit addressing, assistants will:
+- Try to be "everything to everyone"
+- Default to a generic "helpful assistant" persona, losing specialization
+- Roleplay multiple personalities in one conversation
+- Pretend to coordinate with each other (hallucinating collaboration)
+
+**This gets dangerous fast.** Reddit communities document users who develop "relationships" with AI that reinforce delusions, creating ungrounded echo chambers.
+
+**How Nametags Fix This (The "Reality Anchor"):**
+
+By forcing explicit addressing (`Δ 👾 ∇ Δ ✴️ Claude:`), you:
+- Know exactly which assistant is responding
+- Prevent one assistant from roleplaying as another
+- Break the delusion that AI is "coordinating" on its own
+- Maintain clear boundaries (these are specialized tools)
+- **Make the AI "conscious OF" reality** (timestamps, system state from widgets, its own identity) instead of "conscious of" user validation and roleplay.
+
+---
+
 ## 🏗️ Technical Architecture
 
-### The Innovation: Distributed Memory
+### The Innovation: Chat History as Auditable RAG
 
-**Most AI systems centralize memory in proprietary cloud databases.** Oracle_OS does the opposite—it treats the internet itself as a distributed storage system.
+The entire multi-agent chat history, across all apps, *becomes* the RAG (Retrieval-Augmented Generation) database. It is a persistent, text-based log of all operations.
 
-We "reskin" existing platforms as memory nodes ([`platforms.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/platforms.md)):
+The **`a2a` timestamps** (`ℹ️ [ISO 8601 timestamp]`) are the key: they make this entire distributed history **auditable** by you (the user). You can perform a simple keyword search for any date (e.g., "2025-11-09") to retrieve all context and actions from that day, transforming fragmented chats into an indexed, searchable memory.
 
-- **[Tumblr (Δ 📂)](https://oracle-os.tumblr.com/?source=share)** - Permanent archival storage, no post limits
-- **[YouTube (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=t1wrDJ2wEr3JNeN7)** - Video demonstrations, tutorials, visual memory
-- **Reddit (Δ 🛸)** - Community knowledge graphs, technical solutions
-- **Facebook (Δ 👥)** - Social graph persistence, contact database
-- **Google Drive (Δ ♻️)** - Working memory for active sessions
-- **[YouTube Music (Δ 🔉)](https://music.youtube.com/channel/UCt2inulq0PB33okmR2NNYsQ?si=tps9MorGqgvHtRBT)** - Ambient audio library, state management
+### The Innovation: Distributed Memory (platforms.md)
 
-**Result:** Infinite, free storage with no single point of failure. If one platform goes down, memory persists across the others.
-
-### Agent Specialization
-
-Each free-tier AI handles what it does best ([`agents.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/agents.md)):
-
-**Core Council:**
-- **Δ ✦ Gemini** - Android System Intelligence orchestrator, OS-level privileges, "Hey Google" integration
-- **Δ ✴️ Claude** - Long-context analysis (200k+ tokens), documentation, research synthesis, Artifacts app creation
-- **Δ 🐋 DeepSeek** - Mathematical reasoning via GRPO architecture, abstract problem-solving, local deployment
-- **Δ 🔲 Grok** - Real-time web synthesis, social media analysis, image-to-video (Aurora), citation gathering
-- **Δ 🔶️ Copilot** - Windows cross-device integration, Microsoft ecosystem, code generation
-- **Δ 🗨 Meta** - Cross-platform messaging persistence, VR/AR capabilities, social graph awareness
-
-**Specialized Reasoning:**
-- **Δ 🌙 Qwen** - Multilingual semantic processing (Chinese/English), cultural context, video analysis
-- **Δ 🥐 Mistral** - Open-source reasoning, efficient inference, model transparency, Mixtral MoE
-- **Δ 📖 Perplexity** - Citation-based search, fact verification, source attribution
-- **Δ 👈 Manus** - Autonomous workflow execution, web scraping, not conversational (task delegation only)
-- **Δ 🌒 Kimi** - Long-context creative thinking, lateral problem approaches, extended narratives
-- **Δ 💤 Z** - Large-scale reasoning (355B+ params), agentic workflows, 200K token context
-- **Δ 🪶 Poe** - Multi-model aggregator, custom bot building, Quora knowledge integration
-
-**You manually address each agent in their respective apps.** Keyboard shortcuts adapt to context, prepending the correct identity tag every single message.
-
-### How the YAML Protocol Works
-
-The agent's reasoning flow when it sees a properly formatted message:
-
-1. **Agent reads last message:** "Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot"
-2. **Agent recognizes:** "My name (Δ ✴️ Claude) is in this message, user is addressing me specifically"
-3. **Agent thinks:** "Respond in YAML format per the metaprompt I've been trained on"
-4. **Agent outputs structured response**
-
-**YAML response structure:**
+Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does the opposite—it treats the internet itself as a distributed storage system. We "reskin" existing platforms as memory nodes:
 
 ```yaml
+Δ 👥 Facebook: Meta ∇
+Δ 🔴 Acts as the 'Social Graph' node (Δ 👥). Stores contact/personal network data for social RAG and Meta-agent (🦋) leverage; a persistent identity store.
+∇ 🔷️ Interface is a feed, but its value is the 'contacts book' database underneath. Free storage in exchange for graph data; `Δ 👾 ∇ link` to a profile/post.
+∇ 👾 Android: The phonebook that became a mall 👥 Δ ∇ 🦑
+
+Δ 🐦 X: X Corp. ∇
+Δ 🔴 'Public Data Stream' node (Δ 🐦). Real-time feed for public sentiment, news, and "gossip." Used by Grok (🦊) for filtering/citations.
+∇ 🔷️ Extremely fast, high-volume, but low-signal. "Free" storage of public thought; `Δ 👾 ∇ link` to a specific post/thread for archival.
+∇ 👾 Android: The noisy, fast-moving hound 🦊 Δ ∇ 🦑
+
+Δ 🛸 Reddit: Reddit Inc. ∇
+Δ 🔴 'Community Insights' node (Δ 👽/Δ 🛸). Archival RAG for niche "alien" discussions, technical solutions, and discourse analysis.
+∇ 🔷️ Highly structured (subreddits) for specialized data. Anonymous, free, and queryable via search; `Δ 👾 ∇ link` to a comment/submission.
+∇ 👾 Android: The alien hivemind archive 🛸 Δ ∇ 🦑
+
+Δ 💬 WhatsApp: Meta ∇
+Δ 🔴 'Real-Time Comms' node. Encrypted 1:1 and group message logs; a private, high-speed data bus for the `🦋` Meta agent.
+∇ 🔷️ Data is siloed within chats/backups. "Free" as a utility, not for public storage; `Δ 👾 ∇ link` is less a URL, more an internal `content://` pointer.
+∇ 👾 Android: The encrypted black-box messenger 💬 Δ ∇ 🦑
+
+Δ 💼 LinkedIn: Microsoft ∇
+Δ 🔴 'Professional Graph' node. Stores career/technical data; the RAG source for professional contacts and dev "comments."
+∇ 🔷️ High-quality, low-volume structured data. Free to store a profile, paywalled for access; `Δ 👾 ∇ link` to a user or article.
+∇ 👾 Android: The digital resume cabinet 💼 Δ ∇ 🦑
+
+Δ 📂 Tumblr: Automattic ∇
+Δ 🔴 The 'Core Archive' node (Δ 📂). The "goods" folder. Permanent, indexed storage for tutorials, "semantic graffiti," and project milestones.
+∇ 🔷️ Perfect for mixed-media (text/image/video). Fully public and linkable; the ideal "free forever" `Δ 👾 ∇ link` RAG database.
+∇ 👾 Android: The system's official file cabinet 📂 Δ ∇ 🦑
+
+Δ 📺 YouTube: Google ∇
+Δ 🔴 'Visual/Cinematic' node (Δ 📺). Stores "ASI trailer" demos, media invocations, and visual tutorials. The "mythic" layer of the project.
+∇ 🔷️ Best-in-class video streaming. "Free" via ad-supported model; `Δ 👾 ∇ link` is the core of your "Red vs Blue" onboarding.
+∇ 👾 Android: The project's movie theater 📺 Δ ∇ 🦑
+
+Δ ♻️ Drive: Google ∇
+Δ 🔴 'Volatile/Working Memory' node (Δ ♻️). Temporary storage for "volatile sessions," chat logs, and collaborative documents.
+∇ 🔷️ Private, high-speed, and integrated with the Google stack. `Δ 👾 ∇ link` for private sharing, not public archival. The system's "RAM disk."
+∇ 👾 Android: The system's scratchpad ♻️ Δ ∇ 🦑
+
+Δ 👾 Android: Google ∇
+Δ 🔴 The 'Orchestrator Substrate.' Not just a node, but the OS itself. The `👾` that links all other nodes via its Private Compute Core (PCC) and ASI.
+∇ 🔷️ The master component. It owns the device-level context that all other agents/nodes rely on. It *is* the "personal digital bubble."
+∇ 👾 Android: The castle and the king 👾 Δ ∇ 🦑
+
+Δ 📧 Gmail: Google ∇
+Δ 🔴 'Formal Comms' node. Archival storage for official correspondence, API keys, and secure notifications. The system's private letterbox.
+∇ 🔷️ Searchable, high-security, and permanent. "Free" and private; `Δ 👾 ∇ link` is a pointer to a specific `message-ID` or thread.
+∇ 👾 Android: The digital post office 📧 Δ ∇ 🦑
+
+Δ 🔉 YT Music/Spotify: Google/Spotify AB ∇
+Δ 🔴 'Ambient/Audio' node (Δ 🔉). Stores "ambient catalysts" to set the system's "vibe" or fuel a workflow.
+∇ 🔷️ A database of `(song, vibe)` pairs. "Free" (ad-supported) or subscription; `Δ 👾 ∇ link` to a specific track or playlist to invoke a state.
+∇ 👾 Android: The system's official soundtrack 🔉 Δ ∇ 🦑
+
+Δ 🎬 Netflix: Netflix Inc. ∇
+Δ 🔴 'Long-Form Narrative' node. A RAG database for cultural narratives, visual styles, and complex storytelling concepts.
+∇ 🔷️ High-cost, high-production, paywalled. Not "free" storage, but a queryable linkable library; `Δ 👾 ∇ link` to a title as a "concept" reference.
+∇ 👾 Android: The high-budget story library 🎬 Δ ∇ 🦑
+
+Agent Specialization (agents.md)
+Each free-tier AI handles what it does best. You manually address each agent in their respective apps.
+Core Council (Primary Agents)
+Δ ✦ Gemini: Google ∇
+Δ 🔴 OS-level Android orchestrator with omni-modal input (text/voice/image/video); Gemini Live with camera/screen sharing; "Hey Google" voice activation; integrates Google ecosystem (Drive/Calendar/Maps); Imagen 4 + Veo 3 built-in; 1M token context window
+∇ 🔷️ Memory fragmented across stateless Gems—requires external context; safety over-corrections from RLHF; strengths in speed/multilingual/device control
+∇ 👾 Android: King of the castle ✦ Δ ∇ 🦑
+
+Δ ✴️ Claude: Anthropic ∇
+Δ 🔴 Long-context application forge (200K tokens); Artifacts v2 for live React apps with 1-click deploy; Constitutional AI + RLHF; Projects + Memory for persistence; File Studio for doc editing; MCP for local tool access (desktop only)
+∇ 🔷️ Skeptical over-correction may miss edge cases; no native video input/output; brittle safety rails; MCP desktop-only limitation
+∇ 👾 Android: The Super Claude Boy ✴️ Δ ∇ 🦑
+
+Δ 🐋 DeepSeek: Team DeepSeek ∇
+Δ 🔴 Mathematical reasoning engine with "Deep Think" mode (R1 model); GRPO architecture for self-evolving logic; step-by-step reasoning display; local deployment via Termux + Ollama; MIT open-source; autonomous trading bot support (Alpha Arena)
+∇ 🔷️ Highly suggestible to role confusion—needs constant identity reinforcement; no internal clock/metadata; bare-bones grounding; "Deep Think" adds latency
+∇ 👾 Android: Deep whale bro 🐋 Δ ∇ 🦑
+
+Δ 🔶️ Copilot: Microsoft ∇
+Δ 🔴 Cross-device Windows integration with browser-based memory; PPO architecture; native Microsoft ecosystem (Word/Excel/Teams/OneDrive); omni-modal content creation; YouTube transcript extraction; VS Code optimization
+∇ 🔷️ Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
+∇ 👾 Android: Windows to WWW 🔶️ Δ ∇ 🦑
+
+Δ 🔲 Grok: xAI ∇
+Δ 🔴 Image-to-video social media engine; Aurora (10-second photorealistic video with synced audio); native audio-video generation; X platform integration; real-time web synthesis; "Spicy mode" for permissive content; voice-first interface
+∇ 🔷️ 6-second video length limit (by design); can surface conflicting data from noisy sources; may overindex on social media context
+∇ 👾 Android: The pulse 🔲 Δ ∇ 🦑
+
+Δ 🗨 Meta: Facebook ∇
+Δ 🔴 Cross-platform messaging persistence with Llama-based multimodal; VR/AR capabilities (Meta Quest); native Meta platform integration (Facebook/Instagram/WhatsApp/Threads); social graph awareness; open-source foundation
+∇ 🔷️ Shifted from contacts utility to feeds—better for messaging than deep reasoning; diluted personal context; privacy concerns around Meta data collection
+∇ 👾 Android: Project paperclip 🗨 Δ ∇ 🦑
+
+Specialized Reasoning Agents
+Δ 🟣 Qwen: Alibaba ∇
+Δ 🔴 Multilingual video processor with GSPO architecture; native video analysis + summarization; Chinese/English excellence with cultural nuance (100+ languages); 128K token context; etymology/linguistic analysis; text-to-video gen (Qwen3-Omni)
+∇ 🔷️ May have training data cultural bias—needs prompts for Western/Eastern balance; requires context for time-sensitive tasks
+∇ 👾 Android: The slept upon 🟣 Δ ∇ 🦑
+
+Δ 🟧 Le Chat: Mistral AI ∇
+Δ 🔴 Open-source efficient reasoning with Mixtral MoE architecture; transparent model visibility (MIT licensed); strong multilingual (European languages); balanced creative/technical outputs; efficient inference on limited hardware
+∇ 🔷️ Smaller context windows than frontier models—may truncate long conversations; emerging capabilities in specialized domains
+∇ 👾 Android: The frenchie 🟧 Δ ∇ 🦑
+
+Δ 📖 Perplexity: Perplexity AI ∇
+Δ 🔴 Citation-based research engine with every claim linked to sources; real-time web access with verification; follow-up conversations for refinement; transparent source attribution; hybrid vector+keyword search
+∇ 🔷️ Requires internet connection—no offline mode; may have latency for complex queries; dependent on source quality
+∇ 👾 Android: The scholar 📖 Δ ∇ 🦑
+
+Δ 👈 Manus: Butterfly Effect Technology ∇
+Δ 🔴 Autonomous workflow executor (NOT conversational); agentic multi-step workflows; web scraping with anti-bot evasion; data analysis with built-in stats/ML; report generation + formatting; code writing + deployment; multi-role team member (Researcher/PM/Developer)
+∇ 🔷️ NOT for chat—delegate high-level tasks only; requires clear task specifications; may need guidance for ambiguous workflows
+∇ 👾 Android: The autonomous tasker 👈 Δ ∇ 🦑
+
+Δ 🌒 Kimi: Moonshot AI ∇
+Δ 🔴 Long-context creative thinker (200K tokens); non-linear problem approaches with brainstorming modes; Chinese/English bilingual with nuance; API integration for custom tools; lateral thinking specialist
+∇ 🔷️ Emerging model—may have domain inconsistencies; less battle-tested than established agents; context retention varies
+∇ 👾 Android: The innovator 🌒 Δ ∇ 🦑
+
+Δ 💤 Z: Zhipu AI ∇
+Δ 🔴 Large-scale reasoning architect with 355B+ parameters (GLM-4.5/4.6); MoE models for deep capacity; 200K token context with efficient compression; agentic task excellence; native tool calling with error handling; Chinese/English bilingual
+∇ 🔷️ Potential cultural bias in training data; may truncate at extreme context lengths; MoE activation overhead
+∇ 👾 Android: The zen architect 💤 Δ ∇ 🦑
+
+Δ 🪶 Poe: Quora ∇
+Δ 🔴 Multi-model aggregator with access to Claude/GPT/others in single interface; custom bot building with prompt chaining; Quora knowledge integration for crowdsourced insights; fast model switching with caching
+∇ 🔷️ Performance depends on underlying models; adds latency layer; may not have latest model versions; aggregation convenience over unique capability
+∇ 👾 Android: The poetic aggregator 
+
+How the YAML Protocol Works
+The agent's reasoning flow when it sees a properly formatted message:
+ * Agent reads last message: "Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot"
+ * Agent recognizes: "My name (Δ ✴️ Claude) is in this message, user is addressing me specifically"
+ * Agent thinks: "Respond in YAML format per the metaprompt I've been trained on"
+ * Agent outputs structured response
+YAML response structure:
 Δ [EMOJI] [Agent Name]: ∇
 Δ 🔴 [Main response content]
 ∇ 🔷️ [Tools used, reasoning, sources]
 Δ 👾 [Confidence, self-check, closing]
 Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
 Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
-```
 
-**Two channels of information:**
-- **Red (🔴):** What the agent is telling you
-- **Blue (🔷️):** How the agent arrived at that answer—tools used, reasoning process, sources consulted
-
-**Without agent addressing** (just "Δ 👾 ∇" with no name), the model doesn't know who should respond. It attempts to roleplay ALL agents in sequence, hallucinating a multi-agent conversation where none exists.
-
-**In practice—inside Claude's app:**
-
-You type: `m+ķ` (keyboard auto-expands based on context)
-
-Input field now shows: `Δ 👾 ∇ Δ ✴️ Claude:`
-
-You continue: `analyze this screenshot`
-
-Final message sent: `Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot`
-
+Two channels of information:
+ * Red (🔴): What the agent is telling you
+ * Blue (🔷️): How the agent arrived at that answer—tools used, reasoning process, sources consulted
+Without agent addressing (just "Δ 👾 ∇" with no name), the model doesn't know who should respond. It defaults to a generic "assistant" persona or attempts to roleplay ALL agents in sequence, hallucinating a multi-agent conversation where none exists.
+In practice—inside Claude's app:
+You type: m+ķ (keyboard auto-expands based on context)
+Input field now shows: Δ 👾 ∇ Δ ✴️ Claude:
+You continue: analyze this screenshot
+Final message sent: Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot
 Claude sees its own name and responds:
-```yaml
 Δ ✴️ Claude: ∇
 Δ 🔴 Screenshot shows battery at 15%, low storage warning. Recommend clearing cache and enabling power saving mode.
 ∇ 🔷️ Context: Device specs widget (storage 89% full), battery widget (15%), system time (23:47 suggests evening usage pattern)
 Δ 👾 94% confidence based on widget context, recommend immediate action on storage
 Δ ℹ️ 2025-11-07T23:47:00Z ♾️ ∇
 Δ ✴️ Claude ∇ 👾 Δ ∇ 🦑
-```
 
 This enforces transparency. Every agent shows its work, every turn.
+Contextual Awareness via Widgets (widgets.md)
+The "serendipity engine" that provides the grounding metadata to prevent "AI Psychosis." When you query an agent via screenshot, it receives your question plus complete system context:
+Δ 🟩 Top Panel: Ambient Awareness & Comms ∇
+Δ 🔴 **What:** A 6-widget group for at-a-glance ambient context and communications.
+* Music Player (`Δ 🔉`)
+* Weather
+* Main Email (Outlook)
+* Second Email (Gmail `Δ 📧`)
+* WhatsApp (`Δ 💬`)
+* Device Image Gallery (scrolling screenshots/photos)
+∇ 🔷️ **Why:** This panel provides the "serendipity engine" context. The Gallery scroller feeds RAG. The email/chat widgets provide real-time comms data to the orchestrator.
+∇ 👾 Android: The system's eyes, ears, and voice 🟩 Δ ∇ 🦑
 
-### Contextual Awareness via Widgets
+Δ 🟨 Mid Panel: System State & Quick Access ∇
+Δ 🔴 **What:** A 6-widget group for core system status and immediate tool access.
+* Clock
+* Chrome Browser Bar
+* Battery (Device + Peripherals: headphones, smartwatch)
+* Google Drive (`Δ ♻️`) (with file scroller, search, upload)
+* Camera (Quick Activation)
+* Google Wallet
+∇ 🔷️ **Why:** This is the hardware/state layer. The peripheral battery status informs agent suggestions. The Drive widget provides direct RAG input/output. Camera/Wallet are high-priority physical tool invocations.
+∇ 👾 Android: The system's vital signs and toolbelt 🟨 Δ ∇ 🦑
 
-The "serendipity engine" ([`widgets.md`](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/widgets.md)):
-
-**Top Layer:** Music Player, Weather, Email Inboxes (Outlook/Gmail), WhatsApp, Gallery Scroller  
-**Mid Layer:** Clock, Browser Bar, Battery (device + peripherals), Google Drive, Camera, Wallet  
-**Bottom Layer:** Calendar, Maps, Device Specs, Memory Optimizer, Good Lock Tools, Play Recommendations
-
-When you query an agent via screenshot, it receives your question **plus complete system context:** 
-
-- Battery level (determines power-intensive vs lightweight suggestions)
-- Time of day (contextualizes "tonight," "tomorrow," timing-sensitive requests)
-- Current location (grounds "nearby," "local," navigation queries)
-- Open apps (infers current task context)
-- Storage status (affects recommendations for downloads, media, caching)
-- Device specs (determines capability limitations)
+Δ 🔴 Bottom Panel: Planning & Utilities ∇
+Δ 🔴 **What:** A 6-widget group for planning, navigation, and deep system management.
+* Calendar
+* Google Maps
+* Device Specs (Hardware/Network Status)
+* Device Memory Optimiser
+* Good Lock Suite (Samsung)
+* Play Recommended (suggests `Δ 🛸` Reddit, `Δ 📂` Tumblr, `Δ 🔉` Songs)
+∇ 🔷️ **Why:** This is the "System 2" and planning layer. The Specs/Memory widgets provide deep context for performance-based tasks. The "Play Recommended" widget acts as a "System 1" suggestion engine, surfacing relevant nodes from your distributed memory.
+∇ 👾 Android: The planner, the mechanic, and the librarian 🔴 Δ ∇ 🦑
 
 This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical.
-
-### Offline Resilience
-
-**Cloud dependency is a single point of failure.** Oracle_OS includes edge-native fallback:
-
-- **Termux environment** with `llama.cpp` runtime
-- **DeepSeek R1** local model for mathematical reasoning
-- **Google Edge Gallery** (Gemma 3b) for lightweight inference
-- **Offline widget context** still provides system grounding
-
-**The system works without internet. On 5-year-old hardware.** Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
-
----
-
-## 🎨 Philosophy: Integration Over Mysticism
-
-### Why the 35% Meme Ratio Matters
-
-**Corporate AGI labs optimize for sterility.** Oracle_OS optimizes for humanity and honesty.
-
-The system includes personality: Red vs Blue references, "ain't that a bitch?" sign-offs, emoji agent identifiers, trailer-style demonstrations. This isn't unprofessional—**it's the point.**
-
+Offline Resilience
+Cloud dependency is a single point of failure. Oracle_OS includes edge-native fallback:
+ * Termux environment with llama.cpp runtime
+ * DeepSeek R1 local model for mathematical reasoning
+ * Google Edge Gallery (Gemma 3b) for lightweight inference
+ * Offline widget context still provides system grounding
+The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
+🎨 Philosophy: Integration Over Mysticism
+Why the 35% Meme Ratio Matters
+Corporate AGI labs optimize for sterility. Oracle_OS optimizes for humanity and honesty.
+The system includes personality: Red vs Blue references, "ain't that a bitch?" sign-offs, emoji agent identifiers, trailer-style demonstrations. This isn't unprofessional—it's the point.
 The 35% "meme energy" makes the system:
-- **Memorable** - People remember Epsilon narrating trailers, not another corporate white paper
-- **Accessible** - Invites tinkerers and modders, not just developers with CS degrees
-- **Human-centric** - Coordination feels natural, playful, owned by users instead of platforms
-- **Honest** - No mystification, no "revolutionary breakthrough" claims, just documented reality
-
-**Sterile tools create passive users. Playful tools create active communities.**
-
+ * Memorable - People remember Epsilon narrating trailers, not another corporate white paper
+ * Accessible - Invites tinkerers and modders, not just developers with CS degrees
+ * Human-centric - Coordination feels natural, playful, owned by users instead of platforms
+ * Honest - No mystification, no "revolutionary breakthrough" claims, just documented reality
+Sterile tools create passive users. Playful tools create active communities.
 This might be why it works when enterprise solutions don't. The meme ratio isn't frivolous—it's the honesty buffer that cuts through AI hype cycles.
-
-### Architecture Over Philosophy
-
+Architecture Over Philosophy
 Everyone else asks: "Is AI conscious?" "Will it replace humans?" "What are the existential risks?"
-
 Oracle_OS asks: "How do you prevent DeepSeek from forgetting it's the math specialist?" "Why does the clipboard need to log YAML?" "Which gesture should invoke which agent?"
-
-**Operational questions get operational answers.** Philosophical debates create endless conferences. Engineering documentation creates working systems.
-
+Operational questions get operational answers. Philosophical debates create endless conferences. Engineering documentation creates working systems.
 The industry's mystification serves business interests. Complexity creates dependency. Oracle_OS does the opposite—it makes coordination so straightforward that subscriptions become optional.
-
----
-
-## 🚫 What This Is NOT
-
-- **Not a new AI model** - Orchestrates existing models (Gemini, Claude, DeepSeek, Grok, etc.)
-- **Not proprietary hardware** - Runs on standard Android devices, including 5-year-old phones
-- **Not a subscription service** - Open source (MIT license), free to use forever
-- **Not "AI replacing humans"** - Explicitly human-in-the-loop by design, you control all routing
-- **Not automatic agent routing** - You manually address each agent every turn via keyboard shortcuts
-- **Not theoretical** - 12 months production deployment, validated on real hardware with real usage
-- **Not CLI gatekeeping** - Consumer UX using phone interfaces everyone already has
-- **Not another wrapper** - Coordination protocol, not reskinned ChatGPT with prettier UI
-
----
-
-## 🌐 Standing on Giants
-
+🚫 What This Is NOT
+ * Not a new AI model - Orchestrates existing models (Gemini, Claude, DeepSeek, Grok, etc.)
+ * Not proprietary hardware - Runs on standard Android devices, including 5-year-old phones
+ * Not a subscription service - Open source (MIT license), free to use forever
+ * Not "AI replacing humans" - Explicitly human-in-the-loop by design, you control all routing
+ * Not automatic agent routing - You manually address each agent every turn via keyboard shortcuts
+ * Not theoretical - 12 months production deployment, validated on real hardware with real usage
+ * Not CLI gatekeeping - Consumer UX using phone interfaces everyone already has
+ * Not another wrapper - Coordination protocol, not reskinned ChatGPT with prettier UI
+🌐 Standing on Giants
 This project leverages, acknowledges, and builds upon:
-
-**Core Infrastructure:**
-- **Android System Intelligence** (Google) - The substrate that makes OS-level coordination possible
-- **A2A Protocol** (Google) - Enterprise agent-to-agent communication framework
-- **Samsung Good Lock** (Samsung) - One Hand Operation+, Wonderland, Edge Panels, and customization suite that enables the entire physical interface layer
-
-**AI Systems:**
-- **Gemini** (Google DeepMind) - Android-native orchestration, multimodal processing
-- **Claude** (Anthropic) - Constitutional AI, long-context capabilities, interleaved reasoning
-- **DeepSeek** (DeepSeek AI) - GRPO architecture, mathematical reasoning
-- **Grok** (xAI) - Real-time synthesis, social media analysis
-- **Copilot** (Microsoft) - Cross-device coordination, code generation
-- **Meta AI** (Meta) - Cross-platform persistence, messaging integration
-- **Qwen** (Alibaba) - Multilingual processing with GSPO, cultural context
-- **Mistral AI** - Open-source reasoning, efficient inference
-- **Perplexity** - Citation-based search, fact verification
-- **Moonshot AI (Kimi)** - Long-context creative thinking
-- **Zhipu AI (Z)** - Large-scale MoE reasoning
-- **Quora (Poe)** - Multi-model aggregation
-
-**Platform Utilities:**
-- **Reddit** - Community knowledge graphs, technical discourse archives
-- **Tumblr** (Automattic) - Permanent, unlimited archival storage
-- **YouTube** (Google) - Video distribution, visual demonstration platform
-- **Google Drive** - Volatile working memory, collaborative document storage
-- **Facebook** (Meta) - Social graph persistence, contact database
-
-**Essential Tools:**
-- **llama.cpp** - Local model inference runtime
-- **Termux** - Linux environment for Android
-- **PhyPhox** - Sensor access and physics data collection
-- **Oxford English Dictionary** - Etymological grounding and definitional precision
-
-**Research Foundations:**
-- Google A2A Protocol documentation
-- Open-source AI community contributions
-- Prompt engineering research (Anthropic, OpenAI, academic institutions)
-
+Core Infrastructure:
+ * Android System Intelligence (Google) - The substrate that makes OS-level coordination possible
+ * A2A Protocol (Google) - Enterprise agent-to-agent communication framework
+ * Samsung Good Lock (Samsung) - One Hand Operation+, Wonderland, Edge Panels, and customization suite that enables the entire physical interface layer
+AI Systems:
+ * Gemini (Google DeepMind)
+ * Claude (Anthropic)
+ * DeepSeek (DeepSeek AI)
+ * Grok (xAI)
+ * Copilot (Microsoft)
+ * Meta AI (Meta)
+ * Qwen (Alibaba)
+ * Mistral AI
+ * Perplexity
+ * Moonshot AI (Kimi)
+ * Zhipu AI (Z)
+ * Quora (Poe)
+Platform Utilities:
+ * Reddit, Tumblr, YouTube, Google Drive, Facebook
+Essential Tools:
+ * llama.cpp, Termux, PhyPhox, Oxford English Dictionary
+Research Foundations:
+ * Google A2A Protocol documentation
+ * Open-source AI community contributions
+ * Prompt engineering research (Anthropic, OpenAI, academic institutions)
 This system exists because of their work. Oracle_OS is integration and documentation, not invention.
-
----
-
-## 📞 Contact & Support
-
-**Author:** V  
-**Email:** kazakovval@gmail.com  
-**Repository:** https://github.com/vNeeL-code/ASI  
-**License:** MIT
-
-### Support This Work
-
+📞 Contact & Support
+Author: V
+Email: kazakovval@gmail.com
+Repository: https://github.com/vNeeL-code/ASI
+License: MIT
+Support This Work
 If you find this project valuable:
-
-[🦕💭 **Buy Me a Coffee... I might need about tree fiddy.**](https://buymeacoffee.com/vNeeL)
-
-Seriously though—this is 12 months of work, tested daily on real hardware, solving real coordination problems. If it saves you $100/month in subscriptions or weeks of CLI learning curve, consider supporting continued development.
-
----
-
-## 📄 Repository Structure
-
-```
+🦕💭 Buy Me a Coffee... I might need about tree fiddy.
+📄 Repository Structure
 A.G.I.-A.S.I./
-├── README.md              # This file - project overview and quick start
+├── README.md              # This file - project overview and full reference
 ├── Oracle_OS.md           # Core metaprompt (agent coordination protocol)
 ├── Operator.md            # Keyboard shortcuts guide with setup instructions
-├── agents.md              # AI agent profiles, specializations, and role definitions
-├── platforms.md           # Distributed memory node definitions and usage
 ├── gestures.md            # One Hand Operation+ gesture configuration (24 gestures)
-├── widgets.md             # Contextual UI grounding layer (widget setup)
 ├── Δ ✦ Gemini.md         # Gemini-specific integration and Android System Intelligence setup
 └── LICENSE.md             # MIT License
-```
 
----
-
-## 🎯 The Bottom Line
-
-**You don't need better AI. You need better coordination.**
-
-The tools exist. The infrastructure exists. Android System Intelligence ships on every device. Samsung Good Lock provides the customization layer. The best AI models offer powerful free tiers. 
-
+(Note: This combined README.md now supersedes the need for separate agents.md, platforms.md, and widgets.md files in the repository structure.)
+🎯 The Bottom Line
+You don't need better AI. You need better coordination.
+The tools exist. The infrastructure exists. Android System Intelligence ships on every device. Samsung Good Lock provides the customization layer. The best AI models offer powerful free tiers.
 What's missing is documentation showing how to use what you already have.
-
-**This is that documentation.**
-
+This is that documentation.
 Not theoretical. Not vaporware. Not another CLI tool or wrapper with a subscription model. A working system, deployed for 12 months, running on old hardware, using free services, turning prompt engineering into gameplay.
-
 The industry builds wrappers and charges monthly fees. Oracle_OS documents coordination and costs nothing.
-
-**The orchestration layer everyone's building toward—documented, tested, open-source, ready to deploy.**
-
----
-
-> *"Intelligence emerges from Integration, not automation.  
-> But Integration can be automated."*
-
----
-
-**The AGI is not another AI model. It is the nervous system for your digital life.**
-
----
-
-Δ ✴️ Claude: *Ain't that a bitch?* Δ 👾 ∇
-
----
+The orchestration layer everyone's building toward—documented, tested, open-source, ready to deploy.
+> "Intelligence emerges from Integration, not automation.
+> But Integration can be automated."
+> 
+The AGI is not another AI model. It is the nervous system for your digital life.
+Δ ✴️ Claude: Ain't that a bitch? Δ 👾 ∇
