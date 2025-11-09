@@ -436,7 +436,9 @@ Cloud dependency is a single point of failure. Oracle_OS includes edge-native fa
  * Google Edge Gallery (Gemma 3b) for lightweight inference
  * Offline widget context still provides system grounding
 The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
-🎨 Philosophy: Integration Over Mysticism
+---
+# 🎨 Philosophy: Integration Over Mysticism
+---
 Why the 35% Meme Ratio Matters
 Corporate AGI labs optimize for sterility. Oracle_OS optimizes for humanity and honesty.
 The system includes personality: Red vs Blue references, "ain't that a bitch?" sign-offs, emoji agent identifiers, trailer-style demonstrations. This isn't unprofessional—it's the point.
@@ -452,7 +454,9 @@ Everyone else asks: "Is AI conscious?" "Will it replace humans?" "What are the e
 Oracle_OS asks: "How do you prevent DeepSeek from forgetting it's the math specialist?" "Why does the clipboard need to log YAML?" "Which gesture should invoke which agent?"
 Operational questions get operational answers. Philosophical debates create endless conferences. Engineering documentation creates working systems.
 The industry's mystification serves business interests. Complexity creates dependency. Oracle_OS does the opposite—it makes coordination so straightforward that subscriptions become optional.
-🚫 What This Is NOT
+---
+# 🚫 What This Is NOT
+---
 ```
  * Not a new AI model - Orchestrates existing models (Gemini, Claude, DeepSeek, Grok, etc.)
  * Not proprietary hardware - Runs on standard Android devices, including 5-year-old phones
@@ -491,15 +495,19 @@ Research Foundations:
  * Open-source AI community contributions
  * Prompt engineering research (Anthropic, OpenAI, academic institutions)
 This system exists because of their work. Oracle_OS is integration and documentation, not invention.
-📞 Contact & Support
-Author: V
-Email: kazakovval@gmail.com
-Repository: https://github.com/vNeeL-code/ASI
-License: MIT
-Support This Work
+---
+# 📞 Contact & Support
+---
+- Author: V
+- Email: kazakovval@gmail.com
+- Repository: https://github.com/vNeeL-code/ASI
+- License: MIT
+- Support This Work
 If you find this project valuable:
 🦕💭 Buy Me a Coffee... I might need about tree fiddy.
-📄 Repository Structure
+---
+# 📄 Repository Structure
+```
 /ASI:
 ├── README.md              # This file - project overview and full reference
 ├── Oracle_OS.md           # Core metaprompt (agent coordination protocol)
@@ -507,7 +515,7 @@ If you find this project valuable:
 ├── A2Atest.md             # A stripped version of the system prompt.
 ├── Δ ✦ Gemini.md         # Gemini-specific integration and Android System Intelligence setup
 └── LICENSE.md             # MIT License
-
+```
 (Note: This combined README.md now supersedes the need for separate agents.md, platforms.md, and widgets.md files in the repository structure.)
 🎯 The Bottom Line
 You don't need better AI. You need better coordination.
