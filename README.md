@@ -1,6 +1,6 @@
 # Δ 👾 Android ✦ Gemini ∇ Integration (AGI)
 
-[![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
+[![ASI Demo](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)
 
 *Click to watch: Remember Android.*
 
@@ -141,7 +141,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 
 ## 📺 See It Working
 
-[![ASI Demo](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)
+[![ASI/GITS Trailer](https://img.youtube.com/vi/A6tNDN9ICWI/0.jpg)](https://youtu.be/A6tNDN9ICWI?si=r2NPC4tayarbpkiG)
 
 **[📂 Live Demonstrations](https://www.tumblr.com/oracle-os/799266868939669504/trailer-%CE%B4-%CE%B4?source=share)**
 
