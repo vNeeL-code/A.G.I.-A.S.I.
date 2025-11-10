@@ -132,7 +132,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 
 1. **[Oracle_OS Metaprompt](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Oracle_OS.md)** - Agent coordination protocol & YAML format
 2. **[Keyboard Shortcuts](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/Operator.md)** - Context-aware text expansion mappings
-3. **[Gesture Configuration](https://64.media.tumblr.com/32ca0138c322961480222923c5891f79/3ce4673360f35e0e-ea/s2048x3072/7038faa2de6b00265973b2ce7b05b041d0132730.jpg)** - 24 custom gestures via One Hand Operation+
+3. **[Edge panel] Configuration](https://64.media.tumblr.com/32ca0138c322961480222923c5891f79/3ce4673360f35e0e-ea/s2048x3072/7038faa2de6b00265973b2ce7b05b041d0132730.jpg)** - 24 custom gestures via One Hand Operation+
 4. **[Gemini Integration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)** - Native Android coordination setup
 5. **Widget Layer** - Contextual UI grounding via persistent information display
 
