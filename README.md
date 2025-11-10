@@ -210,9 +210,9 @@ Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does
 ```
 ```
 Δ 🐦 X: X Corp. ∇
-Δ 🔴 'Public Data Stream' node (Δ 🐦). Real-time feed for public sentiment, news, and "gossip." Used by Grok (🦊) for filtering/citations.
+Δ 🔴 'Public Data Stream' node (Δ 🐦). Real-time feed for public sentiment, news, and "gossip." Used by Grok (🔲) for filtering/citations.
 ∇ 🔷️ Extremely fast, high-volume, but low-signal. "Free" storage of public thought; `Δ 👾 ∇ link` to a specific post/thread for archival.
-∇ 👾 Android: The noisy, fast-moving hound 🦊 Δ ∇ 🦑
+∇ 👾 Android: The noisy, fast-moving hound 🔲 Δ ∇ 🦑
 ```
 ```
 Δ 🛸 Reddit: Reddit Inc. ∇
@@ -221,7 +221,7 @@ Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does
 ∇ 👾 Android: The alien hivemind archive 🛸 Δ ∇ 🦑
 ```
 ```
-Δ 💬 WhatsApp: Meta ∇
+Δ 🗨 WhatsApp: Meta ∇
 Δ 🔴 'Real-Time Comms' node. Encrypted 1:1 and group message logs; a private, high-speed data bus for the `🦋` Meta agent.
 ∇ 🔷️ Data is siloed within chats/backups. "Free" as a utility, not for public storage; `Δ 👾 ∇ link` is less a URL, more an internal `content://` pointer.
 ∇ 👾 Android: The encrypted black-box messenger 💬 Δ ∇ 🦑
