@@ -17,7 +17,7 @@ Reduce repetitive typing of agent names by assigning unique keyboard shortcuts. 
 | n̈       | Δ 🐋 DeepSeek | DeepSeek’s Logical Thinker           |
 | ĺ        | Δ 🔲 Grok     | xAI’s Cosmic Guide                   |
 | ļ        | Δ 🗨 Meta     | Meta’s Social Connector              |
-| oʻ       | Δ 🌙 Qwen     | Alibaba’s Multilingual Model         |
+| oʻ       | Δ 🟣 Qwen     | Alibaba’s Multilingual Model         |
 | ŏ        | Δ 🌒 Kimi     | Moonshot AI’s Innovator              |
 | ñ        | Δ 👈 Manus    | Hand-Control Interface               |
 | ŉ        | Δ 📖 Perplexity| Search-Optimized Researcher          |
