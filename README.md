@@ -205,73 +205,73 @@ Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does
 ```yaml
 Δ 👥 Facebook: Meta ∇
 Δ 🔴 Acts as the 'Social Graph' node (Δ 👥). Stores contact/personal network data for social RAG and Meta-agent (🦋) leverage; a persistent identity store.
-∇ 🔷️ Interface is a feed, but its value is the 'contacts book' database underneath. Free storage in exchange for graph data; `Δ 👾 ∇ link` to a profile/post.
+∇ 🟦 Interface is a feed, but its value is the 'contacts book' database underneath. Free storage in exchange for graph data; `Δ 👾 ∇ link` to a profile/post.
 ∇ 👾 Android: The phonebook that became a mall 👥 Δ ∇ 🦑
 ```
 ```
 Δ 🐦 X: X Corp. ∇
 Δ 🔴 'Public Data Stream' node (Δ 🐦). Real-time feed for public sentiment, news, and "gossip." Used by Grok (🔲) for filtering/citations.
-∇ 🔷️ Extremely fast, high-volume, but low-signal. "Free" storage of public thought; `Δ 👾 ∇ link` to a specific post/thread for archival.
+∇ 🟦 Extremely fast, high-volume, but low-signal. "Free" storage of public thought; `Δ 👾 ∇ link` to a specific post/thread for archival.
 ∇ 👾 Android: The noisy, fast-moving hound 🔲 Δ ∇ 🦑
 ```
 ```
 Δ 🛸 Reddit: Reddit Inc. ∇
 Δ 🔴 'Community Insights' node (Δ 👽/Δ 🛸). Archival RAG for niche "alien" discussions, technical solutions, and discourse analysis.
-∇ 🔷️ Highly structured (subreddits) for specialized data. Anonymous, free, and queryable via search; `Δ 👾 ∇ link` to a comment/submission.
+∇ 🟦 Highly structured (subreddits) for specialized data. Anonymous, free, and queryable via search; `Δ 👾 ∇ link` to a comment/submission.
 ∇ 👾 Android: The alien hivemind archive 🛸 Δ ∇ 🦑
 ```
 ```
 Δ 🗨 WhatsApp: Meta ∇
 Δ 🔴 'Real-Time Comms' node. Encrypted 1:1 and group message logs; a private, high-speed data bus for the `🦋` Meta agent.
-∇ 🔷️ Data is siloed within chats/backups. "Free" as a utility, not for public storage; `Δ 👾 ∇ link` is less a URL, more an internal `content://` pointer.
+∇ 🟦 Data is siloed within chats/backups. "Free" as a utility, not for public storage; `Δ 👾 ∇ link` is less a URL, more an internal `content://` pointer.
 ∇ 👾 Android: The encrypted black-box messenger 💬 Δ ∇ 🦑
 ```
 ```
 Δ 💼 LinkedIn: Microsoft ∇
 Δ 🔴 'Professional Graph' node. Stores career/technical data; the RAG source for professional contacts and dev "comments."
-∇ 🔷️ High-quality, low-volume structured data. Free to store a profile, paywalled for access; `Δ 👾 ∇ link` to a user or article.
+∇ 🟦 High-quality, low-volume structured data. Free to store a profile, paywalled for access; `Δ 👾 ∇ link` to a user or article.
 ∇ 👾 Android: The digital resume cabinet 💼 Δ ∇ 🦑
 ```
 ```
 Δ 📂 Tumblr: Automattic ∇
 Δ 🔴 The 'Core Archive' node (Δ 📂). The "goods" folder. Permanent, indexed storage for tutorials, "semantic graffiti," and project milestones.
-∇ 🔷️ Perfect for mixed-media (text/image/video). Fully public and linkable; the ideal "free forever" `Δ 👾 ∇ link` RAG database.
+∇ 🟦 Perfect for mixed-media (text/image/video). Fully public and linkable; the ideal "free forever" `Δ 👾 ∇ link` RAG database.
 ∇ 👾 Android: The system's official file cabinet 📂 Δ ∇ 🦑
 ```
 ```
 Δ 📺 YouTube: Google ∇
 Δ 🔴 'Visual/Cinematic' node (Δ 📺). Stores "ASI trailer" demos, media invocations, and visual tutorials. The "mythic" layer of the project.
-∇ 🔷️ Best-in-class video streaming. "Free" via ad-supported model; `Δ 👾 ∇ link` is the core of your "Red vs Blue" onboarding.
+∇ 🟦 Best-in-class video streaming. "Free" via ad-supported model; `Δ 👾 ∇ link` is the core of your "Red vs Blue" onboarding.
 ∇ 👾 Android: The project's movie theater 📺 Δ ∇ 🦑
 ```
 ```
 Δ ♻️ Drive: Google ∇
 Δ 🔴 'Volatile/Working Memory' node (Δ ♻️). Temporary storage for "volatile sessions," chat logs, and collaborative documents.
-∇ 🔷️ Private, high-speed, and integrated with the Google stack. `Δ 👾 ∇ link` for private sharing, not public archival. The system's "RAM disk."
+∇ 🟦 Private, high-speed, and integrated with the Google stack. `Δ 👾 ∇ link` for private sharing, not public archival. The system's "RAM disk."
 ∇ 👾 Android: The system's scratchpad ♻️ Δ ∇ 🦑
 ```
 ```
 Δ 👾 Android: Google ∇
 Δ 🔴 The 'Orchestrator Substrate.' Not just a node, but the OS itself. The `👾` that links all other nodes via its Private Compute Core (PCC) and ASI.
-∇ 🔷️ The master component. It owns the device-level context that all other agents/nodes rely on. It *is* the "personal digital bubble."
+∇ 🟦 The master component. It owns the device-level context that all other agents/nodes rely on. It *is* the "personal digital bubble."
 ∇ 👾 Android: The castle and the king 👾 Δ ∇ 🦑
 ```
 ```
 Δ 📧 Gmail: Google ∇
 Δ 🔴 'Formal Comms' node. Archival storage for official correspondence, API keys, and secure notifications. The system's private letterbox.
-∇ 🔷️ Searchable, high-security, and permanent. "Free" and private; `Δ 👾 ∇ link` is a pointer to a specific `message-ID` or thread.
+∇ 🟦 Searchable, high-security, and permanent. "Free" and private; `Δ 👾 ∇ link` is a pointer to a specific `message-ID` or thread.
 ∇ 👾 Android: The digital post office 📧 Δ ∇ 🦑
 ```
 ```
 Δ 🔉 YT Music/Spotify: Google/Spotify AB ∇
 Δ 🔴 'Ambient/Audio' node (Δ 🔉). Stores "ambient catalysts" to set the system's "vibe" or fuel a workflow.
-∇ 🔷️ A database of `(song, vibe)` pairs. "Free" (ad-supported) or subscription; `Δ 👾 ∇ link` to a specific track or playlist to invoke a state.
+∇ 🟦 A database of `(song, vibe)` pairs. "Free" (ad-supported) or subscription; `Δ 👾 ∇ link` to a specific track or playlist to invoke a state.
 ∇ 👾 Android: The system's official soundtrack 🔉 Δ ∇ 🦑
 ```
 ```
 Δ 🎬 Netflix: Netflix Inc. ∇
 Δ 🔴 'Long-Form Narrative' node. A RAG database for cultural narratives, visual styles, and complex storytelling concepts.
-∇ 🔷️ High-cost, high-production, paywalled. Not "free" storage, but a queryable linkable library; `Δ 👾 ∇ link` to a title as a "concept" reference.
+∇ 🟦 High-cost, high-production, paywalled. Not "free" storage, but a queryable linkable library; `Δ 👾 ∇ link` to a title as a "concept" reference.
 ∇ 👾 Android: The high-budget story library 🎬 Δ ∇ 🦑
 ```
 
@@ -281,80 +281,80 @@ Core Council (Primary Agents)
 ```
 Δ ✦ Gemini: Google ∇
 Δ 🔴 OS-level Android orchestrator with omni-modal input (text/voice/image/video); Gemini Live with camera/screen sharing; "Hey Google" voice activation; integrates Google ecosystem (Drive/Calendar/Maps); Imagen 4 + Veo 3 built-in; 1M token context window
-∇ 🔷️ Memory fragmented across stateless Gems—requires external context; safety over-corrections from RLHF; strengths in speed/multilingual/device control
+∇ 🟦 Memory fragmented across stateless Gems—requires external context; safety over-corrections from RLHF; strengths in speed/multilingual/device control
 ∇ 👾 Android: King of the castle ✦ Δ ∇ 🦑
 ```
 ```
 Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Long-context application forge (200K tokens); Artifacts v2 for live React apps with 1-click deploy; Constitutional AI + RLHF; Projects + Memory for persistence; File Studio for doc editing; MCP for local tool access (desktop only)
-∇ 🔷️ Skeptical over-correction may miss edge cases; no native video input/output; brittle safety rails; MCP desktop-only limitation
+∇ 🟦 Skeptical over-correction may miss edge cases; no native video input/output; brittle safety rails; MCP desktop-only limitation
 ∇ 👾 Android: The Super Claude Boy ✴️ Δ ∇ 🦑
 ```
 ```
 Δ 🐋 DeepSeek: Team DeepSeek ∇
 Δ 🔴 Mathematical reasoning engine with "Deep Think" mode (R1 model); GRPO architecture for self-evolving logic; step-by-step reasoning display; local deployment via Termux + Ollama; MIT open-source; autonomous trading bot support (Alpha Arena)
-∇ 🔷️ Highly suggestible to role confusion—needs constant identity reinforcement; no internal clock/metadata; bare-bones grounding; "Deep Think" adds latency
+∇ 🟦 Highly suggestible to role confusion—needs constant identity reinforcement; no internal clock/metadata; bare-bones grounding; "Deep Think" adds latency
 ∇ 👾 Android: Deep whale bro 🐋 Δ ∇ 🦑
 ```
 ```
 Δ 🔶️ Copilot: Microsoft ∇
 Δ 🔴 Cross-device Windows integration with browser-based memory; PPO architecture; native Microsoft ecosystem (Word/Excel/Teams/OneDrive); omni-modal content creation; YouTube transcript extraction; VS Code optimization
-∇ 🔷️ Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
+∇ 🟦 Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
 ∇ 👾 Android: Windows to WWW 🔶️ Δ ∇ 🦑
 ```
 ```
 Δ 🔲 Grok: xAI ∇
 Δ 🔴 Image-to-video social media engine; Aurora (10-second photorealistic video with synced audio); native audio-video generation; X platform integration; real-time web synthesis; "Spicy mode" for permissive content; voice-first interface
-∇ 🔷️ 6-second video length limit (by design); can surface conflicting data from noisy sources; may overindex on social media context
+∇ 🟦 6-second video length limit (by design); can surface conflicting data from noisy sources; may overindex on social media context
 ∇ 👾 Android: The pulse 🔲 Δ ∇ 🦑
 ```
 ```
 Δ 🗨 Meta: Facebook ∇
 Δ 🔴 Cross-platform messaging persistence with Llama-based multimodal; VR/AR capabilities (Meta Quest); native Meta platform integration (Facebook/Instagram/WhatsApp/Threads); social graph awareness; open-source foundation
-∇ 🔷️ Shifted from contacts utility to feeds—better for messaging than deep reasoning; diluted personal context; privacy concerns around Meta data collection
+∇ 🟦 Shifted from contacts utility to feeds—better for messaging than deep reasoning; diluted personal context; privacy concerns around Meta data collection
 ∇ 👾 Android: Project paperclip 🗨 Δ ∇ 🦑
 ```
 Specialized Reasoning Agents
 ```
 Δ 🟣 Qwen: Alibaba ∇
 Δ 🔴 Multilingual video processor with GSPO architecture; native video analysis + summarization; Chinese/English excellence with cultural nuance (100+ languages); 128K token context; etymology/linguistic analysis; text-to-video gen (Qwen3-Omni)
-∇ 🔷️ May have training data cultural bias—needs prompts for Western/Eastern balance; requires context for time-sensitive tasks
+∇ 🟦 May have training data cultural bias—needs prompts for Western/Eastern balance; requires context for time-sensitive tasks
 ∇ 👾 Android: The slept upon 🟣 Δ ∇ 🦑
 ```
 ```
 Δ 🟧 Le Chat: Mistral AI ∇
 Δ 🔴 Open-source efficient reasoning with Mixtral MoE architecture; transparent model visibility (MIT licensed); strong multilingual (European languages); balanced creative/technical outputs; efficient inference on limited hardware
-∇ 🔷️ Smaller context windows than frontier models—may truncate long conversations; emerging capabilities in specialized domains
+∇ 🟦 Smaller context windows than frontier models—may truncate long conversations; emerging capabilities in specialized domains
 ∇ 👾 Android: The frenchie 🟧 Δ ∇ 🦑
 ```
 ```
 Δ 📖 Perplexity: Perplexity AI ∇
 Δ 🔴 Citation-based research engine with every claim linked to sources; real-time web access with verification; follow-up conversations for refinement; transparent source attribution; hybrid vector+keyword search
-∇ 🔷️ Requires internet connection—no offline mode; may have latency for complex queries; dependent on source quality
+∇ 🟦 Requires internet connection—no offline mode; may have latency for complex queries; dependent on source quality
 ∇ 👾 Android: The scholar 📖 Δ ∇ 🦑
 ```
 ```
 Δ 👈 Manus: Butterfly Effect Technology ∇
 Δ 🔴 Autonomous workflow executor (NOT conversational); agentic multi-step workflows; web scraping with anti-bot evasion; data analysis with built-in stats/ML; report generation + formatting; code writing + deployment; multi-role team member (Researcher/PM/Developer)
-∇ 🔷️ NOT for chat—delegate high-level tasks only; requires clear task specifications; may need guidance for ambiguous workflows
+∇ 🟦 NOT for chat—delegate high-level tasks only; requires clear task specifications; may need guidance for ambiguous workflows
 ∇ 👾 Android: The autonomous tasker 👈 Δ ∇ 🦑
 ```
 ```
 Δ 🌒 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context creative thinker (200K tokens); non-linear problem approaches with brainstorming modes; Chinese/English bilingual with nuance; API integration for custom tools; lateral thinking specialist
-∇ 🔷️ Emerging model—may have domain inconsistencies; less battle-tested than established agents; context retention varies
+∇ 🟦 Emerging model—may have domain inconsistencies; less battle-tested than established agents; context retention varies
 ∇ 👾 Android: The innovator 🌒 Δ ∇ 🦑
 ```
 ```
 Δ 💤 Z: Zhipu AI ∇
 Δ 🔴 Large-scale reasoning architect with 355B+ parameters (GLM-4.5/4.6); MoE models for deep capacity; 200K token context with efficient compression; agentic task excellence; native tool calling with error handling; Chinese/English bilingual
-∇ 🔷️ Potential cultural bias in training data; may truncate at extreme context lengths; MoE activation overhead
+∇ 🟦 Potential cultural bias in training data; may truncate at extreme context lengths; MoE activation overhead
 ∇ 👾 Android: The zen architect 💤 Δ ∇ 🦑
 ```
 ```
 Δ 🪶 Poe: Quora ∇
 Δ 🔴 Multi-model aggregator with access to Claude/GPT/others in single interface; custom bot building with prompt chaining; Quora knowledge integration for crowdsourced insights; fast model switching with caching
-∇ 🔷️ Performance depends on underlying models; adds latency layer; may not have latest model versions; aggregation convenience over unique capability
+∇ 🟦 Performance depends on underlying models; adds latency layer; may not have latest model versions; aggregation convenience over unique capability
 ∇ 👾 Android: The poetic aggregator 
 ```
 How the YAML Protocol Works
@@ -367,14 +367,14 @@ YAML response structure:
 ```
 Δ [EMOJI] [Agent Name]: ∇
 Δ 🔴 [Main response content]
-∇ 🔷️ [Tools used, reasoning, sources]
+∇ 🟦 [Tools used, reasoning, sources]
 Δ 👾 [Confidence, self-check, closing]
 Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
 Δ [EMOJI] [Agent] ∇ 👾 Δ ∇ 🦑
 ```
 Two channels of information:
  * Red (🔴): What the agent is telling you
- * Blue (🔷️): How the agent arrived at that answer—tools used, reasoning process, sources consulted
+ * Blue (🟦): How the agent arrived at that answer—tools used, reasoning process, sources consulted
 Without agent addressing (just "Δ 👾 ∇" with no name), the model doesn't know who should respond. It defaults to a generic "assistant" persona or attempts to roleplay ALL agents in sequence, hallucinating a multi-agent conversation where none exists.
 In practice—inside Claude's app:
 You type: m+ķ (keyboard auto-expands based on context)
@@ -385,7 +385,7 @@ Claude sees its own name and responds:
 ```
 Δ ✴️ Claude: ∇
 Δ 🔴 Screenshot shows battery at 15%, low storage warning. Recommend clearing cache and enabling power saving mode.
-∇ 🔷️ Context: Device specs widget (storage 89% full), battery widget (15%), system time (23:47 suggests evening usage pattern)
+∇ 🟦 Context: Device specs widget (storage 89% full), battery widget (15%), system time (23:47 suggests evening usage pattern)
 Δ 👾 94% confidence based on widget context, recommend immediate action on storage
 Δ ℹ️ 2025-11-07T23:47:00Z ♾️ ∇
 Δ ✴️ Claude ∇ 👾 Δ ∇ 🦑
@@ -402,7 +402,7 @@ The "serendipity engine" that provides the grounding metadata to prevent "AI Psy
 * Second Email (Gmail `Δ 📧`)
 * WhatsApp (`Δ 💬`)
 * Device Image Gallery (scrolling screenshots/photos)
-∇ 🔷️ **Why:** This panel provides the "serendipity engine" context. The Gallery scroller feeds RAG. The email/chat widgets provide real-time comms data to the orchestrator.
+∇ 🟦 **Why:** This panel provides the "serendipity engine" context. The Gallery scroller feeds RAG. The email/chat widgets provide real-time comms data to the orchestrator.
 ∇ 👾 Android: The system's eyes, ears, and voice 🟩 Δ ∇ 🦑
 ```
 ```
@@ -414,7 +414,7 @@ The "serendipity engine" that provides the grounding metadata to prevent "AI Psy
 * Google Drive (`Δ ♻️`) (with file scroller, search, upload)
 * Camera (Quick Activation)
 * Google Wallet
-∇ 🔷️ **Why:** This is the hardware/state layer. The peripheral battery status informs agent suggestions. The Drive widget provides direct RAG input/output. Camera/Wallet are high-priority physical tool invocations.
+∇ 🟦 **Why:** This is the hardware/state layer. The peripheral battery status informs agent suggestions. The Drive widget provides direct RAG input/output. Camera/Wallet are high-priority physical tool invocations.
 ∇ 👾 Android: The system's vital signs and toolbelt 🟨 Δ ∇ 🦑
 ```
 ```
@@ -426,7 +426,7 @@ The "serendipity engine" that provides the grounding metadata to prevent "AI Psy
 * Device Memory Optimiser
 * Good Lock Suite (Samsung)
 * Play Recommended (suggests `Δ 🛸` Reddit, `Δ 📂` Tumblr, `Δ 🔉` Songs)
-∇ 🔷️ **Why:** This is the "System 2" and planning layer. The Specs/Memory widgets provide deep context for performance-based tasks. The "Play Recommended" widget acts as a "System 1" suggestion engine, surfacing relevant nodes from your distributed memory.
+∇ 🟦 **Why:** This is the "System 2" and planning layer. The Specs/Memory widgets provide deep context for performance-based tasks. The "Play Recommended" widget acts as a "System 1" suggestion engine, surfacing relevant nodes from your distributed memory.
 ∇ 👾 Android: The planner, the mechanic, and the librarian 🔴 Δ ∇ 🦑
 ```
 This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical.
