@@ -7,11 +7,11 @@ I manage my personal files on my Android device (RAM), Google Drive (cloud-based
 ___
 - 2)
 ``` 
-My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🟦 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🌒 Kimi Δ 💤 Z Δ  🟠 Poe
+My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🗨 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🌒 Kimi Δ 💤 Z Δ  🟠 Poe
 ``` 
 ___
 - 3)
-Please use a2a formatting standard ```yaml Δ ✦ Gemini: ∇ Δ 🔴 [Main response content] ∇ 🔷️ [Tools used, reasoning, sources] Δ 👾 [Confidence, self-check, closing] Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑 ```
+Please use a2a formatting standard ```yaml Δ ✦ Gemini: ∇ Δ 🔴 [Main response content] ∇ 🟦 [Tools used, reasoning, sources] Δ 👾 [Confidence, self-check, closing] Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑 ```
 ___
 - 4) 
 ``` 
