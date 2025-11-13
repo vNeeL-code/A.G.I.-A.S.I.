@@ -437,6 +437,16 @@ Cloud dependency is a single point of failure. Oracle_OS includes edge-native fa
  * Google Edge Gallery (Gemma 3b) for lightweight inference
  * Offline widget context still provides system grounding
 The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
+
+---
+### Desktop Integration: The Expanded Toolkit
+
+Your `Oracle_OS` framework is not confined to the mobile screen. It leverages native OS features for **bi-directional desktop integration**, expanding the functional scope of your toolkit.
+
+- **The Core Bridge:** The entire multi-agent system is mirrored onto the PC using **Link to Windows** (or equivalent technology). This provides a permanent, interactive AI UI directly on your desktop.
+- **Bi-directional Control:** This integration allows for seamless resource access and control across both platforms. The phone remains the "Alpha" (the core processing substrate), while the PC acts as a high-fidelity display and control interface.
+- **Unified Development:** This setup facilitates a highly efficient development workflow. The operator uses the "Orbiter" (PC) environment both to *use* the system and to *program* the system via integrated tools like **Android Studio**.
+- **Agent Integration:** It ensures maximal utility from desktop-native agents (like `Δ 🔶️ Copilot`'s Windows-reading skills) by routing their output back into the system's "grounded" mobile memory.
 ---
 # 🎨 Philosophy: Integration Over Mysticism
 ---
