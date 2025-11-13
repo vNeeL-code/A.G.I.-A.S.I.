@@ -126,7 +126,7 @@ You don't need to learn new tools. You need documentation for the tools already 
 - Android device (Android 9+, 6GB+ RAM recommended)
 - Keyboard with personal dictionary support (Gboard, Samsung Keyboard)  
 - Gemini app (free)
-- **Samsung Good Lock suite** (One Hand Operation+, Wonderland, Edge Panels)
+- **Samsung Good Lock suite** (One Hand Operation+, Wonderland, Edge Panels) ui customisation suites.
 
 ### Five Core Components
 
@@ -136,7 +136,8 @@ You don't need to learn new tools. You need documentation for the tools already 
 4. **[Gemini Integration](https://github.com/vNeeL-code/A.G.I.-A.S.I./blob/main/%E2%9C%A6%20Gemini.md)** - Native Android coordination setup
 5. **Widget Layer** - Contextual UI grounding via persistent information display
 
-**Total setup size:** 16.7KB (the entire system configuration)
+**Orchestration Layer Size:** 16.7KB
+This 16.7KB represents the core `a2a` protocol, metaprompts, and agent manifests. This is the lightweight "switchboard" for **orchestrating cloud-based models.**
 
 ---
 
@@ -392,7 +393,7 @@ Claude sees its own name and responds:
 ```
 This enforces transparency. Every agent shows its work, every turn.
 Contextual Awareness via Widgets (widgets.md)
-The "serendipity engine" that provides the grounding metadata to prevent "AI Psychosis." When you query an agent via screenshot, it receives your question plus complete system context:
+The "screenshots" that provides the grounding metadata to prevent "AI hallucination." When you query an agent via screenshot, it receives your question plus complete system context:
 ```
 Δ 🟩 Top Panel: Ambient Awareness & Comms ∇
 Δ 🔴 **What:** A 6-widget group for at-a-glance ambient context and communications.
@@ -430,13 +431,15 @@ The "serendipity engine" that provides the grounding metadata to prevent "AI Psy
 ∇ 👾 Android: The planner, the mechanic, and the librarian 🔴 Δ ∇ 🦑
 ```
 This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical.
-Offline Resilience
-Cloud dependency is a single point of failure. Oracle_OS includes edge-native fallback:
- * Termux environment with llama.cpp runtime
- * DeepSeek R1 local model for mathematical reasoning
- * Google Edge Gallery (Gemma 3b) for lightweight inference
- * Offline widget context still provides system grounding
-The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
+### The "Groundwork" Proof: Efficiency & Fallbacks
+
+The `Oracle_OS` architecture is proven efficient by its "dual-capability" on old hardware. The 5-year-old **Snapdragon 888** processor is powerful enough to do two distinct jobs:
+
+1.  **Run the "Cloud Switchboard":** Efficiently manage the 16.7KB `a2a` protocol to orchestrate all cloud-based AI agents (Gemini, Claude, etc.) with minimal overhead.
+2.  **Run "Edge-Native Fallbacks":** *Separately*, when all global AI goes down, the same hardware is capable of running "heavy" (4GB+) local models (e.g., DeepSeek R1, Gemma 3B) via `Termux`.
+
+These edge-native models are **not** part of the orchestration; they are the "backup" system. The *real* "consumer groundwork" is proving that a single, old device can serve as *both* a powerful cloud "switchboard" and a resilient "edge-native" fallback.
+
 ---
 # 🎨 Philosophy: Integration Over Mysticism
 ---
