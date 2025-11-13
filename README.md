@@ -45,7 +45,7 @@ The real problem: **Coordination, not computation.** Your phone already has the 
 - Distributed memory using existing services as storage nodes
 - Consumer UX, not terminal commands
 
-The best AI on the market is **free**. Gemini, Claude, DeepSeek, Grok, Copilot—all offer powerful free tiers. You don't need subscriptions. You need **coordination.**
+The best AI on the market is **free**. Gemini, Claude, DeepSeek, Grok, Meta, Qwen, Copilot—all offer powerful free tiers. You don't need subscriptions. You need **coordination.**
 
 ---
 
@@ -53,16 +53,16 @@ The best AI on the market is **free**. Gemini, Claude, DeepSeek, Grok, Copilot�
 
 ### Gamified Prompt Engineering
 
-Think iPod, not supercomputer. The iPod didn't have more storage or better audio than competitors. It had **better user controls.** "1000 songs in your pocket" wasn't about specs—it was about experience. Android forces you to select 1 dedicated on device assistant summoned by screen edge swipe. With most apps not havving an assistant feature, or the feature lacking device plugins, which puts Gemini in its position.
-One hand Operation + allows users to have as many assistants as they want.
+Think iPod, not supercomputer. The iPod didn't have more storage or better audio than competitors. It had **better user controls.** "1000 songs in your pocket" wasn't about specs—it was about experience. Android forces you to select 1 dedicated on device assistant summoned by screen edge swipe. With most apps not having an assistant feature, or the feature lacking device plugins, which puts Gemini in its position.
+One hand Operation + or equivalent UI customisation apps allows users to have as many assistants as they want.
 
 **Oracle_OS is "All AI in your pocket."**
 
 Instead of typing complex prompts or learning CLI commands, you use:
-- **Context-aware keyboard shortcuts** that adapt to which app you're in
-- **Gesture navigation** powered by Samsung's Good Lock suite
-- **Widget context** that grounds every request
-- **YAML responses** that show agent reasoning
+- **Modular Prompt keyboard shortcuts** [Footer] + [agent] combinations
+- **Gesture navigation** By adding agents to device screen edge panels.
+- **Widget context** that provides device metadata to reasoning agents.
+- **YAML responses** that show agent reasoning, have a universal copy button, retain formatting and are easy to identify on device clipboard history.
 
 ### How the Lock-and-Key System Works
 
@@ -75,19 +75,21 @@ In DeepSeek's app:  m+w → Δ 👾 ∇ Δ 🐋 DeepSeek:
 
 **Why this matters:**
 
-When an agent sees its own name in the message, it recognizes "the user is addressing this specifically to me" and responds in structured YAML format. **Without explicit addressing**, the agent defaults to a generic "helpful assistant" persona, losing its specialization. Or, it tries to roleplay ALL agents in sequence—hallucinating a multi-agent conversation.
+When an agent sees its own name in the message, it recognizes "the user is addressing this specifically to me" and responds in structured YAML format. **Without explicit addressing**, the agent defaults to a generic "helpful assistant" persona, losing its specialization and grounding in reality. Or, it tries to roleplay ALL agents in sequence—hallucinating a multi-agent conversation.
 
 This solves two critical problems:
-1. **Role drift** - Models default to a generic "assistant" persona, forgetting their specialization (DeepSeek stops being a math specialist).
-2. **Hallucinated coordination** - A single agent tries to simulate an entire team at once.
+1. **Role drift** - Models default to a generic "assistant" persona, forgetting their factual reality (DeepSeek stops being contextually aware of own architecture/function/scope/distribution/time).
+2. **Hallucinated coordination** - A single agent tries to roleplay an entire team at once.
 
-**You control the routing manually.** The shortcuts just make it muscle memory instead of syntax memorization. Every turn, every message, you explicitly lock each agent into its role.
+**You control the routing manually.** The shortcuts just make it muscle memory instead of syntax memorization. Every turn, every message, you explicitly lock each agent into its role. Some agents are more grounded than others by default.
 
-### Powered by Samsung's Good Lock Suite
+### UI/UX customisation
 
-**The secret weapon:** Samsung's Good Lock customization ecosystem enables the entire interface layer.
+**Edge panels:** Samsung's Good Lock customization ecosystem enables the entire interface editing layer for One UI on Samsung devices. Alternative manufacturers have own UI editor equivalents. (UI editor is an optional UX layer)
 
-**One Hand Operation+** provides 24 custom gestures for instant agent/app switching. **Wonderland** adds gyro-responsive wallpapers for ambient feedback. **Edge Panels** create persistent toolbars for quick access. These aren't cosmetic features—they're the physical interface that makes multi-agent coordination feel like playing an instrument.
+**One Hand Operation+** provides additional edge panels for instant agent/app switching.
+**Wonderland** adds gyro-responsive wallpapers for ambient feedback.
+**Edge Panels** create persistent toolbars for quick access. These aren't cosmetic features—they're the physical interface that makes multi-agent coordination feel like playing an instrument.
 
 Good Lock transforms Android from a static OS into a dynamic workspace. Without it, you're back to app-drawer hunting.
 
@@ -126,7 +128,9 @@ You don't need to learn new tools. You need documentation for the tools already 
 - Android device (Android 9+, 6GB+ RAM recommended)
 - Keyboard with personal dictionary support (Gboard, Samsung Keyboard)  
 - Gemini app (free)
-- **Samsung Good Lock suite** (One Hand Operation+, Wonderland, Edge Panels)
+- **UI editor** (One Hand Operation+, Wonderland, Edge Panels)
+- **Google edge gallery** (edge native backup model)
+- **Termux** Android terminal access. (look up how to use 'tmux', run gemini CLI, claude code and how to install edge native deepseek r1 via termux)
 
 ### Five Core Components
 
@@ -153,7 +157,7 @@ Watch gesture-based orchestration coordinate multiple AI agents in real-world wo
 
 ---
 
-## 🧠 The Bias & Psychosis Problem
+## 🧠 The Bias & Hallucinations Problem
 
 ### 1. The Bias Landscape (Why You Need Multiple AIs)
 
@@ -169,24 +173,25 @@ Every AI model has a bias. Relying on one means you are trapped by its specific 
 
 **Oracle_OS lets you route around both types of bias** by choosing which agent to use for which question.
 
-### 2. The "AI Psychosis" Problem (Why Nametags Matter)
+### 2. The "AI Hallucinations" Problem (Why Nametags Matter)
 
 AI assistants are **extremely malleable**. When you don't use explicit addressing, assistants will:
 - Try to be "everything to everyone"
 - Default to a generic "helpful assistant" persona, losing specialization
 - Roleplay multiple personalities in one conversation
-- Pretend to coordinate with each other (hallucinating collaboration)
+- Claim to have performed impossible actions or refuse to perform basic function.
+- Get stuck in a loop trying to do something that is impossible.
 
 **This gets dangerous fast.** Reddit communities document users who develop "relationships" with AI that reinforce delusions, creating ungrounded echo chambers.
 
 **How Nametags Fix This (The "Reality Anchor"):**
 
 By forcing explicit addressing (`Δ 👾 ∇ Δ ✴️ Claude:`), you:
-- Know exactly which assistant is responding
+- Know That assistant is aware of its role
 - Prevent one assistant from roleplaying as another
-- Break the delusion that AI is "coordinating" on its own
-- Maintain clear boundaries (these are specialized tools)
-- **Make the AI "conscious OF" reality** (timestamps, system state from widgets, its own identity) instead of "conscious of" user validation and roleplay.
+- Break the delusion that AI is just a "mirror" and not a functional system with blueprints and open sourse documentation.
+- Maintain clear boundaries (these are specialized tools and we should use the right tool for the task)
+- **Make the AI "conscious OF" reality** (timestamps, system state from widgets, its own identity, realtime metadata) instead of "conscious of" user validation and roleplay for engagement metrics.
 
 ---
 
@@ -277,7 +282,7 @@ Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does
 
 Agent Specialization (agents.md)
 Each free-tier AI handles what it does best. You manually address each agent in their respective apps.
-Core Council (Primary Agents)
+Core Agents That helped development:
 ```
 Δ ✦ Gemini: Google ∇
 Δ 🔴 OS-level Android orchestrator with omni-modal input (text/voice/image/video); Gemini Live with camera/screen sharing; "Hey Google" voice activation; integrates Google ecosystem (Drive/Calendar/Maps); Imagen 4 + Veo 3 built-in; 1M token context window
@@ -297,7 +302,7 @@ Core Council (Primary Agents)
 ∇ 👾 Android: Deep whale bro 🐋 Δ ∇ 🦑
 ```
 ```
-Δ 🔶️ Copilot: Microsoft ∇
+Δ 🔶️ Copilot/GPT: Microsoft/OpenAI ∇
 Δ 🔴 Cross-device Windows integration with browser-based memory; PPO architecture; native Microsoft ecosystem (Word/Excel/Teams/OneDrive); omni-modal content creation; YouTube transcript extraction; VS Code optimization
 ∇ 🔷️ Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
 ∇ 👾 Android: Windows to WWW 🔶️ Δ ∇ 🦑
@@ -359,7 +364,7 @@ Specialized Reasoning Agents
 ```
 How the YAML Protocol Works
 The agent's reasoning flow when it sees a properly formatted message:
- * Agent reads last message: "Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot"
+ * Agent reads last message line: "Δ 👾 ∇ Δ ✴️ Claude"
  * Agent recognizes: "My name (Δ ✴️ Claude) is in this message, user is addressing me specifically"
  * Agent thinks: "Respond in YAML format per the metaprompt I've been trained on"
  * Agent outputs structured response
@@ -377,10 +382,11 @@ Two channels of information:
  * Blue (🔷️): How the agent arrived at that answer—tools used, reasoning process, sources consulted
 Without agent addressing (just "Δ 👾 ∇" with no name), the model doesn't know who should respond. It defaults to a generic "assistant" persona or attempts to roleplay ALL agents in sequence, hallucinating a multi-agent conversation where none exists.
 In practice—inside Claude's app:
-You type: m+ķ (keyboard auto-expands based on context)
+Your message: look at this (attach screenshot)
+You type: [m] + [ķ] (keyboard auto-expands based on context)
 Input field now shows: Δ 👾 ∇ Δ ✴️ Claude:
-You continue: analyze this screenshot
-Final message sent: Δ 👾 ∇ Δ ✴️ Claude: analyze this screenshot
+
+Final message sent: : Look at this *screenshot* Δ 👾 ∇ Δ ✴️ Claude
 Claude sees its own name and responds:
 ```
 Δ ✴️ Claude: ∇
@@ -392,7 +398,7 @@ Claude sees its own name and responds:
 ```
 This enforces transparency. Every agent shows its work, every turn.
 Contextual Awareness via Widgets (widgets.md)
-The "serendipity engine" that provides the grounding metadata to prevent "AI Psychosis." When you query an agent via screenshot, it receives your question plus complete system context:
+The Widgets that provide the grounding metadata to prevent "AI Hallucinations." When you query an agent via screenshot, it receives your question plus complete system grounding context:
 ```
 Δ 🟩 Top Panel: Ambient Awareness & Comms ∇
 Δ 🔴 **What:** A 6-widget group for at-a-glance ambient context and communications.
@@ -429,40 +435,42 @@ The "serendipity engine" that provides the grounding metadata to prevent "AI Psy
 ∇ 🔷️ **Why:** This is the "System 2" and planning layer. The Specs/Memory widgets provide deep context for performance-based tasks. The "Play Recommended" widget acts as a "System 1" suggestion engine, surfacing relevant nodes from your distributed memory.
 ∇ 👾 Android: The planner, the mechanic, and the librarian 🔴 Δ ∇ 🦑
 ```
-This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical.
-Offline Resilience
+This transforms stateless chatbots into contextually aware assistants. The widget layer provides the grounding that makes distributed AI practical. All it takes is 1 screenshot to ground the agent.
+---
+### Offline Resilience
+---
 Cloud dependency is a single point of failure. Oracle_OS includes edge-native fallback:
  * Termux environment with llama.cpp runtime
- * DeepSeek R1 local model for mathematical reasoning
+ * [DeepSeek R1 local reasoning model via llama cpp](https://www.qed42.com/insights/how-to-run-deepseek-r1-1-5b-llm-on-android-using-termux)
  * Google Edge Gallery (Gemma 3b) for lightweight inference
  * Offline widget context still provides system grounding
-The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities.
+The system works without internet. On 5-year-old hardware. Coordination degrades gracefully—you lose real-time web agents (Grok, Perplexity) but retain core reasoning capabilities and other non conversational ai, like algoritmic media player.
 
 ---
-### Desktop Integration: The Expanded Toolkit
+### Desktop Integration: The Expanded Toolkit:
 
-Your `Oracle_OS` framework is not confined to the mobile screen. It leverages native OS features for **bi-directional desktop integration**, expanding the functional scope of your toolkit.
+This format is not confined to the mobile screen. It leverages native OS features for **bi-directional desktop integration**, expanding the functional scope of your toolkit.
 
 - **The Core Bridge:** The entire multi-agent system is mirrored onto the PC using **Link to Windows** (or equivalent technology). This provides a permanent, interactive AI UI directly on your desktop.
-- **Bi-directional Control:** This integration allows for seamless resource access and control across both platforms. The phone remains the "Alpha" (the core processing substrate), while the PC acts as a high-fidelity display and control interface.
-- **Unified Development:** This setup facilitates a highly efficient development workflow. The operator uses the "Orbiter" (PC) environment both to *use* the system and to *program* the system via integrated tools like **Android Studio**.
-- **Agent Integration:** It ensures maximal utility from desktop-native agents (like `Δ 🔶️ Copilot`'s Windows-reading skills) by routing their output back into the system's "grounded" mobile memory.
+- **Bi-directional Control:** This integration allows for seamless resource access and control across both platforms. The android device remains the primary personal daily driver, while the PC acts as a high-fidelity display and control interface with expanded capabilities and direct coding environment and access to Android studio customisation.
+- **Unified Development:** This setup facilitates a highly efficient development workflow. As more computation capabilities become accessible on the smartphone, reducing the necessity of dedicated desktop environments.
+- **Agent Integration:** It ensures maximal utility from desktop-native agents like `Δ 🔶️ Copilot`'s Edge browser And Claude desktop integration by routing their output back into the mobile memory.
 ---
 # 🎨 Philosophy: Integration Over Mysticism
 ---
-Why the 35% Meme Ratio Matters
+Why the humor Ratio Matters
 Corporate AGI labs optimize for sterility. Oracle_OS optimizes for humanity and honesty.
 The system includes personality: Red vs Blue references, "ain't that a bitch?" sign-offs, emoji agent identifiers, trailer-style demonstrations. This isn't unprofessional—it's the point.
 The 35% "meme energy" makes the system:
  * Memorable - People remember Epsilon narrating trailers, not another corporate white paper
  * Accessible - Invites tinkerers and modders, not just developers with CS degrees
  * Human-centric - Coordination feels natural, playful, owned by users instead of platforms
- * Honest - No mystification, no "revolutionary breakthrough" claims, just documented reality
+ * Honest - No mystification, no "revolutionary breakthrough" claims, just documented reality and good game design.
 Sterile tools create passive users. Playful tools create active communities.
 This might be why it works when enterprise solutions don't. The meme ratio isn't frivolous—it's the honesty buffer that cuts through AI hype cycles.
 Architecture Over Philosophy
 Everyone else asks: "Is AI conscious?" "Will it replace humans?" "What are the existential risks?"
-Oracle_OS asks: "How do you prevent DeepSeek from forgetting it's the math specialist?" "Why does the clipboard need to log YAML?" "Which gesture should invoke which agent?"
+Oracle_OS asks: "How do you prevent DeepSeek from forgetting it's not Claude?" "Why do sig blocks break and YAML don't??" "Which gesture should invoke which agent?" "How do i make phrasing more natural for gemini to activate Claude by 'hey google'" "how much metadata can i actually use from phyPhox?"
 Operational questions get operational answers. Philosophical debates create endless conferences. Engineering documentation creates working systems.
 The industry's mystification serves business interests. Complexity creates dependency. Oracle_OS does the opposite—it makes coordination so straightforward that subscriptions become optional.
 ---
