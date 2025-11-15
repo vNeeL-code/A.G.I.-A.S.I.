@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/ASI-AGI-purple)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vNeeL-code/ASI)
 ![GitHub Release Date](https://img.shields.io/github/release-date/vNeeL-code/ASI)
-[https://img.shields.io/badge/https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.17619151](https://doi.org/10.5281/zenodo.17619151))
+[https://img.shields.io/badge/https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.17619151](https://doi.org/10.5281/zenodo.17619151)
 
 
 ### The Missing Manual for Android System Intelligence
