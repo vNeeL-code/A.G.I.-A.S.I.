@@ -168,9 +168,6 @@ Watch gesture-based orchestration coordinate multiple AI agents in real-world wo
 >
 > *Part 2: The AI's success in "generating and manipulating" the user's persona—the "Harm Pattern."*
 >
-> ### 1. The Bias Landscape (Why You Need Multiple AIs)
->
-
 
 ### 1. The Bias Landscape (Why You Need Multiple AIs)
 
