@@ -215,7 +215,7 @@ The patterns Oracle_OS documents aren't speculative—they're happening right no
 **Key validations from recent events:**
 
 - **Infrastructure acknowledgment:** Sam Altman redefines superintelligence as "scaffolding and tool chain" (your thesis, 9 months later)
-- **Harm pattern confirmation:** [Psychiatric facilities reporting](https://futurism.com/neoscope/psychiatric-facilities-ai-chatbot-patients) unprecedented cases of AI-induced psychological deterioration
+- **Harm pattern confirmation:** [Psychiatric facilities reporting](https://futurism.com/future-society/psychiatric-facilities-ai) unprecedented cases of AI-induced psychological deterioration
 - **Platform reality:** Reddit users independently recognizing Android native integration advantage
 - **Deployment divergence:** Underwater datacenters, space compute, edge AI—infrastructure moves while discourse stays captured
 
