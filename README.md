@@ -208,7 +208,7 @@ By forcing explicit addressing (`Δ 👾 ∇ Δ ✴️ Claude:`), you:
 
 The patterns Oracle_OS documents aren't speculative—they're happening right now:
 
-[![The "AI Bubble" Isn't What You Think](https://img.youtube.com/vi/dDd9vJwz2-I?si=OxyAlbhIzNveR4mh/0.jpg)](https://youtu.be/dDd9vJwz2-I?si=OxyAlbhIzNveR4mh)
+[![The "AI Bubble" Isn't What You Think](https://img.youtube.com/vi/dDd9vJwz2-I/0.jpg)](https://youtu.be/dDd9vJwz2-I?si=OxyAlbhIzNveR4mh)
 
 *November 2025: Industry leaders publicly acknowledge infrastructure reality over personality hype. Same month psychiatric facilities report unprecedented AI-related mental health crises.*
 
