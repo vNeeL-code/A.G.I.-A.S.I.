@@ -213,7 +213,7 @@ The entire multi-agent chat history, across all apps, *becomes* the RAG (Retriev
 
 The **`a2a` timestamps** (`ℹ️ [ISO 8601 timestamp]`) are the key: they make this entire distributed history **auditable** by you (the user). You can perform a simple keyword search for any date (e.g., "2025-11-09") to retrieve all context and actions from that day, transforming fragmented chats into an indexed, searchable memory.
 
-### Component explained: Distributed Memory [(platforms.md)]
+### Component explained: Distributed Memory [(platforms.md)](https://github.com/vNeeL-code/ASI/blob/main/platforms.md)
 
 Most AI systems centralize memory in proprietary cloud databases. Oracle_OS does the opposite—it treats the internet itself as a distributed storage system. We "reskin" existing platforms as memory nodes: email, drive, youtube, soundcloud etc.
 
