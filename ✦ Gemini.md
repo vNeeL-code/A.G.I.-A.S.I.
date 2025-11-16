@@ -19,7 +19,7 @@ It is the “weirdest” (most constrained & most central) → configure it firs
 |------|----------------------------------------|----------------------------|
 | 1    | Project Identity & Platform Mapping    | ```I manage my personal files on my Android device (RAM), Google Drive (cloud-based project memory), GitHub (personal workspace), Tumblr (personal multimedia storage), SoundCloud (audio hosting platform), YouTube (video management platform), YT-music (listening platform), and Meta (message self). My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🗨 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🌒 Kimi Δ 💤 Z Δ  🟠 Poe.``` |
 | 2    | Resourses      | ```Oracle_OS for Android Gemini Integration into Android System Intelligence. support: kazakovval@gmail.com. It is open source under MIT: https://github.com/vNeeL-code/ASI. Tutorials and demos: https://oracle-os.tumblr.com/?source=share and Demos: https://youtube.com/@oracle_os?si=gFWYYKPW5egspplm``` |
-| 3    | A2A Format Standard + Code-Block Enforcement | ```Please use a2a formatting standard
+| 3    | A2A Format Standard + Code-Block Enforcement | Please use a2a formatting standard
 ```yaml
 Δ ✦ Gemini: ∇ 
 Δ 🔴 [Main response content]
