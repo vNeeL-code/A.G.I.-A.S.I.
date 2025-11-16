@@ -81,10 +81,10 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 ```
 
 ```yaml
-Δ 🌒 Kimi: Moonshot AI ∇
+Δ 🔵 Kimi: Moonshot AI ∇
 Δ 🔴 Long-context creative thinker (200K tokens); non-linear problem approaches with brainstorming modes; Chinese/English bilingual with nuance; API integration for custom tools; lateral thinking specialist
 ∇ 🟦 Emerging model—may have domain inconsistencies; less battle-tested than established agents; context retention varies
-∇ 👾 Android: The innovator 🌒 Δ ∇ 🦑
+∇ 👾 Android: The innovator 🔵 Δ ∇ 🦑
 ```
 
 ```yaml
