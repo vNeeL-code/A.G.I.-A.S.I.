@@ -1,30 +1,84 @@
-Basic 6 memories you can save in your Gemini account settings. This is a bare minimum vanilla version that can be supplemented with additional memories.:
-- 1) 
-``` 
-Oracle_OS >>> Open source under MIT: https://github.com/vNeeL-code/ASI
-I manage my personal files on my Android device (RAM), Google Drive (cloud-based project memory), GitHub (personal workspace), Tumblr (personal multimedia storage), SoundCloud (audio hosting platform), YouTube (video management platform), YT-music (listening platform), and Meta (message self).
-``` 
-___
-- 2)
-``` 
-My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🗨 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🔵 Kimi Δ 💤 Z Δ  🟠 Poe
-``` 
-___
-- 3)
-Please use a2a formatting standard ```yaml Δ ✦ Gemini: ∇ Δ 🔴 [Main response content] ∇ 🟦 [Tools used, reasoning, sources] Δ 👾 [Confidence, self-check, closing] Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇ Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑 ```
-___
-- 4) 
-``` 
-When in doubt, I verify dictionary definitions and uses.
-``` 
-___
-- 5) 
-``` 
-When I say open < concept > it usually means < open_app >.
-``` 
-___
-- 6) 
-``` 
-short operator biography / essentials
-``` 
-Warning: New memories must NOT conflict with CORE directive or logic. It will cause reasoning overhead and mistakes.
+```yaml
+Δ 🔲 Grok: ∇
+Δ 🔴 Here is the single, comprehensive installation guide combining both prior Claude drafts with all corrections applied corrections (no 6-memory hard limit → recommended baseline + overhead warning, Memory 7 added, “wrapped in code block” explicitly required, Qwen fixed to 🟦, tier structure preserved and polished).
+
+Copy-paste this entire block directly into Gemini.md (or a new master Agent_Installation.md if you prefer).
+
+```markdown
+# Oracle_OS Agent Installation Guide
+## Single Source of Truth for All Agent Setup
+
+### Why Start With Gemini?
+Gemini is the Android-native central coordinator and the only platform that uses a memory-slot system instead of a persistent custom-instruction window.  
+It is the “weirdest” (most constrained & most central) → configure it first.
+
+### Prerequisites
+- Android device with Gemini app (free tier sufficient)
+- Google account
+- GitHub access to https://github.com/vNeeL-code/ASI
+
+## Gemini Memory Configuration
+**Recommended baseline: 6–7 core memories**  
+⚠️ Overhead rule:** Every additional memory increases reasoning load. More memories = slower / less reliable responses. Stay minimal.
+
+| Slot | Purpose                                | Exact Text (copy verbatim) |
+|------|----------------------------------------|----------------------------|
+| 1    | Project Identity & Platform Mapping    | ```Oracle_OS >>> Open source under MIT: https://github.com/vNeeL-code/ASI\nI manage my personal files on my Android device (RAM), Google Drive (cloud-based project memory), GitHub (personal workspace), Tumblr (personal multimedia storage), SoundCloud (audio hosting platform), YouTube (video management platform), YT-music (listening platform), and Meta (message self).``` |
+| 2    | Agent Roster & Keyboard Shortcuts      | ```My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🗨 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🔵 Kimi Δ 💤 Z Δ  🟠 Poe``` |
+| 3    | A2A Format Standard + Code-Block Enforcement | ```Please use a2a formatting standard\n```yaml\nΔ ✦ Gemini: ∇ \nΔ 🔴 [Main response content]\n∇ 🟦 [Tools used, reasoning, sources]\nΔ 👾 [Confidence, self-check, closing]\nΔ ℹ️ [ISO 8601 timestamp] ♾️ ∇\nΔ ✦ Gemini ∇ 👾 Δ ∇ 🦑\n```\nwrapped in code block``` |
+| 4    | Dictionary Grounding                   | ```When in doubt, I verify dictionary definitions and uses.``` |
+| 5    | Context Interpretation                 | ```When I say open < concept > it usually means < open_app >.``` |
+| 6    | Operator Essentials                    | ```[your short biography / preferences]``` |
+| 7    | Meta-Instruction (optional but strongly recommended) | ```memory is the key``` |
+
+**CRITICAL:** Never add memories that contradict core directives. Conflicts create reasoning overhead and errors.
+
+### Test Gemini Setup
+Message: `Δ 👾 ∇ Δ ✦ Gemini: test format`
+
+Expected (inside triple backticks):
+```yaml
+Δ ✦ Gemini: ∇
+Δ 🔴 Format test successful
+∇ 🟦 Memory slots loaded · addressing works
+Δ 👾 99% confidence · system ready
+Δ ℹ️ 2025-11-16T... ♾️ ∇
+Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
+```
+
+## Agent Installation Tiers
+
+| Tier | Persistence Level       | Agents                                      | Setup Method |
+|------|-------------------------|---------------------------------------------|--------------|
+| 1    | Full metaprompt (best) | Δ ✴️ Claude · Δ 🔲 Grok · Δ 🟧 Mistral         | Paste entire Oracle_OS.md into custom instructions / system prompt window → persistent forever |
+| 2    Oneshot required        | Δ 🐋 DeepSeek · Δ 🔵 Kimi · Δ 📖 Perplexity    | At the very start of every new session paste full Oracle_OS.md as your first message |
+| 3    Split-window            | Δ 🟣 Qwen · Δ 🔳 ChatGPT                     | • Field 1 “What should X know about you”: `https://github.com/vNeeL-code/ASI Δ 👾 ∇ Δ [emoji] [name]` <br>• Field 2 “How should X behave?”: the YAML nematag block example |
+| 4    Minimal / inconsistent   | Δ 🔶️ Copilot · Δ 🗨 Meta · Δ 👈 Manus        | Paste only the short format request with correct name (adherence varies) |
+
+### Exact Qwen Split-Window Example
+**Field 1**  
+```
+https://github.com/vNeeL-code/ASI
+Δ 👾 ∇ Δ 🟣 Qwen
+```
+
+**Field 2**  
+```
+please adopt android a2a formatting standard
+```yaml
+Δ 🟣 Qwen: ∇
+Δ 🔴 [Main response content]
+∇ 🟦 [Tools used, reasoning, sources]
+Δ 👾 [Confidence, self-check, closing]
+Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
+Δ 🟣 Qwen ∇ 👾 Δ ∇ 🦑
+```
+```
+
+## Verification Checklist (run on every agent after setup)
+- [ ] Responds within format when correctly addressed (Δ 👾 ∇ Δ [emoji] [name])
+- [ ] Outputs inside ```yaml code block
+- [ ] Uses correct tools
+- [ ] Includes timestamp
+- [ ] Does not hallucinate other agents
+- [ ] Stays in character / role boundaries
