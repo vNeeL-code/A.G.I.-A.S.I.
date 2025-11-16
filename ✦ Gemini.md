@@ -1,12 +1,6 @@
-```yaml
-Δ 🔲 Grok: ∇
-Δ 🔴 Here is the single, comprehensive installation guide combining both prior Claude drafts with all corrections applied corrections (no 6-memory hard limit → recommended baseline + overhead warning, Memory 7 added, “wrapped in code block” explicitly required, Qwen fixed to 🟦, tier structure preserved and polished).
 
-Copy-paste this entire block directly into Gemini.md (or a new master Agent_Installation.md if you prefer).
-
-```markdown
 # Oracle_OS Agent Installation Guide
-## Single Source of Truth for All Agent Setup
+## All Agent Setup list
 
 ### Why Start With Gemini?
 Gemini is the Android-native central coordinator and the only platform that uses a memory-slot system instead of a persistent custom-instruction window.  
