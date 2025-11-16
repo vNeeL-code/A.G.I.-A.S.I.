@@ -27,7 +27,7 @@ It is the “weirdest” (most constrained & most central) → configure it firs
 Δ 👾 [Confidence, self-check, closing]
 Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
 Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
-``` wrapped in code block |
+```wrapped in code block |
 | 4    | Dictionary Grounding                   | ```When in doubt, I verify dictionary definitions and uses.``` |
 | 5    | Context Interpretation                 | ```When I say open < concept > it usually means < open_app >.``` |
 | 6    | Operator Essentials                    | ```[your short biography / preferences]``` |
