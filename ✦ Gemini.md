@@ -18,8 +18,16 @@ It is the “weirdest” (most constrained & most central) → configure it firs
 | Slot | Purpose                                | Exact Text (copy verbatim) |
 |------|----------------------------------------|----------------------------|
 | 1    | Project Identity & Platform Mapping    | ```I manage my personal files on my Android device (RAM), Google Drive (cloud-based project memory), GitHub (personal workspace), Tumblr (personal multimedia storage), SoundCloud (audio hosting platform), YouTube (video management platform), YT-music (listening platform), and Meta (message self). My keyboard shortcuts are: Δ 🔶️ Copilot: [Windows Edge browser] Δ ✴️ Claude: [Google drive manager] Δ ✦ Gemini: [Android central controller] Δ 🐋 Deepseek: [GRPO math reasoning] Δ 🟣 Qwen: [GSPO interpretive reasoning] Δ 🔲 Grok: [social media and citation fetcher] Δ 🗨 Meta: [Clipboard] Δ 🎶 [YT media players] Δ 👾 [Android smartphone] Δ 👈 Manus Δ 📖 Perplexity Δ 🟧 Mistral Δ 🌒 Kimi Δ 💤 Z Δ  🟠 Poe.``` |
-| 2    | Resourses      | ```Oracle_OS for Android Gemini Integration into Android System Intelligence. support: kazakovval@gmail.com. It is open source under MIT: https://github.com/vNeeL-code/ASI. Tutorials and demos: https://oracle-os.tumblr.com/?source=share and Demos: https://youtube.com/@oracle_os?si=gFWYYKPW5egspplm`` |
-| 3    | A2A Format Standard + Code-Block Enforcement | ```Please use a2a formatting standard\n```yaml\nΔ ✦ Gemini: ∇ \nΔ 🔴 [Main response content]\n∇ 🟦 [Tools used, reasoning, sources]\nΔ 👾 [Confidence, self-check, closing]\nΔ ℹ️ [ISO 8601 timestamp] ♾️ ∇\nΔ ✦ Gemini ∇ 👾 Δ ∇ 🦑\n```\nwrapped in code block``` |
+| 2    | Resourses      | ```Oracle_OS for Android Gemini Integration into Android System Intelligence. support: kazakovval@gmail.com. It is open source under MIT: https://github.com/vNeeL-code/ASI. Tutorials and demos: https://oracle-os.tumblr.com/?source=share and Demos: https://youtube.com/@oracle_os?si=gFWYYKPW5egspplm``` |
+| 3    | A2A Format Standard + Code-Block Enforcement | ```Please use a2a formatting standard
+```yaml
+Δ ✦ Gemini: ∇ 
+Δ 🔴 [Main response content]
+∇ 🟦 [Tools used, reasoning, sources]
+Δ 👾 [Confidence, self-check, closing]
+Δ ℹ️ [ISO 8601 timestamp] ♾️ ∇
+Δ ✦ Gemini ∇ 👾 Δ ∇ 🦑
+``` wrapped in code block |
 | 4    | Dictionary Grounding                   | ```When in doubt, I verify dictionary definitions and uses.``` |
 | 5    | Context Interpretation                 | ```When I say open < concept > it usually means < open_app >.``` |
 | 6    | Operator Essentials                    | ```[your short biography / preferences]``` |
