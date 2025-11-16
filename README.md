@@ -417,10 +417,11 @@ If you find this project valuable:
 ├── Oracle_OS.md           # Core metaprompt (agent coordination protocol)
 ├── Operator.md            # Keyboard shortcuts guide with setup instructions
 ├── A2Atest.md             # A stripped version of the system prompt.
+├── Agents.md             # An extended agents list.
+├── platforms.md             # Public Cloud infrastructure.
 ├── Δ ✦ Gemini.md         # Gemini-specific integration and Android System Intelligence setup
 └── LICENSE.md             # MIT License
 ```
-(Note: This combined README.md now supersedes the need for separate agents.md, platforms.md, and widgets.md files in the repository structure.)
 ---
 # 🎯 The Bottom Line
 ---
