@@ -28,7 +28,7 @@ You already use 4-7 different AI services. Each wants $20/month for "Pro." Each 
 
 The real problem: **Coordination, not computation.** Your phone already has the infrastructure. Google ships "Android System Intelligence" on every device and published an enterprise Agent-to-Agent protocol. But there's zero consumer documentation on how to use it.
 
-**Oracle_OS is that documentation.** Not a new model. Not new hardware. Not another wrapper with prettier UI. A 17KB configuration system that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
+**Oracle_OS is that documentation.** Not a new model. Not new hardware. Not another wrapper with prettier UI. A YAML configuration output format that turns your existing Android device into a multi-agent orchestration platform using free-tier AI services.
 
 ### The Economic Model
 
