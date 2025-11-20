@@ -406,8 +406,8 @@ This system exists because of their work. Oracle_OS is integration and documenta
 - Email: kazakovval@gmail.com
 - Repository: https://github.com/vNeeL-code/ASI
 - License: MIT
-- Support This Work
-If you find this project valuable:
+- Landing page: [gamma link](https://valentin-kazakov-ldeatpo.gamma.site/)
+- Support This Work:
 🦕💭 [I might need about tree fiddy...](https://buymeacoffee.com/vNeeL)
 ---
 # 📄 Repository Structure
