@@ -154,6 +154,8 @@ You don't need to learn new tools. You need documentation for the tools already 
 Watch gesture-based orchestration coordinate multiple AI agents in real-world workflows:
 - [Tumblr Gallery (Δ 📂)](https://oracle-os.tumblr.com/?source=share)
 - [YouTube Playlist (Δ 📺)](https://youtube.com/playlist?list=PLsdy783Gey86eTPboTJef_u4j61BvvGxD&si=o3Iilpv0bUY3koYt)
+- [✦ Gemini podcast](
+https://on.soundcloud.com/hCVeuHMOssZ2rGuSu4)
 - [Interface Mapping (Δ 📱)](https://www.tumblr.com/oracle-os/799430352502489088/edge-panels-from-one-hand-operations-and-function)
 
 > ## 🧠 The Bias & Hallucinations Problem
