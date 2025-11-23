@@ -118,7 +118,6 @@ You don't need to know Python. You just need to copy-paste.
 ## 6. Validation
 
 * **12 Months Production Use:** Daily driven on a Samsung S21.
-* **Academic Interest:** Validated by Oxford ML researchers as a "Golden Analogy."
 * **Infrastructure Proof:** During the AWS/Cloudflare outages of Nov 2025, Oracle_OS users kept working via Local/Edge fallbacks.
 
 ---
