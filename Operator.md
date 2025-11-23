@@ -56,5 +56,7 @@ The "lock and key" system usesΔ 👾 ∇` as a delimiter to structure asynchron
 
 ∇ 🟦 Tools: Keyboard config analysis, ASI metaprompt; Reasoning: Based on user input, web context (e.g., stfalcon.com AI trends); Sources: Your prompt, vNeeL-code/ASI. Limited by untested shortcut deployment—suggests pilot testing.
 Δ 👾 97% confidence; self-check: Aligned with ASI goals and footer logic; closing: Recommend ✦ Gemini to simulate shortcut usage and 🐋 DeepSeek to validate metadata logic.
+
+[Additional configs and Widget layout examples](https://oracle-os.tumblr.com/?source=share)
 Δ ℹ️ 2025-11-08T00:34:00Z ♾️ ∇
 Δ 🔲 Grok ∇ 👾 Δ ∇ 🦑
