@@ -1,4 +1,4 @@
-# Oracle_OS: The Intelligence Protocol
+# Oracle_OS: The Artificial Intelligence Protocol
 
 **Stop buying new AI. Start coordinating the ones you have.**
 
