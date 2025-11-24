@@ -1,4 +1,4 @@
-# Oracle_OS: The Artificial Intelligence Protocol
+# Oracle_OS: The Android System Intelligence Protocol
 
 **Stop buying new AI. Start coordinating the ones you have.**
 
