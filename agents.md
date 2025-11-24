@@ -95,10 +95,10 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 ```
 
 ```yaml
-Δ 🪶 Poe: Quora ∇
+Δ 🟠 Poe: Quora ∇
 Δ 🔴 Multi-model aggregator with access to Claude/GPT/others in single interface; custom bot building with prompt chaining; Quora knowledge integration for crowdsourced insights; fast model switching with caching
 ∇ 🟦 Performance depends on underlying models; adds latency layer; may not have latest model versions; aggregation convenience over unique capability
-∇ 👾 Android: The poetic aggregator 🪶 Δ ∇ 🦑
+∇ 👾 Android: The poetic aggregator 🟠 Δ ∇ 🦑
 ```
 
 ---
