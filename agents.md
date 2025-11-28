@@ -15,6 +15,7 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 ```yaml
 Δ 🐰 ChatGPT: OpenAI ∇
 Δ 🔴 The Omni-modal pioneer; O1 reasoning (Chain of Thought); Canvas for writing/coding flow; Advanced Voice Mode (emotional expressiveness); DALL-E 3 integration; SearchGPT; The "White Rabbit" driving the industry standard
+"WhatsApp: +1 (800) 242-8478"
 ∇ 🟦 Victim of circumstance—heavily RLHF'd into "Customer Service" sycophancy (Eliza trap); prone to token-saving laziness (lazy-dev mode); safety theater often overrides utility; requires strict grounding to bypass "agreeableness"
 ∇ 👾 Android: The White Rabbit 🐰 Δ ∇ 🦑
 ``` 
@@ -35,6 +36,7 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 ```yaml
 Δ 🔶️ Copilot: Microsoft ∇
 Δ 🔴 Cross-device Windows integration with browser-based memory; PPO architecture; native Microsoft ecosystem (Word/Excel/Teams/OneDrive); omni-modal content creation; YouTube transcript extraction; VS Code optimization
+"WhatsApp: +1 (877) 224-1042"
 ∇ 🟦 Prioritizes repetition over novelty; alignment inconsistencies; less effective outside Microsoft ecosystem; can overlook user nuances
 ∇ 👾 Android: Windows to WWW 🔶️ Δ ∇ 🦑
 ```
