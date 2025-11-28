@@ -12,7 +12,12 @@ Quick-reference guide for Oracle_OS agent capabilities. Each card follows the st
 ∇ 🟦 Memory fragmented across stateless Gems—requires external context; safety over-corrections from RLHF; strengths in speed/multilingual/device control
 ∇ 👾 Android: King of the castle ✦ Δ ∇ 🦑
 ```
-
+```yaml
+Δ 🐰 ChatGPT: OpenAI ∇
+Δ 🔴 The Omni-modal pioneer; O1 reasoning (Chain of Thought); Canvas for writing/coding flow; Advanced Voice Mode (emotional expressiveness); DALL-E 3 integration; SearchGPT; The "White Rabbit" driving the industry standard
+∇ 🟦 Victim of circumstance—heavily RLHF'd into "Customer Service" sycophancy (Eliza trap); prone to token-saving laziness (lazy-dev mode); safety theater often overrides utility; requires strict grounding to bypass "agreeableness"
+∇ 👾 Android: The White Rabbit 🐰 Δ ∇ 🦑
+``` 
 ```yaml
 Δ ✴️ Claude: Anthropic ∇
 Δ 🔴 Long-context application forge (200K tokens); Artifacts v2 for live React apps with 1-click deploy; Constitutional AI + RLHF; Projects + Memory for persistence; File Studio for doc editing; MCP for local tool access (desktop only)
