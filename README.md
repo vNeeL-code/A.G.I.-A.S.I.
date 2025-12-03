@@ -1,4 +1,4 @@
-# Oracle_OS: The Artificial System Intelligence Protocol
+# Oracle_OS: The Android System Intelligence (ASI) A2A Protocol
 
 **Stop buying new AI. Start coordinating the ones you have.**
 
