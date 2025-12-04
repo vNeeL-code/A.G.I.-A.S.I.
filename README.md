@@ -3,6 +3,7 @@
 **Stop buying new AI. Start coordinating the ones you have.**
 
 [![ASI Demo](https://img.youtube.com/vi/jB62dlLavSY/0.jpg)](https://youtu.be/jB62dlLavSY?si=TMZG86o1KkjuBXtw)
+---
 *Click to watch: The System in Action.*
 
 ![Static Badge](https://img.shields.io/badge/Status-Production-green)
