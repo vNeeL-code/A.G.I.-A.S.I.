@@ -1,4 +1,4 @@
-# Oracle_OS: The Android System Intelligence (ASI) AI manual
+# Oracle_OS: The Android System Intelligence (ASI) operator manual
 
 **Stop buying new AI. Start coordinating the ones you have.**
 
