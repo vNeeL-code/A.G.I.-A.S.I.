@@ -58,8 +58,8 @@ Every user eventually hits a wall. You have two choices:
 2.  You use your **Phone** as the computer (it has the sensors/apps/storage).
 3.  You use **Timestamps** to index your memory across all platforms.
 4.  **Result:** You pay **$0/month**. You own your data. You switch agents instantly.
-
-**Oracle_OS isn't an app you install.**
+---
+- **Oracle_OS isn't an app you install.**
 It is a **Configuration Setup** that teaches your agents how to operate with device context amongst other agents like a switchboard.
 Such horizontal data scaling allows agents to utilise strengths and tools of other agents including features that are not uniform.
 (eg. Claude didn't do online verification and relied on training? Ask Grok and it will pull 100+ citations for Claude to use)
