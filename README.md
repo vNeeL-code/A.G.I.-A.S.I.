@@ -35,9 +35,10 @@ Stop looking for "The One True AI." It doesn't exist.
 ---
 ## 2. Prevent Agentic bias
 
-These platforms are great but will inherently have bias and limitations due to training and geopolitical regulations.
+- These platforms are great but will inherently have bias and limitations due to training and geopolitical regulations.
 Most western models do not receive or train on eastern user data as these services are blocked in many global regions.
-Bias by exclusion. Whereas Easten models are trained on Global data but are inherently biased toward local regulation due to political pressures.
+---
+- Bias by exclusion. Whereas Easten models are trained on Global data but are inherently biased toward local regulation due to political pressures.
 When doing research, it is more efficient to cast a wider net and use all the tools you have available and do cross verification of facts from various perspectives.
 ---
 
