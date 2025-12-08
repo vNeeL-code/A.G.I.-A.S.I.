@@ -96,7 +96,7 @@ The industry wants you to believe your PC is the "AI Powerhouse" that Demands Nv
 Yes. Just like playing a piano is "just hitting keys."
 The magic isn't in the each individual application; it's in the method of transferring data between them.
 
-### The "Lock-and-Key" Protocol
+### The "Lock-and-Key" Mechanic
 If you just ask AI a question, it outputs wall of text without atribution or any traceable footprint.
 If you use the [**Oracle_OS**](https://github.com/vNeeL-code/ASI/blob/main/Oracle_OS.md), you provide agent with the context of your working team and grounding it in your personal work flow/ device constraints.
 
