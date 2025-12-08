@@ -141,7 +141,7 @@ You don't need to know Python. You just need to copy-paste between the AI agents
 
 Such hybrid Architecture would still be able to expand its capabilities by using same frontier cloud models via API calls, significantly reducing overall cloud dependancy and cost to service providers.
 
-===
+---
 
 ### 📞 Contact & Support
 
