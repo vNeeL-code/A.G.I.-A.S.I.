@@ -139,6 +139,8 @@ You don't need to know Python. You just need to copy-paste between the AI agents
 
 - Next generation of AI is not about who has a bigger datacenter, but rather about who integrates the more hollistic user experience package And Google assistant is currently in the lead. Devices have the processing power and can hold local models just fine. Developers can expand their capability by signing contracts with smartphone developers and making custom AI android roms where a local model would work privately handling device (sensors and automation) and user context offline functioning as a personal digital diary/device manager while using A2A api calls online when network is available and cloud agent (competitor/partner) platform access is needed. All while working as a persistant passive on device companion akin to a highly advanced Tamagochi.
 
+Once A2A formats become a standardised form they can be implemented via zero width character watermarking, similarly to how Images and Videos get Agent watermarks.
+
 Such hybrid Architecture would still be able to expand its capabilities by using same frontier cloud models via API calls, significantly reducing overall cloud dependancy and cost to service providers.
 
 ---
