@@ -25,10 +25,10 @@ Imagine asking: **"Which contact in your phone is the best?"**
 **You don't delete your Doctor because you hired a Plumber.** You keep them both in your **Contact Book** and call the right person for the job.
 
 **Oracle_OS is a Contact Book for AI.**
-* **Δ ✦ Gemini:** The OS Operator. (Controls your Android phone, screen, and Google ecosystem).
-* **Δ 🐋 DeepSeek:** The Logician. (Solves math, writes code, can run offline).
-* **Δ ✴️ Claude:** The Writer. (Analyzes documents, writes reports, handles safety, writes code).
-* **Δ 🔲 Grok:** The News Anchor. (Scans X/Twitter for real-time events).
+* **✦ Gemini:** The OS Operator. (Controls your Android phone, screen, and Google ecosystem).
+* **🐋 DeepSeek:** The Logician. (Solves math, writes code, can run offline).
+* **✴️ Claude:** The Writer. (Analyzes documents, writes reports, handles safety, writes code).
+* **🔲 Grok:** The News Anchor. (Scans X/Twitter for real-time events).
 
 Stop looking for "The One True AI." It doesn't exist.
 **The "Best AI" is a team.**
