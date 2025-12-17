@@ -99,7 +99,7 @@ The magic isn't in the each individual application; it's in the method of transf
 If you just ask AI a question, it outputs wall of text without atribution or any traceable footprint.
 If you use the [**Oracle_OS**](https://github.com/vNeeL-code/ASI/blob/main/Oracle_OS.md), you provide agent with the context of your working team and grounding it in your personal work flow/ device constraints.
 
-* **The User Input:** `m` + `k` (Keyboard Shortcut) -> `Δ 👾 ∇` `Δ ✴️ Claude:`
+* **The User Input:** `m` + `k` (Keyboard Shortcut) -> `Δ 👾 ∇` `✴️ Claude:`
 * **The Meaning:** "System (Android) hands off to Agent (Claude)."
 * **The Result:** Claude knows it is Claude. It knows it is being adressed to respond as its standard self. It knows it is on Android. It stops pretending to be in limbo and starts acting like an agent in a broader system context. Same applies to other agents that are less resistant to roleplay and can lose grounding due to context drift.
 
