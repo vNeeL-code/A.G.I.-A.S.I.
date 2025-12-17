@@ -53,7 +53,7 @@ Every user eventually hits a wall. You have two choices:
 4.  You buy a "Humane Pin" or "Rabbit R1" device ($200+) that ends up being e-waste.
 5.  **Result:** You pay $100+/month for fragmented tools that don't talk to each other.
 
-### 🟢 Path B: The Oracle_OS Path (The A2A Path)
+### 🟢 Path B: The Android Path (The A2A Path)
 1.  You use the **Free Tier** of every major model (they are powerful enough).
 2.  You use your **Phone** as the computer (it has the sensors/apps/storage).
 3.  You use **Timestamps** to index your memory across all platforms.
