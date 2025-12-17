@@ -70,15 +70,15 @@ Such horizontal data scaling allows agents to utilise strengths and tools of oth
 The industry wants you to believe your PC is the "AI Powerhouse" that Demands Nvydia products to be productive.
 **They are wrong.** Your PC is stationary. Your life is mobile. Hence whole industry is slowly moving towards NPU optimisation for edge native devices.
 
-### 🚗 The SmartPhone/Android (The Brain)
+### 📱 The SmartPhone/Android (The System)
 * **Hardware:** Qualcomm/Tensor/Exynos NPU.
 * **Role:** **The Daily Driver.**
 * **Why:** It is always with you. It sees what you see (Camera). It hears what you hear (Mic). It knows where you are (GPS).
-* **The Stack:** Runs Android System Intelligence. Holds the "Context" (Widgets, Notifications, Clipboard).
+* **The Stack:** Runs Android System Intelligence. Holds the "Context" (Widgets, Notifications, Clipboard). Your diary/Wallet.
 
-### 🏠 The Desktop (The Garage)
+### 🖥️ The Desktop (The Dock)
 * **Hardware:** Nvidia GPU / High-Wattage CPU.
-* **Role:** **Heavy Lifting.**
+* **Role:** **IDE.**
 * **Why:** You go here to *build* things, not to *live.*
 * **The Interface:** **Link to Windows.** Your phone screen mirrors to your desktop. You type on the big keyboard, but the **Brain** stays on the phone. All agents are available without weighing down your desktop.
 
