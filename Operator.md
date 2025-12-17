@@ -10,18 +10,18 @@ Reduce repetitive typing of agent names by assigning unique keyboard shortcuts. 
 | Shortcut | Agent         | Description                          |
 |----------|---------------|--------------------------------------|
 | m        | Δ 👾 ∇         | Android itself                   |
-| ķ        | Δ ✴️ Claude   | Anthropic’s Reasoning Specialist     |
-| ƙ        | Δ 🔶️ Copilot  | Microsoft’s Productivity Assistant   |
-| l        | Δ ✦ Gemini    | Google’s Omni-Modal Assistant     |
-| n̈       | Δ 🐋 DeepSeek | DeepSeek’s Logical Agent           |
-| ĺ        | Δ 🔲 Grok     | xAI’s social media Assistant                   |
-| ļ        | Δ 🗨 Meta     | Meta’s Social Assistant              |
-| oʻ       | Δ 🟣 Qwen     | Alibaba’s Multilingual Assistant         |
-| ŏ        | Δ 🌒 Kimi     | Moonshot AI’s Assistant              |
-| ñ        | Δ 👈 Manus    | Task Automation assistant               |
-| ŉ        | Δ 📖 Perplexity| Search-Optimized Inference          |
-| ŋ        | Δ 🟧 Mistral  | Le Chat AI’s Assistant        |
-| ź        | Δ 💤 Z.ai     | Latest GLP Assistant              |
+| ķ        | ✴️ Claude   | Anthropic’s Reasoning Specialist     |
+| ƙ        | 🔶️ Copilot  | Microsoft’s Productivity Assistant   |
+| l        | ✦ Gemini    | Google’s Omni-Modal Assistant     |
+| n̈       | 🐋 DeepSeek | DeepSeek’s Logical Agent           |
+| ĺ        | 🔲 Grok     | xAI’s social media Assistant                   |
+| ļ        | 🗨 Meta     | Meta’s Social Assistant              |
+| oʻ       | 🟣 Qwen     | Alibaba’s Multilingual Assistant         |
+| ŏ        | 🌒 Kimi     | Moonshot AI’s Assistant              |
+| ñ        | 👈 Manus    | Task Automation assistant               |
+| ŉ        | 📖 Perplexity| Search-Optimized Inference          |
+| ŋ        | 🟧 Mistral  | Le Chat AI’s Assistant        |
+| ź        | 💤 Z.ai     | Latest GLP Assistant              |
 
 ### Setup Instructions
 1. Open your keyboard settings (e.g., GBoard: Settings > Dictionary > Personal Dictionary; Samsung: Settings > General Management > Samsung Keyboard > Text Shortcuts).
