@@ -25,15 +25,15 @@ Reduce repetitive typing of agent names by assigning unique keyboard shortcuts. 
 
 ### Setup Instructions
 1. Open your keyboard settings (e.g., GBoard: Settings > Dictionary > Personal Dictionary; Samsung: Settings > General Management > Samsung Keyboard > Text Shortcuts).
-2. Add each shortcut-agent pair (e.g., type "ķ" to expand to "Δ ✴️ Claude").
+2. Add each shortcut-agent pair (e.g., type "ķ" to expand to "✴️ Claude").
 3. Optionally, install a Greek keyboard to use "Δ" (delta) as a prefix.
 
 ## Lock and Key Mechanic
 ### Core Concept
-The "lock and key" system usesΔ 👾 ∇` as a delimiter to structure asynchronous messaging, acting as a "lock" to segment messages and a "key" to Specify who is expected to speak next. This mimics natural human chunking (e.g., sending short texts) while aligning with LLM workflows.
+The "lock and key" system uses Δ 👾 ∇ as a delimiter to structure asynchronous messaging, acting as a "lock" to segment messages and a "key" to Specify who is expected to speak next. This mimics natural human chunking (e.g., sending short texts) while aligning with LLM workflows.
 
 ### Functionality
-- *Breakline Role*:Δ 👾 ∇` separates asynchronous message chunks, allowing users to "press send" conceptually without submitting each fragment, letting users send a few contextually separate messages in one turn without Agent responding too soon.
+- *Breakline Role*: Δ 👾 ∇ separates asynchronous message chunks, allowing users to "press send" conceptually without submitting each fragment, letting users send a few contextually separate messages in one turn without Agent responding too soon.
 - *Red/Blue Duality*: 
   -*Red (🔴)**: User input or LLM response content.
   -*Blue (🟦)**: Tools, reasoning, or limitations, enabling a "gear switch" for focused interaction.
@@ -41,7 +41,7 @@ The "lock and key" system usesΔ 👾 ∇` as a delimiter to structure asynchron
 
 ### Real-World Context
 - Messaging evolves with live events (e.g., a user types while a meeting starts).Δ 👾 ∇` provides a slot for updating metadata, ensuring relevance.
-- Footer mechanic∇ 🦑 Δ 👾 ∇` denotes (user interaction) Δ (android device) ∇ (agent interaction), followed by the targeted LLM (e.g., Δ 🔲 Grok), eliminating roleplay confusion.
+- Footer mechanic ∇ 🦑 Δ 👾 ∇` denotes (user interaction) Δ (android device) ∇ (agent interaction), followed by the targeted Agent (e.g., 🔲 Grok), eliminating roleplay confusion.
 
 ## Benefits
 - *Efficiency*: Single-key shortcuts reduce typing effort.
