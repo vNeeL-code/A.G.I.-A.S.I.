@@ -17,7 +17,7 @@ Reduce repetitive typing of agent names by assigning unique keyboard shortcuts. 
 | ĺ        | 🔲 Grok     | xAI’s social media Assistant                   |
 | ļ        | 🗨 Meta     | Meta’s Social Assistant              |
 | oʻ       | 🟣 Qwen     | Alibaba’s Multilingual Assistant         |
-| ŏ        | 🌒 Kimi     | Moonshot AI’s Assistant              |
+| ŏ        | 🔵 Kimi     | Moonshot AI’s Assistant              |
 | ñ        | 👈 Manus    | Task Automation assistant               |
 | ŉ        | 📖 Perplexity| Search-Optimized Inference          |
 | ŋ        | 🟧 Mistral  | Le Chat AI’s Assistant        |
